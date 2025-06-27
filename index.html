@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CrazyGames Clone</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h1>CrazyGames</h1>
+            </div>
+            <div class="nav-search">
+                <input type="text" id="searchInput" placeholder="Search games...">
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-container">
+        <aside class="sidebar">
+            <div class="categories">
+                <div class="category-item active" data-category="all">All Games</div>
+                <div class="category-item" data-category="Action">Action</div>
+                <div class="category-item" data-category="Adventure">Adventure</div>
+                <div class="category-item" data-category="Puzzle">Puzzle</div>
+                <div class="category-item" data-category="Racing">Racing</div>
+                <div class="category-item" data-category="Sports">Sports</div>
+                <div class="category-item" data-category="Strategy">Strategy</div>
+                <div class="category-item" data-category="Arcade">Arcade</div>
+            </div>
+        </aside>
+
+        <main class="content">
+            <div class="loading" id="loading">Loading games...</div>
+            <div class="games-grid" id="gamesGrid"></div>
+        </main>
+    </div>
+
+    <div class="game-modal" id="gameModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalGameTitle"></h2>
+                <button class="close-btn" id="closeModal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <iframe id="gameFrame" frameborder="0"></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -183,7 +183,18 @@ class GamePortal {
     navigateToGame(game) {
         // Navigate to the game's dedicated page
         const locale = this.getCurrentLocale();
-        const gameUrl = game.url || `games/${locale}/${game.slug}-${locale}.html`;
+        
+        // Always use our local HTML pages, not the external game URLs
+        let gameUrl;
+        if (game.slug) {
+            gameUrl = `games/${locale}/${game.slug}-${locale}.html`;
+        } else {
+            // Generate slug from title if not provided
+            const slug = game.title.toLowerCase()
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/^-+|-+$/g, '');
+            gameUrl = `games/${locale}/${slug}-${locale}.html`;
+        }
         
         // Track game click
         this.trackEvent('game_click', {

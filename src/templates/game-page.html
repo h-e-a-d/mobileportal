@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="{localeCode}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{metaTitle}</title>
+    <meta name="description" content="{metaDescription}">
+    <meta name="keywords" content="{metaKeywords}">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:title" content="{metaTitle}">
+    <meta property="og:description" content="{metaDescription}">
+    <meta property="og:image" content="{gameThumb}">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="">
+    <meta property="twitter:title" content="{metaTitle}">
+    <meta property="twitter:description" content="{metaDescription}">
+    <meta property="twitter:image" content="{gameThumb}">
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+    <!-- End Google Tag Manager -->
+    
+    <link rel="stylesheet" href="../../src/css/base.css">
+    <link rel="stylesheet" href="../../src/css/components.css">
+    <link rel="stylesheet" href="../../src/css/game-page.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Game",
+        "name": "{gameTitle}",
+        "description": "{gameDescription}",
+        "image": "{gameThumb}",
+        "genre": "{gameCategory}",
+        "operatingSystem": "Web Browser",
+        "applicationCategory": "Game",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="../../index.html">
+                    <h1>CrazyGames</h1>
+                </a>
+            </div>
+            <div class="nav-actions">
+                <a href="../../index.html" class="btn btn-secondary">{backToHome}</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="game-page">
+        <div class="game-container">
+            <div class="game-header">
+                <div class="game-info">
+                    <h1 class="game-title">{gameTitle}</h1>
+                    <div class="game-meta">
+                        <span class="game-category">{category}: {gameCategory}</span>
+                    </div>
+                </div>
+                <div class="game-actions">
+                    <button class="btn btn-primary" id="fullscreenBtn">{fullscreen}</button>
+                    <button class="btn btn-secondary" id="shareBtn">{shareGame}</button>
+                </div>
+            </div>
+            
+            <div class="game-frame-container">
+                <div class="loading-spinner" id="gameLoading">
+                    <div class="spinner"></div>
+                    <p>{gameLoading}</p>
+                </div>
+                <iframe 
+                    id="gameFrame" 
+                    src="{gameUrl}" 
+                    width="{gameWidth}" 
+                    height="{gameHeight}"
+                    frameborder="0" 
+                    allowfullscreen
+                    title="{gameTitle}"
+                    onload="hideLoading()">
+                </iframe>
+            </div>
+        </div>
+        
+        <div class="game-sidebar">
+            <div class="game-description">
+                <h2>{instructions}</h2>
+                <p>{gameDescription}</p>
+            </div>
+            
+            <div class="related-games">
+                <h3>{moreGames}</h3>
+                <div class="related-games-grid" id="relatedGames">
+                    <!-- Related games will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="../../src/js/components/gamePageController.js"></script>
+    <script>
+        // Initialize game page
+        document.addEventListener('DOMContentLoaded', function() {
+            const gameController = new GamePageController({
+                gameTitle: '{gameTitle}',
+                gameCategory: '{gameCategory}',
+                gameSlug: '{gameSlug}',
+                locale: '{localeCode}'
+            });
+            
+            // Google Analytics event tracking
+            gtag('event', 'game_view', {
+                'game_title': '{gameTitle}',
+                'game_category': '{gameCategory}',
+                'page_location': window.location.href
+            });
+        });
+        
+        function hideLoading() {
+            document.getElementById('gameLoading').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

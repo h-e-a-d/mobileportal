@@ -304,3 +304,6 @@ MIT License - see LICENSE file for details
   
   3. Bash Script
   bash scripts/generate-game-pages.sh
+
+
+  **Website Workflow**

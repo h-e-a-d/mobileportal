@@ -517,12 +517,12 @@
     display: flex;
     min-height: calc(100vh - var(--header-height));
     margin-top: var(--header-height);
-    padding-left: var(--sidebar-collapsed-width);
+    padding-left: 0;
     transition: padding-left var(--transition-fast) ease-in-out;
 }
 
 .main-container.sidebar-expanded {
-    padding-left: var(--sidebar-width);
+    padding-left: 0;
 }
 
 .content {

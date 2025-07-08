@@ -309,8 +309,8 @@ MIT License - see LICENSE file for details
   **Website Workflow**
   1. Admin puts game feed in xml format into /feed folder. E.g. action.xml, sport.xml, etc.
   2. A python script should parse all xml files in the /feed folder and generate HTML files with the games
-  3. All games should be assigned a tag
-  3. Generated game html files should be put in /games/en folder
+  3. All games should be assigned a category. Use <category> tag from xml to assign category.
+  3. Generated game html files should be put in /games/en/'category' folder
   4. Don't replace files if some games already exist
-  5. Check if there are other locals and tranlate If there are other locales, they should be translated
-  6. 
+  5. Check if there are other locals and tranlate If there are other locales, they should be translated. Put them the same way into other locale. E.g. /games/en/'category'.
+  6. index.html should pull all existing games and categories dynamically

@@ -9,16 +9,42 @@ class GamePortal {
         this.currentCategory = 'all';
         this.currentSearchTerm = '';
         this.isLoading = false;
+        this.sidebarExpanded = true;
         
         this.init();
     }
 
     async init() {
         this.showLoading();
+        this.initializeSidebar();
         await this.loadGames();
         this.setupEventListeners();
         this.displayGames();
         this.hideLoading();
+    }
+
+    initializeSidebar() {
+        // Initialize sidebar state from localStorage
+        const savedState = localStorage.getItem('sidebar_expanded');
+        if (savedState !== null) {
+            this.sidebarExpanded = savedState === 'true';
+        }
+        
+        // Apply initial state (only on desktop)
+        if (window.innerWidth > 789.95) {
+            const sidebar = document.getElementById('sidebar');
+            const mainContainer = document.getElementById('mainContainer');
+            const sidebarToggle = document.getElementById('sidebarToggle');
+            
+            if (!this.sidebarExpanded) {
+                sidebar.classList.add('collapsed');
+                mainContainer.classList.remove('sidebar-expanded');
+                mainContainer.classList.add('sidebar-collapsed');
+                if (sidebarToggle) {
+                    sidebarToggle.style.transform = 'rotate(180deg)';
+                }
+            }
+        }
     }
 
     showLoading() {
@@ -167,17 +193,41 @@ class GamePortal {
             }
         });
 
+        // Add random game labels for demo
+        const labels = this.getGameLabels(game);
+        const labelsHtml = labels.length > 0 ? `
+            <div class="game-labels">
+                ${labels.map(label => `<span class="game-label ${label.type}">${label.text}</span>`).join('')}
+            </div>
+        ` : '';
+
         card.innerHTML = `
             <img src="${game.thumb}" alt="${game.title}" class="game-thumb" 
-                 onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2NjYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCI+Tm8gSW1hZ2U8L3RleHQ+Cjwvc3ZnPg=='">
+                 onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc4IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDE3OCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNzgiIGhlaWdodD0iMTAwIiBmaWxsPSIjMWExYjI4Ii8+Cjx0ZXh0IHg9Ijg5IiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzY4NDJmZiIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCI+R2FtZSBJbWFnZTwvdGV4dD4KPC9zdmc+'">
+            ${labelsHtml}
             <div class="game-info">
                 <h3 class="game-title">${game.title}</h3>
                 <div class="game-category">${game.category}</div>
-                <p class="game-description">${game.description}</p>
             </div>
         `;
 
         return card;
+    }
+
+    getGameLabels(game) {
+        const labels = [];
+        const random = Math.random();
+        
+        // Add random labels for demo purposes
+        if (random < 0.3) {
+            labels.push({ type: 'hot', text: 'HOT' });
+        } else if (random < 0.5) {
+            labels.push({ type: 'new', text: 'NEW' });
+        } else if (random < 0.6) {
+            labels.push({ type: 'top', text: 'TOP' });
+        }
+        
+        return labels;
     }
 
     navigateToGame(game) {
@@ -292,12 +342,48 @@ class GamePortal {
             });
         }
 
+        // Sidebar toggle
+        const sidebarToggle = document.getElementById('sidebarToggle');
+        if (sidebarToggle) {
+            sidebarToggle.addEventListener('click', () => {
+                this.toggleSidebar();
+            });
+        }
+
         // Keyboard navigation
         document.addEventListener('keydown', (e) => {
             if (e.key === '/' && e.ctrlKey) {
                 e.preventDefault();
                 searchInput?.focus();
             }
+        });
+    }
+
+    toggleSidebar() {
+        const sidebar = document.getElementById('sidebar');
+        const mainContainer = document.getElementById('mainContainer');
+        const sidebarToggle = document.getElementById('sidebarToggle');
+        
+        this.sidebarExpanded = !this.sidebarExpanded;
+        
+        if (this.sidebarExpanded) {
+            sidebar.classList.remove('collapsed');
+            mainContainer.classList.add('sidebar-expanded');
+            mainContainer.classList.remove('sidebar-collapsed');
+            sidebarToggle.style.transform = 'rotate(0deg)';
+        } else {
+            sidebar.classList.add('collapsed');
+            mainContainer.classList.remove('sidebar-expanded');
+            mainContainer.classList.add('sidebar-collapsed');
+            sidebarToggle.style.transform = 'rotate(180deg)';
+        }
+        
+        // Save preference
+        localStorage.setItem('sidebar_expanded', this.sidebarExpanded);
+        
+        // Track toggle
+        this.trackEvent('sidebar_toggle', {
+            expanded: this.sidebarExpanded
         });
     }
 

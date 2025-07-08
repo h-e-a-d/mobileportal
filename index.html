@@ -14,7 +14,7 @@
     
     <link rel="stylesheet" href="src/css/base.css">
     <link rel="stylesheet" href="src/css/components.css">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
     <!-- Google Tag Manager (noscript) -->
@@ -32,22 +32,46 @@
         </div>
     </nav>
 
-    <div class="main-container">
-        <aside class="sidebar">
+    <div class="main-container sidebar-expanded" id="mainContainer">
+        <aside class="sidebar" id="sidebar">
+            <button class="sidebar-toggle" id="sidebarToggle">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                    <path d="M3 12l10-5-10-5v10z"/>
+                </svg>
+            </button>
             <div class="categories">
-                <div class="category-item active" data-category="all">All Games</div>
-                <div class="category-item" data-category="Action">Action</div>
-                <div class="category-item" data-category="Adventure">Adventure</div>
-                <div class="category-item" data-category="Puzzle">Puzzle</div>
-                <div class="category-item" data-category="Racing">Racing</div>
-                <div class="category-item" data-category="Sports">Sports</div>
-                <div class="category-item" data-category="Strategy">Strategy</div>
-                <div class="category-item" data-category="Arcade">Arcade</div>
+                <div class="category-item active" data-category="all">
+                    <span>All Games</span>
+                </div>
+                <div class="category-item" data-category="Action">
+                    <span>Action</span>
+                </div>
+                <div class="category-item" data-category="Adventure">
+                    <span>Adventure</span>
+                </div>
+                <div class="category-item" data-category="Puzzle">
+                    <span>Puzzle</span>
+                </div>
+                <div class="category-item" data-category="Racing">
+                    <span>Racing</span>
+                </div>
+                <div class="category-item" data-category="Sports">
+                    <span>Sports</span>
+                </div>
+                <div class="category-item" data-category="Strategy">
+                    <span>Strategy</span>
+                </div>
+                <div class="category-item" data-category="Arcade">
+                    <span>Arcade</span>
+                </div>
             </div>
         </aside>
 
         <main class="content">
-            <div class="loading" id="loading">Loading games...</div>
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                Loading games...
+            </div>
             <div class="games-grid" id="gamesGrid"></div>
         </main>
     </div>

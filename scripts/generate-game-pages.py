@@ -162,6 +162,54 @@ GAME_PAGE_TEMPLATE = """<!DOCTYPE html>
 </body>
 </html>"""
 
+def parse_xml_with_regex(content):
+    """Fallback regex-based XML parsing when standard parsing fails"""
+    import re
+    
+    games = []
+    
+    # Try to extract items using regex
+    item_pattern = r'<item>(.*?)</item>'
+    items = re.findall(item_pattern, content, re.DOTALL)
+    
+    for item_content in items:
+        game = {}
+        
+        # Extract individual fields
+        field_patterns = {
+            'id': r'<id>(.*?)</id>',
+            'title': r'<title>(.*?)</title>',
+            'description': r'<description>(.*?)</description>',
+            'category': r'<category>(.*?)</category>',
+            'url': r'<url>(.*?)</url>',
+            'thumb': r'<thumb>(.*?)</thumb>',
+            'width': r'<width>(.*?)</width>',
+            'height': r'<height>(.*?)</height>',
+            'tags': r'<tags>(.*?)</tags>',
+            'instructions': r'<instructions>(.*?)</instructions>',
+        }
+        
+        for field, pattern in field_patterns.items():
+            match = re.search(pattern, item_content, re.DOTALL)
+            if match:
+                value = match.group(1).strip()
+                # Clean up the value
+                value = html.unescape(value) if value else ''
+                game[field] = value
+        
+        # Set defaults if missing
+        game.setdefault('title', 'Untitled Game')
+        game.setdefault('description', 'A fun online game.')
+        game.setdefault('category', 'Arcade')
+        game.setdefault('width', '800')
+        game.setdefault('height', '600')
+        
+        # Only add games with valid titles
+        if game.get('title') and game['title'] != 'Untitled Game':
+            games.append(game)
+    
+    return games
+
 def slugify(text):
     """Convert text to URL-friendly slug"""
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
@@ -174,7 +222,7 @@ def parse_xml_feed(feed_path):
     """Parse XML feed and return list of games (supports both simple XML and RSS formats)"""
     try:
         # Read file content and clean it up
-        with open(feed_path, 'r', encoding='utf-8') as f:
+        with open(feed_path, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
         
         # Check if the first line is the style information message and skip it
@@ -183,24 +231,57 @@ def parse_xml_feed(feed_path):
             # Skip the first line and rejoin
             content = '\n'.join(lines[1:])
         
-        # Clean up common XML issues
-        content = content.replace('&rsquo;', "'")  # Right single quotation mark
-        content = content.replace('&ndash;', "–")  # En dash
-        content = content.replace('&mdash;', "—")  # Em dash
-        content = content.replace('&amp;', "&")    # Ampersand
-        content = content.replace('&lt;', "<")     # Less than
-        content = content.replace('&gt;', ">")     # Greater than
-        content = content.replace('&quot;', '"')   # Quotation mark
+        # More aggressive HTML entity cleanup
+        import re
+        
+        # First, handle common HTML entities
+        html_entities = {
+            '&rsquo;': "'",      # Right single quotation mark
+            '&lsquo;': "'",      # Left single quotation mark
+            '&rdquo;': '"',      # Right double quotation mark
+            '&ldquo;': '"',      # Left double quotation mark
+            '&ndash;': "-",      # En dash
+            '&mdash;': "--",     # Em dash
+            '&hellip;': "...",   # Horizontal ellipsis
+            '&nbsp;': " ",       # Non-breaking space
+            '&copy;': "(c)",     # Copyright
+            '&reg;': "(r)",      # Registered trademark
+            '&trade;': "(tm)",   # Trademark
+            '&lt;': "<",         # Less than
+            '&gt;': ">",         # Greater than
+            '&quot;': '"',       # Quotation mark
+            '&apos;': "'",       # Apostrophe
+        }
+        
+        # Replace HTML entities
+        for entity, replacement in html_entities.items():
+            content = content.replace(entity, replacement)
+        
+        # Remove any remaining HTML entities that might cause issues
+        content = re.sub(r'&[a-zA-Z][a-zA-Z0-9]{1,8};', '', content)  # Remove remaining named entities
+        content = re.sub(r'&#[0-9]+;', '', content)  # Remove numeric entities
+        content = re.sub(r'&#x[0-9a-fA-F]+;', '', content)  # Remove hex entities
+        
+        # Handle & that's not part of an entity - replace with &amp;
+        content = re.sub(r'&(?![a-zA-Z0-9#]+;)', '&amp;', content)
         
         # Try to parse as simple XML first for backwards compatibility
         try:
             root = ET.fromstring(content)
-        except ET.ParseError:
-            # If that fails, try a more lenient approach
-            # Remove problematic characters and try again
-            import re
-            content = re.sub(r'&[^;\s]+;', '', content)  # Remove remaining entities
-            root = ET.fromstring(content)
+        except ET.ParseError as e:
+            # If that fails, try parsing line by line to identify the issue
+            print(f"Initial parse failed: {e}")
+            print("Attempting to parse with relaxed error handling...")
+            
+            # Try parsing with defusedxml or fallback to manual parsing
+            try:
+                # Parse with more relaxed settings
+                parser = ET.XMLParser(recover=True)
+                root = ET.fromstring(content, parser)
+            except:
+                # Last resort: extract games manually with regex
+                print("Falling back to regex-based parsing...")
+                return parse_xml_with_regex(content)
         
         games = []
         

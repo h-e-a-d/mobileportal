@@ -70,8 +70,10 @@ class GamePortal {
             const data = await response.json();
             
             if (data && Array.isArray(data)) {
-                this.games = data;
-                this.filteredGames = data;
+                // Filter out games that don't have corresponding HTML files
+                const availableGames = await this.filterAvailableGames(data);
+                this.games = availableGames;
+                this.filteredGames = availableGames;
             } else {
                 throw new Error('Invalid API response');
             }
@@ -86,6 +88,39 @@ class GamePortal {
                 this.showError('Failed to load games. Please try again later.');
             }
         }
+    }
+
+    async filterAvailableGames(games) {
+        const locale = this.getCurrentLocale();
+        const availableGames = [];
+        
+        for (const game of games) {
+            // Generate expected game URL
+            let gameUrl;
+            if (game.slug) {
+                gameUrl = `games/${locale}/${game.slug}-${locale}.html`;
+            } else {
+                const slug = game.title.toLowerCase()
+                    .replace(/[^a-z0-9]+/g, '-')
+                    .replace(/^-+|-+$/g, '');
+                gameUrl = `games/${locale}/${slug}-${locale}.html`;
+            }
+            
+            // Check if game file exists
+            try {
+                const response = await fetch(gameUrl, { method: 'HEAD' });
+                if (response.ok) {
+                    availableGames.push(game);
+                } else {
+                    console.warn(`Game file not found: ${gameUrl}`);
+                }
+            } catch (error) {
+                console.warn(`Error checking game file: ${gameUrl}`, error);
+            }
+        }
+        
+        console.log(`Filtered ${availableGames.length} available games from ${games.length} total games`);
+        return availableGames;
     }
 
     async loadLocalGames() {
@@ -160,6 +195,43 @@ class GamePortal {
         }
     }
 
+    showGameNotFoundError(gameTitle) {
+        // Create a temporary notification
+        const notification = document.createElement('div');
+        notification.className = 'notification notification-error';
+        notification.innerHTML = `
+            <div class="notification-content">
+                <strong>Game Not Available</strong>
+                <p>"${gameTitle}" is not available at the moment. Please try another game.</p>
+            </div>
+        `;
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            color: white;
+            background: #F44336;
+            z-index: 10000;
+            max-width: 400px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            animation: slideInRight 0.3s ease;
+        `;
+        
+        document.body.appendChild(notification);
+        
+        // Remove notification after 5 seconds
+        setTimeout(() => {
+            notification.style.animation = 'slideOutRight 0.3s ease';
+            setTimeout(() => {
+                if (notification.parentNode) {
+                    notification.parentNode.removeChild(notification);
+                }
+            }, 300);
+        }, 5000);
+    }
+
     displayGames() {
         const gamesGrid = document.getElementById('gamesGrid');
         if (!gamesGrid) return;
@@ -230,7 +302,7 @@ class GamePortal {
         return labels;
     }
 
-    navigateToGame(game) {
+    async navigateToGame(game) {
         // Navigate to the game's dedicated page
         const locale = this.getCurrentLocale();
         
@@ -244,6 +316,18 @@ class GamePortal {
                 .replace(/[^a-z0-9]+/g, '-')
                 .replace(/^-+|-+$/g, '');
             gameUrl = `games/${locale}/${slug}-${locale}.html`;
+        }
+        
+        // Check if the game page exists before navigating
+        try {
+            const response = await fetch(gameUrl, { method: 'HEAD' });
+            if (!response.ok) {
+                throw new Error(`Game page not found: ${gameUrl}`);
+            }
+        } catch (error) {
+            console.error('Game page not found:', error);
+            this.showGameNotFoundError(game.title);
+            return;
         }
         
         // Track game click

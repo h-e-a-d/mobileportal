@@ -65,7 +65,16 @@ class GamePortal {
 
     async loadGames() {
         try {
-            // Try to load from API first
+            // Try to load from local games first
+            await this.loadLocalGames();
+            
+            // If local games are available, use them
+            if (this.games && this.games.length > 0) {
+                console.log(`Loaded ${this.games.length} games from local files`);
+                return;
+            }
+            
+            // Fallback to API if local games not available
             const response = await fetch('https://gamemonetize.com/feed.php?format=0&num=100&page=1');
             const data = await response.json();
             
@@ -78,15 +87,11 @@ class GamePortal {
                 throw new Error('Invalid API response');
             }
         } catch (error) {
-            console.error('Error loading games from API:', error);
+            console.error('Error loading games:', error);
             
-            // Fallback to local generated games
-            try {
-                await this.loadLocalGames();
-            } catch (fallbackError) {
-                console.error('Error loading local games:', fallbackError);
-                this.showError('Failed to load games. Please try again later.');
-            }
+            // Final fallback to mock games
+            this.games = this.getMockGames();
+            this.filteredGames = this.games;
         }
     }
 

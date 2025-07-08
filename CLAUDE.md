@@ -1,7 +1,7 @@
-# Mobile Portal - CrazyGames Clone
+# Mobile Portal - SuperGames
 
 ## Project Overview
-A responsive web-based gaming portal that replicates the CrazyGames interface. This single-page application serves as a game discovery and launcher platform with a modern, dark-themed UI.
+A responsive web-based gaming portal called SuperGames. This single-page application serves as a game discovery and launcher platform with a modern, dark-themed UI.
 
 ## Architecture
 

@@ -75,7 +75,7 @@ const GAME_PAGE_TEMPLATE = `<!DOCTYPE html>
         <div class="nav-container">
             <div class="nav-logo">
                 <a href="../../index.html">
-                    <h1>CrazyGames</h1>
+                    <h1>SuperGames</h1>
                 </a>
             </div>
             <div class="nav-actions">

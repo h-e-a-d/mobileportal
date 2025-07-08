@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Weapon Shooter - Free Online Game</title>
+    <meta name="description" content="Play Weapon Shooter for free online. Welcome to Weapon Shooter 3D Shooting Game! You play as a knight and your mission is to spin and choose your weapon to attack the monsters. Have fun!">
+    <meta name="keywords" content="game, online, free, Weapon Shooter, Shooting, Monster, weapons, Zombie ">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="games/en/weapon-shooter-en.html">
+    <meta property="og:title" content="Play Weapon Shooter - Free Online Game">
+    <meta property="og:description" content="Play Weapon Shooter for free online. Welcome to Weapon Shooter 3D Shooting Game! You play as a knight and your mission is to spin and choose your weapon to attack the monsters. Have fun!">
+    <meta property="og:image" content="https://img.gamemonetize.com/zuyr8qluffzmjsqa9k33eiwv5vd2rxew/512x384.jpg">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="games/en/weapon-shooter-en.html">
+    <meta property="twitter:title" content="Play Weapon Shooter - Free Online Game">
+    <meta property="twitter:description" content="Play Weapon Shooter for free online. Welcome to Weapon Shooter 3D Shooting Game! You play as a knight and your mission is to spin and choose your weapon to attack the monsters. Have fun!">
+    <meta property="twitter:image" content="https://img.gamemonetize.com/zuyr8qluffzmjsqa9k33eiwv5vd2rxew/512x384.jpg">
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+    <!-- End Google Tag Manager -->
+    
+    <link rel="stylesheet" href="../../src/css/base.css">
+    <link rel="stylesheet" href="../../src/css/components.css">
+    <link rel="stylesheet" href="../../src/css/game-page.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Game",
+        "name": "Weapon Shooter",
+        "description": "Welcome to Weapon Shooter 3D Shooting Game! You play as a knight and your mission is to spin and choose your weapon to attack the monsters. Have fun!",
+        "image": "https://img.gamemonetize.com/zuyr8qluffzmjsqa9k33eiwv5vd2rxew/512x384.jpg",
+        "genre": "Shooting",
+        "operatingSystem": "Web Browser",
+        "applicationCategory": "Game",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="../../index.html">
+                    <h1>CrazyGames</h1>
+                </a>
+            </div>
+            <div class="nav-actions">
+                <a href="../../index.html" class="btn btn-secondary">Back to Home</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="game-page">
+        <div class="game-container">
+            <div class="game-header">
+                <div class="game-info">
+                    <h1 class="game-title">Weapon Shooter</h1>
+                    <div class="game-meta">
+                        <span class="game-category">Category: Shooting</span>
+                    </div>
+                </div>
+                <div class="game-actions">
+                    <button class="btn btn-primary" id="fullscreenBtn">Fullscreen</button>
+                    <button class="btn btn-secondary" id="shareBtn">Share Game</button>
+                </div>
+            </div>
+            
+            <div class="game-frame-container">
+                <div class="loading-spinner" id="gameLoading">
+                    <div class="spinner"></div>
+                    <p>Loading Game...</p>
+                </div>
+                <iframe 
+                    id="gameFrame" 
+                    src="https://html5.gamemonetize.com/zuyr8qluffzmjsqa9k33eiwv5vd2rxew/" 
+                    width="720" 
+                    height="1280"
+                    frameborder="0" 
+                    allowfullscreen
+                    title="Weapon Shooter"
+                    onload="hideLoading()">
+                </iframe>
+            </div>
+        </div>
+        
+        <div class="game-sidebar">
+            <div class="game-description">
+                <h2>Instructions</h2>
+                <p>Welcome to Weapon Shooter 3D Shooting Game! You play as a knight and your mission is to spin and choose your weapon to attack the monsters. Have fun!</p>
+            </div>
+            
+            <div class="related-games">
+                <h3>More Games</h3>
+                <div class="related-games-grid" id="relatedGames">
+                    <!-- Related games will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="../../src/js/components/gamePageController.js"></script>
+    <script>
+        // Initialize game page
+        document.addEventListener('DOMContentLoaded', function() {
+            const gameController = new GamePageController({
+                gameTitle: 'Weapon Shooter',
+                gameCategory: 'Shooting',
+                gameSlug: 'weapon-shooter',
+                locale: 'en'
+            });
+            
+            // Google Analytics event tracking
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'game_view', {
+                    'game_title': 'Weapon Shooter',
+                    'game_category': 'Shooting',
+                    'page_location': window.location.href
+                });
+            }
+        });
+        
+        function hideLoading() {
+            document.getElementById('gameLoading').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

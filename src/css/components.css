@@ -1,6 +1,6 @@
 /* Component styles */
 
-/* Buttons - CrazyGames Style */
+/* Buttons - SuperGames Style */
 .btn {
     display: inline-flex;
     align-items: center;
@@ -117,7 +117,7 @@
     border-top: 1px solid var(--border-color);
 }
 
-/* Navigation - CrazyGames Style */
+/* Navigation - SuperGames Style */
 .navbar {
     position: fixed;
     top: 0;
@@ -197,7 +197,7 @@
     gap: var(--spacing-4);
 }
 
-/* Game cards - CrazyGames Style */
+/* Game cards - SuperGames Style */
 .game-card {
     background: var(--black-300);
     border-radius: var(--border-radius-lg);
@@ -293,7 +293,7 @@
     background: linear-gradient(45deg, var(--warning-100), #fbbf24);
 }
 
-/* Sidebar - CrazyGames Style */
+/* Sidebar - SuperGames Style */
 .sidebar {
     width: var(--sidebar-width);
     background: var(--black-200);
@@ -512,7 +512,7 @@
     min-height: 120px;
 }
 
-/* Main layout structure - CrazyGames Style */
+/* Main layout structure - SuperGames Style */
 .main-container {
     display: flex;
     min-height: calc(100vh - var(--header-height));
@@ -554,7 +554,7 @@
     grid-column: 1 / -1;
 }
 
-/* CrazyGames responsive breakpoints */
+/* SuperGames responsive breakpoints */
 @media (min-width: 700px) {
     .games-grid {
         grid-template-columns: repeat(3, 1fr);
@@ -661,7 +661,7 @@
     border: none;
 }
 
-/* Mobile responsive design - CrazyGames Style */
+/* Mobile responsive design - SuperGames Style */
 @media (max-width: 789.95px) {
     .main-container {
         padding-left: 0;

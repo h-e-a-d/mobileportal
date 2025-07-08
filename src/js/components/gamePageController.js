@@ -19,6 +19,7 @@ class GamePageController {
         this.setupEventListeners();
         this.loadRelatedGames();
         this.trackGameView();
+        this.setupAudioContext();
     }
 
     setupEventListeners() {
@@ -303,19 +304,19 @@ class GamePageController {
             {
                 title: 'Similar Game 1',
                 category: this.gameCategory,
-                thumb: 'https://via.placeholder.com/60x40',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA2MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjQwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjMwIiB5PSIyMCIgZmlsbD0iIzY2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9IjAuM2VtIiBmb250LXNpemU9IjEwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiPkdhbWU8L3RleHQ+Cjwvc3ZnPg==',
                 slug: 'similar-game-1'
             },
             {
                 title: 'Similar Game 2',
                 category: this.gameCategory,
-                thumb: 'https://via.placeholder.com/60x40',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA2MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjQwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjMwIiB5PSIyMCIgZmlsbD0iIzY2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9IjAuM2VtIiBmb250LXNpemU9IjEwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiPkdhbWU8L3RleHQ+Cjwvc3ZnPg==',
                 slug: 'similar-game-2'
             },
             {
                 title: 'Similar Game 3',
                 category: this.gameCategory,
-                thumb: 'https://via.placeholder.com/60x40',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA2MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjQwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjMwIiB5PSIyMCIgZmlsbD0iIzY2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9IjAuM2VtIiBmb250LXNpemU9IjEwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiPkdhbWU8L3RleHQ+Cjwvc3ZnPg==',
                 slug: 'similar-game-3'
             }
         ];
@@ -334,6 +335,35 @@ class GamePageController {
     trackGameView() {
         // Track page view
         this.trackEvent('game_view');
+    }
+
+    setupAudioContext() {
+        // Handle AudioContext warnings by enabling audio on first user interaction
+        let audioEnabled = false;
+        
+        const enableAudio = () => {
+            if (!audioEnabled) {
+                try {
+                    // Try to resume any suspended audio contexts
+                    const gameFrame = document.getElementById('gameFrame');
+                    if (gameFrame && gameFrame.contentWindow) {
+                        gameFrame.contentWindow.postMessage({
+                            type: 'ENABLE_AUDIO',
+                            action: 'resume'
+                        }, '*');
+                    }
+                    audioEnabled = true;
+                } catch (error) {
+                    console.log('Audio context handling:', error);
+                }
+            }
+        };
+
+        // Listen for user interactions to enable audio
+        const userInteractionEvents = ['click', 'touchstart', 'keydown'];
+        userInteractionEvents.forEach(eventType => {
+            document.addEventListener(eventType, enableAudio, { once: true });
+        });
     }
 
     trackEvent(eventName, parameters = {}) {

@@ -3,22 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Puzzle Master Challenge spielen - Kostenloses Online-Spiel</title>
-    <meta name="description" content="Puzzle Master Challenge kostenlos online spielen. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
-    <meta name="keywords" content="spiel, online, kostenlos, Puzzle Master Challenge, Puzzle">
+    <title>Play Puzzle Master Challenge - Free Online Game</title>
+    <meta name="description" content="Play Puzzle Master Challenge for free online. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
+    <meta name="keywords" content="game, online, free, Puzzle Master Challenge, Puzzle, puzzle, brain, logic, thinking, challenge">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="">
-    <meta property="og:title" content="Puzzle Master Challenge spielen - Kostenloses Online-Spiel">
-    <meta property="og:description" content="Puzzle Master Challenge kostenlos online spielen. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
+    <meta property="og:url" content="games/de/puzzle-master-challenge-de.html">
+    <meta property="og:title" content="Play Puzzle Master Challenge - Free Online Game">
+    <meta property="og:description" content="Play Puzzle Master Challenge for free online. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
     <meta property="og:image" content="https://example.com/images/puzzle-master-challenge.jpg">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="">
-    <meta property="twitter:title" content="Puzzle Master Challenge spielen - Kostenloses Online-Spiel">
-    <meta property="twitter:description" content="Puzzle Master Challenge kostenlos online spielen. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
+    <meta property="twitter:url" content="games/de/puzzle-master-challenge-de.html">
+    <meta property="twitter:title" content="Play Puzzle Master Challenge - Free Online Game">
+    <meta property="twitter:description" content="Play Puzzle Master Challenge for free online. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
     <meta property="twitter:image" content="https://example.com/images/puzzle-master-challenge.jpg">
     
     <!-- Google Tag Manager -->
@@ -67,7 +67,7 @@
                 </a>
             </div>
             <div class="nav-actions">
-                <a href="../../index.html" class="btn btn-secondary">Zurück zur Startseite</a>
+                <a href="../../index.html" class="btn btn-secondary">Back to Home</a>
             </div>
         </div>
     </nav>
@@ -78,19 +78,19 @@
                 <div class="game-info">
                     <h1 class="game-title">Puzzle Master Challenge</h1>
                     <div class="game-meta">
-                        <span class="game-category">Kategorie: Puzzle</span>
+                        <span class="game-category">Category: Puzzle</span>
                     </div>
                 </div>
                 <div class="game-actions">
-                    <button class="btn btn-primary" id="fullscreenBtn">Vollbild</button>
-                    <button class="btn btn-secondary" id="shareBtn">Spiel teilen</button>
+                    <button class="btn btn-primary" id="fullscreenBtn">Fullscreen</button>
+                    <button class="btn btn-secondary" id="shareBtn">Share Game</button>
                 </div>
             </div>
             
             <div class="game-frame-container">
                 <div class="loading-spinner" id="gameLoading">
                     <div class="spinner"></div>
-                    <p>Spiel wird geladen...</p>
+                    <p>Loading Game...</p>
                 </div>
                 <iframe 
                     id="gameFrame" 
@@ -107,12 +107,12 @@
         
         <div class="game-sidebar">
             <div class="game-description">
-                <h2>Anweisungen</h2>
+                <h2>Instructions</h2>
                 <p>Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.</p>
             </div>
             
             <div class="related-games">
-                <h3>Mehr Spiele</h3>
+                <h3>More Games</h3>
                 <div class="related-games-grid" id="relatedGames">
                     <!-- Related games will be loaded here -->
                 </div>
@@ -132,11 +132,13 @@
             });
             
             // Google Analytics event tracking
-            gtag('event', 'game_view', {
-                'game_title': 'Puzzle Master Challenge',
-                'game_category': 'Puzzle',
-                'page_location': window.location.href
-            });
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'game_view', {
+                    'game_title': 'Puzzle Master Challenge',
+                    'game_category': 'Puzzle',
+                    'page_location': window.location.href
+                });
+            }
         });
         
         function hideLoading() {

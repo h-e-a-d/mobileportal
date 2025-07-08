@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Play Football Championship - Free Online Game</title>
     <meta name="description" content="Play Football Championship for free online. Lead your team to victory in this realistic football simulation. Choose your strategy, manage your players, and compete in tournaments to become the ultimate football champion.">
-    <meta name="keywords" content="game, online, free, Football Championship, Sports">
+    <meta name="keywords" content="game, online, free, Football Championship, Sports, sports, football, championship, strategy, simulation">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="">
+    <meta property="og:url" content="games/en/football-championship-en.html">
     <meta property="og:title" content="Play Football Championship - Free Online Game">
     <meta property="og:description" content="Play Football Championship for free online. Lead your team to victory in this realistic football simulation. Choose your strategy, manage your players, and compete in tournaments to become the ultimate football champion.">
     <meta property="og:image" content="https://example.com/images/football-championship.jpg">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="">
+    <meta property="twitter:url" content="games/en/football-championship-en.html">
     <meta property="twitter:title" content="Play Football Championship - Free Online Game">
     <meta property="twitter:description" content="Play Football Championship for free online. Lead your team to victory in this realistic football simulation. Choose your strategy, manage your players, and compete in tournaments to become the ultimate football champion.">
     <meta property="twitter:image" content="https://example.com/images/football-championship.jpg">
@@ -132,11 +132,13 @@
             });
             
             // Google Analytics event tracking
-            gtag('event', 'game_view', {
-                'game_title': 'Football Championship',
-                'game_category': 'Sports',
-                'page_location': window.location.href
-            });
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'game_view', {
+                    'game_title': 'Football Championship',
+                    'game_category': 'Sports',
+                    'page_location': window.location.href
+                });
+            }
         });
         
         function hideLoading() {

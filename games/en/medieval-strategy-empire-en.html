@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Play Medieval Strategy Empire - Free Online Game</title>
     <meta name="description" content="Play Medieval Strategy Empire for free online. Build and manage your medieval empire in this strategic conquest game. Construct buildings, train armies, and wage war against neighboring kingdoms to expand your territory.">
-    <meta name="keywords" content="game, online, free, Medieval Strategy Empire, Strategy">
+    <meta name="keywords" content="game, online, free, Medieval Strategy Empire, Strategy, strategy, medieval, empire, war, conquest">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="">
+    <meta property="og:url" content="games/en/medieval-strategy-empire-en.html">
     <meta property="og:title" content="Play Medieval Strategy Empire - Free Online Game">
     <meta property="og:description" content="Play Medieval Strategy Empire for free online. Build and manage your medieval empire in this strategic conquest game. Construct buildings, train armies, and wage war against neighboring kingdoms to expand your territory.">
     <meta property="og:image" content="https://example.com/images/medieval-strategy-empire.jpg">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="">
+    <meta property="twitter:url" content="games/en/medieval-strategy-empire-en.html">
     <meta property="twitter:title" content="Play Medieval Strategy Empire - Free Online Game">
     <meta property="twitter:description" content="Play Medieval Strategy Empire for free online. Build and manage your medieval empire in this strategic conquest game. Construct buildings, train armies, and wage war against neighboring kingdoms to expand your territory.">
     <meta property="twitter:image" content="https://example.com/images/medieval-strategy-empire.jpg">
@@ -132,11 +132,13 @@
             });
             
             // Google Analytics event tracking
-            gtag('event', 'game_view', {
-                'game_title': 'Medieval Strategy Empire',
-                'game_category': 'Strategy',
-                'page_location': window.location.href
-            });
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'game_view', {
+                    'game_title': 'Medieval Strategy Empire',
+                    'game_category': 'Strategy',
+                    'page_location': window.location.href
+                });
+            }
         });
         
         function hideLoading() {

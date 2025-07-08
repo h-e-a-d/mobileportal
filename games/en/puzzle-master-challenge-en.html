@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Play Puzzle Master Challenge - Free Online Game</title>
     <meta name="description" content="Play Puzzle Master Challenge for free online. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
-    <meta name="keywords" content="game, online, free, Puzzle Master Challenge, Puzzle">
+    <meta name="keywords" content="game, online, free, Puzzle Master Challenge, Puzzle, puzzle, brain, logic, thinking, challenge">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="">
+    <meta property="og:url" content="games/en/puzzle-master-challenge-en.html">
     <meta property="og:title" content="Play Puzzle Master Challenge - Free Online Game">
     <meta property="og:description" content="Play Puzzle Master Challenge for free online. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
     <meta property="og:image" content="https://example.com/images/puzzle-master-challenge.jpg">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="">
+    <meta property="twitter:url" content="games/en/puzzle-master-challenge-en.html">
     <meta property="twitter:title" content="Play Puzzle Master Challenge - Free Online Game">
     <meta property="twitter:description" content="Play Puzzle Master Challenge for free online. Test your brain with this challenging puzzle game. Solve complex puzzles, unlock new levels, and compete with friends to see who can achieve the highest score.">
     <meta property="twitter:image" content="https://example.com/images/puzzle-master-challenge.jpg">
@@ -132,11 +132,13 @@
             });
             
             // Google Analytics event tracking
-            gtag('event', 'game_view', {
-                'game_title': 'Puzzle Master Challenge',
-                'game_category': 'Puzzle',
-                'page_location': window.location.href
-            });
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'game_view', {
+                    'game_title': 'Puzzle Master Challenge',
+                    'game_category': 'Puzzle',
+                    'page_location': window.location.href
+                });
+            }
         });
         
         function hideLoading() {

@@ -291,3 +291,16 @@ MIT License - see LICENSE file for details
 ---
 
 **Built with modern web technologies for optimal performance and SEO.**
+
+**How to run game generetion script**
+  Scripts Created:
+
+  1. Python Script (Recommended)
+  python3 scripts/generate-game-pages.py
+
+  2. Node.js Script
+  npm install xml2js
+  npm run generate-from-xml
+  
+  3. Bash Script
+  bash scripts/generate-game-pages.sh

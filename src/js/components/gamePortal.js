@@ -402,20 +402,58 @@ class GamePortal {
     }
 
     updateActiveCategory(category) {
+        // Update sidebar category items
         document.querySelectorAll('.category-item').forEach(item => {
             item.classList.remove('active');
             if (item.dataset.category === category) {
                 item.classList.add('active');
             }
         });
+        
+        // Update category showcase cards
+        document.querySelectorAll('.category-card').forEach(card => {
+            card.classList.remove('active');
+            if (card.dataset.category === category) {
+                card.classList.add('active');
+            }
+        });
+    }
+
+    scrollToGames() {
+        const gamesGrid = document.getElementById('gamesGrid');
+        if (gamesGrid) {
+            gamesGrid.scrollIntoView({ 
+                behavior: 'smooth', 
+                block: 'start' 
+            });
+        }
     }
 
     setupEventListeners() {
-        // Category filtering
+        // Category filtering (sidebar)
         document.querySelectorAll('.category-item').forEach(item => {
             item.addEventListener('click', () => {
                 const category = item.dataset.category;
                 this.filterByCategory(category);
+            });
+        });
+
+        // Category showcase cards
+        document.querySelectorAll('.category-card').forEach(card => {
+            card.addEventListener('click', () => {
+                const category = card.dataset.category;
+                this.filterByCategory(category);
+                this.scrollToGames();
+            });
+            
+            // Add keyboard navigation
+            card.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    const category = card.dataset.category;
+                    this.filterByCategory(category);
+                    this.scrollToGames();
+                }
             });
         });
 

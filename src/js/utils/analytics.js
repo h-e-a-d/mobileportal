@@ -25,7 +25,7 @@ class Analytics {
         // Load Google Analytics 4 script
         const script = document.createElement('script');
         script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID';
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=GTM-PK768FJP';
         document.head.appendChild(script);
 
         // Initialize gtag
@@ -35,7 +35,7 @@ class Analytics {
         };
         
         gtag('js', new Date());
-        gtag('config', 'GA_MEASUREMENT_ID', {
+        gtag('config', 'GTM-PK768FJP', {
             page_title: document.title,
             page_location: window.location.href
         });

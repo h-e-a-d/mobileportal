@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://kloopik.com/sitemap.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1
+
+# Allow all game pages
+Allow: /games/
+
+# Allow category pages
+Allow: /category/
+
+# Disallow admin/config directories if they exist
+Disallow: /admin/
+Disallow: /config/
+Disallow: /scripts/
+Disallow: /node_modules/
+
+# Disallow template/development files
+Disallow: /crazygames-template/
+Disallow: /*.json$
+Disallow: /*.md$
+
+# Allow common assets
+Allow: /src/css/
+Allow: /src/js/
+Allow: /images/
+Allow: /favicon.ico
+Allow: /ads.txt

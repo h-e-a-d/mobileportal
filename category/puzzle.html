@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puzzle Games - Play Free Online Puzzle Games | Kloopik</title>
+    <meta name="description" content="Challenge your mind with free online puzzle games at Kloopik. Brain teasers, logic games, and mind-bending challenges await. No downloads required!">
+    <meta name="keywords" content="puzzle games, free online games, brain games, logic games, mind games, brain teasers, kloopik">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kloopik.com/category/puzzle">
+    <meta property="og:title" content="Puzzle Games - Play Free Online Puzzle Games | Kloopik">
+    <meta property="og:description" content="Challenge your mind with free online puzzle games at Kloopik. Brain teasers, logic games, and mind-bending challenges await. No downloads required!">
+    <meta property="og:image" content="https://kloopik.com/images/kloopik-puzzle-games.jpg">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://kloopik.com/category/puzzle">
+    <meta name="twitter:title" content="Puzzle Games - Play Free Online Puzzle Games | Kloopik">
+    <meta name="twitter:description" content="Challenge your mind with free online puzzle games at Kloopik. Brain teasers, logic games, and mind-bending challenges await. No downloads required!">
+    <meta name="twitter:image" content="https://kloopik.com/images/kloopik-puzzle-games.jpg">
+    
+    <!-- SEO -->
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://kloopik.com/category/puzzle">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Puzzle Games",
+        "description": "Collection of free online puzzle games featuring brain teasers, logic challenges, and mind-bending puzzles.",
+        "url": "https://kloopik.com/category/puzzle",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://kloopik.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Puzzle Games",
+                    "item": "https://kloopik.com/category/puzzle"
+                }
+            ]
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "name": "Puzzle Games Collection",
+            "description": "Free online puzzle games"
+        }
+    }
+    </script>
+    
+    <link rel="stylesheet" href="../src/css/base.css">
+    <link rel="stylesheet" href="../src/css/components.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="../index.html"><h1>Kloopik</h1></a>
+            </div>
+            <div class="nav-search">
+                <input type="text" id="searchInput" placeholder="Search puzzle games...">
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-container">
+        <aside class="sidebar">
+            <div class="categories">
+                <a href="../index.html" class="category-item" data-category="all">
+                    <span>All Games</span>
+                </a>
+                <a href="action.html" class="category-item" data-category="Action">
+                    <span>Action</span>
+                </a>
+                <a href="adventure.html" class="category-item" data-category="Adventure">
+                    <span>Adventure</span>
+                </a>
+                <div class="category-item active" data-category="Puzzle">
+                    <span>Puzzle</span>
+                </div>
+                <a href="racing.html" class="category-item" data-category="Racing">
+                    <span>Racing</span>
+                </a>
+                <a href="sports.html" class="category-item" data-category="Sports">
+                    <span>Sports</span>
+                </a>
+                <a href="strategy.html" class="category-item" data-category="Strategy">
+                    <span>Strategy</span>
+                </a>
+                <a href="arcade.html" class="category-item" data-category="Arcade">
+                    <span>Arcade</span>
+                </a>
+            </div>
+        </aside>
+
+        <main class="content">
+            <!-- Breadcrumb Navigation -->
+            <nav class="breadcrumb" aria-label="Breadcrumb">
+                <ol class="breadcrumb-list">
+                    <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Puzzle Games</li>
+                </ol>
+            </nav>
+
+            <div class="category-header">
+                <h1>Puzzle Games</h1>
+                <p class="category-description">Challenge your mind with our collection of puzzle games! From classic brain teasers to innovative logic challenges, test your problem-solving skills and have fun while learning.</p>
+            </div>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                Loading puzzle games...
+            </div>
+            
+            <div class="games-grid" id="gamesGrid"></div>
+        </main>
+    </div>
+
+    <script src="../src/js/components/gamePortal.js"></script>
+    <script>
+        // Initialize with puzzle category filter
+        document.addEventListener('DOMContentLoaded', () => {
+            const portal = new GamePortal();
+            portal.currentCategory = 'Puzzle';
+            portal.init().then(() => {
+                portal.filterByCategory('Puzzle');
+            });
+        });
+    </script>
+</body>
+</html>

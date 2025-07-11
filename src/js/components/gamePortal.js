@@ -252,6 +252,73 @@ class GamePortal {
             const gameCard = this.createGameCard(game);
             gamesGrid.appendChild(gameCard);
         });
+
+        // Add related games section if we have games
+        if (this.filteredGames.length > 0) {
+            this.addRelatedGamesSection();
+        }
+    }
+
+    addRelatedGamesSection() {
+        const content = document.querySelector('.content');
+        if (!content) return;
+
+        // Remove existing related games section
+        const existingRelated = content.querySelector('.related-games');
+        if (existingRelated) {
+            existingRelated.remove();
+        }
+
+        // Get related games (different category or random selection)
+        const relatedGames = this.getRelatedGames();
+        if (relatedGames.length === 0) return;
+
+        const relatedSection = document.createElement('div');
+        relatedSection.className = 'related-games';
+        relatedSection.innerHTML = `
+            <h2>You might also like</h2>
+            <div class="related-games-grid" id="relatedGamesGrid"></div>
+        `;
+
+        content.appendChild(relatedSection);
+
+        // Add related game cards
+        const relatedGrid = document.getElementById('relatedGamesGrid');
+        relatedGames.forEach(game => {
+            const gameCard = this.createGameCard(game);
+            gameCard.classList.add('related-game-card');
+            relatedGrid.appendChild(gameCard);
+        });
+    }
+
+    getRelatedGames() {
+        if (!this.games || this.games.length === 0) return [];
+
+        let relatedGames = [];
+        
+        // If we're showing a specific category, get games from other categories
+        if (this.currentCategory !== 'all') {
+            const otherCategoryGames = this.games.filter(game => 
+                game.category !== this.currentCategory
+            );
+            
+            // Randomly select up to 6 games from other categories
+            relatedGames = this.shuffleArray(otherCategoryGames).slice(0, 6);
+        } else {
+            // If showing all games, get random popular games
+            relatedGames = this.shuffleArray(this.games).slice(0, 6);
+        }
+
+        return relatedGames;
+    }
+
+    shuffleArray(array) {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
     }
 
     createGameCard(game) {
@@ -279,7 +346,8 @@ class GamePortal {
         ` : '';
 
         card.innerHTML = `
-            <img src="${game.thumb}" alt="${game.title}" class="game-thumb" 
+            <img src="${game.thumb}" alt="Play ${game.title} - ${game.category} game online free at Kloopik" class="game-thumb" 
+                 loading="lazy"
                  onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc4IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDE3OCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNzgiIGhlaWdodD0iMTAwIiBmaWxsPSIjMWExYjI4Ii8+Cjx0ZXh0IHg9Ijg5IiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzY4NDJmZiIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCI+R2FtZSBJbWFnZTwvdGV4dD4KPC9zdmc+'">
             ${labelsHtml}
             <div class="game-info">

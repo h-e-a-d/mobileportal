@@ -1,29 +1,46 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#6842FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5935D6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#5935D6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A2DB3;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#4AF0A7;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#2dd4bf;stop-opacity:1" />
     </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#F9FAFF;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#F9FAFF;stop-opacity:0" />
+    </radialGradient>
   </defs>
   
-  <!-- Background circle -->
-  <circle cx="16" cy="16" r="15" fill="url(#grad1)" stroke="#2A2C41" stroke-width="2"/>
+  <!-- Background with rounded square -->
+  <rect x="2" y="2" width="28" height="28" rx="8" ry="8" fill="url(#bgGrad)" stroke="#1A1B28" stroke-width="1"/>
   
-  <!-- Gaming controller shape -->
-  <path d="M8 14c-1.1 0-2 .9-2 2v2c0 1.1.9 2 2 2h2v-2h-1v-2h1v-2H8z" fill="url(#grad2)"/>
-  <path d="M24 14c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2h-2v-2h1v-2h-1v-2h2z" fill="url(#grad2)"/>
+  <!-- Glow effect -->
+  <rect x="2" y="2" width="28" height="28" rx="8" ry="8" fill="url(#glowGrad)"/>
   
-  <!-- Center gaming elements -->
-  <rect x="12" y="12" width="8" height="8" rx="2" fill="#F9FAFF" opacity="0.9"/>
-  <circle cx="14" cy="14" r="1" fill="#6842FF"/>
-  <circle cx="18" cy="14" r="1" fill="#6842FF"/>
-  <circle cx="14" cy="18" r="1" fill="#6842FF"/>
-  <circle cx="18" cy="18" r="1" fill="#6842FF"/>
+  <!-- Game controller inspired design -->
+  <rect x="6" y="10" width="20" height="12" rx="6" ry="6" fill="#F9FAFF" opacity="0.15"/>
   
-  <!-- K letter in center -->
-  <text x="16" y="18" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#6842FF">K</text>
+  <!-- D-pad left -->
+  <rect x="9" y="14" width="3" height="1" rx="0.5" fill="#F9FAFF"/>
+  <rect x="10" y="13" width="1" height="3" rx="0.5" fill="#F9FAFF"/>
+  
+  <!-- Action buttons right -->
+  <circle cx="21" cy="14" r="1.5" fill="url(#accentGrad)"/>
+  <circle cx="19" cy="16" r="1.5" fill="url(#accentGrad)"/>
+  
+  <!-- Center K logo -->
+  <g transform="translate(16, 16)">
+    <text x="0" y="2" font-family="Arial, sans-serif" font-size="12" font-weight="900" 
+          text-anchor="middle" fill="#F9FAFF" opacity="0.95">K</text>
+  </g>
+  
+  <!-- Gaming elements - small dots -->
+  <circle cx="8" cy="8" r="1" fill="url(#accentGrad)" opacity="0.6"/>
+  <circle cx="24" cy="8" r="1" fill="url(#accentGrad)" opacity="0.6"/>
+  <circle cx="8" cy="24" r="1" fill="url(#accentGrad)" opacity="0.6"/>
+  <circle cx="24" cy="24" r="1" fill="url(#accentGrad)" opacity="0.6"/>
 </svg>

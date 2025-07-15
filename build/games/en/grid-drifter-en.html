@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Grid Drifter Online Free | Kloopik Web Games</title>
+    <meta name="description" content="Play Grid Drifter free online on Kloopik. Drive the truck through the parking lot with the specified coordinates. Press the arrow keys or the ... No download...">
+    <meta name="keywords" content="game, online, free, Grid Drifter, Sports, drifting, Math, Racing ">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kloopik.com/games/en/grid-drifter-en.html">
+    <meta property="og:title" content="Play Grid Drifter Online Free | Kloopik Web Games">
+    <meta property="og:description" content="Play Grid Drifter free online on Kloopik. Drive the truck through the parking lot with the specified coordinates. Press the arrow keys or the ... No download...">
+    <meta property="og:image" content="https://kloopik.com/images/grid-drifter.jpg">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://kloopik.com/games/en/grid-drifter-en.html">
+    <meta property="twitter:title" content="Play Grid Drifter Online Free | Kloopik Web Games">
+    <meta property="twitter:description" content="Play Grid Drifter free online on Kloopik. Drive the truck through the parking lot with the specified coordinates. Press the arrow keys or the ... No download...">
+    <meta property="twitter:image" content="https://kloopik.com/images/grid-drifter.jpg">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://kloopik.com/games/en/grid-drifter-en.html">
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PK768FJP');</script>
+    <!-- End Google Tag Manager -->
+    
+    <link rel="stylesheet" href="../../src/css/base.css">
+    <link rel="stylesheet" href="../../src/css/components.css">
+    <link rel="stylesheet" href="../../src/css/game-page.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Game",
+        "name": "Grid Drifter",
+        "description": "Drive the truck through the parking lot with the specified coordinates. Press the arrow keys or the A, D buttons or touch the left and right sides of the phone screen to drive the truck left and right. Avoid if there are other cars.",
+        "image": "https://img.gamemonetize.com/izcja1nhzk4anp1vzeljy28p66mgvzfp/512x384.jpg",
+        "genre": "Sports",
+        "operatingSystem": "Web Browser",
+        "applicationCategory": "Game",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK768FJP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="../../index.html">
+                    <h1>Kloopik</h1>
+                </a>
+            </div>
+            <div class="nav-search">
+                <input type="text" id="searchInput" placeholder="Search games...">
+            </div>
+            <div class="nav-actions">
+                <a href="../../index.html" class="btn btn-secondary">Back to Home</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="game-page">
+        <div class="game-container">
+            <div class="game-header">
+                <div class="game-info">
+                    <h1 class="game-title">Grid Drifter</h1>
+                    <div class="game-meta">
+                        <span class="game-category">Category: Sports</span>
+                    </div>
+                </div>
+                <div class="game-actions">
+                    <button class="btn btn-primary" id="fullscreenBtn">Fullscreen</button>
+                    <button class="btn btn-secondary" id="shareBtn">Share Game</button>
+                </div>
+            </div>
+            
+            <div class="game-frame-container">
+                <div class="loading-spinner" id="gameLoading">
+                    <div class="spinner"></div>
+                    <p>Loading Game...</p>
+                </div>
+                <iframe 
+                    id="gameFrame" 
+                    src="https://html5.gamemonetize.com/izcja1nhzk4anp1vzeljy28p66mgvzfp/" 
+                    width="1440" 
+                    height="1080"
+                    frameborder="0" 
+                    allowfullscreen
+                    title="Grid Drifter"
+                    onload="hideLoading()">
+                </iframe>
+            </div>
+        </div>
+        
+        <div class="game-sidebar">
+            <div class="game-description">
+                <h2>Instructions</h2>
+                <p>Drive the truck through the parking lot with the specified coordinates. Press the arrow keys or the A, D buttons or touch the left and right sides of the phone screen to drive the truck left and right. Avoid if there are other cars.</p>
+            </div>
+            
+            <div class="related-games">
+                <h3>More Games</h3>
+                <div class="related-games-grid" id="relatedGames">
+                    <!-- Related games will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="../../src/js/components/gamePageController.js"></script>
+    <script>
+        // Initialize game page
+        document.addEventListener('DOMContentLoaded', function() {
+            const gameController = new GamePageController({
+                gameTitle: 'Grid Drifter',
+                gameCategory: 'Sports',
+                gameSlug: 'grid-drifter',
+                locale: 'en'
+            });
+            
+            // Google Analytics event tracking
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'game_view', {
+                    'game_title': 'Grid Drifter',
+                    'game_category': 'Sports',
+                    'page_location': window.location.href
+                });
+            }
+        });
+        
+        function hideLoading() {
+            document.getElementById('gameLoading').style.display = 'none';
+        }
+    </script>
+
+    <script src="../../src/js/utils/header.js"></script>
+</body>
+</html>

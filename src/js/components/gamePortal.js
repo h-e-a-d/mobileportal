@@ -311,7 +311,6 @@ class GamePortal {
                     <img src="${featuredGame.thumb}" alt="${featuredGame.title}" class="game-thumb" loading="lazy">
                     <div class="game-info">
                         <h3 class="game-title">${featuredGame.title}</h3>
-                        <div class="game-category">${featuredGame.category}</div>
                     </div>
                 </div>
             `;
@@ -337,7 +336,6 @@ class GamePortal {
                          onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc4IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDE3OCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNzgiIGhlaWdodD0iMTAwIiBmaWxsPSIjMWExYjI4Ii8+Cjx0ZXh0IHg9Ijg5IiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzY4NDJmZiIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCI+R2FtZSBJbWFnZTwvdGV4dD4KPC9zdmc+'">
                     <div class="game-info">
                         <h3 class="game-title">${game.title}</h3>
-                        <div class="game-category">${game.category}</div>
                     </div>
                 </div>
             `).join('');
@@ -479,7 +477,6 @@ class GamePortal {
             ${labelsHtml}
             <div class="game-info">
                 <h3 class="game-title">${game.title}</h3>
-                <div class="game-category">${game.category}</div>
             </div>
         `;
 

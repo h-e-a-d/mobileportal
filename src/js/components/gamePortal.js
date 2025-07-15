@@ -238,6 +238,20 @@ class GamePortal {
     }
 
     displayGames() {
+        // Check if we're on mobile
+        const isMobile = window.innerWidth <= 789.95;
+        
+        console.log('Display games called. Mobile:', isMobile, 'Width:', window.innerWidth);
+        console.log('Games available:', this.games.length, 'Filtered games:', this.filteredGames.length);
+        
+        if (isMobile) {
+            this.displayMobileLayout();
+        } else {
+            this.displayDesktopLayout();
+        }
+    }
+
+    displayDesktopLayout() {
         const gamesGrid = document.getElementById('gamesGrid');
         if (!gamesGrid) return;
 
@@ -257,6 +271,119 @@ class GamePortal {
         if (this.filteredGames.length > 0) {
             this.addRelatedGamesSection();
         }
+    }
+
+    displayMobileLayout() {
+        const mobileSections = document.getElementById('mobileCategorySections');
+        const gamesGrid = document.getElementById('gamesGrid');
+        
+        if (!mobileSections) return;
+
+        // Clear existing content
+        mobileSections.innerHTML = '';
+        if (gamesGrid) gamesGrid.innerHTML = '';
+
+        if (this.games.length === 0) {
+            mobileSections.innerHTML = '<div class="no-games">No games found.</div>';
+            return;
+        }
+        
+        console.log('Creating mobile layout with', this.games.length, 'games');
+
+        // Create mobile category sections
+        this.createMobileCategorySections();
+    }
+
+    createMobileCategorySections() {
+        const mobileSections = document.getElementById('mobileCategorySections');
+        const categories = ['Action', 'Adventure', 'Puzzle', 'Racing', 'Sports', 'Strategy', 'Arcade'];
+        
+        // Create featured game section first
+        const featuredGame = this.games[0]; // First game as featured
+        if (featuredGame) {
+            const featuredSection = document.createElement('div');
+            featuredSection.className = 'mobile-category-section';
+            featuredSection.innerHTML = `
+                <div class="mobile-category-header">
+                    <h2 class="mobile-category-title">Recommended</h2>
+                </div>
+                <div class="mobile-featured-game game-card" tabindex="0" role="button" aria-label="Play ${featuredGame.title}">
+                    <img src="${featuredGame.thumb}" alt="${featuredGame.title}" class="game-thumb" loading="lazy">
+                    <div class="game-info">
+                        <h3 class="game-title">${featuredGame.title}</h3>
+                        <div class="game-category">${featuredGame.category}</div>
+                    </div>
+                </div>
+            `;
+            
+            // Add event listener for featured game
+            const featuredCard = featuredSection.querySelector('.mobile-featured-game');
+            featuredCard.addEventListener('click', () => this.navigateToGame(featuredGame));
+            
+            mobileSections.appendChild(featuredSection);
+        }
+
+        // Create category sections
+        categories.forEach(category => {
+            const categoryGames = this.games.filter(game => game.category === category);
+            if (categoryGames.length === 0) return;
+
+            const section = document.createElement('div');
+            section.className = 'mobile-category-section';
+            
+            const gamesHtml = categoryGames.slice(0, 6).map(game => `
+                <div class="game-card" data-game-id="${game.id}" tabindex="0" role="button" aria-label="Play ${game.title}">
+                    <img src="${game.thumb}" alt="${game.title}" class="game-thumb" loading="lazy"
+                         onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc4IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDE3OCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNzgiIGhlaWdodD0iMTAwIiBmaWxsPSIjMWExYjI4Ii8+Cjx0ZXh0IHg9Ijg5IiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzY4NDJmZiIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCI+R2FtZSBJbWFnZTwvdGV4dD4KPC9zdmc+'">
+                    <div class="game-info">
+                        <h3 class="game-title">${game.title}</h3>
+                        <div class="game-category">${game.category}</div>
+                    </div>
+                </div>
+            `).join('');
+
+            section.innerHTML = `
+                <div class="mobile-category-header">
+                    <h2 class="mobile-category-title">${category} Games</h2>
+                    <a href="#" class="mobile-view-more" data-category="${category}">View more</a>
+                </div>
+                <div class="mobile-games-row">
+                    ${gamesHtml}
+                </div>
+            `;
+
+            // Add event listeners for games in this section
+            section.querySelectorAll('.game-card').forEach(card => {
+                const gameId = parseInt(card.dataset.gameId);
+                const game = this.games.find(g => g.id === gameId);
+                if (game) {
+                    card.addEventListener('click', () => this.navigateToGame(game));
+                }
+            });
+
+            // Add event listener for "View more" link
+            const viewMoreLink = section.querySelector('.mobile-view-more');
+            viewMoreLink.addEventListener('click', (e) => {
+                e.preventDefault();
+                this.filterByCategory(category);
+                this.switchToDesktopView();
+            });
+
+            mobileSections.appendChild(section);
+        });
+    }
+
+    switchToDesktopView() {
+        // Force desktop view for "View more" functionality
+        const categorySections = document.getElementById('mobileCategorySections');
+        const categoryShowcase = document.getElementById('categoryShowcase');
+        const gamesGrid = document.getElementById('gamesGrid');
+        
+        if (categorySections) categorySections.style.display = 'none';
+        if (categoryShowcase) categoryShowcase.style.display = 'block';
+        if (gamesGrid) gamesGrid.style.display = 'grid';
+        
+        this.displayDesktopLayout();
     }
 
     addRelatedGamesSection() {
@@ -552,6 +679,19 @@ class GamePortal {
                 searchInput?.focus();
             }
         });
+
+        // Window resize handler
+        window.addEventListener('resize', () => {
+            this.handleResize();
+        });
+    }
+
+    handleResize() {
+        // Debounce resize handler
+        clearTimeout(this.resizeTimeout);
+        this.resizeTimeout = setTimeout(() => {
+            this.displayGames();
+        }, 100);
     }
 
     toggleSidebar() {

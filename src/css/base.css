@@ -125,6 +125,9 @@ body {
     color: var(--text-color);
     background-color: var(--background-color);
     overflow-x: hidden;
+    /* Improve scroll performance */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /* Typography */

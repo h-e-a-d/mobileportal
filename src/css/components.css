@@ -207,6 +207,10 @@
     border: 2px solid transparent;
     position: relative;
     aspect-ratio: 16/9;
+    /* Improve rendering performance during scroll */
+    transform: translateZ(0);
+    will-change: transform;
+    backface-visibility: hidden;
 }
 
 .game-card:hover {
@@ -226,6 +230,9 @@
     object-fit: cover;
     display: block;
     transition: transform var(--transition-normal);
+    /* Improve image rendering during scroll */
+    transform: translateZ(0);
+    backface-visibility: hidden;
 }
 
 .game-card:hover .game-thumb {
@@ -370,6 +377,9 @@
     mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 0L16 8L8 16L0 8z'/%3E%3C/svg%3E") no-repeat center;
     mask-size: contain;
     flex-shrink: 0;
+    /* Improve icon rendering during scroll */
+    transform: translateZ(0);
+    will-change: auto;
 }
 
 .category-item[data-category="all"]::before {
@@ -546,6 +556,9 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: var(--spacing-1);
+    /* Improve grid rendering performance during scroll */
+    transform: translateZ(0);
+    will-change: scroll-position;
 }
 
 .no-games {
@@ -676,6 +689,8 @@
     .navbar {
         height: auto;
         min-height: var(--header-height);
+        /* Reduce backdrop blur on mobile to prevent flickering */
+        backdrop-filter: blur(2px);
     }
     
     .nav-container {
@@ -724,6 +739,9 @@
         background: transparent !important;
         padding: 4px 0 0 0 !important;
         opacity: 1 !important;
+        /* Improve text rendering during scroll */
+        transform: translateZ(0);
+        backface-visibility: hidden;
     }
     
     .game-category {
@@ -1002,6 +1020,10 @@
     color: var(--white-100);
     flex-shrink: 0;
     transition: transform var(--transition-normal);
+    /* Improve icon rendering during scroll */
+    transform: translateZ(0);
+    will-change: transform;
+    backface-visibility: hidden;
 }
 
 .category-card:hover .category-icon {

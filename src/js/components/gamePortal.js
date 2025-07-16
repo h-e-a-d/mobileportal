@@ -415,6 +415,122 @@ class GamePortal {
 
             mobileSections.appendChild(section);
         });
+
+        // Create "All Games" section at the end
+        this.createAllGamesSection();
+    }
+
+    createAllGamesSection() {
+        const mobileSections = document.getElementById('mobileCategorySections');
+        
+        // Initialize pagination for all games
+        this.currentPage = 1;
+        this.gamesPerPage = 10;
+        
+        const allGamesSection = document.createElement('div');
+        allGamesSection.className = 'mobile-category-section mobile-all-games-section';
+        allGamesSection.id = 'allGamesSection';
+        
+        allGamesSection.innerHTML = `
+            <div class="mobile-category-header">
+                <h2 class="mobile-category-title">All Games</h2>
+                <span class="mobile-games-count">${this.games.length} games</span>
+            </div>
+            <div class="mobile-all-games-grid" id="allGamesGrid">
+                <!-- Games will be loaded here -->
+            </div>
+            <div class="mobile-load-more" id="loadMoreContainer" style="display: none;">
+                <button class="mobile-load-more-btn" id="loadMoreBtn">Load More Games</button>
+            </div>
+        `;
+        
+        mobileSections.appendChild(allGamesSection);
+        
+        // Load initial games for the All Games section
+        this.loadMoreGames();
+        
+        // Set up scroll listener for infinite scroll
+        this.setupInfiniteScroll();
+    }
+
+    loadMoreGames() {
+        const allGamesGrid = document.getElementById('allGamesGrid');
+        const loadMoreContainer = document.getElementById('loadMoreContainer');
+        
+        if (!allGamesGrid) return;
+        
+        const startIndex = (this.currentPage - 1) * this.gamesPerPage;
+        const endIndex = startIndex + this.gamesPerPage;
+        const gamesToLoad = this.games.slice(startIndex, endIndex);
+        
+        gamesToLoad.forEach(game => {
+            const gameCard = document.createElement('div');
+            gameCard.className = 'game-card mobile-all-game-card';
+            gameCard.tabIndex = 0;
+            gameCard.setAttribute('role', 'button');
+            gameCard.setAttribute('aria-label', `Play ${game.title}`);
+            
+            gameCard.innerHTML = `
+                <img src="${game.thumb}" alt="${game.title}" class="game-thumb" loading="lazy"
+                     onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc4IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDE3OCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNzgiIGhlaWdodD0iMTAwIiBmaWxsPSIjMWExYjI4Ii8+Cjx0ZXh0IHg9Ijg5IiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzY4NDJmZiIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCI+R2FtZSBJbWFnZTwvdGV4dD4KPC9zdmc+'">
+                <div class="game-info">
+                    <h3 class="game-title">${game.title}</h3>
+                </div>
+            `;
+            
+            // Add click event listener
+            gameCard.addEventListener('click', () => this.navigateToGame(game));
+            gameCard.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    this.navigateToGame(game);
+                }
+            });
+            
+            allGamesGrid.appendChild(gameCard);
+        });
+        
+        // Show/hide load more button
+        const hasMoreGames = endIndex < this.games.length;
+        if (hasMoreGames) {
+            loadMoreContainer.style.display = 'block';
+            
+            // Set up load more button
+            const loadMoreBtn = document.getElementById('loadMoreBtn');
+            if (loadMoreBtn) {
+                loadMoreBtn.onclick = () => {
+                    this.currentPage++;
+                    this.loadMoreGames();
+                };
+            }
+        } else {
+            loadMoreContainer.style.display = 'none';
+        }
+    }
+
+    setupInfiniteScroll() {
+        const loadMoreContainer = document.getElementById('loadMoreContainer');
+        
+        // Create intersection observer for infinite scroll
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const hasMoreGames = (this.currentPage * this.gamesPerPage) < this.games.length;
+                    if (hasMoreGames) {
+                        this.currentPage++;
+                        this.loadMoreGames();
+                    }
+                }
+            });
+        }, {
+            root: null,
+            rootMargin: '100px',
+            threshold: 0.1
+        });
+        
+        if (loadMoreContainer) {
+            observer.observe(loadMoreContainer);
+        }
     }
 
     switchToDesktopView() {

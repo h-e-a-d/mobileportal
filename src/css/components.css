@@ -871,6 +871,64 @@
     .mobile-featured-game .game-category {
         display: none;
     }
+    
+    /* All Games Section Styles */
+    .mobile-all-games-section {
+        margin-bottom: var(--spacing-6);
+    }
+    
+    .mobile-games-count {
+        font-size: var(--font-size-small);
+        color: var(--white-400);
+        font-weight: var(--font-weight-semibold);
+        background: var(--black-400);
+        padding: var(--spacing-1) var(--spacing-3);
+        border-radius: var(--border-radius-pill);
+    }
+    
+    .mobile-all-games-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-2);
+        padding: 0 var(--spacing-2);
+    }
+    
+    .mobile-all-game-card {
+        aspect-ratio: 16/9;
+        border-radius: var(--border-radius-lg);
+        overflow: hidden;
+        position: relative;
+        background: var(--black-300);
+    }
+    
+    .mobile-load-more {
+        text-align: center;
+        padding: var(--spacing-4) 0;
+        margin-top: var(--spacing-4);
+    }
+    
+    .mobile-load-more-btn {
+        background: var(--brand-100);
+        color: var(--white-100);
+        border: none;
+        padding: var(--spacing-3) var(--spacing-6);
+        border-radius: var(--border-radius-pill);
+        font-size: var(--font-size-base);
+        font-weight: var(--font-weight-bold);
+        cursor: pointer;
+        transition: all var(--transition-normal);
+        box-shadow: 0 2px 8px rgba(104, 66, 255, 0.3);
+    }
+    
+    .mobile-load-more-btn:hover {
+        background: var(--brand-200);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(104, 66, 255, 0.4);
+    }
+    
+    .mobile-load-more-btn:active {
+        transform: translateY(0);
+    }
 }
 
 @media (max-width: 600px) {
@@ -940,6 +998,22 @@
     
     .game-info {
         padding: 2px 0 0 0 !important;
+    }
+    
+    /* All Games Section responsive */
+    .mobile-all-games-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-1);
+    }
+    
+    .mobile-games-count {
+        font-size: 12px;
+        padding: 2px 8px;
+    }
+    
+    .mobile-load-more-btn {
+        padding: var(--spacing-2) var(--spacing-4);
+        font-size: var(--font-size-small);
     }
 }
 

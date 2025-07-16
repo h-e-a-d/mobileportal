@@ -302,6 +302,10 @@
     background: linear-gradient(45deg, var(--warning-100), #fbbf24);
 }
 
+.game-label.trending {
+    background: linear-gradient(45deg, #8b5cf6, #a855f7);
+}
+
 /* Sidebar - SuperGames Style */
 .sidebar {
     width: var(--sidebar-width);

@@ -11,7 +11,232 @@ class GamePortal {
         this.isLoading = false;
         this.sidebarExpanded = true;
         
+        // Game ranking system
+        this.gameStats = this.loadGameStats();
+        this.rankingWeights = {
+            POPULARITY: 0.30,
+            QUALITY: 0.25,
+            RECENCY: 0.20,
+            PERFORMANCE: 0.15,
+            MONETIZATION: 0.10
+        };
+        
         this.init();
+    }
+
+    // Game ranking system methods
+    loadGameStats() {
+        // Load from localStorage or default values
+        const savedStats = localStorage.getItem('gameStats');
+        if (savedStats) {
+            return JSON.parse(savedStats);
+        }
+        
+        // Default stats structure
+        return {};
+    }
+
+    saveGameStats() {
+        localStorage.setItem('gameStats', JSON.stringify(this.gameStats));
+    }
+
+    getGameStats(gameId) {
+        if (!this.gameStats[gameId]) {
+            this.gameStats[gameId] = {
+                clicks: 0,
+                playTime: 0,
+                rating: 0,
+                reviews: 0,
+                lastPlayed: null,
+                loadTime: 0,
+                crashReports: 0,
+                revenue: 0,
+                shares: 0,
+                createdAt: new Date().toISOString(),
+                updatedAt: new Date().toISOString()
+            };
+        }
+        return this.gameStats[gameId];
+    }
+
+
+    getPopularityScore(game, stats) {
+        // Normalize scores to 0-100 scale
+        const clickScore = Math.min(stats.clicks / 10, 100); // Max at 1000 clicks
+        const playTimeScore = Math.min(stats.playTime / 3600, 100); // Max at 1 hour average
+        const shareScore = Math.min(stats.shares * 10, 100); // Max at 10 shares
+        
+        return (clickScore * 0.5) + (playTimeScore * 0.3) + (shareScore * 0.2);
+    }
+
+    getQualityScore(game, stats) {
+        const ratingScore = (stats.rating / 5) * 100; // Convert 1-5 to 0-100
+        const reviewScore = Math.min(stats.reviews * 2, 100); // Max at 50 reviews
+        const crashScore = Math.max(100 - (stats.crashReports * 10), 0); // Subtract 10 per crash
+        
+        return (ratingScore * 0.5) + (reviewScore * 0.3) + (crashScore * 0.2);
+    }
+
+    getRecencyScore(game, stats) {
+        const now = new Date();
+        const createdAt = new Date(stats.createdAt);
+        const updatedAt = new Date(stats.updatedAt);
+        
+        // Games newer than 7 days get full points
+        const daysSinceCreated = (now - createdAt) / (1000 * 60 * 60 * 24);
+        const daysSinceUpdated = (now - updatedAt) / (1000 * 60 * 60 * 24);
+        
+        const newGameScore = Math.max(100 - (daysSinceCreated * 2), 0); // Decrease by 2 per day
+        const updateScore = Math.max(100 - (daysSinceUpdated * 1), 0); // Decrease by 1 per day
+        
+        return (newGameScore * 0.6) + (updateScore * 0.4);
+    }
+
+    getPerformanceScore(game, stats) {
+        const loadTimeScore = Math.max(100 - (stats.loadTime * 10), 0); // Subtract 10 per second
+        const mobileScore = this.isMobile() ? 100 : 90; // Boost mobile-friendly games
+        const stabilityScore = Math.max(100 - (stats.crashReports * 20), 0); // Subtract 20 per crash
+        
+        return (loadTimeScore * 0.4) + (mobileScore * 0.3) + (stabilityScore * 0.3);
+    }
+
+    getMonetizationScore(game, stats) {
+        const revenueScore = Math.min(stats.revenue / 10, 100); // Max at $1000
+        const engagementScore = Math.min(stats.playTime / 1800, 100); // Max at 30 minutes
+        
+        return (revenueScore * 0.6) + (engagementScore * 0.4);
+    }
+
+    trackGameInteraction(gameId, action, value = 1) {
+        const stats = this.getGameStats(gameId);
+        
+        switch (action) {
+            case 'click':
+                stats.clicks += value;
+                break;
+            case 'play_time':
+                stats.playTime += value;
+                break;
+            case 'rating':
+                stats.rating = value;
+                break;
+            case 'share':
+                stats.shares += value;
+                break;
+            case 'crash':
+                stats.crashReports += value;
+                break;
+            case 'revenue':
+                stats.revenue += value;
+                break;
+        }
+        
+        stats.lastPlayed = new Date().toISOString();
+        stats.updatedAt = new Date().toISOString();
+        
+        this.saveGameStats();
+    }
+
+    rankGames(games) {
+        return games.map(game => ({
+            ...game,
+            score: this.calculateGameScore(game),
+            stats: this.getGameStats(game.id)
+        })).sort((a, b) => b.score - a.score);
+    }
+
+    // Admin methods for manual ranking management
+    boostGame(gameId, boostValue = 20) {
+        const stats = this.getGameStats(gameId);
+        stats.manualBoost = (stats.manualBoost || 0) + boostValue;
+        stats.updatedAt = new Date().toISOString();
+        this.saveGameStats();
+        
+        // Refresh rankings
+        this.games = this.rankGames(this.games);
+        this.applyFilters();
+    }
+
+    setGameRating(gameId, rating) {
+        this.trackGameInteraction(gameId, 'rating', rating);
+        
+        // Refresh rankings
+        this.games = this.rankGames(this.games);
+        this.applyFilters();
+    }
+
+    promoteToFeatured(gameId) {
+        const stats = this.getGameStats(gameId);
+        stats.featured = true;
+        stats.featuredAt = new Date().toISOString();
+        stats.updatedAt = new Date().toISOString();
+        this.saveGameStats();
+        
+        // Refresh rankings
+        this.games = this.rankGames(this.games);
+        this.applyFilters();
+    }
+
+    // Enhanced scoring with manual boosts and featured status
+    calculateGameScore(game) {
+        const stats = this.getGameStats(game.id);
+        
+        const popularityScore = this.getPopularityScore(game, stats);
+        const qualityScore = this.getQualityScore(game, stats);
+        const recencyScore = this.getRecencyScore(game, stats);
+        const performanceScore = this.getPerformanceScore(game, stats);
+        const monetizationScore = this.getMonetizationScore(game, stats);
+        
+        let totalScore = (
+            (popularityScore * this.rankingWeights.POPULARITY) +
+            (qualityScore * this.rankingWeights.QUALITY) +
+            (recencyScore * this.rankingWeights.RECENCY) +
+            (performanceScore * this.rankingWeights.PERFORMANCE) +
+            (monetizationScore * this.rankingWeights.MONETIZATION)
+        );
+        
+        // Add manual boost if present
+        if (stats.manualBoost) {
+            totalScore += stats.manualBoost;
+        }
+        
+        // Add featured bonus
+        if (stats.featured) {
+            totalScore += 25;
+        }
+        
+        // Cap score at 100
+        totalScore = Math.min(totalScore, 100);
+        
+        return Math.round(totalScore * 100) / 100;
+    }
+
+    // Demo function to simulate game interactions for testing
+    simulateGameInteractions() {
+        if (this.games.length > 0) {
+            // Simulate clicks and ratings for some games
+            const topGames = this.games.slice(0, 5);
+            topGames.forEach((game, index) => {
+                // Simulate varying levels of popularity
+                const clicks = Math.floor(Math.random() * 100) + (5 - index) * 20;
+                const rating = 3 + Math.random() * 2; // 3-5 stars
+                const playTime = Math.floor(Math.random() * 3600) + 600; // 10 minutes to 1 hour
+                
+                for (let i = 0; i < clicks; i++) {
+                    this.trackGameInteraction(game.id, 'click');
+                }
+                
+                this.trackGameInteraction(game.id, 'rating', rating);
+                this.trackGameInteraction(game.id, 'play_time', playTime);
+                
+                // Feature the top game
+                if (index === 0) {
+                    this.promoteToFeatured(game.id);
+                }
+            });
+            
+            console.log('Demo interactions simulated. Rankings updated.');
+        }
     }
 
     async init() {
@@ -117,6 +342,9 @@ class GamePortal {
             // If local games are available, use them
             if (this.games && this.games.length > 0) {
                 console.log(`Loaded ${this.games.length} games from local files`);
+                // Apply ranking to games
+                this.games = this.rankGames(this.games);
+                this.filteredGames = this.games;
                 return;
             }
             
@@ -127,8 +355,9 @@ class GamePortal {
             if (data && Array.isArray(data)) {
                 // Filter out games that don't have corresponding HTML files
                 const availableGames = await this.filterAvailableGames(data);
-                this.games = availableGames;
-                this.filteredGames = availableGames;
+                // Apply ranking to games
+                this.games = this.rankGames(availableGames);
+                this.filteredGames = this.games;
             } else {
                 throw new Error('Invalid API response');
             }
@@ -136,7 +365,8 @@ class GamePortal {
             console.error('Error loading games:', error);
             
             // Final fallback to mock games
-            this.games = this.getMockGames();
+            const mockGames = this.getMockGames();
+            this.games = this.rankGames(mockGames);
             this.filteredGames = this.games;
         }
     }
@@ -192,11 +422,12 @@ class GamePortal {
         }
         
         if (games.length > 0) {
-            this.games = games;
-            this.filteredGames = games;
+            this.games = this.rankGames(games);
+            this.filteredGames = this.games;
         } else {
             // Use mock data as final fallback
-            this.games = this.getMockGames();
+            const mockGames = this.getMockGames();
+            this.games = this.rankGames(mockGames);
             this.filteredGames = this.games;
         }
     }
@@ -647,15 +878,30 @@ class GamePortal {
 
     getGameLabels(game) {
         const labels = [];
-        const random = Math.random();
+        const score = game.score || 0;
+        const stats = game.stats || this.getGameStats(game.id);
         
-        // Add random labels for demo purposes
-        if (random < 0.3) {
-            labels.push({ type: 'hot', text: 'HOT' });
-        } else if (random < 0.5) {
-            labels.push({ type: 'new', text: 'NEW' });
-        } else if (random < 0.6) {
+        // Add labels based on ranking score and stats
+        if (score > 80) {
             labels.push({ type: 'top', text: 'TOP' });
+        } else if (score > 60) {
+            labels.push({ type: 'hot', text: 'HOT' });
+        }
+        
+        // Add new label for recently created games
+        if (stats.createdAt) {
+            const daysSinceCreated = (new Date() - new Date(stats.createdAt)) / (1000 * 60 * 60 * 24);
+            if (daysSinceCreated <= 7) {
+                labels.push({ type: 'new', text: 'NEW' });
+            }
+        }
+        
+        // Add trending label for games with recent activity
+        if (stats.clicks > 10 && stats.lastPlayed) {
+            const daysSinceLastPlayed = (new Date() - new Date(stats.lastPlayed)) / (1000 * 60 * 60 * 24);
+            if (daysSinceLastPlayed <= 1) {
+                labels.push({ type: 'trending', text: 'TRENDING' });
+            }
         }
         
         return labels;
@@ -689,11 +935,15 @@ class GamePortal {
             return;
         }
         
-        // Track game click
+        // Track game click for ranking system
+        this.trackGameInteraction(game.id, 'click');
+        
+        // Track game click for analytics
         this.trackEvent('game_click', {
             game_title: game.title,
             game_category: game.category,
-            game_id: game.id
+            game_id: game.id,
+            game_score: game.score || 0
         });
         
         window.location.href = gameUrl;
@@ -751,6 +1001,7 @@ class GamePortal {
             );
         }
 
+        // Games are already sorted by score from the ranking system
         this.filteredGames = filteredGames;
         this.displayGames();
     }

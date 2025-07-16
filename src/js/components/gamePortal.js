@@ -17,6 +17,7 @@ class GamePortal {
     async init() {
         this.showLoading();
         this.initializeSidebar();
+        this.preventMobilePullToRefresh();
         await this.loadGames();
         this.setupEventListeners();
         this.displayGames();
@@ -45,6 +46,51 @@ class GamePortal {
                 }
             }
         }
+    }
+
+    preventMobilePullToRefresh() {
+        // Prevent pull-to-refresh on mobile Safari
+        if (this.isMobile()) {
+            let startY = 0;
+            let isAtTop = true;
+            
+            // Track if we're at the top of the page
+            const updateScrollPosition = () => {
+                isAtTop = window.scrollY <= 0;
+            };
+            
+            // Listen for scroll events
+            window.addEventListener('scroll', updateScrollPosition, { passive: true });
+            
+            // Handle touch events to prevent pull-to-refresh
+            document.addEventListener('touchstart', (e) => {
+                if (e.touches.length === 1) {
+                    startY = e.touches[0].clientY;
+                }
+            }, { passive: true });
+            
+            document.addEventListener('touchmove', (e) => {
+                if (e.touches.length === 1) {
+                    const currentY = e.touches[0].clientY;
+                    const deltaY = currentY - startY;
+                    
+                    // Prevent pull-to-refresh when scrolling down at the top of the page
+                    if (isAtTop && deltaY > 0) {
+                        e.preventDefault();
+                    }
+                }
+            }, { passive: false });
+            
+            // Additional prevention for webkit browsers
+            document.addEventListener('touchforcechange', (e) => {
+                e.preventDefault();
+            });
+        }
+    }
+
+    isMobile() {
+        return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || 
+               window.innerWidth <= 789.95;
     }
 
     showLoading() {

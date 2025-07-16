@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Kloopik - Play Free Online Games | Best Web Games Collection</title>
     <meta name="description" content="Play thousands of free online games on Kloopik. Discover action, puzzle, racing, strategy and arcade games. No downloads required - play instantly in your browser!">
     <meta name="keywords" content="free online games, web games, browser games, action games, puzzle games, racing games, strategy games, arcade games, play games online, kloopik">
@@ -96,6 +99,8 @@
         html {
             font-size: 16px;
             scroll-behavior: smooth;
+            /* Prevent pull-to-refresh on mobile */
+            overscroll-behavior-y: contain;
         }
 
         body {
@@ -105,6 +110,10 @@
             color: #F9FAFF;
             background-color: #0C0D14;
             overflow-x: hidden;
+            /* Prevent bounce scroll on mobile */
+            overscroll-behavior-y: contain;
+            /* Prevent touch actions that could trigger refresh */
+            touch-action: pan-y;
         }
 
         /* Critical Variables */
@@ -255,6 +264,17 @@
 
         /* Mobile Critical Styles */
         @media (max-width: 789.95px) {
+            html {
+                /* Disable smooth scrolling on mobile to prevent conflicts */
+                scroll-behavior: auto;
+            }
+            
+            body {
+                /* Additional mobile-specific touch handling */
+                -webkit-overflow-scrolling: touch;
+                overscroll-behavior: contain;
+            }
+            
             .main-container {
                 padding-left: 0;
                 flex-direction: column;
@@ -264,6 +284,8 @@
             .navbar {
                 height: auto;
                 min-height: var(--header-height);
+                /* Reduce backdrop blur on mobile for better performance */
+                backdrop-filter: blur(4px);
             }
             
             .nav-container {

@@ -467,12 +467,16 @@ class GamePortal {
 
     async loadLocalGames() {
         // Load games from locally generated pages
-        const locales = ['en', 'de']; // Add more locales as needed
+        const currentLocale = this.getCurrentLocale();
+        const fallbackLocales = ['en', 'de']; // Add more locales as needed
         const games = [];
         
         console.log('Loading local games...');
         
-        for (const locale of locales) {
+        // Try to load current locale first
+        const localesToTry = [currentLocale, ...fallbackLocales.filter(l => l !== currentLocale)];
+        
+        for (const locale of localesToTry) {
             try {
                 console.log(`Trying to load games for locale: ${locale}`);
                 const response = await fetch(`games/${locale}/games-list.json`);
@@ -482,6 +486,12 @@ class GamePortal {
                     const localeGames = await response.json();
                     console.log(`Loaded ${localeGames.length} games for ${locale}`);
                     games.push(...localeGames);
+                    
+                    // If we successfully loaded games for current locale, break
+                    if (locale === currentLocale && localeGames.length > 0) {
+                        console.log(`Successfully loaded games for current locale (${currentLocale}), skipping other locales`);
+                        break;
+                    }
                 } else {
                     console.warn(`Failed to load games for ${locale}, status: ${response.status}`);
                 }
@@ -493,7 +503,11 @@ class GamePortal {
         console.log(`Total games loaded: ${games.length}`);
         
         if (games.length > 0) {
-            this.games = this.rankGames(games);
+            // Remove duplicates based on game ID
+            const uniqueGames = this.removeDuplicateGames(games);
+            console.log(`Games after deduplication: ${uniqueGames.length}`);
+            
+            this.games = this.rankGames(uniqueGames);
             this.filteredGames = this.games;
         } else {
             // Use mock data as final fallback
@@ -502,6 +516,20 @@ class GamePortal {
             this.games = this.rankGames(mockGames);
             this.filteredGames = this.games;
         }
+    }
+
+    removeDuplicateGames(games) {
+        const uniqueGames = [];
+        const seenIds = new Set();
+        
+        for (const game of games) {
+            if (!seenIds.has(game.id)) {
+                seenIds.add(game.id);
+                uniqueGames.push(game);
+            }
+        }
+        
+        return uniqueGames;
     }
 
     getMockGames() {

@@ -58,6 +58,25 @@
     display: flex;
     gap: var(--spacing-md);
     flex-shrink: 0;
+    margin-top: var(--spacing-lg);
+    justify-content: center;
+    position: static !important;
+    z-index: auto;
+    width: 100%;
+    clear: both;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    /* Fix: prevent the div from stretching */
+    align-self: flex-start;
+    height: auto;
+    max-height: fit-content;
+}
+
+.game-actions .btn:hover {
+    transform: none !important;
+    z-index: auto !important;
 }
 
 .game-frame-container {
@@ -360,7 +379,7 @@
     
     .game-actions {
         width: 100%;
-        justify-content: flex-start;
+        justify-content: center;
     }
 }
 
@@ -376,10 +395,13 @@
     .game-actions {
         flex-direction: column;
         gap: var(--spacing-sm);
+        margin-top: var(--spacing-md);
     }
     
     .game-actions .btn {
         width: 100%;
+        max-width: 200px;
+        align-self: center;
     }
     
     .game-frame-container {

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Last Played Games Cache Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #0C0D14;
+            color: #F9FAFF;
+        }
+        .test-section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #1A1B28;
+            border-radius: 8px;
+        }
+        button {
+            background: #6842FF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background: #5935D6;
+        }
+        .game-list {
+            margin-top: 10px;
+        }
+        .game-item {
+            padding: 10px;
+            margin: 5px 0;
+            background: #212233;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .played-at {
+            font-size: 0.9em;
+            color: #AAADBE;
+        }
+        .test-result {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .success {
+            background: #4CAF50;
+            color: white;
+        }
+        .error {
+            background: #F44336;
+            color: white;
+        }
+        .info {
+            background: #2196F3;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Last Played Games Cache Test</h1>
+    
+    <div class="test-section">
+        <h2>Test Cache Functionality</h2>
+        <p>This test verifies that the last played games caching system is working correctly.</p>
+        
+        <button onclick="testAddGame()">Add Test Game</button>
+        <button onclick="testAddMultipleGames()">Add Multiple Games</button>
+        <button onclick="testViewLastPlayed()">View Last Played</button>
+        <button onclick="testClearCache()">Clear Cache</button>
+        
+        <div id="testResults"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Current Last Played Games</h2>
+        <div id="lastPlayedList"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>localStorage Content</h2>
+        <div id="localStorageContent"></div>
+    </div>
+
+    <script>
+        // Mock game data for testing
+        const mockGames = [
+            {
+                id: 1,
+                title: 'Super Racing Adventure',
+                description: 'Experience the thrill of high-speed racing in this action-packed adventure game.',
+                category: 'Racing',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZjZiMzUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCI+UmFjaW5nPC90ZXh0Pgo8L3N2Zz4=',
+                url: 'games/en/super-racing-adventure-en.html',
+                slug: 'super-racing-adventure'
+            },
+            {
+                id: 2,
+                title: 'Puzzle Master Challenge',
+                description: 'Test your brain with this challenging puzzle game.',
+                category: 'Puzzle',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZjZiMzUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCI+UHV6emxlPC90ZXh0Pgo8L3N2Zz4=',
+                url: 'games/en/puzzle-master-challenge-en.html',
+                slug: 'puzzle-master-challenge'
+            },
+            {
+                id: 3,
+                title: 'Space Shooter Galaxy',
+                description: 'Defend the galaxy from alien invaders in this intense space shooter.',
+                category: 'Action',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZjZiMzUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCI+QWN0aW9uPC90ZXh0Pgo8L3N2Zz4=',
+                url: 'games/en/space-shooter-galaxy-en.html',
+                slug: 'space-shooter-galaxy'
+            },
+            {
+                id: 4,
+                title: 'Football Champions',
+                description: 'Lead your team to victory in this exciting football game.',
+                category: 'Sports',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZjZiMzUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCI+U3BvcnRzPC90ZXh0Pgo8L3N2Zz4=',
+                url: 'games/en/football-champions-en.html',
+                slug: 'football-champions'
+            },
+            {
+                id: 5,
+                title: 'Strategy Empire',
+                description: 'Build and manage your empire in this strategic conquest game.',
+                category: 'Strategy',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZjZiMzUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCI+U3RyYXRlZ3k8L3RleHQ+Cjwvc3ZnPg==',
+                url: 'games/en/strategy-empire-en.html',
+                slug: 'strategy-empire'
+            }
+        ];
+
+        // Cache management functions
+        function loadLastPlayedGames() {
+            const saved = localStorage.getItem('lastPlayedGames');
+            if (saved) {
+                try {
+                    return JSON.parse(saved);
+                } catch (error) {
+                    console.error('Error parsing last played games:', error);
+                    return [];
+                }
+            }
+            return [];
+        }
+
+        function saveLastPlayedGames(games) {
+            localStorage.setItem('lastPlayedGames', JSON.stringify(games));
+        }
+
+        function addToLastPlayed(game) {
+            let lastPlayedGames = loadLastPlayedGames();
+            
+            // Remove the game if it already exists in the list
+            lastPlayedGames = lastPlayedGames.filter(g => g.id !== game.id);
+            
+            // Add the game to the beginning of the list
+            lastPlayedGames.unshift({
+                ...game,
+                playedAt: new Date().toISOString()
+            });
+            
+            // Keep only the maximum number of games (12)
+            if (lastPlayedGames.length > 12) {
+                lastPlayedGames = lastPlayedGames.slice(0, 12);
+            }
+            
+            // Save to localStorage
+            saveLastPlayedGames(lastPlayedGames);
+            
+            return lastPlayedGames;
+        }
+
+        function clearLastPlayedGames() {
+            localStorage.removeItem('lastPlayedGames');
+        }
+
+        // Test functions
+        function testAddGame() {
+            const game = mockGames[Math.floor(Math.random() * mockGames.length)];
+            const result = addToLastPlayed(game);
+            
+            showTestResult(`Successfully added "${game.title}" to last played games. Total games: ${result.length}`, 'success');
+            updateDisplay();
+        }
+
+        function testAddMultipleGames() {
+            const shuffledGames = [...mockGames].sort(() => Math.random() - 0.5);
+            let totalAdded = 0;
+            
+            shuffledGames.forEach(game => {
+                addToLastPlayed(game);
+                totalAdded++;
+                // Add a small delay to ensure different timestamps
+                game.playedAt = new Date(Date.now() + totalAdded * 1000).toISOString();
+            });
+            
+            const result = loadLastPlayedGames();
+            showTestResult(`Successfully added ${totalAdded} games to last played games. Total games: ${result.length}`, 'success');
+            updateDisplay();
+        }
+
+        function testViewLastPlayed() {
+            const lastPlayedGames = loadLastPlayedGames();
+            
+            if (lastPlayedGames.length === 0) {
+                showTestResult('No last played games found in cache.', 'info');
+            } else {
+                showTestResult(`Found ${lastPlayedGames.length} last played games in cache.`, 'info');
+            }
+            
+            updateDisplay();
+        }
+
+        function testClearCache() {
+            clearLastPlayedGames();
+            showTestResult('Cache cleared successfully.', 'info');
+            updateDisplay();
+        }
+
+        function showTestResult(message, type) {
+            const resultsDiv = document.getElementById('testResults');
+            const resultDiv = document.createElement('div');
+            resultDiv.className = `test-result ${type}`;
+            resultDiv.textContent = message;
+            resultsDiv.appendChild(resultDiv);
+            
+            // Auto-remove after 5 seconds
+            setTimeout(() => {
+                resultsDiv.removeChild(resultDiv);
+            }, 5000);
+        }
+
+        function updateDisplay() {
+            // Update last played games list
+            const lastPlayedGames = loadLastPlayedGames();
+            const listDiv = document.getElementById('lastPlayedList');
+            
+            if (lastPlayedGames.length === 0) {
+                listDiv.innerHTML = '<p>No last played games found.</p>';
+            } else {
+                listDiv.innerHTML = lastPlayedGames.map(game => `
+                    <div class="game-item">
+                        <div>
+                            <strong>${game.title}</strong> - ${game.category}
+                        </div>
+                        <div class="played-at">
+                            Played: ${new Date(game.playedAt).toLocaleString()}
+                        </div>
+                    </div>
+                `).join('');
+            }
+            
+            // Update localStorage content
+            const storageDiv = document.getElementById('localStorageContent');
+            const lastPlayedData = localStorage.getItem('lastPlayedGames');
+            
+            if (lastPlayedData) {
+                storageDiv.innerHTML = `
+                    <h3>lastPlayedGames key:</h3>
+                    <pre style="background: #212233; padding: 10px; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">${lastPlayedData}</pre>
+                `;
+            } else {
+                storageDiv.innerHTML = '<p>No lastPlayedGames data found in localStorage.</p>';
+            }
+        }
+
+        // Initialize display on page load
+        window.onload = function() {
+            updateDisplay();
+        };
+    </script>
+</body>
+</html>

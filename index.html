@@ -161,6 +161,13 @@
             max-width: none;
             margin: 0 auto;
             height: 100%;
+            position: relative;
+        }
+
+        .nav-left {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-4);
         }
 
         .nav-logo {
@@ -184,24 +191,69 @@
             align-items: center;
         }
 
+        .search-toggle {
+            background: none;
+            border: none;
+            color: var(--white-100);
+            cursor: pointer;
+            padding: var(--spacing-2);
+            border-radius: var(--border-radius);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all var(--transition-normal);
+            width: 40px;
+            height: 40px;
+        }
+
+        .search-toggle:hover {
+            background: var(--black-400);
+            color: var(--brand-100);
+        }
+
         .nav-search {
-            flex: 1;
-            max-width: 460px;
-            margin: 0 var(--spacing-6);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 0;
+            overflow: visible;
+            background: var(--black-400);
+            border-radius: var(--border-radius-pill);
+            transition: all var(--transition-normal);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 40px;
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        .nav-search.active {
+            width: 400px;
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .search-input-container {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            height: 40px;
+            background: var(--black-400);
+            border-radius: var(--border-radius-pill);
         }
 
         .nav-search input {
-            width: 100%;
-            background: var(--black-400);
-            border: 2px solid transparent;
-            border-radius: var(--border-radius-pill);
-            padding: var(--spacing-3) 20px;
+            flex: 1;
+            background: transparent;
+            border: none;
+            padding: var(--spacing-3) var(--spacing-4);
             color: var(--white-100);
             font-size: 1rem;
             font-weight: 700;
-            transition: border-color var(--transition-normal);
-            height: 40px;
-            box-sizing: border-box;
+            height: 100%;
+            border-radius: var(--border-radius-pill);
         }
 
         .nav-search input::placeholder {
@@ -211,7 +263,122 @@
 
         .nav-search input:focus {
             outline: none;
-            border-color: var(--brand-100);
+        }
+
+        .search-close {
+            background: none;
+            border: none;
+            color: var(--white-400);
+            cursor: pointer;
+            padding: var(--spacing-2);
+            border-radius: var(--border-radius);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all var(--transition-normal);
+            width: 36px;
+            height: 36px;
+            margin-right: var(--spacing-1);
+        }
+
+        .search-close:hover {
+            color: var(--white-100);
+            background: var(--black-500);
+        }
+
+        .nav-search .search-input-container {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            height: 40px;
+            background: var(--black-400);
+            border-radius: var(--border-radius-pill);
+        }
+
+        .search-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: var(--black-300);
+            border-radius: var(--border-radius-lg);
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--black-400);
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+            margin-top: var(--spacing-2);
+        }
+
+        .search-dropdown.active {
+            display: block;
+        }
+
+        .search-results {
+            padding: var(--spacing-2);
+        }
+
+        .search-result-item {
+            display: flex;
+            align-items: center;
+            padding: var(--spacing-2) var(--spacing-3);
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: all var(--transition-normal);
+            gap: var(--spacing-3);
+        }
+
+        .search-result-item:hover {
+            background: var(--black-400);
+        }
+
+        .search-result-item:active {
+            background: var(--brand-100);
+        }
+
+        .search-result-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: var(--border-radius-sm);
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .search-result-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .search-result-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .search-result-title {
+            font-size: var(--font-size-small);
+            font-weight: var(--font-weight-semibold);
+            color: var(--white-100);
+            margin: 0;
+            line-height: 1.2;
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .search-result-category {
+            font-size: 12px;
+            color: var(--white-400);
+            margin-top: 2px;
+        }
+
+        .search-no-results {
+            padding: var(--spacing-4);
+            text-align: center;
+            color: var(--white-400);
+            font-size: var(--font-size-small);
         }
 
         .main-container {
@@ -282,31 +449,52 @@
             }
             
             .navbar {
-                height: auto;
-                min-height: var(--header-height);
+                height: var(--header-height);
                 /* Reduce backdrop blur on mobile for better performance */
                 backdrop-filter: blur(4px);
             }
             
             .nav-container {
-                flex-direction: column;
+                padding: 0 var(--spacing-4);
+                justify-content: flex-start;
+            }
+            
+            .nav-left {
                 gap: var(--spacing-3);
-                padding: var(--spacing-3) var(--spacing-4);
-                align-items: stretch;
             }
             
-            .nav-logo {
-                align-self: center;
+            .nav-logo h1 {
+                font-size: 1.25rem;
             }
             
-            .nav-search {
-                order: 2;
-                margin: 0;
-                max-width: none;
+            .search-toggle {
+                width: 36px;
+                height: 36px;
             }
             
-            .nav-search input {
-                height: 44px;
+            .nav-search.active {
+                width: calc(100vw - 32px);
+                max-width: 320px;
+                left: 50%;
+                transform: translateX(-50%);
+                top: 10px;
+            }
+
+            .search-dropdown {
+                max-height: 250px;
+            }
+
+            .search-result-item {
+                padding: var(--spacing-3) var(--spacing-3);
+            }
+
+            .search-result-icon {
+                width: 28px;
+                height: 28px;
+            }
+
+            .search-result-title {
+                font-size: var(--font-size-small);
             }
             
             .sidebar {
@@ -344,11 +532,34 @@
     <!-- End Google Tag Manager (noscript) -->
     <nav class="navbar">
         <div class="nav-container">
-            <div class="nav-logo">
-                <h1>Kloopik</h1>
+            <div class="nav-left">
+                <div class="nav-logo">
+                    <a href="/">
+                        <h1>Kloopik</h1>
+                    </a>
+                </div>
+                <button class="search-toggle" id="searchToggle" aria-label="Toggle search">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                </button>
             </div>
-            <div class="nav-search">
-                <input type="text" id="searchInput" placeholder="Search games...">
+            <div class="nav-search" id="navSearch">
+                <div class="search-input-container">
+                    <input type="text" id="searchInput" placeholder="Search games...">
+                    <button class="search-close" id="searchClose" aria-label="Close search">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div class="search-dropdown" id="searchDropdown">
+                    <div class="search-results" id="searchResults">
+                        <!-- Search results will be populated here -->
+                    </div>
+                </div>
             </div>
         </div>
     </nav>

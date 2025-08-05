@@ -71,6 +71,11 @@
             color: var(--white-100);
             background-color: var(--black-100);
             overflow-x: hidden;
+            /* Mobile performance optimizations */
+            -webkit-overflow-scrolling: touch;
+            overscroll-behavior: contain;
+            transform: translateZ(0);
+            backface-visibility: hidden;
         }
 
         .loading {
@@ -94,6 +99,33 @@
         @keyframes spin {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
+        }
+
+        /* Mobile performance optimizations */
+        @media (max-width: 789.95px) {
+            * {
+                /* Prevent content blinking during scroll */
+                transform: translateZ(0);
+                backface-visibility: hidden;
+            }
+            
+            .main-container {
+                /* Optimize mobile layout */
+                will-change: auto;
+                contain: layout style;
+            }
+            
+            .content {
+                /* Prevent layout shifts */
+                contain: layout style paint;
+                overflow-anchor: none;
+            }
+            
+            .mobile-category-sections {
+                /* Smooth mobile scrolling */
+                transform: translateZ(0);
+                will-change: scroll-position;
+            }
         }
     </style>
     

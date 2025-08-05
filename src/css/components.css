@@ -282,20 +282,41 @@
     gap: var(--spacing-4);
 }
 
+/* Game page nav search styles (simplified) */
+.nav-search input {
+    background: var(--black-400);
+    border: none;
+    padding: var(--spacing-3) var(--spacing-4);
+    color: var(--white-100);
+    font-size: 1rem;
+    width: 300px;
+    border-radius: var(--border-radius-pill);
+}
+
+.nav-search input::placeholder {
+    color: var(--white-400);
+}
+
+.nav-search input:focus {
+    outline: none;
+    border: 2px solid var(--brand-100);
+}
+
 /* Game cards - SuperGames Style */
 .game-card {
     background: var(--black-300);
     border-radius: var(--border-radius-lg);
     overflow: hidden;
-    transition: all var(--transition-normal);
+    transition: transform var(--transition-normal), border-color var(--transition-normal);
     cursor: pointer;
     border: 2px solid transparent;
     position: relative;
     aspect-ratio: 16/9;
-    /* Improve rendering performance during scroll */
+    /* Performance optimizations for mobile scrolling */
     transform: translateZ(0);
     will-change: transform;
     backface-visibility: hidden;
+    contain: layout style paint;
 }
 
 .game-card:hover {
@@ -315,9 +336,11 @@
     object-fit: cover;
     display: block;
     transition: transform var(--transition-normal);
-    /* Improve image rendering during scroll */
+    /* Performance optimizations */
     transform: translateZ(0);
     backface-visibility: hidden;
+    will-change: transform;
+    contain: strict;
 }
 
 .game-card:hover .game-thumb {
@@ -535,9 +558,12 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: var(--spacing-1);
-    /* Improve grid rendering performance during scroll */
+    /* Performance optimizations for mobile scrolling */
     transform: translateZ(0);
     will-change: scroll-position;
+    contain: layout style;
+    /* Prevent layout thrashing */
+    overflow-anchor: none;
 }
 
 .no-games {
@@ -660,9 +686,11 @@
         background: transparent !important;
         padding: 4px 0 0 0 !important;
         opacity: 1 !important;
-        /* Improve text rendering during scroll */
+        /* Performance optimizations */
         transform: translateZ(0);
         backface-visibility: hidden;
+        will-change: auto;
+        contain: layout style paint;
     }
     
     .game-category {
@@ -718,6 +746,10 @@
         padding: 0 var(--spacing-2);
         scrollbar-width: none;
         -ms-overflow-style: none;
+        /* Smooth scrolling on mobile */
+        -webkit-overflow-scrolling: touch;
+        scroll-behavior: smooth;
+        overscroll-behavior-x: contain;
     }
     
     .mobile-games-row::-webkit-scrollbar {
@@ -729,6 +761,10 @@
         width: 140px;
         height: auto;
         margin-right: 0;
+        /* Mobile performance optimization */
+        transform: translateZ(0);
+        will-change: auto;
+        contain: layout style paint;
     }
     
     .mobile-games-row .game-card .game-thumb {

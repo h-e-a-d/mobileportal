@@ -49,6 +49,13 @@
     --spacing-16: calc(var(--base-unit) * 8); /* 64px */
     --spacing-20: calc(var(--base-unit) * 10); /* 80px */
     
+    /* Legacy spacing aliases for compatibility */
+    --spacing-xs: var(--spacing-1);
+    --spacing-sm: var(--spacing-2);
+    --spacing-md: var(--spacing-4);
+    --spacing-lg: var(--spacing-6);
+    --spacing-xl: var(--spacing-8);
+    
     
     /* Layout Dimensions */
     --header-height: 60px;
@@ -68,6 +75,9 @@
     --transition-fast: 0.15s ease;
     --transition-normal: 0.25s ease;
     --transition-slow: 0.5s ease;
+    
+    /* Effects */
+    --backdrop-blur: blur(8px);
     
     /* Shadows */
     --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.12);

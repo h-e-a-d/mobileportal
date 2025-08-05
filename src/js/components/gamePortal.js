@@ -11,16 +11,6 @@ class GamePortal {
         this.isLoading = false;
         this.sidebarExpanded = true;
         
-        // Game ranking system
-        this.gameStats = this.loadGameStats();
-        this.rankingWeights = {
-            POPULARITY: 0.30,
-            QUALITY: 0.25,
-            RECENCY: 0.20,
-            PERFORMANCE: 0.15,
-            MONETIZATION: 0.10
-        };
-        
         // Last played games tracking
         this.lastPlayedGames = this.loadLastPlayedGames();
         this.maxLastPlayedGames = 12;
@@ -28,21 +18,6 @@ class GamePortal {
         this.init();
     }
 
-    // Game ranking system methods
-    loadGameStats() {
-        // Load from localStorage or default values
-        const savedStats = localStorage.getItem('gameStats');
-        if (savedStats) {
-            return JSON.parse(savedStats);
-        }
-        
-        // Default stats structure
-        return {};
-    }
-
-    saveGameStats() {
-        localStorage.setItem('gameStats', JSON.stringify(this.gameStats));
-    }
 
     // Last played games methods
     loadLastPlayedGames() {
@@ -96,209 +71,10 @@ class GamePortal {
         return this.lastPlayedGames.length > 0;
     }
 
-    getGameStats(gameId) {
-        if (!this.gameStats[gameId]) {
-            this.gameStats[gameId] = {
-                clicks: 0,
-                playTime: 0,
-                rating: 0,
-                reviews: 0,
-                lastPlayed: null,
-                loadTime: 0,
-                crashReports: 0,
-                revenue: 0,
-                shares: 0,
-                createdAt: new Date().toISOString(),
-                updatedAt: new Date().toISOString()
-            };
-        }
-        return this.gameStats[gameId];
-    }
-
-
-    getPopularityScore(game, stats) {
-        // Normalize scores to 0-100 scale
-        const clickScore = Math.min(stats.clicks / 10, 100); // Max at 1000 clicks
-        const playTimeScore = Math.min(stats.playTime / 3600, 100); // Max at 1 hour average
-        const shareScore = Math.min(stats.shares * 10, 100); // Max at 10 shares
-        
-        return (clickScore * 0.5) + (playTimeScore * 0.3) + (shareScore * 0.2);
-    }
-
-    getQualityScore(game, stats) {
-        const ratingScore = (stats.rating / 5) * 100; // Convert 1-5 to 0-100
-        const reviewScore = Math.min(stats.reviews * 2, 100); // Max at 50 reviews
-        const crashScore = Math.max(100 - (stats.crashReports * 10), 0); // Subtract 10 per crash
-        
-        return (ratingScore * 0.5) + (reviewScore * 0.3) + (crashScore * 0.2);
-    }
-
-    getRecencyScore(game, stats) {
-        const now = new Date();
-        const createdAt = new Date(stats.createdAt);
-        const updatedAt = new Date(stats.updatedAt);
-        
-        // Games newer than 7 days get full points
-        const daysSinceCreated = (now - createdAt) / (1000 * 60 * 60 * 24);
-        const daysSinceUpdated = (now - updatedAt) / (1000 * 60 * 60 * 24);
-        
-        const newGameScore = Math.max(100 - (daysSinceCreated * 2), 0); // Decrease by 2 per day
-        const updateScore = Math.max(100 - (daysSinceUpdated * 1), 0); // Decrease by 1 per day
-        
-        return (newGameScore * 0.6) + (updateScore * 0.4);
-    }
-
-    getPerformanceScore(game, stats) {
-        const loadTimeScore = Math.max(100 - (stats.loadTime * 10), 0); // Subtract 10 per second
-        const mobileScore = this.isMobile() ? 100 : 90; // Boost mobile-friendly games
-        const stabilityScore = Math.max(100 - (stats.crashReports * 20), 0); // Subtract 20 per crash
-        
-        return (loadTimeScore * 0.4) + (mobileScore * 0.3) + (stabilityScore * 0.3);
-    }
-
-    getMonetizationScore(game, stats) {
-        const revenueScore = Math.min(stats.revenue / 10, 100); // Max at $1000
-        const engagementScore = Math.min(stats.playTime / 1800, 100); // Max at 30 minutes
-        
-        return (revenueScore * 0.6) + (engagementScore * 0.4);
-    }
-
-    trackGameInteraction(gameId, action, value = 1) {
-        const stats = this.getGameStats(gameId);
-        
-        switch (action) {
-            case 'click':
-                stats.clicks += value;
-                break;
-            case 'play_time':
-                stats.playTime += value;
-                break;
-            case 'rating':
-                stats.rating = value;
-                break;
-            case 'share':
-                stats.shares += value;
-                break;
-            case 'crash':
-                stats.crashReports += value;
-                break;
-            case 'revenue':
-                stats.revenue += value;
-                break;
-        }
-        
-        stats.lastPlayed = new Date().toISOString();
-        stats.updatedAt = new Date().toISOString();
-        
-        this.saveGameStats();
-    }
-
-    rankGames(games) {
-        return games.map(game => ({
-            ...game,
-            score: this.calculateGameScore(game),
-            stats: this.getGameStats(game.id)
-        })).sort((a, b) => b.score - a.score);
-    }
-
-    // Admin methods for manual ranking management
-    boostGame(gameId, boostValue = 20) {
-        const stats = this.getGameStats(gameId);
-        stats.manualBoost = (stats.manualBoost || 0) + boostValue;
-        stats.updatedAt = new Date().toISOString();
-        this.saveGameStats();
-        
-        // Refresh rankings
-        this.games = this.rankGames(this.games);
-        this.applyFilters();
-    }
-
-    setGameRating(gameId, rating) {
-        this.trackGameInteraction(gameId, 'rating', rating);
-        
-        // Refresh rankings
-        this.games = this.rankGames(this.games);
-        this.applyFilters();
-    }
-
-    promoteToFeatured(gameId) {
-        const stats = this.getGameStats(gameId);
-        stats.featured = true;
-        stats.featuredAt = new Date().toISOString();
-        stats.updatedAt = new Date().toISOString();
-        this.saveGameStats();
-        
-        // Refresh rankings
-        this.games = this.rankGames(this.games);
-        this.applyFilters();
-    }
-
-    // Enhanced scoring with manual boosts and featured status
-    calculateGameScore(game) {
-        const stats = this.getGameStats(game.id);
-        
-        const popularityScore = this.getPopularityScore(game, stats);
-        const qualityScore = this.getQualityScore(game, stats);
-        const recencyScore = this.getRecencyScore(game, stats);
-        const performanceScore = this.getPerformanceScore(game, stats);
-        const monetizationScore = this.getMonetizationScore(game, stats);
-        
-        let totalScore = (
-            (popularityScore * this.rankingWeights.POPULARITY) +
-            (qualityScore * this.rankingWeights.QUALITY) +
-            (recencyScore * this.rankingWeights.RECENCY) +
-            (performanceScore * this.rankingWeights.PERFORMANCE) +
-            (monetizationScore * this.rankingWeights.MONETIZATION)
-        );
-        
-        // Add manual boost if present
-        if (stats.manualBoost) {
-            totalScore += stats.manualBoost;
-        }
-        
-        // Add featured bonus
-        if (stats.featured) {
-            totalScore += 25;
-        }
-        
-        // Cap score at 100
-        totalScore = Math.min(totalScore, 100);
-        
-        return Math.round(totalScore * 100) / 100;
-    }
-
-    // Demo function to simulate game interactions for testing
-    simulateGameInteractions() {
-        if (this.games.length > 0) {
-            // Simulate clicks and ratings for some games
-            const topGames = this.games.slice(0, 5);
-            topGames.forEach((game, index) => {
-                // Simulate varying levels of popularity
-                const clicks = Math.floor(Math.random() * 100) + (5 - index) * 20;
-                const rating = 3 + Math.random() * 2; // 3-5 stars
-                const playTime = Math.floor(Math.random() * 3600) + 600; // 10 minutes to 1 hour
-                
-                for (let i = 0; i < clicks; i++) {
-                    this.trackGameInteraction(game.id, 'click');
-                }
-                
-                this.trackGameInteraction(game.id, 'rating', rating);
-                this.trackGameInteraction(game.id, 'play_time', playTime);
-                
-                // Feature the top game
-                if (index === 0) {
-                    this.promoteToFeatured(game.id);
-                }
-            });
-            
-            console.log('Demo interactions simulated. Rankings updated.');
-        }
-    }
 
     async init() {
         this.showLoading();
         this.initializeSidebar();
-        this.preventMobilePullToRefresh();
         await this.loadGames();
         this.setupEventListeners();
         this.updateLastPlayedCategoryVisibility();
@@ -307,68 +83,9 @@ class GamePortal {
     }
 
     initializeSidebar() {
-        // Initialize sidebar state from localStorage
-        const savedState = localStorage.getItem('sidebar_expanded');
-        if (savedState !== null) {
-            this.sidebarExpanded = savedState === 'true';
-        }
-        
-        // Apply initial state (only on desktop)
-        if (window.innerWidth > 789.95) {
-            const sidebar = document.getElementById('sidebar');
-            const mainContainer = document.getElementById('mainContainer');
-            const sidebarToggle = document.getElementById('sidebarToggle');
-            
-            if (!this.sidebarExpanded) {
-                sidebar.classList.add('collapsed');
-                mainContainer.classList.remove('sidebar-expanded');
-                mainContainer.classList.add('sidebar-collapsed');
-                if (sidebarToggle) {
-                    sidebarToggle.style.transform = 'rotate(180deg)';
-                }
-            }
-        }
+        // Simple sidebar initialization - no complex state management needed
     }
 
-    preventMobilePullToRefresh() {
-        // Prevent pull-to-refresh on mobile Safari
-        if (this.isMobile()) {
-            let startY = 0;
-            let isAtTop = true;
-            
-            // Track if we're at the top of the page
-            const updateScrollPosition = () => {
-                isAtTop = window.scrollY <= 0;
-            };
-            
-            // Listen for scroll events
-            window.addEventListener('scroll', updateScrollPosition, { passive: true });
-            
-            // Handle touch events to prevent pull-to-refresh
-            document.addEventListener('touchstart', (e) => {
-                if (e.touches.length === 1) {
-                    startY = e.touches[0].clientY;
-                }
-            }, { passive: true });
-            
-            document.addEventListener('touchmove', (e) => {
-                if (e.touches.length === 1) {
-                    const currentY = e.touches[0].clientY;
-                    const deltaY = currentY - startY;
-                    
-                    // Prevent pull-to-refresh when scrolling down at the top of the page
-                    if (isAtTop && deltaY > 0) {
-                        e.preventDefault();
-                    }
-                }
-            }, { passive: false });
-            
-            // Additional prevention for webkit browsers
-            document.addEventListener('touchforcechange', (e) => {
-                e.preventDefault();
-            });
-        }
-    }
 
     isMobile() {
         return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || 
@@ -399,8 +116,6 @@ class GamePortal {
             // If local games are available, use them
             if (this.games && this.games.length > 0) {
                 console.log(`Loaded ${this.games.length} games from local files`);
-                // Apply ranking to games
-                this.games = this.rankGames(this.games);
                 this.filteredGames = this.games;
                 return;
             }
@@ -415,8 +130,7 @@ class GamePortal {
                 // Filter out games that don't have corresponding HTML files
                 const availableGames = await this.filterAvailableGames(data);
                 console.log(`Loaded ${availableGames.length} games from API`);
-                // Apply ranking to games
-                this.games = this.rankGames(availableGames);
+                this.games = availableGames;
                 this.filteredGames = this.games;
             } else {
                 throw new Error('Invalid API response');
@@ -427,7 +141,7 @@ class GamePortal {
             // Final fallback to mock games
             console.log('Using mock games as fallback');
             const mockGames = this.getMockGames();
-            this.games = this.rankGames(mockGames);
+            this.games = mockGames;
             this.filteredGames = this.games;
         }
     }
@@ -507,13 +221,13 @@ class GamePortal {
             const uniqueGames = this.removeDuplicateGames(games);
             console.log(`Games after deduplication: ${uniqueGames.length}`);
             
-            this.games = this.rankGames(uniqueGames);
+            this.games = uniqueGames;
             this.filteredGames = this.games;
         } else {
             // Use mock data as final fallback
             console.log('No local games found, using mock games');
             const mockGames = this.getMockGames();
-            this.games = this.rankGames(mockGames);
+            this.games = mockGames;
             this.filteredGames = this.games;
         }
     }
@@ -643,11 +357,6 @@ class GamePortal {
             const gameCard = this.createGameCard(game);
             gamesGrid.appendChild(gameCard);
         });
-
-        // Add related games section if we have games
-        if (this.filteredGames.length > 0) {
-            this.addRelatedGamesSection();
-        }
     }
 
     displayMobileLayout() {
@@ -901,67 +610,6 @@ class GamePortal {
     }
 
 
-    addRelatedGamesSection() {
-        const content = document.querySelector('.content');
-        if (!content) return;
-
-        // Remove existing related games section
-        const existingRelated = content.querySelector('.related-games');
-        if (existingRelated) {
-            existingRelated.remove();
-        }
-
-        // Get related games (different category or random selection)
-        const relatedGames = this.getRelatedGames();
-        if (relatedGames.length === 0) return;
-
-        const relatedSection = document.createElement('div');
-        relatedSection.className = 'related-games';
-        relatedSection.innerHTML = `
-            <h2>You might also like</h2>
-            <div class="related-games-grid" id="relatedGamesGrid"></div>
-        `;
-
-        content.appendChild(relatedSection);
-
-        // Add related game cards
-        const relatedGrid = document.getElementById('relatedGamesGrid');
-        relatedGames.forEach(game => {
-            const gameCard = this.createGameCard(game);
-            gameCard.classList.add('related-game-card');
-            relatedGrid.appendChild(gameCard);
-        });
-    }
-
-    getRelatedGames() {
-        if (!this.games || this.games.length === 0) return [];
-
-        let relatedGames = [];
-        
-        // If we're showing a specific category, get games from other categories
-        if (this.currentCategory !== 'all') {
-            const otherCategoryGames = this.games.filter(game => 
-                game.category !== this.currentCategory
-            );
-            
-            // Randomly select up to 6 games from other categories
-            relatedGames = this.shuffleArray(otherCategoryGames).slice(0, 6);
-        } else {
-            // If showing all games, get random popular games
-            relatedGames = this.shuffleArray(this.games).slice(0, 6);
-        }
-
-        return relatedGames;
-    }
-
-    shuffleArray(array) {
-        const shuffled = [...array];
-        for (let i = shuffled.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-        }
-        return shuffled;
-    }
 
     createGameCard(game) {
         const card = document.createElement('div');
@@ -979,13 +627,7 @@ class GamePortal {
             }
         });
 
-        // Add random game labels for demo
-        const labels = this.getGameLabels(game);
-        const labelsHtml = labels.length > 0 ? `
-            <div class="game-labels">
-                ${labels.map(label => `<span class="game-label ${label.type}">${label.text}</span>`).join('')}
-            </div>
-        ` : '';
+        const labelsHtml = '';
 
         card.innerHTML = `
             <img src="${game.thumb}" alt="Play ${game.title} - ${game.category} game online free at Kloopik" class="game-thumb" 
@@ -1000,36 +642,6 @@ class GamePortal {
         return card;
     }
 
-    getGameLabels(game) {
-        const labels = [];
-        const score = game.score || 0;
-        const stats = game.stats || this.getGameStats(game.id);
-        
-        // Add labels based on ranking score and stats
-        if (score > 80) {
-            labels.push({ type: 'top', text: 'TOP' });
-        } else if (score > 60) {
-            labels.push({ type: 'hot', text: 'HOT' });
-        }
-        
-        // Add new label for recently created games
-        if (stats.createdAt) {
-            const daysSinceCreated = (new Date() - new Date(stats.createdAt)) / (1000 * 60 * 60 * 24);
-            if (daysSinceCreated <= 7) {
-                labels.push({ type: 'new', text: 'NEW' });
-            }
-        }
-        
-        // Add trending label for games with recent activity
-        if (stats.clicks > 10 && stats.lastPlayed) {
-            const daysSinceLastPlayed = (new Date() - new Date(stats.lastPlayed)) / (1000 * 60 * 60 * 24);
-            if (daysSinceLastPlayed <= 1) {
-                labels.push({ type: 'trending', text: 'TRENDING' });
-            }
-        }
-        
-        return labels;
-    }
 
     async navigateToGame(game) {
         console.log(`navigateToGame called for: ${game.title} (ID: ${game.id})`);
@@ -1063,8 +675,12 @@ class GamePortal {
             return;
         }
         
-        // Track game click for ranking system
-        this.trackGameInteraction(game.id, 'click');
+        // Track simple click analytics
+        this.trackEvent('game_click', {
+            game_id: game.id,
+            game_title: game.title,
+            game_category: game.category
+        });
         
         // Add game to last played list
         this.addToLastPlayed(game);
@@ -1072,13 +688,6 @@ class GamePortal {
         // Update the "Last played" category visibility
         this.updateLastPlayedCategoryVisibility();
         
-        // Track game click for analytics
-        this.trackEvent('game_click', {
-            game_title: game.title,
-            game_category: game.category,
-            game_id: game.id,
-            game_score: game.score || 0
-        });
         
         window.location.href = gameUrl;
     }
@@ -1108,10 +717,6 @@ class GamePortal {
         this.applyFilters();
         this.updateActiveCategory(category);
         
-        // Track category filter
-        this.trackEvent('category_filter', {
-            category: category
-        });
     }
 
     searchGames(searchTerm) {
@@ -1120,12 +725,6 @@ class GamePortal {
         // Show search dropdown with results instead of filtering main content
         this.showSearchResults(searchTerm);
         
-        // Track search
-        if (searchTerm) {
-            this.trackEvent('search', {
-                search_term: searchTerm
-            });
-        }
     }
 
     showSearchResults(searchTerm) {
@@ -1198,12 +797,6 @@ class GamePortal {
         // Navigate to the selected game
         this.navigateToGame(game);
         
-        // Track search result selection
-        this.trackEvent('search_result_click', {
-            game_title: game.title,
-            game_category: game.category,
-            game_id: game.id
-        });
     }
 
     applyFilters() {
@@ -1329,12 +922,14 @@ class GamePortal {
             }
         });
 
-        // Sidebar toggle
-        const sidebarToggle = document.getElementById('sidebarToggle');
-        if (sidebarToggle) {
-            sidebarToggle.addEventListener('click', () => {
-                this.toggleSidebar();
-            });
+        // Sidebar toggle (desktop only)
+        if (window.innerWidth > 789.95) {
+            const sidebarToggle = document.getElementById('sidebarToggle');
+            if (sidebarToggle) {
+                sidebarToggle.addEventListener('click', () => {
+                    this.toggleSidebar();
+                });
+            }
         }
 
         // Keyboard navigation
@@ -1365,31 +960,19 @@ class GamePortal {
     }
 
     toggleSidebar() {
+        // Simplified sidebar toggle - mainly for desktop
         const sidebar = document.getElementById('sidebar');
         const mainContainer = document.getElementById('mainContainer');
-        const sidebarToggle = document.getElementById('sidebarToggle');
         
         this.sidebarExpanded = !this.sidebarExpanded;
         
         if (this.sidebarExpanded) {
             sidebar.classList.remove('collapsed');
             mainContainer.classList.add('sidebar-expanded');
-            mainContainer.classList.remove('sidebar-collapsed');
-            sidebarToggle.style.transform = 'rotate(0deg)';
         } else {
             sidebar.classList.add('collapsed');
             mainContainer.classList.remove('sidebar-expanded');
-            mainContainer.classList.add('sidebar-collapsed');
-            sidebarToggle.style.transform = 'rotate(180deg)';
         }
-        
-        // Save preference
-        localStorage.setItem('sidebar_expanded', this.sidebarExpanded);
-        
-        // Track toggle
-        this.trackEvent('sidebar_toggle', {
-            expanded: this.sidebarExpanded
-        });
     }
 
     toggleSearch() {
@@ -1410,10 +993,6 @@ class GamePortal {
                     }
                 }, 150);
                 
-                // Track search toggle
-                this.trackEvent('search_toggle', {
-                    action: 'open'
-                });
             }
         }
     }
@@ -1436,10 +1015,6 @@ class GamePortal {
                 searchDropdown.classList.remove('active');
             }
             
-            // Track search close
-            this.trackEvent('search_toggle', {
-                action: 'close'
-            });
         }
     }
 

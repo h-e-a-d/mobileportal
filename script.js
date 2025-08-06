@@ -403,7 +403,11 @@ class GamePortal {
         
         try {
             await this.loadGames(this.currentPage, true);
+            // Store current displayed count before applying filters
+            const currentDisplayedCount = this.displayedGamesCount;
             this.applyFilters(); // Re-apply current filters to include new games
+            // Restore displayed count since we're appending, not replacing
+            this.displayedGamesCount = currentDisplayedCount;
             this.displayGames(true); // Pass true to append new games
         } catch (error) {
             console.error('Error loading more games:', error);
@@ -473,18 +477,24 @@ class GamePortal {
             return;
         }
 
-        const scrollableElement = document.querySelector('.content') || document.documentElement;
-        const scrollTop = scrollableElement.scrollTop || window.pageYOffset;
-        const scrollHeight = scrollableElement.scrollHeight || document.documentElement.scrollHeight;
-        const clientHeight = scrollableElement.clientHeight || window.innerHeight;
+        // Check if we've displayed all available games before loading more
+        if (this.displayedGamesCount >= this.filteredGames.length) {
+            const scrollableElement = document.querySelector('.content') || document.documentElement;
+            const scrollTop = scrollableElement.scrollTop || window.pageYOffset;
+            const scrollHeight = scrollableElement.scrollHeight || document.documentElement.scrollHeight;
+            const clientHeight = scrollableElement.clientHeight || window.innerHeight;
 
-        // Load more when user scrolls to within 500px of the bottom
-        const threshold = 500;
-        const distanceFromBottom = scrollHeight - (scrollTop + clientHeight);
+            // Load more when user scrolls to within 500px of the bottom
+            const threshold = 500;
+            const distanceFromBottom = scrollHeight - (scrollTop + clientHeight);
 
-        if (distanceFromBottom <= threshold) {
-            console.log('Near bottom, loading more games...');
-            this.loadMoreGames();
+            if (distanceFromBottom <= threshold) {
+                console.log('Near bottom and all games displayed, loading more games...');
+                console.log(`Current state: displayed=${this.displayedGamesCount}, filtered=${this.filteredGames.length}, total=${this.games.length}`);
+                this.loadMoreGames();
+            }
+        } else {
+            console.log(`Games available to display: ${this.filteredGames.length - this.displayedGamesCount} remaining`);
         }
     }
 
@@ -1079,6 +1089,9 @@ class GamePortal {
         }
 
         this.filteredGames = filteredGames;
+        
+        // Reset displayed count when filters change
+        this.displayedGamesCount = 0;
     }
 
     updateActiveCategory(category) {

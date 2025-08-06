@@ -551,7 +551,7 @@ class GamePortal {
             
             // Add event listener for featured game
             const featuredCard = featuredSection.querySelector('.mobile-featured-game');
-            featuredCard.addEventListener('click', () => this.openGameModal(featuredGame));
+            featuredCard.addEventListener('click', () => this.openGamePage(featuredGame));
             
             mobileSections.appendChild(featuredSection);
         }
@@ -587,7 +587,7 @@ class GamePortal {
                 const gameId = card.dataset.gameId;
                 const game = this.games.find(g => g.id == gameId);
                 if (game) {
-                    card.addEventListener('click', () => this.openGameModal(game));
+                    card.addEventListener('click', () => this.openGamePage(game));
                 }
             });
 
@@ -602,11 +602,11 @@ class GamePortal {
         card.setAttribute('role', 'button');
         card.setAttribute('aria-label', `Play ${game.title}`);
         
-        card.addEventListener('click', () => this.openGameModal(game));
+        card.addEventListener('click', () => this.openGamePage(game));
         card.addEventListener('keydown', (e) => {
             if (e.key === 'Enter' || e.key === ' ') {
                 e.preventDefault();
-                this.openGameModal(game);
+                this.openGamePage(game);
             }
         });
 
@@ -622,21 +622,31 @@ class GamePortal {
         return card;
     }
 
-    openGameModal(game) {
-        console.log(`Opening game modal for: ${game.title}`);
+    async openGamePage(game) {
+        console.log(`Opening game page for: ${game.title}`);
         
-        const modal = document.getElementById('gameModal');
-        const modalTitle = document.getElementById('modalGameTitle');
-        const gameFrame = document.getElementById('gameFrame');
+        // Store game data in sessionStorage for the game page
+        sessionStorage.setItem('currentGame', JSON.stringify(game));
         
-        if (!modal || !modalTitle || !gameFrame) return;
+        // Generate a URL-friendly slug from the game title
+        const gameSlug = this.generateGameSlug(game.title);
+        const gamePageUrl = `game-${game.id}-${gameSlug}.html`;
         
-        // Set game details
-        modalTitle.textContent = game.title;
-        gameFrame.src = game.url;
+        // Check if the game page already exists
+        try {
+            const response = await fetch(gamePageUrl, { method: 'HEAD' });
+            if (response.ok) {
+                console.log(`Game page already exists: ${gamePageUrl}`);
+                // Page exists, navigate to it
+                window.location.href = gamePageUrl;
+                return;
+            }
+        } catch (error) {
+            console.log(`Game page doesn't exist, will create: ${gamePageUrl}`);
+        }
         
-        // Show modal
-        modal.classList.add('active');
+        // Page doesn't exist, generate it and create a downloadable HTML file
+        await this.generateAndDownloadGamePage(game, gamePageUrl);
         
         // Track game play
         this.trackEvent('game_play', {
@@ -646,18 +656,352 @@ class GamePortal {
         });
     }
 
-    closeGameModal() {
-        const modal = document.getElementById('gameModal');
-        const gameFrame = document.getElementById('gameFrame');
+    async generateAndDownloadGamePage(game, filename) {
+        const gamePageHtml = this.createGamePageTemplate(game);
         
-        if (!modal || !gameFrame) return;
+        // Create a blob with the HTML content
+        const blob = new Blob([gamePageHtml], { type: 'text/html' });
         
-        // Hide modal
-        modal.classList.remove('active');
+        // Create a temporary download link
+        const downloadLink = document.createElement('a');
+        downloadLink.href = URL.createObjectURL(blob);
+        downloadLink.download = filename;
         
-        // Clear iframe to stop game
-        gameFrame.src = '';
+        // Add to DOM, click, and remove
+        document.body.appendChild(downloadLink);
+        downloadLink.click();
+        document.body.removeChild(downloadLink);
+        
+        // Clean up the blob URL
+        URL.revokeObjectURL(downloadLink.href);
+        
+        console.log(`Game page ${filename} has been generated and downloaded`);
+        
+        // Show user a notification
+        this.showGamePageNotification(game, filename);
     }
+
+    showGamePageNotification(game, filename) {
+        // Create a notification to inform the user
+        const notification = document.createElement('div');
+        notification.className = 'game-page-notification';
+        notification.innerHTML = `
+            <div class="notification-content">
+                <h3>Game Page Generated!</h3>
+                <p><strong>"${game.title}"</strong> page has been created as <code>${filename}</code></p>
+                <p>The file has been downloaded. Open it in your browser to play the game!</p>
+                <div class="notification-actions">
+                    <button onclick="this.parentElement.parentElement.parentElement.remove()" class="btn-dismiss">Got it!</button>
+                </div>
+            </div>
+        `;
+        
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--black-300);
+            border: 2px solid var(--brand-100);
+            border-radius: var(--border-radius-lg);
+            padding: var(--spacing-6);
+            color: var(--white-100);
+            z-index: 10000;
+            max-width: 400px;
+            box-shadow: var(--shadow-xl);
+            animation: slideInRight 0.3s ease;
+        `;
+        
+        // Add CSS animation
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideInRight {
+                from { transform: translateX(100%); opacity: 0; }
+                to { transform: translateX(0); opacity: 1; }
+            }
+            .notification-content h3 {
+                color: var(--brand-100);
+                margin-bottom: var(--spacing-3);
+            }
+            .notification-content p {
+                margin-bottom: var(--spacing-3);
+                line-height: 1.5;
+            }
+            .notification-content code {
+                background: var(--black-400);
+                padding: 2px 6px;
+                border-radius: 4px;
+                font-family: monospace;
+                color: var(--brand-100);
+            }
+            .notification-actions {
+                text-align: right;
+                margin-top: var(--spacing-4);
+            }
+            .btn-dismiss {
+                background: var(--brand-100);
+                color: var(--white-100);
+                border: none;
+                padding: var(--spacing-2) var(--spacing-4);
+                border-radius: var(--border-radius-pill);
+                font-weight: var(--font-weight-bold);
+                cursor: pointer;
+                transition: all var(--transition-normal);
+            }
+            .btn-dismiss:hover {
+                background: var(--brand-200);
+                transform: translateY(-1px);
+            }
+        `;
+        
+        document.head.appendChild(style);
+        document.body.appendChild(notification);
+        
+        // Auto-remove after 10 seconds
+        setTimeout(() => {
+            if (notification.parentNode) {
+                notification.remove();
+            }
+        }, 10000);
+    }
+
+    generateGameSlug(title) {
+        return title.toLowerCase()
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/^-+|-+$/g, '');
+    }
+
+
+    createGamePageTemplate(game) {
+        return `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play ${game.title} - SuperGames</title>
+    <meta name="description" content="Play ${game.title} online for free. ${game.description}">
+    <meta name="keywords" content="${game.title}, ${game.category} game, online games, free games">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Play ${game.title} - SuperGames">
+    <meta property="og:description" content="${game.description}">
+    <meta property="og:image" content="${game.thumb}">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Play ${game.title} - SuperGames">
+    <meta property="twitter:description" content="${game.description}">
+    <meta property="twitter:image" content="${game.thumb}">
+    
+    <!-- Preload fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="styles.css">
+    
+    <style>
+        .game-page {
+            min-height: 100vh;
+            background: var(--black-100);
+            padding-top: var(--header-height);
+        }
+        
+        .game-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: var(--spacing-6);
+        }
+        
+        .game-header {
+            text-align: center;
+            margin-bottom: var(--spacing-8);
+        }
+        
+        .game-title {
+            font-size: 3rem;
+            font-weight: var(--font-weight-black);
+            color: var(--brand-100);
+            margin-bottom: var(--spacing-4);
+            background: linear-gradient(45deg, var(--brand-100), var(--brand-200));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .game-meta {
+            display: flex;
+            justify-content: center;
+            gap: var(--spacing-6);
+            margin-bottom: var(--spacing-6);
+        }
+        
+        .game-category {
+            background: var(--brand-100);
+            color: var(--white-100);
+            padding: var(--spacing-2) var(--spacing-4);
+            border-radius: var(--border-radius-pill);
+            font-weight: var(--font-weight-bold);
+        }
+        
+        .game-description {
+            font-size: var(--font-size-large);
+            color: var(--white-200);
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        
+        .game-frame-container {
+            position: relative;
+            width: 100%;
+            max-width: 1000px;
+            margin: 0 auto;
+            background: var(--black-300);
+            border-radius: var(--border-radius-lg);
+            overflow: hidden;
+            box-shadow: var(--shadow-xl);
+        }
+        
+        .game-frame {
+            width: 100%;
+            height: 600px;
+            border: none;
+            display: block;
+        }
+        
+        .game-controls {
+            display: flex;
+            justify-content: center;
+            gap: var(--spacing-4);
+            margin-top: var(--spacing-6);
+        }
+        
+        .btn-back {
+            background: var(--black-400);
+            color: var(--white-100);
+            padding: var(--spacing-3) var(--spacing-6);
+            border: 2px solid var(--black-400);
+            border-radius: var(--border-radius-pill);
+            font-weight: var(--font-weight-bold);
+            text-decoration: none;
+            transition: all var(--transition-normal);
+        }
+        
+        .btn-back:hover {
+            background: var(--brand-100);
+            border-color: var(--brand-100);
+            color: var(--white-100);
+        }
+        
+        .fullscreen-btn {
+            background: var(--brand-100);
+            color: var(--white-100);
+            border: none;
+            padding: var(--spacing-3) var(--spacing-6);
+            border-radius: var(--border-radius-pill);
+            font-weight: var(--font-weight-bold);
+            cursor: pointer;
+            transition: all var(--transition-normal);
+        }
+        
+        .fullscreen-btn:hover {
+            background: var(--brand-200);
+            transform: translateY(-2px);
+        }
+        
+        @media (max-width: 768px) {
+            .game-container {
+                padding: var(--spacing-4);
+            }
+            
+            .game-title {
+                font-size: 2rem;
+            }
+            
+            .game-meta {
+                flex-direction: column;
+                align-items: center;
+                gap: var(--spacing-3);
+            }
+            
+            .game-frame {
+                height: 400px;
+            }
+            
+            .game-controls {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-left">
+                <div class="nav-logo">
+                    <a href="/">
+                        <h1>SuperGames</h1>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="game-page">
+        <div class="game-container">
+            <header class="game-header">
+                <h1 class="game-title">${game.title}</h1>
+                <div class="game-meta">
+                    <span class="game-category">${game.category}</span>
+                </div>
+                <p class="game-description">${game.description}</p>
+            </header>
+
+            <div class="game-frame-container">
+                <iframe class="game-frame" 
+                        src="${game.url}" 
+                        title="Play ${game.title}"
+                        allowfullscreen>
+                </iframe>
+            </div>
+
+            <div class="game-controls">
+                <a href="/" class="btn-back">← Back to Games</a>
+                <button class="fullscreen-btn" onclick="toggleFullscreen()">Fullscreen</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleFullscreen() {
+            const frame = document.querySelector('.game-frame');
+            if (frame.requestFullscreen) {
+                frame.requestFullscreen();
+            } else if (frame.webkitRequestFullscreen) {
+                frame.webkitRequestFullscreen();
+            } else if (frame.msRequestFullscreen) {
+                frame.msRequestFullscreen();
+            }
+        }
+        
+        // Track page view
+        console.log('Game page loaded: ${game.title}');
+        
+        // Simple analytics
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'page_view', {
+                page_title: 'Play ${game.title}',
+                page_location: window.location.href
+            });
+        }
+    </script>
+</body>
+</html>`;
+    }
+
+
 
     filterByCategory(category) {
         this.currentCategory = category;
@@ -741,7 +1085,7 @@ class GamePortal {
         this.closeSearch();
         
         // Open the selected game
-        this.openGameModal(game);
+        this.openGamePage(game);
     }
 
     applyFilters() {
@@ -822,23 +1166,6 @@ class GamePortal {
             }
         });
 
-        // Modal event listeners
-        const modalClose = document.getElementById('modalClose');
-        const gameModal = document.getElementById('gameModal');
-        
-        if (modalClose) {
-            modalClose.addEventListener('click', () => {
-                this.closeGameModal();
-            });
-        }
-        
-        if (gameModal) {
-            gameModal.addEventListener('click', (e) => {
-                if (e.target === gameModal) {
-                    this.closeGameModal();
-                }
-            });
-        }
 
         // Sidebar toggle (desktop only)
         if (window.innerWidth > 789.95) {
@@ -853,12 +1180,9 @@ class GamePortal {
         // Keyboard navigation
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape') {
-                const gameModal = document.getElementById('gameModal');
                 const navSearch = document.getElementById('navSearch');
                 
-                if (gameModal && gameModal.classList.contains('active')) {
-                    this.closeGameModal();
-                } else if (navSearch && navSearch.classList.contains('active')) {
+                if (navSearch && navSearch.classList.contains('active')) {
                     this.closeSearch();
                 }
             }

@@ -459,11 +459,11 @@ class GamePortal {
     displayGames(append = false) {
         const isMobile = this.isMobile();
         
-        console.log('Display games called. Mobile:', isMobile, 'Width:', window.innerWidth);
+        console.log('Display games called. Mobile:', isMobile, 'Width:', window.innerWidth, 'Append:', append);
         console.log('Games available:', this.games.length, 'Filtered games:', this.filteredGames.length);
         
         if (isMobile) {
-            this.displayMobileLayout();
+            this.displayMobileLayout(append);
         } else {
             this.displayDesktopLayout(append);
         }
@@ -479,6 +479,11 @@ class GamePortal {
         } else {
             // Remove loading indicator if it exists
             this.hideLoadingIndicator();
+            // Remove mobile load more section if it exists
+            const mobileLoadMore = document.getElementById('mobileLoadMoreGridSection');
+            if (mobileLoadMore) {
+                mobileLoadMore.remove();
+            }
         }
 
         if (this.filteredGames.length === 0) {
@@ -511,25 +516,113 @@ class GamePortal {
         }
     }
 
-    displayMobileLayout() {
+    displayMobileLayout(append = false) {
         const mobileSections = document.getElementById('mobileCategorySections');
         const gamesGrid = document.getElementById('gamesGrid');
         
-        if (!mobileSections) return;
+        // Hide mobile sections and use the regular games grid
+        if (mobileSections) {
+            mobileSections.style.display = 'none';
+        }
+        
+        if (!gamesGrid) return;
 
-        // Clear existing content
-        mobileSections.innerHTML = '';
-        if (gamesGrid) gamesGrid.innerHTML = '';
+        if (!append) {
+            // Clear existing content only if not appending
+            gamesGrid.innerHTML = '';
+        } else {
+            // Remove mobile load more section if it exists
+            const mobileLoadMore = document.getElementById('mobileLoadMoreGridSection');
+            if (mobileLoadMore) {
+                mobileLoadMore.remove();
+            }
+        }
 
-        if (this.games.length === 0) {
-            mobileSections.innerHTML = '<div class="no-games">No games found.</div>';
+        if (this.filteredGames.length === 0) {
+            gamesGrid.innerHTML = '<div class="no-games">No games found matching your criteria.</div>';
             return;
         }
         
-        console.log('Creating mobile layout with', this.games.length, 'games');
+        console.log('Creating mobile layout with', this.filteredGames.length, 'games, append:', append);
 
-        // Create mobile category sections
-        this.createMobileCategorySections();
+        // Create simple uncategorized game grid
+        this.createMobileUncategorizedGrid(append);
+        
+        // Add load more section at the bottom
+        if (this.hasMoreGames) {
+            this.createMobileLoadMoreGrid();
+        }
+    }
+
+    createMobileUncategorizedGrid(append = false) {
+        const gamesGrid = document.getElementById('gamesGrid');
+        
+        if (append) {
+            // When appending, only add games that aren't already displayed
+            const existingGameIds = new Set();
+            const existingCards = gamesGrid.querySelectorAll('.game-card[data-game-id]');
+            existingCards.forEach(card => {
+                existingGameIds.add(parseInt(card.dataset.gameId));
+            });
+
+            this.filteredGames.forEach(game => {
+                if (!existingGameIds.has(game.id)) {
+                    const gameCard = this.createGameCard(game);
+                    gameCard.dataset.gameId = game.id;
+                    gamesGrid.appendChild(gameCard);
+                }
+            });
+        } else {
+            // Full reload - display all games
+            this.filteredGames.forEach(game => {
+                const gameCard = this.createGameCard(game);
+                gameCard.dataset.gameId = game.id;
+                gamesGrid.appendChild(gameCard);
+            });
+        }
+    }
+
+    createMobileLoadMoreGrid() {
+        const gamesGrid = document.getElementById('gamesGrid');
+        
+        const loadMoreSection = document.createElement('div');
+        loadMoreSection.className = 'mobile-load-more-grid-section';
+        loadMoreSection.id = 'mobileLoadMoreGridSection';
+        loadMoreSection.style.cssText = `
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: var(--spacing-6);
+            background: var(--black-300);
+            border-radius: var(--border-radius-lg);
+            margin: var(--spacing-4) 0;
+        `;
+        
+        const totalGamesText = this.hasMoreGames ? `${this.games.length}+ games` : `${this.games.length} games`;
+        const buttonText = 'Load More Games';
+        
+        loadMoreSection.innerHTML = `
+            <h3 style="color: var(--brand-100); margin-bottom: var(--spacing-3);">More Games Available</h3>
+            <p style="color: var(--white-400); margin-bottom: var(--spacing-4);">${totalGamesText} loaded • Load more to discover hundreds of games!</p>
+            <button class="mobile-load-more-btn" id="mobileLoadMoreGridBtn">${buttonText}</button>
+        `;
+        
+        // Add event listener for load more button
+        const loadMoreBtn = loadMoreSection.querySelector('#mobileLoadMoreGridBtn');
+        loadMoreBtn.addEventListener('click', async () => {
+            loadMoreBtn.disabled = true;
+            loadMoreBtn.textContent = 'Loading...';
+            
+            try {
+                await this.loadMoreGames();
+                // The displayGames(true) in loadMoreGames will handle the append
+            } catch (error) {
+                console.error('Error loading more games:', error);
+                loadMoreBtn.textContent = 'Try Again';
+                loadMoreBtn.disabled = false;
+            }
+        });
+        
+        gamesGrid.appendChild(loadMoreSection);
     }
 
     createMobileCategorySections() {
@@ -577,7 +670,16 @@ class GamePortal {
             const section = document.createElement('div');
             section.className = 'mobile-category-section';
             
-            const gamesHtml = categoryGames.slice(0, 8).map(game => `
+            // Show more games per category based on total available games
+            // Start with 8, but show more as we load more pages
+            const gamesPerCategory = Math.min(
+                Math.max(8, Math.floor(this.games.length / categories.length * 0.2)), 
+                categoryGames.length
+            );
+            
+            console.log(`Category: ${category}, Available: ${categoryGames.length}, Showing: ${gamesPerCategory}, Total games: ${this.games.length}`);
+            
+            const gamesHtml = categoryGames.slice(0, gamesPerCategory).map(game => `
                 <div class="game-card" data-game-id="${game.id}" tabindex="0" role="button" aria-label="Play ${game.title}">
                     <img src="${game.thumb}" alt="${game.title}" class="game-thumb" loading="lazy">
                     <div class="game-info">
@@ -589,6 +691,7 @@ class GamePortal {
             section.innerHTML = `
                 <div class="mobile-category-header">
                     <h2 class="mobile-category-title">${category} Games</h2>
+                    <span class="mobile-games-count">${gamesPerCategory} of ${categoryGames.length}</span>
                 </div>
                 <div class="mobile-games-row">
                     ${gamesHtml}
@@ -619,7 +722,7 @@ class GamePortal {
         });
         
         // Add "Load More Games" section for mobile if there are more games to load
-        if (this.hasMoreGames && this.currentPage === 1) {
+        if (this.hasMoreGames) {
             this.createMobileLoadMoreSection();
         }
     }
@@ -631,13 +734,17 @@ class GamePortal {
         loadMoreSection.className = 'mobile-category-section mobile-load-more-section';
         loadMoreSection.id = 'mobileLoadMoreSection';
         
+        const totalGamesText = this.hasMoreGames ? `${this.games.length}+ games` : `${this.games.length} games`;
+        const buttonText = this.currentPage === 1 ? 'Load More Games' : `Load More (Page ${this.currentPage + 1})`;
+        
         loadMoreSection.innerHTML = `
             <div class="mobile-category-header">
                 <h2 class="mobile-category-title">More Games Available</h2>
+                <span class="mobile-games-count">${totalGamesText} loaded</span>
             </div>
             <div class="mobile-load-more-container">
-                <p>Discover hundreds more games!</p>
-                <button class="mobile-load-more-btn" id="mobileLoadMoreBtn">Load More Games</button>
+                <p>Discover hundreds more games across all categories!</p>
+                <button class="mobile-load-more-btn" id="mobileLoadMoreBtn">${buttonText}</button>
             </div>
         `;
         

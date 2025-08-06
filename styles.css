@@ -761,6 +761,7 @@ a:hover {
     .mobile-category-header {
         display: flex;
         align-items: center;
+        justify-content: space-between;
         margin-bottom: 4px;
         padding: 0 var(--spacing-2);
     }
@@ -770,6 +771,16 @@ a:hover {
         font-weight: var(--font-weight-semibold);
         color: var(--white-100);
         margin: 0;
+    }
+    
+    .mobile-games-count {
+        font-size: var(--font-size-small);
+        color: var(--white-400);
+        font-weight: var(--font-weight-semibold);
+        background: var(--black-400);
+        padding: var(--spacing-1) var(--spacing-3);
+        border-radius: var(--border-radius-pill);
+        white-space: nowrap;
     }
     
     .mobile-games-row {

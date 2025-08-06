@@ -29,8 +29,12 @@ class GamePortal {
     }
 
     isMobile() {
-        return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || 
-               window.innerWidth <= 789.95;
+        const isMobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        const isSmallScreen = window.innerWidth <= 789.95;
+        const isMobile = isMobileDevice || isSmallScreen;
+        
+        console.log(`Mobile detection - Device: ${isMobileDevice}, Small screen: ${isSmallScreen}, Final: ${isMobile}, Width: ${window.innerWidth}`);
+        return isMobile;
     }
 
     showLoading() {
@@ -551,7 +555,16 @@ class GamePortal {
             
             // Add event listener for featured game
             const featuredCard = featuredSection.querySelector('.mobile-featured-game');
+            console.log(`Adding mobile click listener for featured game: ${featuredGame.title} (ID: ${featuredGame.id})`);
             featuredCard.addEventListener('click', () => this.openGamePage(featuredGame));
+            
+            // Add keyboard support
+            featuredCard.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    this.openGamePage(featuredGame);
+                }
+            });
             
             mobileSections.appendChild(featuredSection);
         }
@@ -587,12 +600,65 @@ class GamePortal {
                 const gameId = card.dataset.gameId;
                 const game = this.games.find(g => g.id == gameId);
                 if (game) {
+                    console.log(`Adding mobile click listener for ${category} game: ${game.title} (ID: ${game.id})`);
                     card.addEventListener('click', () => this.openGamePage(game));
+                    
+                    // Add keyboard support for mobile accessibility
+                    card.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault();
+                            this.openGamePage(game);
+                        }
+                    });
+                } else {
+                    console.warn(`No game found for ID: ${gameId} in category: ${category}`);
                 }
             });
 
             mobileSections.appendChild(section);
         });
+        
+        // Add "Load More Games" section for mobile if there are more games to load
+        if (this.hasMoreGames && this.currentPage === 1) {
+            this.createMobileLoadMoreSection();
+        }
+    }
+
+    createMobileLoadMoreSection() {
+        const mobileSections = document.getElementById('mobileCategorySections');
+        
+        const loadMoreSection = document.createElement('div');
+        loadMoreSection.className = 'mobile-category-section mobile-load-more-section';
+        loadMoreSection.id = 'mobileLoadMoreSection';
+        
+        loadMoreSection.innerHTML = `
+            <div class="mobile-category-header">
+                <h2 class="mobile-category-title">More Games Available</h2>
+            </div>
+            <div class="mobile-load-more-container">
+                <p>Discover hundreds more games!</p>
+                <button class="mobile-load-more-btn" id="mobileLoadMoreBtn">Load More Games</button>
+            </div>
+        `;
+        
+        // Add event listener for load more button
+        const loadMoreBtn = loadMoreSection.querySelector('#mobileLoadMoreBtn');
+        loadMoreBtn.addEventListener('click', async () => {
+            loadMoreBtn.disabled = true;
+            loadMoreBtn.textContent = 'Loading...';
+            
+            try {
+                await this.loadMoreGames();
+                // Update mobile layout with new games
+                this.displayMobileLayout();
+            } catch (error) {
+                console.error('Error loading more games:', error);
+                loadMoreBtn.textContent = 'Try Again';
+                loadMoreBtn.disabled = false;
+            }
+        });
+        
+        mobileSections.appendChild(loadMoreSection);
     }
 
     createGameCard(game) {
@@ -696,17 +762,20 @@ class GamePortal {
             </div>
         `;
         
+        // Make notification mobile-responsive
+        const isMobile = this.isMobile();
         notification.style.cssText = `
             position: fixed;
-            top: 20px;
-            right: 20px;
+            top: ${isMobile ? '80px' : '20px'};
+            right: ${isMobile ? '10px' : '20px'};
+            left: ${isMobile ? '10px' : 'auto'};
             background: var(--black-300);
             border: 2px solid var(--brand-100);
             border-radius: var(--border-radius-lg);
             padding: var(--spacing-6);
             color: var(--white-100);
             z-index: 10000;
-            max-width: 400px;
+            max-width: ${isMobile ? 'none' : '400px'};
             box-shadow: var(--shadow-xl);
             animation: slideInRight 0.3s ease;
         `;

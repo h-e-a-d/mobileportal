@@ -880,6 +880,56 @@ a:hover {
     .game-info {
         padding: 2px 0 0 0 !important;
     }
+    
+    /* Mobile Load More Section */
+    .mobile-load-more-section {
+        text-align: center;
+        padding: var(--spacing-6) var(--spacing-2);
+    }
+    
+    .mobile-load-more-container {
+        background: var(--black-300);
+        border-radius: var(--border-radius-lg);
+        padding: var(--spacing-6);
+        border: 2px solid var(--black-400);
+    }
+    
+    .mobile-load-more-container p {
+        color: var(--white-200);
+        margin-bottom: var(--spacing-4);
+        font-size: var(--font-size-large);
+    }
+    
+    .mobile-load-more-btn {
+        background: var(--brand-100);
+        color: var(--white-100);
+        border: none;
+        padding: var(--spacing-4) var(--spacing-8);
+        border-radius: var(--border-radius-pill);
+        font-size: var(--font-size-base);
+        font-weight: var(--font-weight-bold);
+        cursor: pointer;
+        transition: all var(--transition-normal);
+        box-shadow: 0 4px 12px rgba(104, 66, 255, 0.3);
+        width: 100%;
+        max-width: 250px;
+    }
+    
+    .mobile-load-more-btn:hover {
+        background: var(--brand-200);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 16px rgba(104, 66, 255, 0.4);
+    }
+    
+    .mobile-load-more-btn:active {
+        transform: translateY(0);
+    }
+    
+    .mobile-load-more-btn:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+        transform: none;
+    }
 }
 
 /* Hide mobile sections on desktop */

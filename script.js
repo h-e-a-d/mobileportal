@@ -53,9 +53,27 @@ class GamePortal {
         try {
             this.isLoadingMore = append;
             
-            // Try loading from GameMonetize API
-            const response = await fetch(`https://gamemonetize.com/feed.php?format=0&num=${this.gamesPerPage}&page=${page}`);
-            const data = await response.json();
+            // Try loading from GameMonetize API with CORS proxy
+            const apiUrl = `https://gamemonetize.com/feed.php?format=0&num=${this.gamesPerPage}&page=${page}`;
+            const corsProxy = 'https://api.allorigins.win/get?url=';
+            
+            let response;
+            let data;
+            
+            try {
+                // First try direct API call
+                response = await fetch(apiUrl);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                data = await response.json();
+            } catch (directError) {
+                console.log('Direct API failed, trying CORS proxy...', directError.message);
+                
+                // Fallback to CORS proxy
+                response = await fetch(corsProxy + encodeURIComponent(apiUrl));
+                if (!response.ok) throw new Error(`Proxy HTTP ${response.status}`);
+                const proxyData = await response.json();
+                data = JSON.parse(proxyData.contents);
+            }
             
             if (data && Array.isArray(data)) {
                 console.log(`Loaded ${data.length} games from API (page ${page})`);
@@ -79,12 +97,19 @@ class GamePortal {
         } catch (error) {
             console.error('Error loading games:', error);
             
+            // Use expanded mock games as fallback
             if (!append) {
-                // Only use fallback on first load
-                console.log('Using mock games as fallback');
-                this.games = this.getMockGames();
+                console.log('Using expanded mock games as fallback');
+                this.games = this.getExpandedMockGames();
                 this.filteredGames = this.games;
-                this.hasMoreGames = false; // No more mock games
+                this.hasMoreGames = true; // Enable infinite scroll for mock games
+            } else {
+                // For subsequent pages, generate more mock games
+                console.log(`Generating mock games for page ${page}`);
+                const newMockGames = this.generateMockGamesForPage(page);
+                this.games = [...this.games, ...newMockGames];
+                this.filteredGames = this.games;
+                this.hasMoreGames = page < 10; // Limit to 10 pages of mock games
             }
         } finally {
             this.isLoadingMore = false;
@@ -174,6 +199,159 @@ class GamePortal {
                 height: '600'
             }
         ];
+    }
+
+    getExpandedMockGames() {
+        const categories = ['Action', 'Adventure', 'Puzzle', 'Racing', 'Sports', 'Strategy', 'Arcade'];
+        const games = [];
+        
+        // Generate 20 games per category for initial load
+        categories.forEach((category, categoryIndex) => {
+            for (let i = 0; i < 20; i++) {
+                const gameId = categoryIndex * 20 + i + 1;
+                games.push({
+                    id: gameId,
+                    title: this.generateGameTitle(category, i + 1),
+                    description: this.generateGameDescription(category),
+                    category: category,
+                    thumb: this.generateGameThumbnail(category),
+                    url: `https://games.example.com/${category.toLowerCase()}/${gameId}`,
+                    width: '800',
+                    height: '600'
+                });
+            }
+        });
+        
+        return games;
+    }
+
+    generateMockGamesForPage(page) {
+        const categories = ['Action', 'Adventure', 'Puzzle', 'Racing', 'Sports', 'Strategy', 'Arcade'];
+        const games = [];
+        const baseId = (page - 1) * 100; // 100 games per page
+        
+        // Generate 100 games for this page
+        for (let i = 0; i < 100; i++) {
+            const category = categories[i % categories.length];
+            const gameId = baseId + i + 1;
+            
+            games.push({
+                id: gameId,
+                title: this.generateGameTitle(category, Math.floor(i / categories.length) + 1),
+                description: this.generateGameDescription(category),
+                category: category,
+                thumb: this.generateGameThumbnail(category),
+                url: `https://games.example.com/${category.toLowerCase()}/${gameId}`,
+                width: '800',
+                height: '600'
+            });
+        }
+        
+        return games;
+    }
+
+    generateGameTitle(category, number) {
+        const titleTemplates = {
+            'Action': [
+                `Battle Arena ${number}`, `Combat Strike ${number}`, `War Zone ${number}`, 
+                `Fighting Champion ${number}`, `Action Hero ${number}`, `Battle Royale ${number}`
+            ],
+            'Adventure': [
+                `Quest Adventure ${number}`, `Fantasy Journey ${number}`, `Treasure Hunt ${number}`,
+                `Mystery Island ${number}`, `Epic Quest ${number}`, `Adventure World ${number}`
+            ],
+            'Puzzle': [
+                `Brain Teaser ${number}`, `Logic Puzzle ${number}`, `Mind Bender ${number}`,
+                `Puzzle Master ${number}`, `Smart Challenge ${number}`, `Think Tank ${number}`
+            ],
+            'Racing': [
+                `Speed Racer ${number}`, `Fast Track ${number}`, `Racing Pro ${number}`,
+                `Turbo Drive ${number}`, `Speed Demon ${number}`, `Race Champion ${number}`
+            ],
+            'Sports': [
+                `Sports Star ${number}`, `Athletic Challenge ${number}`, `Championship ${number}`,
+                `Pro Player ${number}`, `Sports Arena ${number}`, `Victory Cup ${number}`
+            ],
+            'Strategy': [
+                `Strategic Warfare ${number}`, `Tactical Command ${number}`, `Empire Builder ${number}`,
+                `Master Planner ${number}`, `Strategy King ${number}`, `War Council ${number}`
+            ],
+            'Arcade': [
+                `Retro Arcade ${number}`, `Classic Game ${number}`, `Pixel Adventure ${number}`,
+                `Arcade Master ${number}`, `Vintage Fun ${number}`, `Pixel Perfect ${number}`
+            ]
+        };
+        
+        const templates = titleTemplates[category] || [`${category} Game ${number}`];
+        return templates[number % templates.length];
+    }
+
+    generateGameDescription(category) {
+        const descriptions = {
+            'Action': [
+                'Experience intense combat and thrilling action sequences.',
+                'Battle against enemies in this fast-paced action game.',
+                'Fight your way through challenging levels and boss battles.',
+                'Action-packed gameplay with stunning combat mechanics.'
+            ],
+            'Adventure': [
+                'Embark on an epic journey filled with mystery and excitement.',
+                'Explore vast worlds and discover hidden treasures.',
+                'Adventure awaits in this captivating story-driven game.',
+                'Uncover secrets and solve puzzles in your quest.'
+            ],
+            'Puzzle': [
+                'Challenge your mind with brain-teasing puzzles.',
+                'Test your logic and problem-solving skills.',
+                'Solve increasingly difficult puzzles to progress.',
+                'A perfect blend of challenge and entertainment.'
+            ],
+            'Racing': [
+                'Feel the adrenaline rush of high-speed racing.',
+                'Compete against the best racers in the world.',
+                'Master different tracks and unlock new vehicles.',
+                'Experience realistic racing physics and controls.'
+            ],
+            'Sports': [
+                'Compete in your favorite sports with realistic gameplay.',
+                'Train hard and become the ultimate sports champion.',
+                'Experience the thrill of professional sports competition.',
+                'Master the skills needed to win championships.'
+            ],
+            'Strategy': [
+                'Plan your moves carefully in this strategic masterpiece.',
+                'Build and manage your empire with tactical precision.',
+                'Outsmart your opponents with superior strategy.',
+                'Command armies and conquer territories.'
+            ],
+            'Arcade': [
+                'Classic arcade fun with a modern twist.',
+                'Simple controls, endless entertainment.',
+                'Nostalgic gameplay meets contemporary design.',
+                'Perfect for quick gaming sessions.'
+            ]
+        };
+        
+        const categoryDescriptions = descriptions[category] || ['An exciting game experience.'];
+        return categoryDescriptions[Math.floor(Math.random() * categoryDescriptions.length)];
+    }
+
+    generateGameThumbnail(category) {
+        const colors = {
+            'Action': '#FF4444',
+            'Adventure': '#44FF44', 
+            'Puzzle': '#4444FF',
+            'Racing': '#FF8800',
+            'Sports': '#00FFFF',
+            'Strategy': '#FF00FF',
+            'Arcade': '#FFFF00'
+        };
+        
+        const color = colors[category] || '#6842FF';
+        return `data:image/svg+xml;base64,${btoa(`<svg width="280" height="180" viewBox="0 0 280 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="280" height="180" fill="#333"/>
+<text x="140" y="90" text-anchor="middle" fill="${color}" font-family="Arial" font-size="16" font-weight="bold">${category}</text>
+</svg>`)}`;
     }
 
     async loadMoreGames() {

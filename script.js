@@ -19,6 +19,10 @@ class GamePortal {
         // Display tracking
         this.displayedGamesCount = 0;
         
+        // Scroll tracking to prevent rapid loading
+        this.lastScrollCheck = 0;
+        this.scrollCheckCooldown = 1000; // 1 second cooldown between checks
+        
         this.init();
     }
 
@@ -409,6 +413,9 @@ class GamePortal {
             // Restore displayed count since we're appending, not replacing
             this.displayedGamesCount = currentDisplayedCount;
             this.displayGames(true); // Pass true to append new games
+            
+            // Add a longer cooldown after loading more games to prevent immediate re-triggering
+            this.lastScrollCheck = Date.now() + 2000; // Extra 2 seconds
         } catch (error) {
             console.error('Error loading more games:', error);
         } finally {
@@ -477,6 +484,18 @@ class GamePortal {
             return;
         }
 
+        // Don't load more games if a game page is currently displayed
+        const gamePageContainer = document.getElementById('gamePageContainer');
+        if (gamePageContainer && gamePageContainer.style.display !== 'none') {
+            return;
+        }
+
+        // Cooldown check to prevent rapid successive calls
+        const now = Date.now();
+        if (now - this.lastScrollCheck < this.scrollCheckCooldown) {
+            return;
+        }
+
         // Check if we've displayed all available games before loading more
         if (this.displayedGamesCount >= this.filteredGames.length) {
             const scrollableElement = document.querySelector('.content') || document.documentElement;
@@ -484,13 +503,17 @@ class GamePortal {
             const scrollHeight = scrollableElement.scrollHeight || document.documentElement.scrollHeight;
             const clientHeight = scrollableElement.clientHeight || window.innerHeight;
 
-            // Load more when user scrolls to within 500px of the bottom
-            const threshold = 500;
+            // Load more when user scrolls to within 200px of the bottom (more conservative)
+            const threshold = 200;
             const distanceFromBottom = scrollHeight - (scrollTop + clientHeight);
 
-            if (distanceFromBottom <= threshold) {
+            console.log(`Scroll check: scrollTop=${scrollTop}, scrollHeight=${scrollHeight}, clientHeight=${clientHeight}, distanceFromBottom=${distanceFromBottom}`);
+
+            // Only load more if user has actually scrolled significantly and is near bottom
+            if (distanceFromBottom <= threshold && scrollTop > 500) {
                 console.log('Near bottom and all games displayed, loading more games...');
                 console.log(`Current state: displayed=${this.displayedGamesCount}, filtered=${this.filteredGames.length}, total=${this.games.length}`);
+                this.lastScrollCheck = now; // Update last check time
                 this.loadMoreGames();
             }
         } else {

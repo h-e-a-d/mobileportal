@@ -2,156 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>Kloopik - Play Free Online Games | Best Web Games Collection</title>
-    <meta name="description" content="Play thousands of free online games on Kloopik. Discover action, puzzle, racing, strategy and arcade games. No downloads required - play instantly in your browser!">
-    <meta name="keywords" content="free online games, web games, browser games, action games, puzzle games, racing games, strategy games, arcade games, play games online, kloopik">
-    
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Kloopik - Play Free Online Games">
-    <meta property="og:description" content="Play thousands of free online games. Action, puzzle, racing, strategy and arcade games.">
-    
-    <!-- Additional SEO -->
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://kloopik.com">
-    
-    <!-- Favicon -->
-    <link rel="icon" href="/favicon.ico" sizes="any">
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <link rel="manifest" href="/manifest.json">
-    
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-PK768FJP');</script>
-    <!-- End Google Tag Manager -->
-    
-    <!-- Critical CSS inline for fastest loading -->
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        :root {
-            --brand-100: #6842FF;
-            --brand-200: #5935D6;
-            --black-100: #0C0D14;
-            --black-200: #13141E;
-            --black-300: #1A1B28;
-            --black-400: #212233;
-            --white-100: #F9FAFF;
-            --white-400: #AAADBE;
-            --header-height: 60px;
-            --sidebar-width: 200px;
-            --spacing-2: 8px;
-            --spacing-3: 12px;
-            --spacing-4: 16px;
-            --spacing-6: 24px;
-            --border-radius: 8px;
-            --border-radius-lg: 12px;
-            --border-radius-pill: 30px;
-            --transition-fast: 0.15s ease;
-            --transition-normal: 0.25s ease;
-            --backdrop-blur: blur(8px);
-        }
-
-        body {
-            font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            font-size: 1rem;
-            line-height: 1.6;
-            color: var(--white-100);
-            background-color: var(--black-100);
-            overflow-x: hidden;
-            /* Mobile performance optimizations */
-            -webkit-overflow-scrolling: touch;
-            overscroll-behavior: contain;
-            transform: translateZ(0);
-            backface-visibility: hidden;
-        }
-
-        .loading {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 200px;
-            color: var(--white-400);
-        }
-
-        .spinner {
-            width: 40px;
-            height: 40px;
-            border: 4px solid var(--black-400);
-            border-top: 4px solid var(--brand-100);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin-right: var(--spacing-4);
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        /* Mobile performance optimizations */
-        @media (max-width: 789.95px) {
-            * {
-                /* Prevent content blinking during scroll */
-                transform: translateZ(0);
-                backface-visibility: hidden;
-            }
-            
-            .main-container {
-                /* Optimize mobile layout */
-                will-change: auto;
-                contain: layout style;
-            }
-            
-            .content {
-                /* Prevent layout shifts */
-                contain: layout style paint;
-                overflow-anchor: none;
-            }
-            
-            .mobile-category-sections {
-                /* Smooth mobile scrolling */
-                transform: translateZ(0);
-                will-change: scroll-position;
-            }
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuperGames - Play Free Online Games</title>
+    <meta name="description" content="Play thousands of free online games on SuperGames. Action, puzzle, racing, strategy and arcade games. No downloads required - play instantly in your browser!">
     
     <!-- Preload fonts -->
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap"></noscript>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
     
-    <!-- Load remaining CSS asynchronously -->
-    <link rel="preload" href="src/css/base.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="src/css/components.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript>
-        <link rel="stylesheet" href="src/css/base.css">
-        <link rel="stylesheet" href="src/css/components.css">
-    </noscript>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK768FJP"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-left">
                 <div class="nav-logo">
                     <a href="/">
-                        <h1>Kloopik</h1>
+                        <h1>SuperGames</h1>
                     </a>
                 </div>
                 <button class="search-toggle" id="searchToggle" aria-label="Toggle search">
@@ -190,9 +58,6 @@
             <div class="categories">
                 <div class="category-item active" data-category="all">
                     <span>All Games</span>
-                </div>
-                <div class="category-item" data-category="last-played" id="lastPlayedCategory" style="display: none;">
-                    <span>Last Played</span>
                 </div>
                 <div class="category-item" data-category="Action">
                     <span>Action</span>
@@ -233,14 +98,24 @@
         </main>
     </div>
 
+    <!-- Game Modal -->
+    <div class="modal" id="gameModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalGameTitle">Game Title</h2>
+                <button class="modal-close" id="modalClose" aria-label="Close game">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe id="gameFrame" src="" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
 
-    <script src="src/js/components/gamePortal.js"></script>
-    <script src="src/js/utils/analytics.js"></script>
-    <script>
-        // Initialize Google Analytics
-        if (typeof gtag !== 'undefined') {
-            gtag('config', 'GTM-PK768FJP');
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

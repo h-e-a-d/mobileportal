@@ -154,6 +154,25 @@ a:hover {
     100% { transform: rotate(360deg); }
 }
 
+/* Loading indicator for infinite scroll */
+.loading-indicator {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    color: var(--white-400);
+    gap: 1rem;
+}
+
+.loading-indicator .spinner {
+    width: 32px;
+    height: 32px;
+    border: 3px solid var(--black-400);
+    border-top: 3px solid var(--brand-100);
+    margin-right: 0;
+}
+
 /* Error states */
 .error-message {
     color: var(--error-100);

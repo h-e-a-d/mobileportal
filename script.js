@@ -10,6 +10,12 @@ class GamePortal {
         this.currentSearchTerm = '';
         this.isLoading = false;
         
+        // Pagination properties
+        this.currentPage = 1;
+        this.gamesPerPage = 100;
+        this.hasMoreGames = true;
+        this.isLoadingMore = false;
+        
         this.init();
     }
 
@@ -17,6 +23,7 @@ class GamePortal {
         this.showLoading();
         await this.loadGames();
         this.setupEventListeners();
+        this.setupInfiniteScroll();
         this.displayGames();
         this.hideLoading();
     }
@@ -42,26 +49,45 @@ class GamePortal {
         this.isLoading = false;
     }
 
-    async loadGames() {
+    async loadGames(page = 1, append = false) {
         try {
+            this.isLoadingMore = append;
+            
             // Try loading from GameMonetize API
-            const response = await fetch('https://gamemonetize.com/feed.php?format=0&num=100&page=1');
+            const response = await fetch(`https://gamemonetize.com/feed.php?format=0&num=${this.gamesPerPage}&page=${page}`);
             const data = await response.json();
             
             if (data && Array.isArray(data)) {
-                console.log(`Loaded ${data.length} games from API`);
-                this.games = data;
+                console.log(`Loaded ${data.length} games from API (page ${page})`);
+                
+                if (append) {
+                    // Append new games to existing ones
+                    this.games = [...this.games, ...data];
+                } else {
+                    // First load
+                    this.games = data;
+                }
+                
                 this.filteredGames = this.games;
+                
+                // Check if there are more games available
+                this.hasMoreGames = data.length === this.gamesPerPage;
+                
             } else {
                 throw new Error('Invalid API response');
             }
         } catch (error) {
             console.error('Error loading games:', error);
             
-            // Fallback to mock games
-            console.log('Using mock games as fallback');
-            this.games = this.getMockGames();
-            this.filteredGames = this.games;
+            if (!append) {
+                // Only use fallback on first load
+                console.log('Using mock games as fallback');
+                this.games = this.getMockGames();
+                this.filteredGames = this.games;
+                this.hasMoreGames = false; // No more mock games
+            }
+        } finally {
+            this.isLoadingMore = false;
         }
     }
 
@@ -150,7 +176,105 @@ class GamePortal {
         ];
     }
 
-    displayGames() {
+    async loadMoreGames() {
+        if (!this.hasMoreGames || this.isLoadingMore) {
+            return;
+        }
+
+        console.log('Loading more games...');
+        this.currentPage++;
+        
+        // Show loading indicator
+        this.showLoadingIndicator();
+        
+        try {
+            await this.loadGames(this.currentPage, true);
+            this.applyFilters(); // Re-apply current filters to include new games
+            this.displayGames(true); // Pass true to append new games
+        } catch (error) {
+            console.error('Error loading more games:', error);
+        } finally {
+            this.hideLoadingIndicator();
+        }
+    }
+
+    showLoadingIndicator() {
+        const gamesGrid = document.getElementById('gamesGrid');
+        if (!gamesGrid) return;
+
+        // Add loading indicator at the bottom of the grid
+        const existingIndicator = document.getElementById('loadingIndicator');
+        if (!existingIndicator) {
+            const loadingIndicator = document.createElement('div');
+            loadingIndicator.id = 'loadingIndicator';
+            loadingIndicator.className = 'loading-indicator';
+            loadingIndicator.innerHTML = `
+                <div class="spinner"></div>
+                <span>Loading more games...</span>
+            `;
+            loadingIndicator.style.cssText = `
+                grid-column: 1 / -1;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 2rem;
+                color: var(--white-400);
+                gap: 1rem;
+            `;
+            gamesGrid.appendChild(loadingIndicator);
+        }
+    }
+
+    hideLoadingIndicator() {
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        if (loadingIndicator) {
+            loadingIndicator.remove();
+        }
+    }
+
+    setupInfiniteScroll() {
+        const content = document.querySelector('.content');
+        if (!content) return;
+
+        let scrollTimeout;
+        
+        content.addEventListener('scroll', () => {
+            clearTimeout(scrollTimeout);
+            scrollTimeout = setTimeout(() => {
+                this.checkScrollPosition();
+            }, 100);
+        });
+
+        // Also listen to window scroll for cases where content doesn't scroll
+        window.addEventListener('scroll', () => {
+            clearTimeout(scrollTimeout);
+            scrollTimeout = setTimeout(() => {
+                this.checkScrollPosition();
+            }, 100);
+        });
+    }
+
+    checkScrollPosition() {
+        if (!this.hasMoreGames || this.isLoadingMore || this.isMobile()) {
+            return;
+        }
+
+        const scrollableElement = document.querySelector('.content') || document.documentElement;
+        const scrollTop = scrollableElement.scrollTop || window.pageYOffset;
+        const scrollHeight = scrollableElement.scrollHeight || document.documentElement.scrollHeight;
+        const clientHeight = scrollableElement.clientHeight || window.innerHeight;
+
+        // Load more when user scrolls to within 500px of the bottom
+        const threshold = 500;
+        const distanceFromBottom = scrollHeight - (scrollTop + clientHeight);
+
+        if (distanceFromBottom <= threshold) {
+            console.log('Near bottom, loading more games...');
+            this.loadMoreGames();
+        }
+    }
+
+    displayGames(append = false) {
         const isMobile = this.isMobile();
         
         console.log('Display games called. Mobile:', isMobile, 'Width:', window.innerWidth);
@@ -159,25 +283,50 @@ class GamePortal {
         if (isMobile) {
             this.displayMobileLayout();
         } else {
-            this.displayDesktopLayout();
+            this.displayDesktopLayout(append);
         }
     }
 
-    displayDesktopLayout() {
+    displayDesktopLayout(append = false) {
         const gamesGrid = document.getElementById('gamesGrid');
         if (!gamesGrid) return;
 
-        gamesGrid.innerHTML = '';
+        if (!append) {
+            // Clear existing content only if not appending
+            gamesGrid.innerHTML = '';
+        } else {
+            // Remove loading indicator if it exists
+            this.hideLoadingIndicator();
+        }
 
         if (this.filteredGames.length === 0) {
             gamesGrid.innerHTML = '<div class="no-games">No games found matching your criteria.</div>';
             return;
         }
 
-        this.filteredGames.forEach(game => {
-            const gameCard = this.createGameCard(game);
-            gamesGrid.appendChild(gameCard);
-        });
+        if (append) {
+            // When appending, only add games that aren't already displayed
+            const existingGameIds = new Set();
+            const existingCards = gamesGrid.querySelectorAll('.game-card[data-game-id]');
+            existingCards.forEach(card => {
+                existingGameIds.add(parseInt(card.dataset.gameId));
+            });
+
+            this.filteredGames.forEach(game => {
+                if (!existingGameIds.has(game.id)) {
+                    const gameCard = this.createGameCard(game);
+                    gameCard.dataset.gameId = game.id;
+                    gamesGrid.appendChild(gameCard);
+                }
+            });
+        } else {
+            // Full reload - display all games
+            this.filteredGames.forEach(game => {
+                const gameCard = this.createGameCard(game);
+                gameCard.dataset.gameId = game.id;
+                gamesGrid.appendChild(gameCard);
+            });
+        }
     }
 
     displayMobileLayout() {
@@ -334,8 +483,14 @@ class GamePortal {
 
     filterByCategory(category) {
         this.currentCategory = category;
+        
+        // Reset pagination when changing filters
+        this.currentPage = 1;
+        this.hasMoreGames = true;
+        
         this.applyFilters();
         this.updateActiveCategory(category);
+        this.displayGames(false); // Full reload
     }
 
     searchGames(searchTerm) {
@@ -431,7 +586,6 @@ class GamePortal {
         }
 
         this.filteredGames = filteredGames;
-        this.displayGames();
     }
 
     updateActiveCategory(category) {

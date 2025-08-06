@@ -22,6 +22,7 @@ class GamePortal {
         // Scroll tracking to prevent rapid loading
         this.lastScrollCheck = 0;
         this.scrollCheckCooldown = 1000; // 1 second cooldown between checks
+        this.scrollEnabled = false; // Disable scroll initially
         
         this.init();
     }
@@ -464,35 +465,59 @@ class GamePortal {
         let scrollTimeout;
         
         content.addEventListener('scroll', () => {
+            // Enable scroll loading after user actually scrolls
+            if (!this.scrollEnabled) {
+                console.log('Enabling scroll loading after user scroll');
+                this.scrollEnabled = true;
+            }
+            
             clearTimeout(scrollTimeout);
             scrollTimeout = setTimeout(() => {
+                console.log('Content scroll event triggered');
                 this.checkScrollPosition();
-            }, 100);
+            }, 500); // Increased delay to 500ms
         });
 
         // Also listen to window scroll for cases where content doesn't scroll
         window.addEventListener('scroll', () => {
+            // Enable scroll loading after user actually scrolls
+            if (!this.scrollEnabled) {
+                console.log('Enabling scroll loading after user scroll');
+                this.scrollEnabled = true;
+            }
+            
             clearTimeout(scrollTimeout);
             scrollTimeout = setTimeout(() => {
+                console.log('Window scroll event triggered');
                 this.checkScrollPosition();
-            }, 100);
+            }, 500); // Increased delay to 500ms
         });
     }
 
     checkScrollPosition() {
+        console.log('=== SCROLL CHECK v2.0 CALLED ===');
+        
+        if (!this.scrollEnabled) {
+            console.log('Scroll loading disabled');
+            return;
+        }
+        
         if (!this.hasMoreGames || this.isLoadingMore || this.isMobile()) {
+            console.log('Skipping scroll check:', { hasMoreGames: this.hasMoreGames, isLoadingMore: this.isLoadingMore, isMobile: this.isMobile() });
             return;
         }
 
         // Don't load more games if a game page is currently displayed
         const gamePageContainer = document.getElementById('gamePageContainer');
         if (gamePageContainer && gamePageContainer.style.display !== 'none') {
+            console.log('Skipping scroll check: game page is open');
             return;
         }
 
         // Cooldown check to prevent rapid successive calls
         const now = Date.now();
         if (now - this.lastScrollCheck < this.scrollCheckCooldown) {
+            console.log('Skipping scroll check: cooldown active', { now, lastCheck: this.lastScrollCheck, cooldown: this.scrollCheckCooldown });
             return;
         }
 

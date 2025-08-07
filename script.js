@@ -528,6 +528,12 @@ class GamePortal {
             const scrollHeight = scrollableElement.scrollHeight || document.documentElement.scrollHeight;
             const clientHeight = scrollableElement.clientHeight || window.innerHeight;
 
+            // Check if content is actually scrollable
+            if (scrollHeight <= clientHeight) {
+                console.log('Content is not scrollable, skipping infinite scroll', { scrollHeight, clientHeight });
+                return;
+            }
+
             // Load more when user scrolls to within 200px of the bottom (more conservative)
             const threshold = 200;
             const distanceFromBottom = scrollHeight - (scrollTop + clientHeight);

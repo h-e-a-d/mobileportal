@@ -187,7 +187,7 @@ class GamePortal {
         
         try {
             await this.loadGames(this.currentPage, true);
-            this.applyFilters(); // Re-apply current filters to include new games
+            this.applyFilters(false); // Re-apply current filters to include new games, don't reset display count
             this.displayGames(true); // Pass true to append new games
             
             console.log(`Successfully loaded page ${this.currentPage}. Total games: ${this.games.length}, Filtered: ${this.filteredGames.length}, Displayed: ${this.displayedGamesCount}`);
@@ -883,7 +883,7 @@ class GamePortal {
         this.openGamePage(game);
     }
 
-    applyFilters() {
+    applyFilters(resetDisplayCount = true) {
         let filteredGames = this.games;
 
         // Apply category filter
@@ -904,8 +904,10 @@ class GamePortal {
 
         this.filteredGames = filteredGames;
         
-        // Reset displayed count when filters change
-        this.displayedGamesCount = 0;
+        // Only reset displayed count when explicitly requested (i.e., when filters actually change)
+        if (resetDisplayCount) {
+            this.displayedGamesCount = 0;
+        }
     }
 
     updateActiveCategory(category) {

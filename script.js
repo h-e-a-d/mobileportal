@@ -23,6 +23,10 @@ class GamePortal {
         this.footerObserver = null;
         this.isFooterObserverActive = false;
         
+        // Recent games caching
+        this.recentGamesKey = 'kloopik_recent_games';
+        this.maxRecentGames = 20;
+        
         this.init();
     }
 
@@ -336,7 +340,10 @@ class GamePortal {
         }
 
         if (this.filteredGames.length === 0) {
-            gamesGrid.innerHTML = '<div class="no-games">No games found matching your criteria.</div>';
+            const noGamesMessage = this.currentCategory === 'recent' 
+                ? '<div class="no-games">No recent games found. Play some games to see them here!</div>'
+                : '<div class="no-games">No games found matching your criteria.</div>';
+            gamesGrid.innerHTML = noGamesMessage;
             return;
         }
 
@@ -387,7 +394,10 @@ class GamePortal {
         }
 
         if (this.filteredGames.length === 0) {
-            gamesGrid.innerHTML = '<div class="no-games">No games found matching your criteria.</div>';
+            const noGamesMessage = this.currentCategory === 'recent' 
+                ? '<div class="no-games">No recent games found. Play some games to see them here!</div>'
+                : '<div class="no-games">No games found matching your criteria.</div>';
+            gamesGrid.innerHTML = noGamesMessage;
             return;
         }
         
@@ -475,6 +485,52 @@ class GamePortal {
     createMobileCategorySections() {
         const mobileSections = document.getElementById('mobileCategorySections');
         const categories = ['Action', 'Adventure', 'Puzzle', 'Racing', 'Sports', 'Strategy', 'Arcade'];
+        
+        // Create recent games section
+        const recentGames = this.getRecentGames();
+        if (recentGames.length > 0) {
+            const recentSection = document.createElement('div');
+            recentSection.className = 'mobile-category-section';
+            
+            const gamesPerSection = Math.min(8, recentGames.length);
+            const recentGamesHtml = recentGames.slice(0, gamesPerSection).map(game => `
+                <div class="game-card" data-game-id="${game.id}" tabindex="0" role="button" aria-label="Play ${game.title}">
+                    <img src="${game.thumb}" alt="${game.title}" class="game-thumb" loading="lazy">
+                    <div class="game-info">
+                        <h3 class="game-title">${game.title}</h3>
+                    </div>
+                </div>
+            `).join('');
+
+            recentSection.innerHTML = `
+                <div class="mobile-category-header">
+                    <h2 class="mobile-category-title">Recently Played</h2>
+                    <span class="mobile-games-count">${gamesPerSection} of ${recentGames.length}</span>
+                </div>
+                <div class="mobile-games-row">
+                    ${recentGamesHtml}
+                </div>
+            `;
+
+            // Add event listeners for recent games
+            recentSection.querySelectorAll('.game-card').forEach(card => {
+                const gameId = card.dataset.gameId;
+                const game = recentGames.find(g => g.id == gameId);
+                if (game) {
+                    console.log(`Adding mobile click listener for recent game: ${game.title} (ID: ${game.id})`);
+                    card.addEventListener('click', () => this.openGamePage(game));
+                    
+                    card.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault();
+                            this.openGamePage(game);
+                        }
+                    });
+                }
+            });
+
+            mobileSections.appendChild(recentSection);
+        }
         
         // Create featured game section
         const featuredGame = this.games[0];
@@ -644,6 +700,9 @@ class GamePortal {
 
     async openGamePage(game) {
         console.log(`Opening game page for: ${game.title}`);
+        
+        // Add to recent games before opening
+        this.addToRecentGames(game);
         
         // Store game data in sessionStorage for the game page
         sessionStorage.setItem('currentGame', JSON.stringify(game));
@@ -884,22 +943,29 @@ class GamePortal {
     }
 
     applyFilters(resetDisplayCount = true) {
-        let filteredGames = this.games;
+        let filteredGames;
 
-        // Apply category filter
-        if (this.currentCategory !== 'all') {
-            filteredGames = filteredGames.filter(game => 
-                game.category.toLowerCase() === this.currentCategory.toLowerCase()
-            );
-        }
+        // Handle Recent category specially
+        if (this.currentCategory === 'recent') {
+            filteredGames = this.getFilteredRecentGames();
+        } else {
+            filteredGames = this.games;
 
-        // Apply search filter
-        if (this.currentSearchTerm) {
-            filteredGames = filteredGames.filter(game =>
-                game.title.toLowerCase().includes(this.currentSearchTerm) ||
-                game.description.toLowerCase().includes(this.currentSearchTerm) ||
-                game.category.toLowerCase().includes(this.currentSearchTerm)
-            );
+            // Apply category filter
+            if (this.currentCategory !== 'all') {
+                filteredGames = filteredGames.filter(game => 
+                    game.category.toLowerCase() === this.currentCategory.toLowerCase()
+                );
+            }
+
+            // Apply search filter
+            if (this.currentSearchTerm) {
+                filteredGames = filteredGames.filter(game =>
+                    game.title.toLowerCase().includes(this.currentSearchTerm) ||
+                    game.description.toLowerCase().includes(this.currentSearchTerm) ||
+                    game.category.toLowerCase().includes(this.currentSearchTerm)
+                );
+            }
         }
 
         this.filteredGames = filteredGames;
@@ -1106,6 +1172,67 @@ class GamePortal {
         if (typeof gtag !== 'undefined') {
             gtag('event', eventName, parameters);
         }
+    }
+
+    // Recent Games localStorage Methods
+    getRecentGames() {
+        try {
+            const recentGames = localStorage.getItem(this.recentGamesKey);
+            return recentGames ? JSON.parse(recentGames) : [];
+        } catch (error) {
+            console.error('Error loading recent games from localStorage:', error);
+            return [];
+        }
+    }
+
+    addToRecentGames(game) {
+        try {
+            let recentGames = this.getRecentGames();
+            
+            // Remove game if it already exists (to move it to front)
+            recentGames = recentGames.filter(recentGame => recentGame.id !== game.id);
+            
+            // Add game to beginning of array with timestamp
+            const gameWithTimestamp = {
+                ...game,
+                playedAt: new Date().toISOString()
+            };
+            recentGames.unshift(gameWithTimestamp);
+            
+            // Keep only the most recent games
+            if (recentGames.length > this.maxRecentGames) {
+                recentGames = recentGames.slice(0, this.maxRecentGames);
+            }
+            
+            localStorage.setItem(this.recentGamesKey, JSON.stringify(recentGames));
+            console.log(`Added ${game.title} to recent games`);
+        } catch (error) {
+            console.error('Error adding game to recent games:', error);
+        }
+    }
+
+    clearRecentGames() {
+        try {
+            localStorage.removeItem(this.recentGamesKey);
+            console.log('Recent games cleared');
+        } catch (error) {
+            console.error('Error clearing recent games:', error);
+        }
+    }
+
+    getFilteredRecentGames() {
+        const recentGames = this.getRecentGames();
+        
+        // Apply search filter if active
+        if (this.currentSearchTerm) {
+            return recentGames.filter(game =>
+                game.title.toLowerCase().includes(this.currentSearchTerm) ||
+                game.description.toLowerCase().includes(this.currentSearchTerm) ||
+                game.category.toLowerCase().includes(this.currentSearchTerm)
+            );
+        }
+        
+        return recentGames;
     }
 }
 

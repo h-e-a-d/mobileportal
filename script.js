@@ -1,5 +1,5 @@
 /**
- * SuperGames Portal - Simplified Game Portal
+ * Kloopik Gaming Portal - Simplified Game Portal
  * Handles game loading, filtering, search, and modal display
  */
 class GamePortal {
@@ -55,11 +55,11 @@ class GamePortal {
                 } catch (error) {
                     console.error('Error parsing stored game data:', error);
                     // Clear the hash if game data is invalid
-                    history.replaceState(null, 'SuperGames', '/');
+                    history.replaceState(null, 'Kloopik', '/');
                 }
             } else {
                 // No game data available, clear the hash
-                history.replaceState(null, 'SuperGames', '/');
+                history.replaceState(null, 'Kloopik', '/');
             }
         }
     }
@@ -687,7 +687,7 @@ class GamePortal {
         gamePageContainer.style.display = 'block';
         
         // Update page title
-        document.title = `Play ${game.title} - SuperGames`;
+        document.title = `Play ${game.title} - Kloopik`;
         
         // Add event listeners for game page
         this.setupGamePageEventListeners();
@@ -709,7 +709,7 @@ class GamePortal {
         }
         
         // Reset page title
-        document.title = 'SuperGames - Play Free Online Games';
+        document.title = 'Kloopik - Play Free Online Games | Best Gaming Portal 2024';
     }
 
 
@@ -771,7 +771,7 @@ class GamePortal {
             history.back();
         } else {
             // Fallback: manually navigate to home
-            history.pushState(null, 'SuperGames', '/');
+            history.pushState(null, 'Kloopik', '/');
             this.hideGamePage();
         }
     }

@@ -1053,9 +1053,15 @@ a:hover {
 /* Game Page Styles */
 .game-page {
     display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     min-height: 100vh;
     background: var(--black-100);
     padding-top: var(--header-height);
+    z-index: 2000;
+    overflow-y: auto;
 }
 
 .game-container {

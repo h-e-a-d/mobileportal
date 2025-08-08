@@ -124,6 +124,13 @@ class GamePortal {
                     const newGames = data.filter(game => !existingIds.has(game.id));
                     console.log(`${data.length} games received, ${newGames.length} new games after deduplication`);
                     
+                    if (newGames.length === 0) {
+                        // API returned all duplicate games, assume no more new games available
+                        console.log('No new games found, disabling further loading');
+                        this.hasMoreGames = false;
+                        return;
+                    }
+                    
                     // Append only new games to existing ones
                     this.games = [...this.games, ...newGames];
                 } else {
@@ -144,268 +151,23 @@ class GamePortal {
         } catch (error) {
             console.error('Error loading games:', error);
             
-            // Use expanded mock games as fallback
+            // On error, disable further loading attempts
             if (!append) {
-                console.log('Using expanded mock games as fallback');
-                this.games = this.getExpandedMockGames();
-                this.filteredGames = this.games;
-                this.hasMoreGames = true; // Enable infinite scroll for mock games
-            } else {
-                // For subsequent pages, generate more mock games
-                console.log(`Generating mock games for page ${page}`);
-                const newMockGames = this.generateMockGamesForPage(page);
-                
-                // Filter out duplicate games by ID
-                const existingIds = new Set(this.games.map(game => game.id));
-                const uniqueNewGames = newMockGames.filter(game => !existingIds.has(game.id));
-                
-                this.games = [...this.games, ...uniqueNewGames];
-                this.filteredGames = this.games;
-                this.hasMoreGames = page < 10; // Limit to 10 pages of mock games
-                console.log(`Generated ${uniqueNewGames.length} new mock games for page ${page}`);
+                console.log('Failed to load games from API');
+                this.games = [];
+                this.filteredGames = [];
             }
+            this.hasMoreGames = false;
         } finally {
             this.isLoadingMore = false;
         }
     }
 
-    getMockGames() {
-        return [
-            {
-                id: 1,
-                title: 'Super Racing Adventure',
-                description: 'Experience the thrill of high-speed racing in this action-packed adventure game.',
-                category: 'Racing',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPlJhY2luZzwvdGV4dD4KPC9zdmc+',
-                url: 'https://games.example.com/racing',
-                width: '800',
-                height: '600'
-            },
-            {
-                id: 2,
-                title: 'Puzzle Master Challenge',
-                description: 'Test your brain with this challenging puzzle game.',
-                category: 'Puzzle',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPlB1enpsZTwvdGV4dD4KPC9zdmc+',
-                url: 'https://games.example.com/puzzle',
-                width: '800',
-                height: '600'
-            },
-            {
-                id: 3,
-                title: 'Space Shooter Galaxy',
-                description: 'Defend the galaxy from alien invaders in this intense space shooter.',
-                category: 'Action',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPkFjdGlvbjwvdGV4dD4KPC9zdmc+',
-                url: 'https://games.example.com/action',
-                width: '800',
-                height: '600'
-            },
-            {
-                id: 4,
-                title: 'Fantasy Adventure Quest',
-                description: 'Embark on an epic fantasy journey filled with magic and mystery.',
-                category: 'Adventure',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPkFkdmVudHVyZTwvdGV4dD4KPC9zdmc+',
-                url: 'https://games.example.com/adventure',
-                width: '800',
-                height: '600'
-            },
-            {
-                id: 5,
-                title: 'Basketball Pro Arena',
-                description: 'Show off your basketball skills in this exciting sports game.',
-                category: 'Sports',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPlNwb3J0czwvdGV4dD4KPC9zdmc+',
-                url: 'https://games.example.com/sports',
-                width: '800',
-                height: '600'
-            },
-            {
-                id: 6,
-                title: 'War Strategy Empire',
-                description: 'Build your empire and conquer the world in this strategic warfare game.',
-                category: 'Strategy',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPlN0cmF0ZWd5PC90ZXh0Pgo8L3N2Zz4=',
-                url: 'https://games.example.com/strategy',
-                width: '800',
-                height: '600'
-            },
-            {
-                id: 7,
-                title: 'Retro Arcade Blast',
-                description: 'Classic arcade fun with a modern twist. Nostalgia meets innovation.',
-                category: 'Arcade',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPkFyY2FkZTwvdGV4dD4KPC9zdmc+',
-                url: 'https://games.example.com/arcade',
-                width: '800',
-                height: '600'
-            },
-            {
-                id: 8,
-                title: 'Mystery Detective Case',
-                description: 'Solve intricate mysteries and uncover hidden clues in this adventure game.',
-                category: 'Adventure',
-                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMzMzIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyRkYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPkFkdmVudHVyZTwvdGV4dD4KPC9zdmc+',
-                url: 'https://games.example.com/adventure2',
-                width: '800',
-                height: '600'
-            }
-        ];
-    }
 
-    getExpandedMockGames() {
-        const categories = ['Action', 'Adventure', 'Puzzle', 'Racing', 'Sports', 'Strategy', 'Arcade'];
-        const games = [];
-        
-        // Generate 20 games per category for initial load
-        categories.forEach((category, categoryIndex) => {
-            for (let i = 0; i < 20; i++) {
-                const gameId = categoryIndex * 20 + i + 1;
-                games.push({
-                    id: gameId,
-                    title: this.generateGameTitle(category, i + 1),
-                    description: this.generateGameDescription(category),
-                    category: category,
-                    thumb: this.generateGameThumbnail(category),
-                    url: `https://games.example.com/${category.toLowerCase()}/${gameId}`,
-                    width: '800',
-                    height: '600'
-                });
-            }
-        });
-        
-        return games;
-    }
 
-    generateMockGamesForPage(page) {
-        const categories = ['Action', 'Adventure', 'Puzzle', 'Racing', 'Sports', 'Strategy', 'Arcade'];
-        const games = [];
-        const baseId = (page - 1) * 100; // 100 games per page
-        
-        // Generate 100 games for this page
-        for (let i = 0; i < 100; i++) {
-            const category = categories[i % categories.length];
-            const gameId = baseId + i + 1;
-            
-            games.push({
-                id: gameId,
-                title: this.generateGameTitle(category, Math.floor(i / categories.length) + 1),
-                description: this.generateGameDescription(category),
-                category: category,
-                thumb: this.generateGameThumbnail(category),
-                url: `https://games.example.com/${category.toLowerCase()}/${gameId}`,
-                width: '800',
-                height: '600'
-            });
-        }
-        
-        return games;
-    }
 
-    generateGameTitle(category, number) {
-        const titleTemplates = {
-            'Action': [
-                `Battle Arena ${number}`, `Combat Strike ${number}`, `War Zone ${number}`, 
-                `Fighting Champion ${number}`, `Action Hero ${number}`, `Battle Royale ${number}`
-            ],
-            'Adventure': [
-                `Quest Adventure ${number}`, `Fantasy Journey ${number}`, `Treasure Hunt ${number}`,
-                `Mystery Island ${number}`, `Epic Quest ${number}`, `Adventure World ${number}`
-            ],
-            'Puzzle': [
-                `Brain Teaser ${number}`, `Logic Puzzle ${number}`, `Mind Bender ${number}`,
-                `Puzzle Master ${number}`, `Smart Challenge ${number}`, `Think Tank ${number}`
-            ],
-            'Racing': [
-                `Speed Racer ${number}`, `Fast Track ${number}`, `Racing Pro ${number}`,
-                `Turbo Drive ${number}`, `Speed Demon ${number}`, `Race Champion ${number}`
-            ],
-            'Sports': [
-                `Sports Star ${number}`, `Athletic Challenge ${number}`, `Championship ${number}`,
-                `Pro Player ${number}`, `Sports Arena ${number}`, `Victory Cup ${number}`
-            ],
-            'Strategy': [
-                `Strategic Warfare ${number}`, `Tactical Command ${number}`, `Empire Builder ${number}`,
-                `Master Planner ${number}`, `Strategy King ${number}`, `War Council ${number}`
-            ],
-            'Arcade': [
-                `Retro Arcade ${number}`, `Classic Game ${number}`, `Pixel Adventure ${number}`,
-                `Arcade Master ${number}`, `Vintage Fun ${number}`, `Pixel Perfect ${number}`
-            ]
-        };
-        
-        const templates = titleTemplates[category] || [`${category} Game ${number}`];
-        return templates[number % templates.length];
-    }
 
-    generateGameDescription(category) {
-        const descriptions = {
-            'Action': [
-                'Experience intense combat and thrilling action sequences.',
-                'Battle against enemies in this fast-paced action game.',
-                'Fight your way through challenging levels and boss battles.',
-                'Action-packed gameplay with stunning combat mechanics.'
-            ],
-            'Adventure': [
-                'Embark on an epic journey filled with mystery and excitement.',
-                'Explore vast worlds and discover hidden treasures.',
-                'Adventure awaits in this captivating story-driven game.',
-                'Uncover secrets and solve puzzles in your quest.'
-            ],
-            'Puzzle': [
-                'Challenge your mind with brain-teasing puzzles.',
-                'Test your logic and problem-solving skills.',
-                'Solve increasingly difficult puzzles to progress.',
-                'A perfect blend of challenge and entertainment.'
-            ],
-            'Racing': [
-                'Feel the adrenaline rush of high-speed racing.',
-                'Compete against the best racers in the world.',
-                'Master different tracks and unlock new vehicles.',
-                'Experience realistic racing physics and controls.'
-            ],
-            'Sports': [
-                'Compete in your favorite sports with realistic gameplay.',
-                'Train hard and become the ultimate sports champion.',
-                'Experience the thrill of professional sports competition.',
-                'Master the skills needed to win championships.'
-            ],
-            'Strategy': [
-                'Plan your moves carefully in this strategic masterpiece.',
-                'Build and manage your empire with tactical precision.',
-                'Outsmart your opponents with superior strategy.',
-                'Command armies and conquer territories.'
-            ],
-            'Arcade': [
-                'Classic arcade fun with a modern twist.',
-                'Simple controls, endless entertainment.',
-                'Nostalgic gameplay meets contemporary design.',
-                'Perfect for quick gaming sessions.'
-            ]
-        };
-        
-        const categoryDescriptions = descriptions[category] || ['An exciting game experience.'];
-        return categoryDescriptions[Math.floor(Math.random() * categoryDescriptions.length)];
-    }
 
-    generateGameThumbnail(category) {
-        const colors = {
-            'Action': '#FF4444',
-            'Adventure': '#44FF44', 
-            'Puzzle': '#4444FF',
-            'Racing': '#FF8800',
-            'Sports': '#00FFFF',
-            'Strategy': '#FF00FF',
-            'Arcade': '#FFFF00'
-        };
-        
-        const color = colors[category] || '#6842FF';
-        return `data:image/svg+xml;base64,${btoa(`<svg width="280" height="180" viewBox="0 0 280 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="280" height="180" fill="#333"/>
-<text x="140" y="90" text-anchor="middle" fill="${color}" font-family="Arial" font-size="16" font-weight="bold">${category}</text>
-</svg>`)}`;
-    }
 
     async loadMoreGames() {
         if (!this.hasMoreGames || this.isLoadingMore) {

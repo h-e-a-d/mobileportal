@@ -1066,7 +1066,7 @@ a:hover {
 
 .game-header {
     text-align: center;
-    margin-bottom: var(--spacing-8);
+    margin-top: var(--spacing-8);
 }
 
 .game-page-title {
@@ -1125,7 +1125,8 @@ a:hover {
     display: flex;
     justify-content: center;
     gap: var(--spacing-4);
-    margin-top: var(--spacing-6);
+    margin-top: var(--spacing-4);
+    margin-bottom: var(--spacing-2);
 }
 
 .btn-back {

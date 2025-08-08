@@ -782,14 +782,6 @@ class GamePortal {
     createGamePageContent(game) {
         return `
             <div class="game-container">
-                <header class="game-header">
-                    <h1 class="game-page-title">${game.title}</h1>
-                    <div class="game-meta">
-                        <span class="game-category">${game.category}</span>
-                    </div>
-                    <p class="game-description">${game.description}</p>
-                </header>
-
                 <div class="game-frame-container">
                     <iframe class="game-frame" 
                             src="${game.url}" 
@@ -802,6 +794,14 @@ class GamePortal {
                     <button class="btn-back" id="gameBackBtn">← Back to Games</button>
                     <button class="fullscreen-btn" id="gameFullscreenBtn">Fullscreen</button>
                 </div>
+
+                <header class="game-header">
+                    <h1 class="game-page-title">${game.title}</h1>
+                    <div class="game-meta">
+                        <span class="game-category">${game.category}</span>
+                    </div>
+                    <p class="game-description">${game.description}</p>
+                </header>
             </div>
         `;
     }

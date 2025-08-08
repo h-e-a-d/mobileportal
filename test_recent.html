@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Recent Games</title>
+    <script>
+        // Simple test for localStorage recent games functionality
+        const recentGamesKey = 'kloopik_recent_games';
+        const maxRecentGames = 20;
+
+        function getRecentGames() {
+            try {
+                const recentGames = localStorage.getItem(recentGamesKey);
+                return recentGames ? JSON.parse(recentGames) : [];
+            } catch (error) {
+                console.error('Error loading recent games from localStorage:', error);
+                return [];
+            }
+        }
+
+        function addToRecentGames(game) {
+            try {
+                let recentGames = getRecentGames();
+                
+                // Remove game if it already exists (to move it to front)
+                recentGames = recentGames.filter(recentGame => recentGame.id !== game.id);
+                
+                // Add game to beginning of array with timestamp
+                const gameWithTimestamp = {
+                    ...game,
+                    playedAt: new Date().toISOString()
+                };
+                recentGames.unshift(gameWithTimestamp);
+                
+                // Keep only the most recent games
+                if (recentGames.length > maxRecentGames) {
+                    recentGames = recentGames.slice(0, maxRecentGames);
+                }
+                
+                localStorage.setItem(recentGamesKey, JSON.stringify(recentGames));
+                console.log(`Added ${game.title} to recent games`);
+                return true;
+            } catch (error) {
+                console.error('Error adding game to recent games:', error);
+                return false;
+            }
+        }
+
+        function testRecentGames() {
+            console.log('Testing recent games functionality...');
+            
+            // Test game objects
+            const testGames = [
+                { id: 1, title: 'Test Game 1', category: 'Action', thumb: 'test1.jpg' },
+                { id: 2, title: 'Test Game 2', category: 'Puzzle', thumb: 'test2.jpg' },
+                { id: 3, title: 'Test Game 3', category: 'Racing', thumb: 'test3.jpg' }
+            ];
+
+            // Clear existing recent games
+            localStorage.removeItem(recentGamesKey);
+            console.log('Cleared recent games');
+
+            // Add test games
+            testGames.forEach(game => {
+                const success = addToRecentGames(game);
+                console.log(`Added ${game.title}: ${success}`);
+            });
+
+            // Get and display recent games
+            const recent = getRecentGames();
+            console.log('Recent games retrieved:', recent);
+            console.log(`Found ${recent.length} recent games`);
+
+            // Test adding duplicate (should move to front)
+            addToRecentGames(testGames[0]);
+            const recentAfterDupe = getRecentGames();
+            console.log('After adding duplicate:', recentAfterDupe);
+
+            return recent.length === 3;
+        }
+
+        window.addEventListener('load', () => {
+            const success = testRecentGames();
+            document.body.innerHTML = `
+                <h1>Recent Games Test</h1>
+                <p>Test ${success ? 'PASSED' : 'FAILED'}</p>
+                <p>Check console for details</p>
+                <button onclick="testRecentGames()">Run Test Again</button>
+                <button onclick="localStorage.removeItem('${recentGamesKey}'); console.log('Cleared recent games')">Clear Recent Games</button>
+            `;
+        });
+    </script>
+</head>
+<body>
+    <h1>Loading test...</h1>
+</body>
+</html>

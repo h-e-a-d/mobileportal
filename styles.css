@@ -950,6 +950,106 @@ a:hover {
     }
 }
 
+/* Footer Styles */
+.footer {
+    background: var(--black-200);
+    border-top: 1px solid var(--black-400);
+    margin-top: var(--spacing-12);
+    padding: var(--spacing-12) 0 var(--spacing-6);
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--spacing-6);
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: var(--spacing-8);
+}
+
+.footer-section h3 {
+    color: var(--brand-100);
+    font-weight: var(--font-weight-black);
+    font-size: var(--font-size-xl);
+    margin-bottom: var(--spacing-4);
+}
+
+.footer-section h4 {
+    color: var(--white-100);
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-base);
+    margin-bottom: var(--spacing-3);
+}
+
+.footer-section p {
+    color: var(--white-400);
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-2);
+}
+
+.footer-links a {
+    color: var(--white-300);
+    text-decoration: none;
+    transition: color var(--transition-fast);
+    cursor: pointer;
+}
+
+.footer-links a:hover {
+    color: var(--brand-100);
+}
+
+.footer-bottom {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--spacing-6) var(--spacing-6) 0;
+    margin-top: var(--spacing-8);
+    border-top: 1px solid var(--black-400);
+    text-align: center;
+}
+
+.footer-bottom p {
+    color: var(--white-400);
+    font-size: var(--font-size-small);
+    margin: 0;
+}
+
+/* Footer responsive design */
+@media (max-width: 789.95px) {
+    .footer {
+        margin-top: var(--spacing-8);
+        padding: var(--spacing-8) 0 var(--spacing-4);
+    }
+    
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-6);
+        padding: 0 var(--spacing-4);
+        text-align: center;
+    }
+    
+    .footer-section h3 {
+        font-size: var(--font-size-large);
+    }
+    
+    .footer-links {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: var(--spacing-3) var(--spacing-4);
+    }
+    
+    .footer-bottom {
+        padding: var(--spacing-4) var(--spacing-4) 0;
+        margin-top: var(--spacing-6);
+    }
+}
+
 /* Game Page Styles */
 .game-page {
     display: none;

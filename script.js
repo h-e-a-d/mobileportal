@@ -19,10 +19,9 @@ class GamePortal {
         // Display tracking
         this.displayedGamesCount = 0;
         
-        // Scroll tracking to prevent rapid loading
-        this.lastScrollCheck = 0;
-        this.scrollCheckCooldown = 1000; // 1 second cooldown between checks
-        this.scrollEnabled = false; // Disable scroll initially
+        // Intersection Observer for footer visibility
+        this.footerObserver = null;
+        this.isFooterObserverActive = false;
         
         this.init();
     }
@@ -31,7 +30,7 @@ class GamePortal {
         this.showLoading();
         await this.loadGames();
         this.setupEventListeners();
-        this.setupInfiniteScroll();
+        this.setupFooterObserver();
         
         // Check if we should display a game page based on URL hash
         this.handleInitialRoute();
@@ -120,17 +119,24 @@ class GamePortal {
                 console.log(`Loaded ${data.length} games from API (page ${page})`);
                 
                 if (append) {
-                    // Append new games to existing ones
-                    this.games = [...this.games, ...data];
+                    // Filter out duplicate games by ID before appending
+                    const existingIds = new Set(this.games.map(game => game.id));
+                    const newGames = data.filter(game => !existingIds.has(game.id));
+                    console.log(`${data.length} games received, ${newGames.length} new games after deduplication`);
+                    
+                    // Append only new games to existing ones
+                    this.games = [...this.games, ...newGames];
                 } else {
                     // First load
                     this.games = data;
                 }
                 
-                this.filteredGames = this.games;
-                
                 // Check if there are more games available
+                // If we received fewer games than requested, there are no more pages
                 this.hasMoreGames = data.length === this.gamesPerPage;
+                console.log(`Has more games: ${this.hasMoreGames} (received ${data.length}, expected ${this.gamesPerPage})`);
+                
+                this.filteredGames = this.games;
                 
             } else {
                 throw new Error('Invalid API response');
@@ -148,9 +154,15 @@ class GamePortal {
                 // For subsequent pages, generate more mock games
                 console.log(`Generating mock games for page ${page}`);
                 const newMockGames = this.generateMockGamesForPage(page);
-                this.games = [...this.games, ...newMockGames];
+                
+                // Filter out duplicate games by ID
+                const existingIds = new Set(this.games.map(game => game.id));
+                const uniqueNewGames = newMockGames.filter(game => !existingIds.has(game.id));
+                
+                this.games = [...this.games, ...uniqueNewGames];
                 this.filteredGames = this.games;
                 this.hasMoreGames = page < 10; // Limit to 10 pages of mock games
+                console.log(`Generated ${uniqueNewGames.length} new mock games for page ${page}`);
             }
         } finally {
             this.isLoadingMore = false;
@@ -397,10 +409,15 @@ class GamePortal {
 
     async loadMoreGames() {
         if (!this.hasMoreGames || this.isLoadingMore) {
+            console.log('Cannot load more games:', { hasMoreGames: this.hasMoreGames, isLoadingMore: this.isLoadingMore });
             return;
         }
 
-        console.log('Loading more games...');
+        console.log('Loading more games... Current page:', this.currentPage);
+        
+        // Temporarily disable footer observer to prevent multiple triggers
+        this.isFooterObserverActive = false;
+        this.isLoadingMore = true;
         this.currentPage++;
         
         // Show loading indicator
@@ -408,19 +425,23 @@ class GamePortal {
         
         try {
             await this.loadGames(this.currentPage, true);
-            // Store current displayed count before applying filters
-            const currentDisplayedCount = this.displayedGamesCount;
             this.applyFilters(); // Re-apply current filters to include new games
-            // Restore displayed count since we're appending, not replacing
-            this.displayedGamesCount = currentDisplayedCount;
             this.displayGames(true); // Pass true to append new games
             
-            // Add a longer cooldown after loading more games to prevent immediate re-triggering
-            this.lastScrollCheck = Date.now() + 2000; // Extra 2 seconds
+            console.log(`Successfully loaded page ${this.currentPage}. Total games: ${this.games.length}, Filtered: ${this.filteredGames.length}, Displayed: ${this.displayedGamesCount}`);
         } catch (error) {
             console.error('Error loading more games:', error);
+            // Revert page increment on error
+            this.currentPage--;
         } finally {
             this.hideLoadingIndicator();
+            this.isLoadingMore = false;
+            
+            // Reactivate footer observer after a short delay
+            setTimeout(() => {
+                this.isFooterObserverActive = true;
+                console.log('Footer observer reactivated');
+            }, 1000);
         }
     }
 
@@ -458,97 +479,65 @@ class GamePortal {
         }
     }
 
-    setupInfiniteScroll() {
-        const content = document.querySelector('.content');
-        if (!content) return;
-
-        let scrollTimeout;
-        
-        content.addEventListener('scroll', () => {
-            // Enable scroll loading after user actually scrolls
-            if (!this.scrollEnabled) {
-                console.log('Enabling scroll loading after user scroll');
-                this.scrollEnabled = true;
-            }
-            
-            clearTimeout(scrollTimeout);
-            scrollTimeout = setTimeout(() => {
-                console.log('Content scroll event triggered');
-                this.checkScrollPosition();
-            }, 500); // Increased delay to 500ms
-        });
-
-        // Also listen to window scroll for cases where content doesn't scroll
-        window.addEventListener('scroll', () => {
-            // Enable scroll loading after user actually scrolls
-            if (!this.scrollEnabled) {
-                console.log('Enabling scroll loading after user scroll');
-                this.scrollEnabled = true;
-            }
-            
-            clearTimeout(scrollTimeout);
-            scrollTimeout = setTimeout(() => {
-                console.log('Window scroll event triggered');
-                this.checkScrollPosition();
-            }, 500); // Increased delay to 500ms
-        });
-    }
-
-    checkScrollPosition() {
-        console.log('=== SCROLL CHECK v2.0 CALLED ===');
-        
-        if (!this.scrollEnabled) {
-            console.log('Scroll loading disabled');
+    setupFooterObserver() {
+        // Only set up observer on desktop, mobile uses button-based loading
+        if (this.isMobile()) {
+            console.log('Mobile detected, skipping footer observer setup');
             return;
         }
+
+        const footer = document.getElementById('footer');
+        if (!footer) {
+            console.error('Footer element not found');
+            return;
+        }
+
+        // Create intersection observer to watch footer visibility
+        this.footerObserver = new IntersectionObserver(
+            (entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting && this.isFooterObserverActive) {
+                        console.log('Footer is visible, loading more games...');
+                        this.onFooterVisible();
+                    }
+                });
+            },
+            {
+                root: null, // Use viewport as root
+                rootMargin: '100px', // Trigger 100px before footer is visible
+                threshold: 0.1 // Trigger when 10% of footer is visible
+            }
+        );
+
+        this.footerObserver.observe(footer);
         
-        if (!this.hasMoreGames || this.isLoadingMore || this.isMobile()) {
-            console.log('Skipping scroll check:', { hasMoreGames: this.hasMoreGames, isLoadingMore: this.isLoadingMore, isMobile: this.isMobile() });
+        // Activate observer after initial load to prevent immediate triggering
+        setTimeout(() => {
+            this.isFooterObserverActive = true;
+            console.log('Footer observer activated');
+        }, 2000);
+    }
+
+    onFooterVisible() {
+        // Prevent multiple simultaneous loads
+        if (this.isLoadingMore || !this.hasMoreGames) {
+            console.log('Loading already in progress or no more games available');
             return;
         }
 
         // Don't load more games if a game page is currently displayed
         const gamePageContainer = document.getElementById('gamePageContainer');
         if (gamePageContainer && gamePageContainer.style.display !== 'none') {
-            console.log('Skipping scroll check: game page is open');
+            console.log('Game page is open, skipping load');
             return;
         }
 
-        // Cooldown check to prevent rapid successive calls
-        const now = Date.now();
-        if (now - this.lastScrollCheck < this.scrollCheckCooldown) {
-            console.log('Skipping scroll check: cooldown active', { now, lastCheck: this.lastScrollCheck, cooldown: this.scrollCheckCooldown });
-            return;
-        }
-
-        // Check if we've displayed all available games before loading more
+        // Check if we need to load more games from API
         if (this.displayedGamesCount >= this.filteredGames.length) {
-            const scrollableElement = document.querySelector('.content') || document.documentElement;
-            const scrollTop = scrollableElement.scrollTop || window.pageYOffset;
-            const scrollHeight = scrollableElement.scrollHeight || document.documentElement.scrollHeight;
-            const clientHeight = scrollableElement.clientHeight || window.innerHeight;
-
-            // Check if content is actually scrollable
-            if (scrollHeight <= clientHeight) {
-                console.log('Content is not scrollable, skipping infinite scroll', { scrollHeight, clientHeight });
-                return;
-            }
-
-            // Load more when user scrolls to within 200px of the bottom (more conservative)
-            const threshold = 200;
-            const distanceFromBottom = scrollHeight - (scrollTop + clientHeight);
-
-            console.log(`Scroll check: scrollTop=${scrollTop}, scrollHeight=${scrollHeight}, clientHeight=${clientHeight}, distanceFromBottom=${distanceFromBottom}`);
-
-            // Only load more if user has actually scrolled significantly and is near bottom
-            if (distanceFromBottom <= threshold && scrollTop > 500) {
-                console.log('Near bottom and all games displayed, loading more games...');
-                console.log(`Current state: displayed=${this.displayedGamesCount}, filtered=${this.filteredGames.length}, total=${this.games.length}`);
-                this.lastScrollCheck = now; // Update last check time
-                this.loadMoreGames();
-            }
+            console.log('All filtered games displayed, loading more from API...');
+            this.loadMoreGames();
         } else {
-            console.log(`Games available to display: ${this.filteredGames.length - this.displayedGamesCount} remaining`);
+            console.log('More filtered games available to display without API call');
         }
     }
 
@@ -1044,10 +1033,19 @@ class GamePortal {
         // Reset pagination when changing filters
         this.currentPage = 1;
         this.hasMoreGames = true;
+        this.displayedGamesCount = 0;
+        
+        // Temporarily disable footer observer during filtering
+        this.isFooterObserverActive = false;
         
         this.applyFilters();
         this.updateActiveCategory(category);
         this.displayGames(false); // Full reload
+        
+        // Reactivate footer observer after filtering
+        setTimeout(() => {
+            this.isFooterObserverActive = true;
+        }, 1000);
     }
 
     searchGames(searchTerm) {
@@ -1234,6 +1232,18 @@ class GamePortal {
         // Handle browser navigation (back/forward buttons)
         window.addEventListener('popstate', (e) => {
             this.handlePopState(e);
+        });
+
+        // Footer category links
+        document.querySelectorAll('.footer-links a[data-category]').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const category = e.target.dataset.category;
+                this.filterByCategory(category);
+                
+                // Scroll to top to show filtered games
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
         });
     }
 

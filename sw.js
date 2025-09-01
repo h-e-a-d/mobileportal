@@ -18,7 +18,9 @@ const STATIC_FILES = [
 // Game API URLs to cache dynamically
 const API_URLS = [
     'https://gamemonetize.com/feed.php',
-    'https://api.allorigins.win/get'
+    'https://api.allorigins.win/get',
+    'https://corsproxy.io/',
+    'https://cors.eu.org/'
 ];
 
 // Install event - cache static files
@@ -94,7 +96,8 @@ self.addEventListener('fetch', (event) => {
 // Helper functions for URL classification
 function isApiRequest(url) {
     return API_URLS.some(apiUrl => url.href.includes(apiUrl)) ||
-           url.pathname.includes('feed.php');
+           url.pathname.includes('feed.php') ||
+           url.searchParams.has('url'); // AllOrigins proxy parameter
 }
 
 function isStaticFile(url) {

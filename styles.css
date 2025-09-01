@@ -283,22 +283,47 @@ a:hover {
     margin-right: auto;
 }
 
-.retry-btn {
-    background: var(--brand-100);
-    color: var(--white-100);
-    border: none;
+.error-actions {
+    display: flex;
+    gap: var(--spacing-3);
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.retry-btn,
+.demo-btn {
     padding: var(--spacing-3) var(--spacing-6);
     border-radius: var(--border-radius-pill);
     font-weight: var(--font-weight-bold);
     cursor: pointer;
     transition: all var(--transition-normal);
     font-size: var(--font-size-base);
+    min-height: 44px;
+    min-width: 120px;
+}
+
+.retry-btn {
+    background: var(--brand-100);
+    color: var(--white-100);
+    border: none;
 }
 
 .retry-btn:hover {
     background: var(--brand-200);
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(104, 66, 255, 0.3);
+}
+
+.demo-btn {
+    background: transparent;
+    color: var(--white-400);
+    border: 2px solid var(--black-400);
+}
+
+.demo-btn:hover {
+    background: var(--black-400);
+    color: var(--white-100);
+    border-color: var(--white-400);
 }
 
 /* Navigation */

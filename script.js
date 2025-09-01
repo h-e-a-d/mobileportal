@@ -31,9 +31,10 @@ class GamePortal {
         
         // API configuration with multiple fallbacks
         this.apiEndpoints = [
-            'https://gamemonetize.com/feed.php',
-            'https://api.allorigins.win/get?url=' + encodeURIComponent('https://gamemonetize.com/feed.php'),
-            'https://cors-anywhere.herokuapp.com/https://gamemonetize.com/feed.php'
+            { url: 'https://gamemonetize.com/feed.php', type: 'direct' },
+            { url: 'https://api.allorigins.win/get', type: 'allorigins' },
+            { url: 'https://corsproxy.io/', type: 'corsproxy' },
+            { url: 'https://cors.eu.org/', type: 'corseuorg' }
         ];
         this.currentApiIndex = 0;
         this.retryAttempts = 0;
@@ -146,6 +147,65 @@ class GamePortal {
         
         return this._mobileCache;
     }
+    
+    loadMockData() {
+        // Mock data for development/demo when APIs fail
+        const mockGames = [
+            {
+                id: '1',
+                title: 'Space Adventure',
+                category: 'Action',
+                description: 'Explore the galaxy in this exciting space adventure!',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYjI4Ii8+CjxjaXJjbGUgY3g9IjE0MCIgY3k9IjkwIiByPSIzMCIgZmlsbD0iIzZhNDJmZiIvPgo8dGV4dCB4PSIxNDAiIHk9IjEzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2Y5ZmFmZiIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCI+U3BhY2UgQWR2ZW50dXJlPC90ZXh0Pgo8L3N2Zz4K',
+                url: 'https://example.com/game1'
+            },
+            {
+                id: '2',
+                title: 'Puzzle Master',
+                category: 'Puzzle',
+                description: 'Challenge your mind with these clever puzzles!',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYjI4Ii8+CjxyZWN0IHg9IjEyMCIgeT0iNzAiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgZmlsbD0iIzZhNDJmZiIvPgo8dGV4dCB4PSIxNDAiIHk9IjEzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2Y5ZmFmZiIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCI+UHV6emxlIE1hc3RlcjwvdGV4dD4KPC9zdmc+Cg==',
+                url: 'https://example.com/game2'
+            },
+            {
+                id: '3',
+                title: 'Racing Thunder',
+                category: 'Racing',
+                description: 'Feel the speed in this high-octane racing game!',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYjI4Ii8+CjxlbGxpcHNlIGN4PSIxNDAiIGN5PSI5MCIgcng9IjQwIiByeT0iMjAiIGZpbGw9IiM2YTQyZmYiLz4KPHR5ZXQgeD0iMTQwIiB5PSIxMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmOWZhZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiPlJhY2luZyBUaHVuZGVyPC90ZXh0Pgo8L3N2Zz4K',
+                url: 'https://example.com/game3'
+            },
+            {
+                id: '4',
+                title: 'Strategy Empire',
+                category: 'Strategy',
+                description: 'Build your empire and conquer the world!',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYjI4Ii8+Cjxwb2x5Z29uIHBvaW50cz0iMTQwLDUwIDE2MCw4MCAsMTIwLDgwIiBmaWxsPSIjNmE0MmZmIi8+Cjx0ZXh0IHg9IjE0MCIgeT0iMTMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZjlmYWZmIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIj5TdHJhdGVneSBFbXBpcmU8L3RleHQ+Cjwvc3ZnPgo=',
+                url: 'https://example.com/game4'
+            },
+            {
+                id: '5',
+                title: 'Sports Champion',
+                category: 'Sports',
+                description: 'Become the ultimate sports champion!',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYjI4Ii8+CjxjaXJjbGUgY3g9IjE0MCIgY3k9IjkwIiByPSIyNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmE0MmZmIiBzdHJva2Utd2lkdGg9IjMiLz4KPHR5ZXQgeD0iMTQwIiB5PSIxMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmOWZhZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiPlNwb3J0cyBDaGFtcGlvbjwvdGV4dD4KPC9zdmc+Cg==',
+                url: 'https://example.com/game5'
+            },
+            {
+                id: '6',
+                title: 'Arcade Classic',
+                category: 'Arcade',
+                description: 'Experience classic arcade gaming!',
+                thumb: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYjI4Ii8+CjxyZWN0IHg9IjEyNSIgeT0iNzUiIHdpZHRoPSIzMCIgaGVpZ2h0PSIzMCIgZmlsbD0iIzZhNDJmZiIgcng9IjUiLz4KPHR5ZXQgeD0iMTQwIiB5PSIxMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmOWZhZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiPkFyY2FkZSBDbGFzc2ljPC90ZXh0Pgo8L3N2Zz4K',
+                url: 'https://example.com/game6'
+            }
+        ];
+        
+        console.log('Mock data loaded with', mockGames.length, 'games');
+        this.games = mockGames;
+        this.filteredGames = mockGames;
+        this.hasMoreGames = false; // No more mock data available
+    }
 
     showLoading() {
         const loading = document.getElementById('loading');
@@ -217,7 +277,14 @@ class GamePortal {
             }
         } catch (error) {
             console.error('Error loading games:', error);
-            this.handleLoadError(error, append);
+            
+            // Try loading mock data as last resort for development/demo
+            if (!append && this.games.length === 0) {
+                console.log('Loading mock data as fallback...');
+                this.loadMockData();
+            } else {
+                this.handleLoadError(error, append);
+            }
         } finally {
             this.isLoadingMore = false;
         }
@@ -231,9 +298,7 @@ class GamePortal {
                 
                 const response = await fetch(apiUrl, {
                     method: 'GET',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
+                    // Remove Content-Type header to avoid CORS preflight
                     // Add timeout
                     signal: AbortSignal.timeout(10000) // 10 second timeout
                 });
@@ -243,13 +308,16 @@ class GamePortal {
                 }
                 
                 let data;
-                if (this.currentApiIndex === 0) {
-                    // Direct API
+                const endpoint = this.apiEndpoints[this.currentApiIndex];
+                
+                if (endpoint.type === 'direct') {
                     data = await response.json();
-                } else {
-                    // Proxy API
+                } else if (endpoint.type === 'allorigins') {
                     const proxyData = await response.json();
                     data = JSON.parse(proxyData.contents);
+                } else {
+                    // Other proxies return JSON directly
+                    data = await response.json();
                 }
                 
                 return data;
@@ -276,15 +344,21 @@ class GamePortal {
     }
     
     buildApiUrl(page) {
-        const baseUrl = this.apiEndpoints[this.currentApiIndex];
+        const endpoint = this.apiEndpoints[this.currentApiIndex];
         const params = `format=0&num=${this.gamesPerPage}&page=${page}`;
+        const targetUrl = `https://gamemonetize.com/feed.php?${params}`;
         
-        if (this.currentApiIndex === 0) {
-            // Direct API
-            return `${baseUrl}?${params}`;
-        } else {
-            // Proxy API
-            return `${baseUrl}${encodeURIComponent(`https://gamemonetize.com/feed.php?${params}`)}`;
+        switch (endpoint.type) {
+            case 'direct':
+                return targetUrl;
+            case 'allorigins':
+                return `${endpoint.url}?url=${encodeURIComponent(targetUrl)}`;
+            case 'corsproxy':
+                return `${endpoint.url}?${targetUrl}`;
+            case 'corseuorg':
+                return `${endpoint.url}${targetUrl}`;
+            default:
+                return targetUrl;
         }
     }
     
@@ -329,19 +403,24 @@ class GamePortal {
         if (!append) {
             // Show user-friendly error message
             const gamesGrid = document.getElementById('gamesGrid');
-            if (gamesGrid) {
+            if (gamesGrid && this.games.length === 0) {
                 gamesGrid.innerHTML = `
                     <div class="error-state">
                         <div class="error-icon">⚠️</div>
                         <h3>Unable to Load Games</h3>
                         <p>We're having trouble connecting to our game servers. Please check your internet connection and try again.</p>
-                        <button class="retry-btn" onclick="window.gamePortal.retryLoading()">Try Again</button>
+                        <div class="error-actions">
+                            <button class="retry-btn" onclick="window.gamePortal.retryLoading()">Try Again</button>
+                            <button class="demo-btn" onclick="window.gamePortal.loadMockData(); window.gamePortal.displayGames();">View Demo</button>
+                        </div>
                     </div>
                 `;
             }
             
-            this.games = [];
-            this.filteredGames = [];
+            if (this.games.length === 0) {
+                this.games = [];
+                this.filteredGames = [];
+            }
         }
         this.hasMoreGames = false;
     }

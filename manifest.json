@@ -1,0 +1,68 @@
+{
+  "name": "Kloopik - Free Online Games",
+  "short_name": "Kloopik",
+  "description": "Play thousands of free online games on Kloopik. Action, puzzle, racing, strategy and arcade games. No downloads required!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0D14",
+  "theme_color": "#6842FF",
+  "orientation": "portrait-primary",
+  "categories": ["games", "entertainment"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiBmaWxsPSIjMEMwRDE0IiByeD0iMzIiLz4KPHJlY3QgeD0iMzIiIHk9IjMyIiB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgZmlsbD0iIzZBNDJGRiIgcng9IjE2Ii8+Cjx0ZXh0IHg9Ijk2IiB5PSIxMTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGOUZBRkYiIGZvbnQtZmFtaWx5PSJOdW5pdG8sIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQ4IiBmb250LXdlaWdodD0iOTAwIj5LPC90ZXh0Pgo8L3N2Zz4K",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjMEMwRDE0IiByeD0iODQiLz4KPHJlY3QgeD0iODQiIHk9Ijg0IiB3aWR0aD0iMzQ0IiBoZWlnaHQ9IjM0NCIgZmlsbD0iIzZBNDJGRiIgcng9IjQ0Ii8+Cjx0ZXh0IHg9IjI1NiIgeT0iMzEyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjRjlGQUZGIiBmb250LWZhbWlseT0iTnVuaXRvLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMjgiIGZvbnQtd2VpZ2h0PSI5MDAiPks8L3RleHQ+Cjwvc3ZnPgo=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzkwIiBoZWlnaHQ9IjY5NCIgdmlld0JveD0iMCAwIDM5MCA2OTQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzOTAiIGhlaWdodD0iNjk0IiBmaWxsPSIjMEMwRDE0Ii8+Cjx0ZXh0IHg9IjE5NSIgeT0iMzUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNkE0MkZGIiBmb250LWZhbWlseT0iTnVuaXRvLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjcwMCI+S2xvb3BpayBHYW1pbmcgUG9ydGFsPC90ZXh0Pgo8L3N2Zz4K",
+      "sizes": "390x694",
+      "type": "image/svg+xml",
+      "form_factor": "narrow",
+      "label": "Mobile view of Kloopik gaming portal"
+    }
+  ],
+  "features": [
+    "offline",
+    "installable",
+    "responsive",
+    "fast-loading"
+  ],
+  "shortcuts": [
+    {
+      "name": "Action Games",
+      "short_name": "Action",
+      "description": "Play action games",
+      "url": "/#action",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIGZpbGw9IiM2QTQyRkYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtMTcuOTkgOC0zIDQgMi40NCAxLjQ0TDE5IDEybC0uNTctMi41NkwxNy45OSA4ek05IDEyYzAgMS42Ni0xLjM0IDMtMyAzcy0zLTEuMzQtMy0zIDEuMzQtMyAzLTMgMyAxLjM0IDMgM3oiLz48L3N2Zz4K",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Puzzle Games",
+      "short_name": "Puzzle",
+      "description": "Play puzzle games",
+      "url": "/#puzzle",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIGZpbGw9IiM2QTQyRkYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNSA0SDE5VjJoLS41QzE3LjEyIDIgMTYgMy4xMiAxNiA0LjVTMTcuMTIgNyAxOC41IDdIMTl2MmgtLjVDMTcuMTIgOSAxNiAxMC4xMiAxNiAxMS41UzE3LjEyIDE0IDE4LjUgMTRIMTl2NS41YzAgLjg0LS42NiAxLjUtMS41IDEuNUgxMnYtLjVjMC0xLjM4LTEuMTItMi41LTIuNS0yLjVTNyAxOC42MiA3IDIwdjEuNWMwIC44NC0uNjYgMS41LTEuNSAxLjVIMy41QzIuNjYgMjMgMiAyMi4zNCAyIDIxLjVWMjBoMS41QzQuODggMjAgNiAxOC44OCA2IDE3LjVTNC44OCAxNSAzLjUgMTVIMnYtMi41YzAtLjg0LjY2LTEuNSAxLjUtMS41SDl2LjVjMCAxLjM4IDEuMTIgMi41IDIuNSAyLjVzMi41LTEuMTIgMi41LTIuNVYxMUg5VjlIMy41QzIuNjYgOSAyIDguMzQgMiA3LjVWM2MwLS44NC42Ni0xLjUgMS41LTEuNUg5di41YzAgMS4zOCAxLjEyIDIuNSAyLjUgMi41UzE0IDMuMzggMTQgMlYxLjVjMC0uODQuNjYtMS41IDEuNS0xLjVoM2MuODQgMCAxLjUuNjYgMS41IDEuNVY0eiIvPjwvc3ZnPgo=",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

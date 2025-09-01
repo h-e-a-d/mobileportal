@@ -10,9 +10,9 @@ class GamePortal {
         this.currentSearchTerm = '';
         this.isLoading = false;
         
-        // Pagination properties
+        // Progressive loading properties
         this.currentPage = 1;
-        this.gamesPerPage = 100;
+        this.gamesPerPage = 20; // Reduced for faster initial load
         this.hasMoreGames = true;
         this.isLoadingMore = false;
         
@@ -23,24 +23,87 @@ class GamePortal {
         this.footerObserver = null;
         this.isFooterObserverActive = false;
         
-        // Recent games caching
+        // Caching system
+        this.cacheKey = 'kloopik_games_cache';
+        this.cacheExpiry = 30 * 60 * 1000; // 30 minutes
         this.recentGamesKey = 'kloopik_recent_games';
         this.maxRecentGames = 20;
+        
+        // API configuration with multiple fallbacks
+        this.apiEndpoints = [
+            'https://gamemonetize.com/feed.php',
+            'https://api.allorigins.win/get?url=' + encodeURIComponent('https://gamemonetize.com/feed.php'),
+            'https://cors-anywhere.herokuapp.com/https://gamemonetize.com/feed.php'
+        ];
+        this.currentApiIndex = 0;
+        this.retryAttempts = 0;
+        this.maxRetries = 3;
         
         this.init();
     }
 
     async init() {
-        this.showLoading();
-        await this.loadGames();
+        this.showSkeletonLoading();
         this.setupEventListeners();
-        this.setupFooterObserver();
         
-        // Check if we should display a game page based on URL hash
-        this.handleInitialRoute();
+        try {
+            await this.loadGames();
+            this.setupFooterObserver();
+            
+            // Check if we should display a game page based on URL hash
+            this.handleInitialRoute();
+            
+            this.displayGames();
+        } catch (error) {
+            console.error('Failed to initialize:', error);
+        } finally {
+            this.hideSkeletonLoading();
+        }
+    }
+    
+    showSkeletonLoading() {
+        const gamesGrid = document.getElementById('gamesGrid');
+        const loading = document.getElementById('loading');
         
-        this.displayGames();
-        this.hideLoading();
+        if (loading) loading.style.display = 'none';
+        
+        if (gamesGrid) {
+            gamesGrid.innerHTML = this.createSkeletonGrid();
+        }
+    }
+    
+    hideSkeletonLoading() {
+        // Skeleton will be replaced by actual games, no need to hide explicitly
+    }
+    
+    createSkeletonGrid() {
+        const skeletonCount = this.getSkeletonCount();
+        let skeletons = '';
+        
+        for (let i = 0; i < skeletonCount; i++) {
+            skeletons += `
+                <div class="skeleton-card">
+                    <div class="skeleton-title"></div>
+                </div>
+            `;
+        }
+        
+        return `<div class="skeleton-grid">${skeletons}</div>`;
+    }
+    
+    getSkeletonCount() {
+        const width = window.innerWidth;
+        
+        if (this.isMobile()) {
+            return width <= 600 ? 6 : 9; // 2x3 or 3x3 grid
+        }
+        
+        // Desktop skeleton count based on screen size
+        if (width >= 1700) return 12; // 6x2
+        if (width >= 1400) return 10; // 5x2  
+        if (width >= 1082) return 8;  // 4x2
+        if (width >= 700) return 6;   // 3x2
+        return 4; // 2x2
     }
     
     handleInitialRoute() {
@@ -69,12 +132,19 @@ class GamePortal {
     }
 
     isMobile() {
-        const isMobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-        const isSmallScreen = window.innerWidth <= 789.95;
-        const isMobile = isMobileDevice || isSmallScreen;
+        // Improved mobile detection with caching
+        if (!this._mobileCache || this._lastWindowWidth !== window.innerWidth) {
+            const isMobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+            const isSmallScreen = window.innerWidth <= 789.95;
+            const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+            
+            this._mobileCache = isMobileDevice || (isSmallScreen && isTouchDevice) || isSmallScreen;
+            this._lastWindowWidth = window.innerWidth;
+            
+            console.log(`Mobile detection - Device: ${isMobileDevice}, Small screen: ${isSmallScreen}, Touch: ${isTouchDevice}, Final: ${this._mobileCache}, Width: ${window.innerWidth}`);
+        }
         
-        console.log(`Mobile detection - Device: ${isMobileDevice}, Small screen: ${isSmallScreen}, Final: ${isMobile}, Width: ${window.innerWidth}`);
-        return isMobile;
+        return this._mobileCache;
     }
 
     showLoading() {
@@ -97,27 +167,19 @@ class GamePortal {
         try {
             this.isLoadingMore = append;
             
-            // Try loading from GameMonetize API with CORS proxy
-            const apiUrl = `https://gamemonetize.com/feed.php?format=0&num=${this.gamesPerPage}&page=${page}`;
-            const corsProxy = 'https://api.allorigins.win/get?url=';
-            
-            let response;
-            let data;
-            
-            try {
-                // First try direct API call
-                response = await fetch(apiUrl);
-                if (!response.ok) throw new Error(`HTTP ${response.status}`);
-                data = await response.json();
-            } catch (directError) {
-                console.log('Direct API failed, trying CORS proxy...', directError.message);
-                
-                // Fallback to CORS proxy
-                response = await fetch(corsProxy + encodeURIComponent(apiUrl));
-                if (!response.ok) throw new Error(`Proxy HTTP ${response.status}`);
-                const proxyData = await response.json();
-                data = JSON.parse(proxyData.contents);
+            // Try to load from cache first for initial load
+            if (page === 1 && !append) {
+                const cachedData = this.loadFromCache();
+                if (cachedData) {
+                    console.log('Loaded games from cache');
+                    this.games = cachedData;
+                    this.filteredGames = this.games;
+                    this.hasMoreGames = true; // Assume more games available for cached data
+                    return;
+                }
             }
+            
+            const data = await this.fetchWithFallbacks(page);
             
             if (data && Array.isArray(data)) {
                 console.log(`Loaded ${data.length} games from API (page ${page})`);
@@ -129,42 +191,176 @@ class GamePortal {
                     console.log(`${data.length} games received, ${newGames.length} new games after deduplication`);
                     
                     if (newGames.length === 0) {
-                        // API returned all duplicate games, assume no more new games available
                         console.log('No new games found, disabling further loading');
                         this.hasMoreGames = false;
                         return;
                     }
                     
-                    // Append only new games to existing ones
                     this.games = [...this.games, ...newGames];
                 } else {
-                    // First load
+                    // First load - cache the data
                     this.games = data;
+                    this.saveToCache(data);
                 }
                 
-                // Check if there are more games available
-                // If we received fewer games than requested, there are no more pages
                 this.hasMoreGames = data.length === this.gamesPerPage;
                 console.log(`Has more games: ${this.hasMoreGames} (received ${data.length}, expected ${this.gamesPerPage})`);
                 
                 this.filteredGames = this.games;
+                
+                // Reset API state on successful load
+                this.currentApiIndex = 0;
+                this.retryAttempts = 0;
                 
             } else {
                 throw new Error('Invalid API response');
             }
         } catch (error) {
             console.error('Error loading games:', error);
-            
-            // On error, disable further loading attempts
-            if (!append) {
-                console.log('Failed to load games from API');
-                this.games = [];
-                this.filteredGames = [];
-            }
-            this.hasMoreGames = false;
+            this.handleLoadError(error, append);
         } finally {
             this.isLoadingMore = false;
         }
+    }
+    
+    async fetchWithFallbacks(page) {
+        while (this.currentApiIndex < this.apiEndpoints.length && this.retryAttempts < this.maxRetries) {
+            try {
+                const apiUrl = this.buildApiUrl(page);
+                console.log(`Trying API endpoint ${this.currentApiIndex + 1}/${this.apiEndpoints.length}:`, apiUrl);
+                
+                const response = await fetch(apiUrl, {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    // Add timeout
+                    signal: AbortSignal.timeout(10000) // 10 second timeout
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                let data;
+                if (this.currentApiIndex === 0) {
+                    // Direct API
+                    data = await response.json();
+                } else {
+                    // Proxy API
+                    const proxyData = await response.json();
+                    data = JSON.parse(proxyData.contents);
+                }
+                
+                return data;
+                
+            } catch (error) {
+                console.warn(`API endpoint ${this.currentApiIndex + 1} failed:`, error.message);
+                this.retryAttempts++;
+                
+                if (this.retryAttempts >= this.maxRetries) {
+                    this.currentApiIndex++;
+                    this.retryAttempts = 0;
+                    
+                    if (this.currentApiIndex >= this.apiEndpoints.length) {
+                        throw new Error('All API endpoints failed');
+                    }
+                }
+                
+                // Wait before retry
+                await new Promise(resolve => setTimeout(resolve, 1000 * this.retryAttempts));
+            }
+        }
+        
+        throw new Error('Max retries exceeded for all endpoints');
+    }
+    
+    buildApiUrl(page) {
+        const baseUrl = this.apiEndpoints[this.currentApiIndex];
+        const params = `format=0&num=${this.gamesPerPage}&page=${page}`;
+        
+        if (this.currentApiIndex === 0) {
+            // Direct API
+            return `${baseUrl}?${params}`;
+        } else {
+            // Proxy API
+            return `${baseUrl}${encodeURIComponent(`https://gamemonetize.com/feed.php?${params}`)}`;
+        }
+    }
+    
+    loadFromCache() {
+        try {
+            const cached = localStorage.getItem(this.cacheKey);
+            if (!cached) return null;
+            
+            const { data, timestamp } = JSON.parse(cached);
+            const now = Date.now();
+            
+            if (now - timestamp > this.cacheExpiry) {
+                localStorage.removeItem(this.cacheKey);
+                return null;
+            }
+            
+            return data;
+        } catch (error) {
+            console.error('Error loading from cache:', error);
+            return null;
+        }
+    }
+    
+    saveToCache(data) {
+        try {
+            const cacheData = {
+                data: data,
+                timestamp: Date.now()
+            };
+            localStorage.setItem(this.cacheKey, JSON.stringify(cacheData));
+            console.log('Games saved to cache');
+        } catch (error) {
+            console.error('Error saving to cache:', error);
+            // Clear cache if storage is full
+            if (error.name === 'QuotaExceededError') {
+                localStorage.removeItem(this.cacheKey);
+            }
+        }
+    }
+    
+    handleLoadError(error, append) {
+        if (!append) {
+            // Show user-friendly error message
+            const gamesGrid = document.getElementById('gamesGrid');
+            if (gamesGrid) {
+                gamesGrid.innerHTML = `
+                    <div class="error-state">
+                        <div class="error-icon">⚠️</div>
+                        <h3>Unable to Load Games</h3>
+                        <p>We're having trouble connecting to our game servers. Please check your internet connection and try again.</p>
+                        <button class="retry-btn" onclick="window.gamePortal.retryLoading()">Try Again</button>
+                    </div>
+                `;
+            }
+            
+            this.games = [];
+            this.filteredGames = [];
+        }
+        this.hasMoreGames = false;
+    }
+    
+    async retryLoading() {
+        // Reset API state
+        this.currentApiIndex = 0;
+        this.retryAttempts = 0;
+        
+        // Clear any error states
+        const gamesGrid = document.getElementById('gamesGrid');
+        if (gamesGrid) {
+            gamesGrid.innerHTML = '';
+        }
+        
+        this.showLoading();
+        await this.loadGames();
+        this.displayGames();
+        this.hideLoading();
     }
 
 
@@ -325,9 +521,9 @@ class GamePortal {
         if (!gamesGrid) return;
 
         if (!append) {
-            // Clear existing content only if not appending
+            // Clear existing content including skeleton
             gamesGrid.innerHTML = '';
-            // Reset displayed games count
+            gamesGrid.className = 'games-grid'; // Reset to regular grid class
             this.displayedGamesCount = 0;
         } else {
             // Remove loading indicator if it exists
@@ -352,21 +548,26 @@ class GamePortal {
             const gamesToShow = this.filteredGames.slice(this.displayedGamesCount);
             console.log(`Appending ${gamesToShow.length} new games (displayed: ${this.displayedGamesCount}, total: ${this.filteredGames.length})`);
             
+            // Use document fragment for better performance
+            const fragment = document.createDocumentFragment();
             gamesToShow.forEach(game => {
                 const gameCard = this.createGameCard(game);
                 gameCard.dataset.gameId = game.id;
-                gamesGrid.appendChild(gameCard);
+                fragment.appendChild(gameCard);
             });
+            gamesGrid.appendChild(fragment);
             
             this.displayedGamesCount = this.filteredGames.length;
         } else {
-            // Full reload - display all games
+            // Full reload - display all games with document fragment for performance
             console.log(`Displaying all ${this.filteredGames.length} games`);
+            const fragment = document.createDocumentFragment();
             this.filteredGames.forEach(game => {
                 const gameCard = this.createGameCard(game);
                 gameCard.dataset.gameId = game.id;
-                gamesGrid.appendChild(gameCard);
+                fragment.appendChild(gameCard);
             });
+            gamesGrid.appendChild(fragment);
             this.displayedGamesCount = this.filteredGames.length;
         }
     }
@@ -383,8 +584,9 @@ class GamePortal {
         if (!gamesGrid) return;
 
         if (!append) {
-            // Clear existing content only if not appending
+            // Clear existing content including skeleton
             gamesGrid.innerHTML = '';
+            gamesGrid.className = 'games-grid'; // Reset to regular grid class
         } else {
             // Remove mobile load more section if it exists
             const mobileLoadMore = document.getElementById('mobileLoadMoreGridSection');
@@ -403,7 +605,7 @@ class GamePortal {
         
         console.log('Creating mobile layout with', this.filteredGames.length, 'games, append:', append);
 
-        // Create simple uncategorized game grid
+        // Create simple uncategorized game grid with better performance
         this.createMobileUncategorizedGrid(append);
         
         // Add load more section at the bottom
@@ -420,21 +622,26 @@ class GamePortal {
             const gamesToShow = this.filteredGames.slice(this.displayedGamesCount);
             console.log(`Mobile: Appending ${gamesToShow.length} new games (displayed: ${this.displayedGamesCount}, total: ${this.filteredGames.length})`);
             
+            // Use document fragment for better mobile performance
+            const fragment = document.createDocumentFragment();
             gamesToShow.forEach(game => {
                 const gameCard = this.createGameCard(game);
                 gameCard.dataset.gameId = game.id;
-                gamesGrid.appendChild(gameCard);
+                fragment.appendChild(gameCard);
             });
+            gamesGrid.appendChild(fragment);
             
             this.displayedGamesCount = this.filteredGames.length;
         } else {
-            // Full reload - display all games
+            // Full reload - display all games with performance optimization
             console.log(`Mobile: Displaying all ${this.filteredGames.length} games`);
+            const fragment = document.createDocumentFragment();
             this.filteredGames.forEach(game => {
                 const gameCard = this.createGameCard(game);
                 gameCard.dataset.gameId = game.id;
-                gamesGrid.appendChild(gameCard);
+                fragment.appendChild(gameCard);
             });
+            gamesGrid.appendChild(fragment);
             this.displayedGamesCount = this.filteredGames.length;
         }
     }
@@ -678,24 +885,73 @@ class GamePortal {
         card.setAttribute('role', 'button');
         card.setAttribute('aria-label', `Play ${game.title}`);
         
-        card.addEventListener('click', () => this.openGamePage(game));
+        // Add better touch and click handling
+        card.addEventListener('click', (e) => {
+            e.preventDefault();
+            this.openGamePage(game);
+        }, { passive: false });
+        
         card.addEventListener('keydown', (e) => {
             if (e.key === 'Enter' || e.key === ' ') {
                 e.preventDefault();
                 this.openGamePage(game);
             }
         });
+        
+        // Add touch events for better mobile experience
+        let touchStartTime;
+        card.addEventListener('touchstart', (e) => {
+            touchStartTime = Date.now();
+            card.style.transform = 'scale(0.98)';
+        }, { passive: true });
+        
+        card.addEventListener('touchend', (e) => {
+            const touchDuration = Date.now() - touchStartTime;
+            card.style.transform = '';
+            
+            // Only trigger if it was a quick tap (not a scroll)
+            if (touchDuration < 300) {
+                e.preventDefault();
+                this.openGamePage(game);
+            }
+        }, { passive: false });
+        
+        card.addEventListener('touchcancel', () => {
+            card.style.transform = '';
+        }, { passive: true });
+
+        // Improved fallback image with better placeholder
+        const fallbackSvg = this.createFallbackImage(game.title);
 
         card.innerHTML = `
-            <img src="${game.thumb}" alt="Play ${game.title} - ${game.category} game" class="game-thumb" 
+            <img src="${game.thumb}" 
+                 alt="Play ${game.title} - ${game.category} game" 
+                 class="game-thumb" 
                  loading="lazy"
-                 onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI4MCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYjI4Ii8+Cjx0ZXh0IHg9IjE0MCIgeT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2ODQyZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPkdhbWUgSW1hZ2U8L3RleHQ+Cjwvc3ZnPg=='">
+                 decoding="async"
+                 width="280"
+                 height="180"
+                 onerror="this.src='${fallbackSvg}'"
+                 onload="this.style.opacity='1';"
+                 style="opacity:0;transition:opacity 0.3s ease;">
             <div class="game-info">
                 <h3 class="game-title">${game.title}</h3>
             </div>
         `;
 
         return card;
+    }
+    
+    createFallbackImage(title) {
+        const shortTitle = title.length > 12 ? title.substring(0, 12) + '...' : title;
+        const svg = `<svg width="280" height="180" viewBox="0 0 280 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="280" height="180" fill="#1a1b28"/>
+            <rect x="20" y="20" width="240" height="140" fill="#2a2c41" rx="8"/>
+            <circle cx="140" cy="70" r="20" fill="#6842ff" opacity="0.5"/>
+            <text x="140" y="130" text-anchor="middle" fill="#6842ff" font-family="Arial" font-size="14" font-weight="bold">${shortTitle}</text>
+            <text x="140" y="150" text-anchor="middle" fill="#aaadbe" font-family="Arial" font-size="12">Game</text>
+        </svg>`;
+        return 'data:image/svg+xml;base64,' + btoa(svg);
     }
 
     async openGamePage(game) {
@@ -1054,10 +1310,14 @@ class GamePortal {
             }
         });
 
-        // Window resize handler
+        // Window resize handler with debouncing
+        let resizeTimeout;
         window.addEventListener('resize', () => {
-            this.handleResize();
-        });
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(() => {
+                this.handleResize();
+            }, 150);
+        }, { passive: true });
 
         // Handle browser navigation (back/forward buttons)
         window.addEventListener('popstate', (e) => {
@@ -1078,10 +1338,17 @@ class GamePortal {
     }
 
     handleResize() {
-        clearTimeout(this.resizeTimeout);
-        this.resizeTimeout = setTimeout(() => {
+        // Clear mobile cache on resize to recalculate
+        this._mobileCache = null;
+        
+        // Use requestAnimationFrame for smooth resize handling
+        if (this._resizeFrame) {
+            cancelAnimationFrame(this._resizeFrame);
+        }
+        
+        this._resizeFrame = requestAnimationFrame(() => {
             this.displayGames();
-        }, 100);
+        });
     }
 
     handlePopState(e) {
@@ -1234,9 +1501,150 @@ class GamePortal {
         
         return recentGames;
     }
+    
+    // PWA Installation functionality
+    showInstallPrompt() {
+        if (!this.installPromptShown && window.deferredPrompt) {
+            this.installPromptShown = true;
+            
+            // Create install prompt UI
+            const installPrompt = document.createElement('div');
+            installPrompt.id = 'pwaInstallPrompt';
+            installPrompt.className = 'pwa-install-prompt';
+            installPrompt.innerHTML = `
+                <div class="install-prompt-content">
+                    <div class="install-prompt-icon">🎮</div>
+                    <h3>Install Kloopik</h3>
+                    <p>Get faster access and play offline!</p>
+                    <div class="install-prompt-buttons">
+                        <button class="btn-install" id="installBtn">Install</button>
+                        <button class="btn-dismiss" id="dismissBtn">Not Now</button>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(installPrompt);
+            
+            // Add event listeners
+            document.getElementById('installBtn').addEventListener('click', this.installPWA.bind(this));
+            document.getElementById('dismissBtn').addEventListener('click', this.dismissInstall.bind(this));
+            
+            // Auto-dismiss after 10 seconds
+            setTimeout(() => {
+                this.dismissInstall();
+            }, 10000);
+        }
+    }
+    
+    async installPWA() {
+        if (!window.deferredPrompt) return;
+        
+        try {
+            // Show the install prompt
+            window.deferredPrompt.prompt();
+            
+            // Wait for the user to respond to the prompt
+            const { outcome } = await window.deferredPrompt.userChoice;
+            
+            if (outcome === 'accepted') {
+                console.log('User accepted the install prompt');
+                this.trackEvent('pwa_install_accepted');
+            } else {
+                console.log('User dismissed the install prompt');
+                this.trackEvent('pwa_install_dismissed');
+            }
+            
+            // Clear the prompt
+            window.deferredPrompt = null;
+            this.dismissInstall();
+        } catch (error) {
+            console.error('Error during PWA installation:', error);
+            this.dismissInstall();
+        }
+    }
+    
+    dismissInstall() {
+        const prompt = document.getElementById('pwaInstallPrompt');
+        if (prompt) {
+            prompt.classList.add('fade-out');
+            setTimeout(() => {
+                prompt.remove();
+            }, 300);
+        }
+    }
+    
+    // Service Worker update handling
+    showUpdateAvailable(registration) {
+        const updatePrompt = document.createElement('div');
+        updatePrompt.id = 'swUpdatePrompt';
+        updatePrompt.className = 'sw-update-prompt';
+        updatePrompt.innerHTML = `
+            <div class="update-prompt-content">
+                <div class="update-prompt-icon">⬆️</div>
+                <h3>Update Available</h3>
+                <p>A new version is ready!</p>
+                <div class="update-prompt-buttons">
+                    <button class="btn-update" id="updateBtn">Update Now</button>
+                    <button class="btn-dismiss" id="updateDismissBtn">Later</button>
+                </div>
+            </div>
+        `;
+        
+        document.body.appendChild(updatePrompt);
+        
+        document.getElementById('updateBtn').addEventListener('click', () => {
+            // Tell the new service worker to skip waiting
+            if (registration && registration.waiting) {
+                registration.waiting.postMessage({ type: 'SKIP_WAITING' });
+            }
+            window.location.reload();
+        });
+        
+        document.getElementById('updateDismissBtn').addEventListener('click', () => {
+            updatePrompt.remove();
+        });
+    }
+    
+    // Network status handling
+    handleOnlineStatus() {
+        window.addEventListener('online', () => {
+            console.log('App is online');
+            this.showNetworkStatus('Connected', 'success');
+            
+            // Sync data in background
+            if ('serviceWorker' in navigator && 'sync' in window.ServiceWorkerRegistration.prototype) {
+                navigator.serviceWorker.ready.then((registration) => {
+                    return registration.sync.register('background-game-sync');
+                });
+            }
+        });
+        
+        window.addEventListener('offline', () => {
+            console.log('App is offline');
+            this.showNetworkStatus('Offline - Some features limited', 'warning');
+        });
+    }
+    
+    showNetworkStatus(message, type = 'info') {
+        const statusBar = document.createElement('div');
+        statusBar.className = `network-status network-status-${type}`;
+        statusBar.textContent = message;
+        
+        document.body.appendChild(statusBar);
+        
+        setTimeout(() => {
+            statusBar.classList.add('fade-out');
+            setTimeout(() => statusBar.remove(), 300);
+        }, 3000);
+    }
 }
 
 // Initialize the game portal when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     window.gamePortal = new GamePortal();
+    
+    // Initialize PWA features
+    if (window.gamePortal) {
+        window.gamePortal.handleOnlineStatus();
+    }
 });

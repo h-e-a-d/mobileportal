@@ -391,7 +391,7 @@ ul {
 .category-rows {
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-2xl);
+    gap: var(--spacing-lg);
 }
 
 .category-row {
@@ -460,7 +460,7 @@ ul {
 
 .carousel-track {
     display: flex;
-    gap: var(--spacing-md);
+    gap: var(--spacing-sm);
     transition: transform var(--transition-base);
     scroll-behavior: smooth;
 }
@@ -558,10 +558,9 @@ ul {
 }
 
 .game-card-title {
-    font-size: var(--font-size-base);
+    font-size: var(--font-size-sm);
     font-weight: 600;
     color: white;
-    margin-bottom: var(--spacing-xs);
     line-height: 1.3;
 }
 

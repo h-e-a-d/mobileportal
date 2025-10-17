@@ -377,9 +377,6 @@ class KloopikApp {
         // Get thumbnail
         const thumbnail = gamesManager.getGameThumbnail(game);
 
-        // Get first 2-3 genres for display
-        const displayGenres = (game.genres || []).slice(0, 3);
-
         card.innerHTML = `
             <img
                 src="${thumbnail}"
@@ -390,11 +387,6 @@ class KloopikApp {
             >
             <div class="game-card-overlay">
                 <h3 class="game-card-title">${game.title}</h3>
-                <div class="game-card-genres">
-                    ${displayGenres.map(genre => `
-                        <span class="game-card-genre">${this.formatCategoryName(genre)}</span>
-                    `).join('')}
-                </div>
             </div>
             <button class="game-card-favorite ${isFavorite ? 'is-favorite' : ''}" data-game-id="${game.id}">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">

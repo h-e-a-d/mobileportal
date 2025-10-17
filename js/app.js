@@ -273,12 +273,74 @@ class KloopikApp {
             }
         });
 
-        // Add "All Games" row at the end with all games
-        const allGamesRow = this.createCategoryRow('all', gamesManager.allGames.slice(0, 50));
-        this.elements.categoryRows.appendChild(allGamesRow);
+        // Add "All Games" section at the end with grid layout
+        const allGamesSection = this.createAllGamesGrid();
+        this.elements.categoryRows.appendChild(allGamesSection);
 
         // Add fade-in animation
         this.elements.categoryRows.classList.add('fade-in');
+    }
+
+    /**
+     * Create "All Games" grid section
+     */
+    createAllGamesGrid() {
+        const section = document.createElement('div');
+        section.className = 'all-games-section';
+        section.id = 'allGamesSection';
+
+        section.innerHTML = `
+            <div class="category-row-header">
+                <h3 class="category-row-title">All Games</h3>
+            </div>
+            <div class="all-games-grid" id="allGamesGrid"></div>
+            <div class="load-more-container" id="allGamesLoadMore" style="display: none;">
+                <button class="btn-load-more" id="allGamesLoadMoreBtn">Load More Games</button>
+            </div>
+        `;
+
+        // Add initial games
+        const grid = section.querySelector('.all-games-grid');
+        const loadMoreContainer = section.querySelector('.load-more-container');
+        const loadMoreBtn = section.querySelector('#allGamesLoadMoreBtn');
+
+        let currentPage = 1;
+        const gamesPerPage = 24;
+
+        const loadGames = () => {
+            const start = (currentPage - 1) * gamesPerPage;
+            const end = currentPage * gamesPerPage;
+            const gamesToShow = gamesManager.allGames.slice(start, end);
+
+            gamesToShow.forEach(game => {
+                const card = this.createGameCard(game);
+                grid.appendChild(card);
+            });
+
+            // Show/hide load more button
+            if (end >= gamesManager.allGames.length) {
+                loadMoreContainer.style.display = 'none';
+            } else {
+                loadMoreContainer.style.display = 'block';
+            }
+        };
+
+        // Load initial games
+        loadGames();
+
+        // Load more button handler
+        loadMoreBtn.addEventListener('click', () => {
+            currentPage++;
+            loadGames();
+            // Scroll to first new game
+            const cards = grid.querySelectorAll('.game-card');
+            const firstNewCard = cards[cards.length - gamesPerPage];
+            if (firstNewCard) {
+                firstNewCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        });
+
+        return section;
     }
 
     /**

@@ -123,6 +123,12 @@ class Router {
 
             // Update page title and meta tags
             this.updateMetaTags(routeConfig.name, params);
+
+            // Track page view in analytics
+            if (window.Analytics) {
+                const pageTitle = document.title;
+                window.Analytics.trackPageView(path, pageTitle);
+            }
         } else {
             // Route not found, redirect to home
             this.navigate('/');

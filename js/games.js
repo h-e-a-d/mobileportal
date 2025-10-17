@@ -41,6 +41,14 @@ class GamesManager {
             return this.allGames;
         } catch (error) {
             console.error('Error loading games:', error);
+
+            // Track error in analytics
+            if (window.Analytics) {
+                window.Analytics.trackError('games_load_error', error.message, {
+                    source: 'games.json'
+                });
+            }
+
             throw error;
         }
     }

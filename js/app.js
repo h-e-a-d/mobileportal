@@ -403,6 +403,7 @@ class KloopikApp {
         const track = rowElement.querySelector('.carousel-track');
         const prevBtn = rowElement.querySelector('.carousel-prev');
         const nextBtn = rowElement.querySelector('.carousel-next');
+        const category = rowElement.dataset.category;
 
         let scrollPosition = 0;
         const scrollAmount = 850; // Scroll ~4 cards at a time
@@ -417,6 +418,11 @@ class KloopikApp {
             scrollPosition = Math.max(0, scrollPosition - scrollAmount);
             track.style.transform = `translateX(-${scrollPosition}px)`;
             updateButtons();
+
+            // Track carousel navigation
+            if (window.Analytics) {
+                window.Analytics.trackCarouselNavigation(category, 'prev');
+            }
         });
 
         nextBtn.addEventListener('click', () => {
@@ -424,6 +430,11 @@ class KloopikApp {
             scrollPosition = Math.min(maxScroll, scrollPosition + scrollAmount);
             track.style.transform = `translateX(-${scrollPosition}px)`;
             updateButtons();
+
+            // Track carousel navigation
+            if (window.Analytics) {
+                window.Analytics.trackCarouselNavigation(category, 'next');
+            }
         });
 
         // Initial button state
@@ -508,12 +519,22 @@ class KloopikApp {
 
         // Update URL without navigating
         router.navigate(`/game/${game.slug}`, true);
+
+        // Track game play event
+        if (window.Analytics) {
+            window.Analytics.trackGamePlay(game);
+        }
     }
 
     /**
      * Close game modal
      */
     closeGameModal() {
+        // Track game close event before clearing current game
+        if (this.currentGame && window.Analytics) {
+            window.Analytics.trackGameClose(this.currentGame);
+        }
+
         // Hide modal
         this.elements.gameModal.classList.remove('active');
 
@@ -543,7 +564,17 @@ class KloopikApp {
      * Toggle favorite status
      */
     toggleFavorite(gameId) {
+        const wasFavorite = storageManager.isFavorite(gameId);
         storageManager.toggleFavorite(gameId);
+        const isFavorite = storageManager.isFavorite(gameId);
+
+        // Track favorite action
+        if (window.Analytics) {
+            const game = gamesManager.getGameById(gameId);
+            if (game) {
+                window.Analytics.trackGameFavorite(game, isFavorite);
+            }
+        }
 
         // Update all favorite buttons for this game
         this.updateFavoriteButtons(gameId);
@@ -597,13 +628,19 @@ class KloopikApp {
      */
     toggleFullscreen() {
         const modalContent = document.querySelector('.game-modal-content');
+        const isEnteringFullscreen = !document.fullscreenElement;
 
-        if (!document.fullscreenElement) {
+        if (isEnteringFullscreen) {
             modalContent.requestFullscreen().catch(err => {
                 console.error('Error attempting to enable fullscreen:', err);
             });
         } else {
             document.exitFullscreen();
+        }
+
+        // Track fullscreen toggle
+        if (this.currentGame && window.Analytics) {
+            window.Analytics.trackGameFullscreen(this.currentGame, isEnteringFullscreen);
         }
     }
 
@@ -619,6 +656,14 @@ class KloopikApp {
 
         // Filter games
         gamesManager.filterByCategory(category);
+
+        // Get games count for analytics
+        const gamesCount = gamesManager.getTotalCount();
+
+        // Track category filter
+        if (window.Analytics) {
+            window.Analytics.trackCategoryFilter(category, gamesCount);
+        }
 
         // Update section title
         this.elements.sectionTitle.textContent = category === 'all'
@@ -642,6 +687,12 @@ class KloopikApp {
         this.searchDebounceTimer = setTimeout(() => {
             gamesManager.searchGames(query);
 
+            // Track search if query is not empty
+            if (query.trim() && window.Analytics) {
+                const resultsCount = gamesManager.getTotalCount();
+                window.Analytics.trackSearch(query, resultsCount);
+            }
+
             // Update section title
             if (query.trim()) {
                 this.elements.sectionTitle.textContent = `Search results for "${query}"`;
@@ -661,7 +712,13 @@ class KloopikApp {
      * Toggle mobile menu
      */
     toggleMobileMenu() {
+        const willBeActive = !this.elements.navbarMenu.classList.contains('active');
         this.elements.navbarMenu.classList.toggle('active');
+
+        // Track mobile menu toggle
+        if (window.Analytics) {
+            window.Analytics.trackMobileMenu(willBeActive);
+        }
     }
 
     /**
@@ -753,6 +810,11 @@ class KloopikApp {
         this.elements.sectionTitle.textContent = 'My Favorites';
         this.displayGames();
 
+        // Track favorites page view
+        if (window.Analytics) {
+            window.Analytics.trackFavoritesView(favoriteGames.length);
+        }
+
         // Update nav active state
         this.updateNavActiveState('favorites');
     }
@@ -769,6 +831,11 @@ class KloopikApp {
 
         this.elements.sectionTitle.textContent = 'Recently Played';
         this.displayGames();
+
+        // Track recent page view
+        if (window.Analytics) {
+            window.Analytics.trackRecentView(recentGames.length);
+        }
 
         // Update nav active state
         this.updateNavActiveState('recent');

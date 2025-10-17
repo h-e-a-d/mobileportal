@@ -56,17 +56,16 @@ class KloopikApp {
         // Search
         this.elements.searchInput = document.getElementById('searchInput');
 
-        // Categories
-        this.elements.categoryPills = document.getElementById('categoryPills');
+        // Sidebar
+        this.elements.sidebar = document.getElementById('sidebar');
+        this.elements.sidebarNav = document.getElementById('sidebarNav');
 
         // Games section
         this.elements.sectionTitle = document.getElementById('sectionTitle');
         this.elements.gamesCount = document.getElementById('gamesCount');
         this.elements.loadingSpinner = document.getElementById('loadingSpinner');
-        this.elements.gamesGrid = document.getElementById('gamesGrid');
+        this.elements.categoryRows = document.getElementById('categoryRows');
         this.elements.emptyState = document.getElementById('emptyState');
-        this.elements.loadMoreContainer = document.getElementById('loadMoreContainer');
-        this.elements.loadMoreBtn = document.getElementById('loadMoreBtn');
 
         // Game modal
         this.elements.gameModal = document.getElementById('gameModal');
@@ -92,10 +91,6 @@ class KloopikApp {
             this.handleSearch(e.target.value);
         });
 
-        // Load more button
-        this.elements.loadMoreBtn?.addEventListener('click', () => {
-            this.loadMoreGames();
-        });
 
         // Modal close events
         this.elements.closeModalBtn?.addEventListener('click', () => {
@@ -154,28 +149,61 @@ class KloopikApp {
     }
 
     /**
-     * Setup category filter pills
+     * Setup sidebar categories
      */
     setupCategories() {
         const categories = gamesManager.getCategories();
-        const container = this.elements.categoryPills;
+        const container = this.elements.sidebarNav;
 
-        // Clear existing (except "All Games")
+        // Clear existing
         container.innerHTML = '';
 
-        // Add category pills
+        // Add category items to sidebar
         categories.forEach(category => {
-            const pill = document.createElement('button');
-            pill.className = `category-pill ${category === 'all' ? 'active' : ''}`;
-            pill.textContent = category === 'all' ? 'All Games' : this.formatCategoryName(category);
-            pill.dataset.category = category;
+            const item = document.createElement('div');
+            item.className = `sidebar-item ${category === 'all' ? 'active' : ''}`;
+            item.dataset.category = category;
 
-            pill.addEventListener('click', () => {
+            // Icon based on category
+            const icon = this.getCategoryIcon(category);
+
+            item.innerHTML = `
+                <div class="sidebar-item-icon">${icon}</div>
+                <span class="sidebar-item-text">${category === 'all' ? 'All Games' : this.formatCategoryName(category)}</span>
+            `;
+
+            item.addEventListener('click', () => {
                 this.handleCategoryClick(category);
             });
 
-            container.appendChild(pill);
+            container.appendChild(item);
         });
+    }
+
+    /**
+     * Get icon for category
+     */
+    getCategoryIcon(category) {
+        const icons = {
+            'all': '🎮',
+            'action': '⚔️',
+            'puzzle': '🧩',
+            'racing': '🏎️',
+            'sports': '⚽',
+            'adventure': '🗺️',
+            'arcade': '🕹️',
+            'strategy': '♟️',
+            'shooter': '🎯',
+            'rpg': '🛡️',
+            'simulation': '✈️',
+            'educational': '📚',
+            'music': '🎵',
+            'kids': '👶',
+            'girls': '👧',
+            'boys': '👦'
+        };
+
+        return icons[category] || '🎲';
     }
 
     /**
@@ -189,44 +217,151 @@ class KloopikApp {
     }
 
     /**
-     * Display games in grid
+     * Display games in category rows
      */
     displayGames() {
-        const games = gamesManager.getPaginatedGames();
         const total = gamesManager.getTotalCount();
+        const currentCategory = gamesManager.currentCategory;
+        const searchQuery = gamesManager.searchQuery;
 
         // Update count
         this.elements.gamesCount.textContent = `${total} games`;
 
-        // Clear grid
-        this.elements.gamesGrid.innerHTML = '';
+        // Clear rows
+        this.elements.categoryRows.innerHTML = '';
 
-        // Show/hide empty state
-        if (games.length === 0) {
-            this.elements.emptyState.style.display = 'block';
-            this.elements.gamesGrid.style.display = 'none';
-            this.elements.loadMoreContainer.style.display = 'none';
+        // If searching or filtering, show single category row
+        if (searchQuery || currentCategory !== 'all') {
+            const games = gamesManager.filteredGames;
+
+            if (games.length === 0) {
+                this.elements.emptyState.style.display = 'block';
+                this.elements.categoryRows.style.display = 'none';
+                return;
+            } else {
+                this.elements.emptyState.style.display = 'none';
+                this.elements.categoryRows.style.display = 'flex';
+            }
+
+            const categoryRow = this.createCategoryRow(currentCategory, games);
+            this.elements.categoryRows.appendChild(categoryRow);
             return;
-        } else {
-            this.elements.emptyState.style.display = 'none';
-            this.elements.gamesGrid.style.display = 'grid';
         }
 
-        // Create game cards
-        games.forEach(game => {
-            const card = this.createGameCard(game);
-            this.elements.gamesGrid.appendChild(card);
+        // Show all categories with games
+        const categories = gamesManager.getCategories();
+        const displayCategories = categories.filter(cat => cat !== 'all');
+
+        if (displayCategories.length === 0) {
+            this.elements.emptyState.style.display = 'block';
+            this.elements.categoryRows.style.display = 'none';
+            return;
+        }
+
+        this.elements.emptyState.style.display = 'none';
+        this.elements.categoryRows.style.display = 'flex';
+
+        // Create row for each category
+        displayCategories.slice(0, 15).forEach(category => {
+            const categoryGames = gamesManager.allGames.filter(game =>
+                game.genres && game.genres.some(g => g.toLowerCase() === category)
+            ).slice(0, 20);
+
+            if (categoryGames.length > 0) {
+                const categoryRow = this.createCategoryRow(category, categoryGames);
+                this.elements.categoryRows.appendChild(categoryRow);
+            }
         });
 
-        // Show/hide load more button
-        if (gamesManager.hasMore()) {
-            this.elements.loadMoreContainer.style.display = 'block';
-        } else {
-            this.elements.loadMoreContainer.style.display = 'none';
-        }
-
         // Add fade-in animation
-        this.elements.gamesGrid.classList.add('fade-in');
+        this.elements.categoryRows.classList.add('fade-in');
+    }
+
+    /**
+     * Create category row with carousel
+     */
+    createCategoryRow(category, games) {
+        const row = document.createElement('div');
+        row.className = 'category-row';
+        row.dataset.category = category;
+
+        const categoryName = category === 'all' ? 'All Games' : this.formatCategoryName(category);
+
+        row.innerHTML = `
+            <div class="category-row-header">
+                <h3 class="category-row-title">${categoryName}</h3>
+                <div class="category-row-actions">
+                    <button class="carousel-nav-btn carousel-prev" aria-label="Previous">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <polyline points="15 18 9 12 15 6"></polyline>
+                        </svg>
+                    </button>
+                    <button class="carousel-nav-btn carousel-next" aria-label="Next">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <polyline points="9 18 15 12 9 6"></polyline>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div class="carousel-container">
+                <div class="carousel-track"></div>
+            </div>
+        `;
+
+        // Add game cards to carousel
+        const track = row.querySelector('.carousel-track');
+        games.forEach(game => {
+            const card = this.createGameCard(game);
+            track.appendChild(card);
+        });
+
+        // Setup carousel navigation
+        this.setupCarousel(row);
+
+        // Click title to filter by category
+        const title = row.querySelector('.category-row-title');
+        title.addEventListener('click', () => {
+            if (category !== 'all') {
+                this.handleCategoryClick(category);
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        });
+
+        return row;
+    }
+
+    /**
+     * Setup carousel navigation
+     */
+    setupCarousel(rowElement) {
+        const track = rowElement.querySelector('.carousel-track');
+        const prevBtn = rowElement.querySelector('.carousel-prev');
+        const nextBtn = rowElement.querySelector('.carousel-next');
+
+        let scrollPosition = 0;
+        const scrollAmount = 850; // Scroll ~4 cards at a time
+
+        const updateButtons = () => {
+            const maxScroll = track.scrollWidth - track.clientWidth;
+            prevBtn.disabled = scrollPosition <= 0;
+            nextBtn.disabled = scrollPosition >= maxScroll;
+        };
+
+        prevBtn.addEventListener('click', () => {
+            scrollPosition = Math.max(0, scrollPosition - scrollAmount);
+            track.style.transform = `translateX(-${scrollPosition}px)`;
+            updateButtons();
+        });
+
+        nextBtn.addEventListener('click', () => {
+            const maxScroll = track.scrollWidth - track.clientWidth;
+            scrollPosition = Math.min(maxScroll, scrollPosition + scrollAmount);
+            track.style.transform = `translateX(-${scrollPosition}px)`;
+            updateButtons();
+        });
+
+        // Initial button state
+        setTimeout(updateButtons, 100);
     }
 
     /**
@@ -418,11 +553,11 @@ class KloopikApp {
      * Handle category filter click
      */
     handleCategoryClick(category) {
-        // Update active state
-        document.querySelectorAll('.category-pill').forEach(pill => {
-            pill.classList.remove('active');
+        // Update active state in sidebar
+        document.querySelectorAll('.sidebar-item').forEach(item => {
+            item.classList.remove('active');
         });
-        document.querySelector(`[data-category="${category}"]`)?.classList.add('active');
+        document.querySelector(`.sidebar-item[data-category="${category}"]`)?.classList.add('active');
 
         // Filter games
         gamesManager.filterByCategory(category);
@@ -463,20 +598,6 @@ class KloopikApp {
         }, 300);
     }
 
-    /**
-     * Load more games (pagination)
-     */
-    loadMoreGames() {
-        gamesManager.loadMore();
-        this.displayGames();
-
-        // Scroll to first new game
-        const cards = this.elements.gamesGrid.querySelectorAll('.game-card');
-        const firstNewCard = cards[cards.length - gamesManager.gamesPerPage];
-        if (firstNewCard) {
-            firstNewCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-    }
 
     /**
      * Toggle mobile menu

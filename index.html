@@ -77,19 +77,28 @@
         </div>
     </header>
 
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-content">
+            <div class="sidebar-header">
+                <svg class="sidebar-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                    <rect x="3" y="3" width="7" height="7"></rect>
+                    <rect x="14" y="3" width="7" height="7"></rect>
+                    <rect x="14" y="14" width="7" height="7"></rect>
+                    <rect x="3" y="14" width="7" height="7"></rect>
+                </svg>
+                <span class="sidebar-title">Categories</span>
+            </div>
+            <nav class="sidebar-nav" id="sidebarNav">
+                <!-- Category items will be dynamically inserted here -->
+            </nav>
+        </div>
+    </aside>
+
     <!-- Main Content -->
     <main class="main-content">
-        <div class="container">
-            <!-- Category Filter Bar -->
-            <section class="category-section" id="categorySection">
-                <h2 class="section-title">Categories</h2>
-                <div class="category-pills" id="categoryPills">
-                    <!-- Categories will be dynamically inserted here -->
-                    <button class="category-pill active" data-category="all">All Games</button>
-                </div>
-            </section>
-
-            <!-- Games Grid Section -->
+        <div class="content-wrapper">
+            <!-- Games Section -->
             <section class="games-section" id="gamesSection">
                 <div class="section-header">
                     <h2 class="section-title" id="sectionTitle">All Games</h2>
@@ -102,9 +111,9 @@
                     <p>Loading games...</p>
                 </div>
 
-                <!-- Games Grid -->
-                <div class="games-grid" id="gamesGrid">
-                    <!-- Game cards will be dynamically inserted here -->
+                <!-- Category Rows Container -->
+                <div class="category-rows" id="categoryRows">
+                    <!-- Category rows will be dynamically inserted here -->
                 </div>
 
                 <!-- Empty State -->
@@ -116,11 +125,6 @@
                     </svg>
                     <h3>No games found</h3>
                     <p>Try adjusting your search or filters</p>
-                </div>
-
-                <!-- Load More Button -->
-                <div class="load-more-container" id="loadMoreContainer" style="display: none;">
-                    <button class="btn-load-more" id="loadMoreBtn">Load More Games</button>
                 </div>
             </section>
         </div>

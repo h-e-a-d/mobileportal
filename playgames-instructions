@@ -1,0 +1,74 @@
+For Partners
+Getting Started
+​Whether you're planning to embed games via iframe, use affiliate links, or integrate customizable widgets, the first step is always the same:
+Step 1 – Sign Up and Get Clid
+Register at widgets.playgama.com and accept the terms of the offer during registration. By clicking Accept, you confirm that you’ve read and agreed to our Terms & Conditions.
+After registration, your unique clid (partner ID) will be generated. It is used to track your traffic and calculate your revenue. This clid is automatically embedded in all iframe codes, affiliate links, and widgets. Simply copy and embed.
+
+Step 2 – Explore the Game Catalog
+Browse all available games at widgets.playgama.com. The catalog is split into:
+Top Performing – games selected based on high engagement and monetization
+New Games – our latest releases, added regularly
+We constantly update the rankings to keep the catalog fresh and relevant.
+From each game card, you can:
+Copy an affiliate link to share
+Use a game link to embed a game via an iframe
+Get the iframe code to embed the game directly
+Download the game’s metadata as a JSON file
+Get game assets as a ZIP archive or through a direct link
+Add the game to your list to download multiple games in one JSON file
+We also have widgets, with more details provided below.
+
+Step 3 – Set Up Guide
+We’ve put together step-by-step guides for each integration method – embedded games, widgets, and affiliate links. You can check them out right here.
+Game Widget: Display a selection of top Playgama games in a customizable horizontal or vertical widget. Ideal for non-gaming sites and apps looking to diversify content and monetize traffic.
+Game Catalog: Access our extensive library of over 1 000 games. Download the entire collection in a JSON file or select specific titles to enrich your platform's offerings.
+Game Link: Pick unique affiliate links to individual games, allowing bloggers and streamers to earn revenue by directing their audience to Playgama's content. ​
+
+Step 4 – Track Your Stats
+Once traffic starts flowing, your dashboard will show real-time analytics based on the integration method:
+1. Iframe/Game Embed Stats
+Total gameplays and total revenue
+Breakdown by game: gameplays, ad revenue, and in-app purchases
+2. Widget Stats
+Performance for each widget
+Stats for every game within the widget: views, revenue, clicks, etc.
+3. Affiliate Link Stats
+Breakdown by affiliate link
+See all games played by each attributed user, with revenue stats
+And if you need any extra help, just drop us a line at partners@playgama.com. Plus, don’t forget to join our Partner Network on Discord.
+
+
+
+Import the Game Catalog
+Want to hand-pick games and embed them directly on your website or app? Here’s how to do it — no hosting, no downloads, just copy and paste.
+🎮 How to Add the Games to Your Site
+Step 1: Browse and Pick Games
+Go to widgets.playgama.com
+Sign up or log in to your account
+If you’re not logged in, the games you collect will not include your unique CLID. After logging in, a CLID will be automatically added to your selected games.
+Choose how you want to get games:
+Download the full game catalog as a JSON file
+Use filters to narrow down by genre, platform, or category — or just scroll through and manually click the games you like.
+Then click Download to get a custom file with your selected games.
+Copy an individual game's embed code:
+Open the game card and copy the iframe code to embed it directly on your site.
+🖼️ If you’re using the iframe link and not downloading the JSON file, but still need visual assets (thumbnails or icons), you can:
+Copy direct image links from the game card
+Or download a ZIP archive with thumbnails and icons, also available on the game card
+
+Step 2: Explore the JSON File
+The JSON file contains all the game info you need — title, genre, description, images, and most importantly:
+Copy
+"gameURL": "https://playgama.com/export/game/popping-candies"
+This gameURL is the direct link used to embed the game on your site.
+
+Step 3: Embed the Games
+To add a game to your site, use the gameURL value like this:
+Copy
+<iframe src="https://playgama.com/export/game/popping-candies" frameborder="0" width="100%" height="600px"></iframe>
+You’ll need to add a separate <iframe> like this for each game you want to embed. Just replace the src with the corresponding gameURL from your JSON file.
+You can change width and height to fit your layout.
+
+✅ That’s it! The game runs from our servers, so you don’t need to host anything — just plug and play.
+

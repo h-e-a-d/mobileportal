@@ -261,8 +261,8 @@ class KloopikApp {
         this.elements.emptyState.style.display = 'none';
         this.elements.categoryRows.style.display = 'flex';
 
-        // Create row for each category
-        displayCategories.slice(0, 15).forEach(category => {
+        // Create row for each category (show 25 categories)
+        displayCategories.slice(0, 25).forEach(category => {
             const categoryGames = gamesManager.allGames.filter(game =>
                 game.genres && game.genres.some(g => g.toLowerCase() === category)
             ).slice(0, 20);
@@ -272,6 +272,10 @@ class KloopikApp {
                 this.elements.categoryRows.appendChild(categoryRow);
             }
         });
+
+        // Add "All Games" row at the end with all games
+        const allGamesRow = this.createCategoryRow('all', gamesManager.allGames.slice(0, 50));
+        this.elements.categoryRows.appendChild(allGamesRow);
 
         // Add fade-in animation
         this.elements.categoryRows.classList.add('fade-in');

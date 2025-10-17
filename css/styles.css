@@ -391,7 +391,7 @@ ul {
 .category-rows {
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-lg);
+    gap: var(--spacing-md);
 }
 
 .category-row {
@@ -402,11 +402,11 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: var(--spacing-md);
+    margin-bottom: var(--spacing-sm);
 }
 
 .category-row-title {
-    font-size: var(--font-size-xl);
+    font-size: var(--font-size-base);
     font-weight: 700;
     color: var(--color-text-primary);
     cursor: pointer;

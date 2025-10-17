@@ -626,12 +626,12 @@ class KloopikApp {
     showLoading(show) {
         this.isLoading = show;
 
-        if (show) {
-            this.elements.loadingSpinner.style.display = 'flex';
-            this.elements.gamesGrid.style.display = 'none';
-        } else {
-            this.elements.loadingSpinner.style.display = 'none';
-            this.elements.gamesGrid.style.display = 'grid';
+        if (this.elements.loadingSpinner) {
+            this.elements.loadingSpinner.style.display = show ? 'flex' : 'none';
+        }
+
+        if (this.elements.categoryRows) {
+            this.elements.categoryRows.style.display = show ? 'none' : 'flex';
         }
     }
 
@@ -639,16 +639,22 @@ class KloopikApp {
      * Show error message
      */
     showError(message) {
-        this.elements.emptyState.style.display = 'block';
-        this.elements.emptyState.innerHTML = `
-            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                <circle cx="12" cy="12" r="10"></circle>
-                <line x1="12" y1="8" x2="12" y2="12"></line>
-                <line x1="12" y1="16" x2="12.01" y2="16"></line>
-            </svg>
-            <h3>Error</h3>
-            <p>${message}</p>
-        `;
+        if (this.elements.emptyState) {
+            this.elements.emptyState.style.display = 'block';
+            this.elements.emptyState.innerHTML = `
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <line x1="12" y1="8" x2="12" y2="12"></line>
+                    <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                </svg>
+                <h3>Error</h3>
+                <p>${message}</p>
+            `;
+        }
+
+        if (this.elements.categoryRows) {
+            this.elements.categoryRows.style.display = 'none';
+        }
     }
 
     /**

@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ===================================================
+        GAME PAGE META TAG TEMPLATE
+        Generated: 2025-10-17
+        For: Individual Game Pages (/catalog/[game-slug]/index.html)
+        Template: Reusable for all 706 games
+        =================================================== -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- ===================================================
+        SEO META TAGS
+        =================================================== -->
+
+    <!-- Title Tag: 55 characters optimal -->
+    <!-- Formula: [Game Title] - Play Online Free | Kloopik -->
+    <!-- Dynamic: Truncate if > 60 chars -->
+    <title>{{GAME_TITLE}} - Play Online Free | Kloopik</title>
+
+    <!-- Meta Description: 150-160 characters optimal -->
+    <!-- Dynamic: Generate from game description + primary genre -->
+    <meta name="description" content="{{META_DESCRIPTION_160_CHARS}}">
+
+    <!-- Keywords: Primary + Secondary genres + game-specific -->
+    <meta name="keywords" content="{{GAME_TITLE}}, play {{GAME_TITLE}} online, free browser game, {{PRIMARY_GENRE}}, {{SECONDARY_GENRES}}">
+
+    <!-- Author & Theme -->
+    <meta name="author" content="Kloopik">
+    <meta name="theme-color" content="#1a1a2e">
+
+    <!-- Robots & Indexing Directives -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow">
+
+    <!-- Canonical URL (prevents duplicate content issues) -->
+    <link rel="canonical" href="https://kloopik.com/catalog/{{GAME_SLUG}}/">
+
+    <!-- Mobile Optimization -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Kloopik">
+
+    <!-- ===================================================
+        OPEN GRAPH TAGS (Social Media - Facebook, LinkedIn)
+        1200x630 px recommended for og:image
+        =================================================== -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kloopik.com/catalog/{{GAME_SLUG}}/">
+    <meta property="og:title" content="{{GAME_TITLE}} - Play Online Free | Kloopik">
+    <meta property="og:description" content="{{META_DESCRIPTION_160_CHARS}}">
+    <meta property="og:image" content="https://kloopik.com/images/games/{{GAME_SLUG}}/og-image.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="{{GAME_TITLE}} Screenshot">
+    <meta property="og:site_name" content="Kloopik">
+    <meta property="og:locale" content="en_US">
+
+    <!-- ===================================================
+        TWITTER CARD TAGS
+        1024x512 px recommended for twitter:image
+        =================================================== -->
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@kloopik">
+    <meta name="twitter:title" content="{{GAME_TITLE}} - Play Online Free">
+    <meta name="twitter:description" content="{{TWITTER_DESCRIPTION_120_CHARS}}">
+    <meta name="twitter:image" content="https://kloopik.com/images/games/{{GAME_SLUG}}/twitter-card.jpg">
+    <meta name="twitter:image:alt" content="{{GAME_TITLE}} Gameplay">
+    <meta name="twitter:creator" content="@kloopik">
+
+    <!-- ===================================================
+        SCHEMA.ORG STRUCTURED DATA (JSON-LD)
+        Improves search visibility with rich results
+        =================================================== -->
+
+    <!-- VideoGame Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "VideoGame",
+      "name": "{{GAME_TITLE}}",
+      "url": "https://kloopik.com/catalog/{{GAME_SLUG}}/",
+      "description": "{{FULL_GAME_DESCRIPTION}}",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://kloopik.com/images/games/{{GAME_SLUG}}/og-image.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      "operatingSystem": ["Windows", "macOS", "iOS", "Android", "Web"],
+      "applicationCategory": "Game",
+      "gamePlayMode": ["MultiPlayer", "SinglePlayer"],
+      "genre": {{GENRES_JSON_ARRAY}},
+      "author": {
+        "@type": "Organization",
+        "name": "Kloopik"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kloopik",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kloopik.com/logo.png",
+          "width": 250,
+          "height": 60
+        },
+        "url": "https://kloopik.com"
+      },
+      "inLanguage": "en-US",
+      "isAccessibleForFree": true,
+      "potentialAction": {
+        "@type": "PlayAction",
+        "target": "https://kloopik.com/catalog/{{GAME_SLUG}}/"
+      }
+    }
+    </script>
+
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://kloopik.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{PRIMARY_GENRE}}",
+          "item": "https://kloopik.com/catalog/{{PRIMARY_GENRE_SLUG}}/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{GAME_TITLE}}",
+          "item": "https://kloopik.com/catalog/{{GAME_SLUG}}/"
+        }
+      ]
+    }
+    </script>
+
+    <!-- Organization Schema (on all pages for consistent branding) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Kloopik",
+      "url": "https://kloopik.com",
+      "logo": "https://kloopik.com/logo.png",
+      "description": "Free online gaming portal with 700+ browser games across all genres",
+      "sameAs": [
+        "https://www.facebook.com/kloopik",
+        "https://www.twitter.com/kloopik"
+      ]
+    }
+    </script>
+
+    <!-- ===================================================
+        PERFORMANCE & SECURITY
+        =================================================== -->
+
+    <!-- Preconnect to external resources (faster loading) -->
+    <link rel="preconnect" href="https://playgama.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+
+    <!-- Security Headers -->
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="apple-touch-icon" href="/favicon-180.png">
+
+    <!-- Prefetch Analytics Script -->
+    <link rel="prefetch" href="https://www.googletagmanager.com/gtm.js?id=GTM-PK768FJP">
+
+    <!-- ===================================================
+        OPTIONAL: VERIFICATION TAGS
+        Add your actual codes when implementing
+        =================================================== -->
+
+    <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE"> -->
+    <!-- <meta name="msvalidate.01" content="YOUR_VERIFICATION_CODE"> -->
+
+    <!-- ===================================================
+        PAGE STYLESHEET & FONTS
+        =================================================== -->
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+
+    <!-- ===================================================
+        GOOGLE TAG MANAGER
+        =================================================== -->
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PK768FJP');</script>
+
+</head>
+<body>
+
+    <!-- ===================================================
+        PAGE CONTENT
+        =================================================== -->
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK768FJP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <!-- Game Player Container -->
+    <main id="game-container">
+        <h1>{{GAME_TITLE}}</h1>
+        <!-- Game iframe will be embedded here -->
+    </main>
+
+    <!-- Scripts -->
+    <script src="/js/analytics.js"></script>
+    <script src="/js/app.js"></script>
+
+</body>
+</html>
+
+<!-- ===================================================
+    TEMPLATE VARIABLES REFERENCE
+    Replace these in automated generation:
+    =================================================== -->
+
+<!--
+{{GAME_TITLE}}
+  - The full game title (exact from games.json)
+  - Used in: <title>, og:title, twitter:title
+  - Example: "TB World" or "Playground Man! Ragdoll Show!"
+
+{{GAME_SLUG}}
+  - URL-friendly slug (from games.json)
+  - Used in: canonical, urls, image paths
+  - Example: "tb-world" or "playground-man-ragdoll-show"
+
+{{META_DESCRIPTION_160_CHARS}}
+  - Optimized description (150-160 chars)
+  - Dynamic generation based on genre + game description
+  - Include: action verb + primary benefit + CTA
+  - Example: "Play TB World online. Customize characters and interiors freely.
+             Unleash creativity now. Free browser game."
+
+{{TWITTER_DESCRIPTION_120_CHARS}}
+  - Shortened description for Twitter (120 chars max)
+  - Extract from META_DESCRIPTION or create variation
+  - Include: game + genre + CTA
+  - Example: "Play TB World free. Customize & design. No download needed."
+
+{{PRIMARY_GENRE}}
+  - First genre from genres array (capitalize)
+  - Used in: breadcrumb, og:description variations
+  - Example: "Girls" or "Action"
+
+{{PRIMARY_GENRE_SLUG}}
+  - URL-friendly version of primary genre
+  - Used in: breadcrumb URL
+  - Example: "girls" or "action"
+
+{{SECONDARY_GENRES}}
+  - Comma-separated additional genres (2-3)
+  - Used in: keywords meta tag
+  - Example: "Dress-up, Make-up, Kids"
+
+{{GENRES_JSON_ARRAY}}
+  - JSON array of all genres
+  - Used in: schema.org VideoGame genre field
+  - Example: ["Girls", "Dress-up", "Make-up", "Kids"]
+
+{{FULL_GAME_DESCRIPTION}}
+  - Complete game description from games.json
+  - Used in: schema.org description (no length limit)
+  - Example: Full 2-3 sentence description
+
+{{FAVICON_PATH}}
+  - Path to favicon file
+  - Default: /favicon.svg
+  - Backup: /favicon-180.png for Apple devices
+
+-->

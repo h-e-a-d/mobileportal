@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags -->
+    <title>{{GAME_TITLE}} - Play Online Free | Kloopik</title>
+    <meta name="description" content="{{META_DESCRIPTION}}">
+    <meta name="keywords" content="{{KEYWORDS}}">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://kloopik.com/game/{{GAME_SLUG}}">
+    <link rel="alternate" hreflang="en" href="https://kloopik.com/game/{{GAME_SLUG}}">
+
+    <!-- Open Graph / Social Media Meta Tags (Rich Results) -->
+    <meta property="og:type" content="VideoGame">
+    <meta property="og:title" content="{{GAME_TITLE}} - Free Online Game">
+    <meta property="og:description" content="{{META_DESCRIPTION}}">
+    <meta property="og:image" content="https://kloopik.com/images/{{GAME_SLUG}}-og.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://kloopik.com/game/{{GAME_SLUG}}">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{GAME_TITLE}}">
+    <meta name="twitter:description" content="{{META_DESCRIPTION}}">
+    <meta name="twitter:image" content="https://kloopik.com/images/{{GAME_SLUG}}-og.jpg">
+
+    <!-- Mobile Web App -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#ff6b35">
+
+    <!-- Preconnect to external domains -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://playgama.com">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="/css/styles.css">
+
+    <!-- Schema Markup: VideoGame (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "VideoGame",
+        "@id": "https://kloopik.com/game/{{GAME_SLUG}}",
+        "name": "{{GAME_TITLE}}",
+        "description": "{{FULL_DESCRIPTION}}",
+        "url": "https://kloopik.com/game/{{GAME_SLUG}}",
+        "image": "https://kloopik.com/images/{{GAME_SLUG}}-600x400.jpg",
+        "gameServer": "https://playgama.com/export/game/{{GAME_ID}}",
+        "author": {
+            "@type": "Organization",
+            "name": "{{GAME_DEVELOPER}}"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Kloopik",
+            "url": "https://kloopik.com"
+        },
+        "genre": {{GENRE_JSON}},
+        "playMode": "SinglePlayer",
+        "platformPlatform": ["Web browser"],
+        "interactivityType": "mixed",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "{{RATING}}",
+            "ratingCount": "{{RATING_COUNT}}"
+        },
+        "potentialAction": {
+            "@type": "PlayAction",
+            "target": "https://kloopik.com/game/{{GAME_SLUG}}"
+        }
+    }
+    </script>
+
+    <!-- Schema Markup: FAQPage (For Featured Snippets) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is {{GAME_TITLE}}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{FAQ_WHAT_IS}}"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I play {{GAME_TITLE}}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{FAQ_HOW_TO_PLAY}}"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is {{GAME_TITLE}} free?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, {{GAME_TITLE}} is completely free to play online. No download, registration, or in-app purchases required."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What devices can I play {{GAME_TITLE}} on?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{GAME_TITLE}} works on desktop computers, laptops, tablets, and smartphones. Play on any device with a modern web browser."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the main controls for {{GAME_TITLE}}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{FAQ_CONTROLS}}"
+                }
+            }
+        ]
+    }
+    </script>
+
+    <!-- Schema Markup: HowTo -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "How to Play {{GAME_TITLE}}",
+        "description": "Step-by-step guide to playing {{GAME_TITLE}}",
+        "image": "https://kloopik.com/images/{{GAME_SLUG}}-600x400.jpg",
+        "step": {{HOWTO_STEPS_JSON}}
+    }
+    </script>
+
+    <!-- Schema Markup: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Games",
+                "item": "https://kloopik.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "{{CATEGORY_NAME}}",
+                "item": "https://kloopik.com/category/{{CATEGORY_SLUG}}"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "{{GAME_TITLE}}",
+                "item": "https://kloopik.com/game/{{GAME_SLUG}}"
+            }
+        ]
+    }
+    </script>
+</head>
+<body>
+    <!-- Header Navigation -->
+    <header class="header">
+        <div class="container">
+            <nav class="navbar">
+                <div class="navbar-brand">
+                    <a href="/" class="logo">
+                        <h1>KLOOPIK</h1>
+                    </a>
+                </div>
+                <div class="navbar-menu">
+                    <ul class="nav-links">
+                        <li><a href="/" class="nav-link">All Games</a></li>
+                        <li><a href="/category/{{CATEGORY_SLUG}}" class="nav-link">{{CATEGORY_NAME}}</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content" itemscope itemtype="https://schema.org/VideoGame">
+        <div class="content-wrapper">
+            <!-- Game Page Content -->
+            <article class="game-page">
+
+                <!-- H1: Primary Heading (Only One Per Page) -->
+                <h1 itemprop="name">{{GAME_TITLE}}: {{GAME_TAGLINE}}</h1>
+
+                <!-- Breadcrumb Navigation -->
+                <nav class="breadcrumb" aria-label="Breadcrumb">
+                    <a href="/">Games</a> / <a href="/category/{{CATEGORY_SLUG}}">{{CATEGORY_NAME}}</a> / <span>{{GAME_TITLE}}</span>
+                </nav>
+
+                <!-- Hero Image with Alt Text -->
+                <figure class="game-hero">
+                    <img
+                        src="/images/{{GAME_SLUG}}-600x400.webp"
+                        alt="{{GAME_TITLE}} - {{GAME_VISUAL_DESCRIPTION}}"
+                        width="600"
+                        height="400"
+                        loading="lazy"
+                        itemprop="image"
+                    >
+                    <figcaption>{{GAME_TITLE}} gameplay preview</figcaption>
+                </figure>
+
+                <!-- Meta Information Section -->
+                <section class="game-meta">
+                    <div class="meta-item">
+                        <span class="meta-label">Category:</span>
+                        <span class="meta-value">{{CATEGORY_NAME}}</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Genres:</span>
+                        <span class="meta-value">{{GENRES_COMMA_SEPARATED}}</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Players:</span>
+                        <span class="meta-value">Single Player</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Platform:</span>
+                        <span class="meta-value">Web Browser</span>
+                    </div>
+                </section>
+
+                <!-- FEATURED SNIPPET TARGET 1: What Is Section (Paragraph Snippet) -->
+                <section class="game-definition featured-snippet-target">
+                    <h2>What is {{GAME_TITLE}}?</h2>
+                    <p itemprop="description">
+                        {{FEATURED_SNIPPET_WHAT_IS}}
+                    </p>
+                    <!-- This 50-60 word paragraph targets: "What is [game name]" queries -->
+                </section>
+
+                <!-- Game Description (Full) -->
+                <section class="game-description">
+                    <h2>{{GAME_TITLE}} - Full Description</h2>
+                    <p>{{FULL_GAME_DESCRIPTION}}</p>
+                </section>
+
+                <!-- FEATURED SNIPPET TARGET 2: How to Play (List Snippet) -->
+                <section class="game-how-to featured-snippet-target">
+                    <h2>How to Play {{GAME_TITLE}}</h2>
+                    <ol class="how-to-list">
+                        <li>
+                            <strong>{{HOW_TO_STEP_1_TITLE}}:</strong>
+                            {{HOW_TO_STEP_1_DESCRIPTION}}
+                        </li>
+                        <li>
+                            <strong>{{HOW_TO_STEP_2_TITLE}}:</strong>
+                            {{HOW_TO_STEP_2_DESCRIPTION}}
+                        </li>
+                        <li>
+                            <strong>{{HOW_TO_STEP_3_TITLE}}:</strong>
+                            {{HOW_TO_STEP_3_DESCRIPTION}}
+                        </li>
+                        <li>
+                            <strong>{{HOW_TO_STEP_4_TITLE}}:</strong>
+                            {{HOW_TO_STEP_4_DESCRIPTION}}
+                        </li>
+                        <li>
+                            <strong>{{HOW_TO_STEP_5_TITLE}}:</strong>
+                            {{HOW_TO_STEP_5_DESCRIPTION}}
+                        </li>
+                        <li>
+                            <strong>{{HOW_TO_STEP_6_TITLE}}:</strong>
+                            {{HOW_TO_STEP_6_DESCRIPTION}}
+                        </li>
+                    </ol>
+                    <!-- This 6-step list targets: "How to play [game name]" queries -->
+                </section>
+
+                <!-- FEATURED SNIPPET TARGET 3: Controls & Instructions (Table Snippet) -->
+                <section class="game-controls featured-snippet-target">
+                    <h2>{{GAME_TITLE}} Controls and Instructions</h2>
+                    <table class="controls-table">
+                        <thead>
+                            <tr>
+                                <th>Game Action</th>
+                                <th>PC Control</th>
+                                <th>Mobile Control</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>{{CONTROL_1_ACTION}}</td>
+                                <td>{{CONTROL_1_PC}}</td>
+                                <td>{{CONTROL_1_MOBILE}}</td>
+                            </tr>
+                            <tr>
+                                <td>{{CONTROL_2_ACTION}}</td>
+                                <td>{{CONTROL_2_PC}}</td>
+                                <td>{{CONTROL_2_MOBILE}}</td>
+                            </tr>
+                            <tr>
+                                <td>{{CONTROL_3_ACTION}}</td>
+                                <td>{{CONTROL_3_PC}}</td>
+                                <td>{{CONTROL_3_MOBILE}}</td>
+                            </tr>
+                            <tr>
+                                <td>{{CONTROL_4_ACTION}}</td>
+                                <td>{{CONTROL_4_PC}}</td>
+                                <td>{{CONTROL_4_MOBILE}}</td>
+                            </tr>
+                            <tr>
+                                <td>{{CONTROL_5_ACTION}}</td>
+                                <td>{{CONTROL_5_PC}}</td>
+                                <td>{{CONTROL_5_MOBILE}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- This table targets: "[game name] controls" queries -->
+                </section>
+
+                <!-- Game Features -->
+                <section class="game-features">
+                    <h2>{{GAME_TITLE}} Features</h2>
+                    <ul class="features-list">
+                        <li>{{FEATURE_1}}</li>
+                        <li>{{FEATURE_2}}</li>
+                        <li>{{FEATURE_3}}</li>
+                        <li>{{FEATURE_4}}</li>
+                        <li>{{FEATURE_5}}</li>
+                        <li>{{FEATURE_6}}</li>
+                    </ul>
+                </section>
+
+                <!-- Game Media -->
+                <section class="game-media">
+                    <h2>{{GAME_TITLE}} Gameplay Videos</h2>
+                    <div class="media-gallery">
+                        {{MEDIA_GALLERY_HTML}}
+                    </div>
+                </section>
+
+                <!-- Gameplay Stats / Info Box -->
+                <section class="game-stats">
+                    <h3>Quick Facts</h3>
+                    <ul>
+                        <li><strong>Difficulty:</strong> {{DIFFICULTY}}</li>
+                        <li><strong>Number of Levels:</strong> {{LEVEL_COUNT}}</li>
+                        <li><strong>Play Style:</strong> {{PLAY_STYLE}}</li>
+                        <li><strong>Mobile Ready:</strong> {{MOBILE_READY}}</li>
+                        <li><strong>In-Game Purchases:</strong> {{IN_GAME_PURCHASES}}</li>
+                    </ul>
+                </section>
+
+                <!-- Related / Similar Games (For "Best [Category]" Snippet) -->
+                <section class="similar-games featured-snippet-target">
+                    <h2>Similar {{CATEGORY_NAME}} Games</h2>
+                    <ul class="similar-games-list">
+                        <li>
+                            <strong>{{RELATED_GAME_1_TITLE}}:</strong>
+                            {{RELATED_GAME_1_DESCRIPTION}} - {{RELATED_GAME_1_FEATURES}}
+                        </li>
+                        <li>
+                            <strong>{{RELATED_GAME_2_TITLE}}:</strong>
+                            {{RELATED_GAME_2_DESCRIPTION}} - {{RELATED_GAME_2_FEATURES}}
+                        </li>
+                        <li>
+                            <strong>{{RELATED_GAME_3_TITLE}}:</strong>
+                            {{RELATED_GAME_3_DESCRIPTION}} - {{RELATED_GAME_3_FEATURES}}
+                        </li>
+                        <li>
+                            <strong>{{RELATED_GAME_4_TITLE}}:</strong>
+                            {{RELATED_GAME_4_DESCRIPTION}} - {{RELATED_GAME_4_FEATURES}}
+                        </li>
+                        <li>
+                            <strong>{{RELATED_GAME_5_TITLE}}:</strong>
+                            {{RELATED_GAME_5_DESCRIPTION}} - {{RELATED_GAME_5_FEATURES}}
+                        </li>
+                    </ul>
+                    <!-- This list targets: "Best [category] games" queries -->
+                </section>
+
+                <!-- Game Iframe (Playable) -->
+                <section class="game-player">
+                    <h2>Play {{GAME_TITLE}}</h2>
+                    <div class="game-iframe-wrapper">
+                        <iframe
+                            src="https://playgama.com/export/game/{{GAME_SLUG}}?clid={{CLID}}"
+                            allow="accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics"
+                            allowfullscreen
+                            frameborder="0"
+                            title="Play {{GAME_TITLE}} online free"
+                            width="100%"
+                            height="600"
+                            loading="lazy"
+                        ></iframe>
+                    </div>
+                </section>
+
+                <!-- Tips & Tricks (Optional) -->
+                <section class="game-tips">
+                    <h2>{{GAME_TITLE}} Tips and Tricks</h2>
+                    <ul>
+                        <li>{{TIP_1}}</li>
+                        <li>{{TIP_2}}</li>
+                        <li>{{TIP_3}}</li>
+                        <li>{{TIP_4}}</li>
+                    </ul>
+                </section>
+
+                <!-- FAQ Section (For PAA Optimization) -->
+                <section class="game-faq">
+                    <h2>Frequently Asked Questions About {{GAME_TITLE}}</h2>
+                    <div class="faq-item">
+                        <h3>Is {{GAME_TITLE}} really free to play?</h3>
+                        <p>Yes, {{GAME_TITLE}} is completely free to play online. You can enjoy the full game without any downloads, registrations, or in-app purchases required.</p>
+                    </div>
+                    <div class="faq-item">
+                        <h3>Can I play {{GAME_TITLE}} on my phone?</h3>
+                        <p>Absolutely! {{GAME_TITLE}} is fully optimized for mobile devices including smartphones and tablets. Simply open your browser and play instantly.</p>
+                    </div>
+                    <div class="faq-item">
+                        <h3>Do I need to download {{GAME_TITLE}}?</h3>
+                        <p>No download is necessary. {{GAME_TITLE}} is a browser-based game that runs directly in your web browser on any device.</p>
+                    </div>
+                    <div class="faq-item">
+                        <h3>What's the best strategy for {{GAME_TITLE}}?</h3>
+                        <p>{{STRATEGY_TIPS}}</p>
+                    </div>
+                </section>
+
+            </article>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2025 Kloopik. All rights reserved.</p>
+                <p class="footer-note">Games powered by <a href="https://playgama.com" target="_blank" rel="noopener">Playgama</a></p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

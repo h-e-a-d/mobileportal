@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Primary Meta Tags -->
+    <title>{{GAME_TITLE}} - Play Online Free | Kloopik</title>
+    <meta name="title" content="{{GAME_TITLE}} - Play Online Free | Kloopik">
+    <meta name="description" content="{{META_DESCRIPTION}}">
+    <meta name="keywords" content="{{KEYWORDS}}">
+    <meta name="author" content="Kloopik">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://kloopik.com/catalog/{{GAME_SLUG}}/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kloopik.com/catalog/{{GAME_SLUG}}/">
+    <meta property="og:title" content="{{GAME_TITLE}} - Play Online Free | Kloopik">
+    <meta property="og:description" content="{{OG_DESCRIPTION}}">
+    <meta property="og:image" content="{{OG_IMAGE}}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="Kloopik">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://kloopik.com/catalog/{{GAME_SLUG}}/">
+    <meta property="twitter:title" content="{{GAME_TITLE}} - Play Free Online">
+    <meta property="twitter:description" content="{{TWITTER_DESCRIPTION}}">
+    <meta property="twitter:image" content="{{TWITTER_IMAGE}}">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/game-page.css">
+
+    <!-- Preconnect to improve performance -->
+    <link rel="preconnect" href="https://playgama.com">
+    <link rel="dns-prefetch" href="https://playgama.com">
+
+    <!-- JSON-LD Schema Markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "VideoGame",
+        "name": "{{GAME_TITLE}}",
+        "description": "{{SCHEMA_DESCRIPTION}}",
+        "url": "https://kloopik.com/catalog/{{GAME_SLUG}}/",
+        "image": "{{SCHEMA_IMAGE}}",
+        "genre": {{SCHEMA_GENRES}},
+        "gamePlatform": ["Web Browser", "Desktop", "Mobile"],
+        "operatingSystem": "Any",
+        "applicationCategory": "Game",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Kloopik",
+            "url": "https://kloopik.com"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "ratingCount": "1000",
+            "bestRating": "5",
+            "worstRating": "1"
+        }
+    }
+    </script>
+
+    <!-- Breadcrumb Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://kloopik.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "{{PRIMARY_CATEGORY}}",
+                "item": "https://kloopik.com/category/{{PRIMARY_CATEGORY_SLUG}}/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "{{GAME_TITLE}}",
+                "item": "https://kloopik.com/catalog/{{GAME_SLUG}}/"
+            }
+        ]
+    }
+    </script>
+
+    <!-- FAQ Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is {{GAME_TITLE}}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{FAQ_WHAT_IS}}"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I play {{GAME_TITLE}}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{FAQ_HOW_TO_PLAY}}"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is {{GAME_TITLE}} free to play?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, {{GAME_TITLE}} is completely free to play online. No download or registration required. Just open your browser and start playing instantly."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I play {{GAME_TITLE}} on mobile?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{FAQ_MOBILE}}"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do I need to download {{GAME_TITLE}}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No download needed! {{GAME_TITLE}} runs directly in your web browser. Compatible with Chrome, Firefox, Safari, and Edge."
+                }
+            }
+        ]
+    }
+    </script>
+
+    <!-- HowTo Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "How to Play {{GAME_TITLE}}",
+        "description": "Learn how to play {{GAME_TITLE}} online for free",
+        "totalTime": "PT2M",
+        "step": {{HOWTO_STEPS}}
+    }
+    </script>
+</head>
+<body>
+    <!-- Header -->
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <a href="/" class="logo">
+                    <img src="/images/logo.png" alt="Kloopik - Free Online Games" width="120" height="40">
+                </a>
+                <nav class="main-nav">
+                    <a href="/">Home</a>
+                    <a href="/categories/">Categories</a>
+                    <a href="/#favorites">Favorites</a>
+                    <a href="/#recent">Recent</a>
+                </nav>
+                <div class="header-actions">
+                    <button class="search-btn" aria-label="Search games">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Breadcrumb Navigation -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <div class="container">
+            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/">
+                        <span itemprop="name">Home</span>
+                    </a>
+                    <meta itemprop="position" content="1" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/category/{{PRIMARY_CATEGORY_SLUG}}/">
+                        <span itemprop="name">{{PRIMARY_CATEGORY}}</span>
+                    </a>
+                    <meta itemprop="position" content="2" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <span itemprop="name">{{GAME_TITLE}}</span>
+                    <meta itemprop="position" content="3" />
+                </li>
+            </ol>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="game-page">
+        <div class="container">
+            <!-- Game Header -->
+            <div class="game-header">
+                <h1>{{GAME_TITLE}}</h1>
+                <div class="game-meta">
+                    <span class="category-badge">{{PRIMARY_CATEGORY}}</span>
+                    <button class="favorite-btn" data-game-id="{{GAME_ID}}" aria-label="Add to favorites">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M10 17.5l-6.5-6.5c-2-2-2-5 0-7s5-2 7 0l-.5.5.5-.5c2 2 2 5 0 7L10 17.5z" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                        <span>Favorite</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Game Player -->
+            <div class="game-player">
+                <div class="game-container">
+                    <iframe
+                        id="game-iframe"
+                        src="{{GAME_URL}}"
+                        frameborder="0"
+                        allowfullscreen
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        title="Play {{GAME_TITLE}}"
+                        loading="lazy">
+                    </iframe>
+                </div>
+                <div class="game-controls">
+                    <button class="fullscreen-btn" aria-label="Fullscreen">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M2 7V2h5M18 7V2h-5M2 13v5h5M18 13v5h-5" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                        Fullscreen
+                    </button>
+                </div>
+            </div>
+
+            <!-- Game Content Grid -->
+            <div class="game-content-grid">
+                <!-- Left Column: Game Info -->
+                <div class="game-info">
+                    <!-- About Section -->
+                    <section class="game-section">
+                        <h2>About {{GAME_TITLE}}</h2>
+                        <div class="game-description">
+                            <p><strong>{{GAME_TITLE}}</strong> {{ABOUT_PARAGRAPH}}</p>
+                        </div>
+                    </section>
+
+                    <!-- How to Play Section -->
+                    <section class="game-section">
+                        <h2>How to Play {{GAME_TITLE}}</h2>
+                        <ol class="instructions-list">
+                            {{HOW_TO_PLAY_STEPS}}
+                        </ol>
+                    </section>
+
+                    <!-- Game Controls Section -->
+                    <section class="game-section">
+                        <h2>Game Controls</h2>
+                        <table class="controls-table">
+                            <thead>
+                                <tr>
+                                    <th>Control</th>
+                                    <th>Action</th>
+                                    <th>Description</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{CONTROLS_TABLE_ROWS}}
+                            </tbody>
+                        </table>
+                    </section>
+
+                    <!-- Features Section -->
+                    <section class="game-section">
+                        <h2>Game Features</h2>
+                        <ul class="features-list">
+                            {{FEATURES_LIST}}
+                        </ul>
+                    </section>
+
+                    <!-- FAQ Section -->
+                    <section class="game-section faq-section">
+                        <h2>Frequently Asked Questions</h2>
+                        <div class="faq-container">
+                            <details class="faq-item">
+                                <summary>What is {{GAME_TITLE}}?</summary>
+                                <p>{{FAQ_WHAT_IS}}</p>
+                            </details>
+                            <details class="faq-item">
+                                <summary>How do I play {{GAME_TITLE}}?</summary>
+                                <p>{{FAQ_HOW_TO_PLAY}}</p>
+                            </details>
+                            <details class="faq-item">
+                                <summary>Is {{GAME_TITLE}} free to play?</summary>
+                                <p>Yes, {{GAME_TITLE}} is completely free to play online. No download or registration required. Just open your browser and start playing instantly.</p>
+                            </details>
+                            <details class="faq-item">
+                                <summary>Can I play {{GAME_TITLE}} on mobile?</summary>
+                                <p>{{FAQ_MOBILE}}</p>
+                            </details>
+                            <details class="faq-item">
+                                <summary>Do I need to download {{GAME_TITLE}}?</summary>
+                                <p>No download needed! {{GAME_TITLE}} runs directly in your web browser. Compatible with Chrome, Firefox, Safari, and Edge.</p>
+                            </details>
+                        </div>
+                    </section>
+
+                    <!-- Tags Section -->
+                    <section class="game-section">
+                        <h3>Tags</h3>
+                        <div class="tags-container">
+                            {{TAGS_LIST}}
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Right Column: Related Games -->
+                <aside class="game-sidebar">
+                    <section class="related-games">
+                        <h3>Similar {{PRIMARY_CATEGORY}} Games</h3>
+                        <div class="related-games-list">
+                            {{RELATED_GAMES}}
+                        </div>
+                        <a href="/category/{{PRIMARY_CATEGORY_SLUG}}/" class="view-all-btn">
+                            View All {{PRIMARY_CATEGORY}} Games
+                        </a>
+                    </section>
+
+                    <section class="popular-games">
+                        <h3>Popular Games</h3>
+                        <div class="popular-games-list">
+                            {{POPULAR_GAMES}}
+                        </div>
+                    </section>
+                </aside>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Kloopik</h4>
+                    <p>Play free online games instantly in your browser. No downloads required!</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Categories</h4>
+                    <ul>
+                        <li><a href="/category/action/">Action</a></li>
+                        <li><a href="/category/puzzle/">Puzzle</a></li>
+                        <li><a href="/category/racing/">Racing</a></li>
+                        <li><a href="/category/sports/">Sports</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Links</h4>
+                    <ul>
+                        <li><a href="/about/">About</a></li>
+                        <li><a href="/privacy/">Privacy Policy</a></li>
+                        <li><a href="/terms/">Terms of Service</a></li>
+                        <li><a href="/contact/">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Kloopik. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/js/storage.js"></script>
+    <script src="/js/game-page.js"></script>
+    <script src="/js/analytics.js"></script>
+</body>
+</html>

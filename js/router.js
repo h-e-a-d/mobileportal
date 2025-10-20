@@ -55,11 +55,27 @@ class Router {
     }
 
     /**
-     * Get current path from hash
+     * Get current path from hash with sanitization
      */
     getCurrentPath() {
         const hash = window.location.hash.slice(1); // Remove #
-        return hash || this.defaultRoute;
+
+        if (!hash) {
+            return this.defaultRoute;
+        }
+
+        // Sanitize hash to prevent XSS
+        let sanitized = hash;
+
+        // Remove dangerous characters
+        sanitized = sanitized
+            .replace(/[<>'"]/g, '')  // Remove HTML special chars
+            .replace(/javascript:/gi, '')  // Remove javascript: protocol
+            .replace(/data:/gi, '')  // Remove data: protocol
+            .replace(/vbscript:/gi, '')  // Remove vbscript: protocol
+            .substring(0, 200);  // Limit length
+
+        return sanitized || this.defaultRoute;
     }
 
     /**
@@ -76,7 +92,7 @@ class Router {
     }
 
     /**
-     * Match route pattern with path and extract parameters
+     * Match route pattern with path and extract parameters with validation
      */
     matchRoute(pattern, path) {
         const patternParts = pattern.split('/').filter(p => p);
@@ -93,9 +109,57 @@ class Router {
             const pathPart = pathParts[i];
 
             if (patternPart.startsWith(':')) {
-                // This is a parameter
+                // This is a parameter - validate and sanitize
                 const paramName = patternPart.slice(1);
-                params[paramName] = decodeURIComponent(pathPart);
+
+                try {
+                    let decodedValue = decodeURIComponent(pathPart);
+
+                    // Validate based on parameter type
+                    if (paramName === 'slug') {
+                        // Slug validation using Sanitizer if available
+                        if (typeof window.Sanitizer !== 'undefined') {
+                            decodedValue = window.Sanitizer.sanitizeSlug(decodedValue);
+                        } else {
+                            // Fallback validation for slugs
+                            if (!/^[a-z0-9-]+$/i.test(decodedValue) ||
+                                decodedValue.includes('..') ||
+                                decodedValue.includes('/') ||
+                                decodedValue.includes('\\')) {
+                                console.warn('[Router] Invalid slug:', decodedValue);
+                                return null;
+                            }
+                        }
+                    } else if (paramName === 'category') {
+                        // Category validation
+                        if (!/^[a-z0-9-]+$/i.test(decodedValue) ||
+                            decodedValue.includes('..') ||
+                            decodedValue.includes('/') ||
+                            decodedValue.includes('\\')) {
+                            console.warn('[Router] Invalid category:', decodedValue);
+                            return null;
+                        }
+                    } else {
+                        // Generic parameter validation
+                        if (decodedValue.includes('..') ||
+                            decodedValue.includes('<') ||
+                            decodedValue.includes('>') ||
+                            decodedValue.length > 100) {
+                            console.warn('[Router] Invalid parameter:', decodedValue);
+                            return null;
+                        }
+                    }
+
+                    if (!decodedValue) {
+                        return null;
+                    }
+
+                    params[paramName] = decodedValue;
+                } catch (e) {
+                    // Invalid URI encoding
+                    console.warn('[Router] URI decode error:', e);
+                    return null;
+                }
             } else if (patternPart !== pathPart) {
                 // Parts don't match
                 return null;

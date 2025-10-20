@@ -586,39 +586,19 @@ class KloopikApp {
     }
 
     /**
-     * Open game in modal
+     * Open game page
      */
     openGame(game) {
-        this.currentGame = game;
-
-        // Update modal title
-        this.elements.gameModalTitle.textContent = game.title;
-
-        // Set iframe source
-        this.elements.gameIframe.src = game.gameURL;
-
-        // Update favorite button state
-        this.updateFavoriteButton();
-
-        // Show modal
-        this.elements.gameModal.classList.add('active');
-
-        // Disable body scroll
-        document.body.style.overflow = 'hidden';
-
         // Add to recently played
         storageManager.addRecentlyPlayed(game.id);
-
-        // Update meta tags for SEO
-        router.updateGameMetaTags(game);
-
-        // Update URL without navigating
-        router.navigate(`/game/${game.slug}`, true);
 
         // Track game play event
         if (window.Analytics) {
             window.Analytics.trackGamePlay(game);
         }
+
+        // Navigate to the generated game page
+        window.location.href = `/catalog/${game.slug}/`;
     }
 
     /**

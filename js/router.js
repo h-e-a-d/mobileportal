@@ -231,10 +231,8 @@ class Router {
     handleGameRoute(params) {
         const { slug } = params;
 
-        // Trigger event for app to handle
-        window.dispatchEvent(new CustomEvent('route:game', {
-            detail: { slug }
-        }));
+        // Redirect to the generated game page
+        window.location.href = `/catalog/${slug}/`;
     }
 
     /**

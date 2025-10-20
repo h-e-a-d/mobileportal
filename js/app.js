@@ -356,20 +356,18 @@ class KloopikApp {
         row.innerHTML = `
             <div class="category-row-header">
                 <h3 class="category-row-title">${categoryName}</h3>
-                <div class="category-row-actions">
-                    <button class="carousel-nav-btn carousel-prev" aria-label="Previous">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <polyline points="15 18 9 12 15 6"></polyline>
-                        </svg>
-                    </button>
-                    <button class="carousel-nav-btn carousel-next" aria-label="Next">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <polyline points="9 18 15 12 9 6"></polyline>
-                        </svg>
-                    </button>
-                </div>
             </div>
             <div class="carousel-container">
+                <button class="carousel-nav-btn carousel-prev" aria-label="Previous">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <polyline points="15 18 9 12 15 6"></polyline>
+                    </svg>
+                </button>
+                <button class="carousel-nav-btn carousel-next" aria-label="Next">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <polyline points="9 18 15 12 9 6"></polyline>
+                    </svg>
+                </button>
                 <div class="carousel-track"></div>
             </div>
         `;
@@ -397,7 +395,7 @@ class KloopikApp {
     }
 
     /**
-     * Setup carousel navigation
+     * Setup carousel navigation with swipe/drag support
      */
     setupCarousel(rowElement) {
         const track = rowElement.querySelector('.carousel-track');
@@ -408,16 +406,36 @@ class KloopikApp {
         let scrollPosition = 0;
         const scrollAmount = 850; // Scroll ~4 cards at a time
 
+        // Drag/swipe state
+        let isDragging = false;
+        let startX = 0;
+        let startScrollPosition = 0;
+        let hasDragged = false;
+
         const updateButtons = () => {
             const maxScroll = track.scrollWidth - track.clientWidth;
             prevBtn.disabled = scrollPosition <= 0;
             nextBtn.disabled = scrollPosition >= maxScroll;
         };
 
-        prevBtn.addEventListener('click', () => {
-            scrollPosition = Math.max(0, scrollPosition - scrollAmount);
+        const setScrollPosition = (position, animate = true) => {
+            const maxScroll = track.scrollWidth - track.clientWidth;
+            scrollPosition = Math.max(0, Math.min(maxScroll, position));
+
+            if (animate) {
+                track.style.transition = 'transform 0.3s ease';
+            } else {
+                track.style.transition = 'none';
+            }
+
             track.style.transform = `translateX(-${scrollPosition}px)`;
             updateButtons();
+        };
+
+        // Button navigation
+        prevBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            setScrollPosition(scrollPosition - scrollAmount);
 
             // Track carousel navigation
             if (window.Analytics) {
@@ -425,11 +443,9 @@ class KloopikApp {
             }
         });
 
-        nextBtn.addEventListener('click', () => {
-            const maxScroll = track.scrollWidth - track.clientWidth;
-            scrollPosition = Math.min(maxScroll, scrollPosition + scrollAmount);
-            track.style.transform = `translateX(-${scrollPosition}px)`;
-            updateButtons();
+        nextBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            setScrollPosition(scrollPosition + scrollAmount);
 
             // Track carousel navigation
             if (window.Analytics) {
@@ -437,8 +453,87 @@ class KloopikApp {
             }
         });
 
+        // Mouse drag support (desktop)
+        track.addEventListener('mousedown', (e) => {
+            // Don't start drag if clicking on a game card or favorite button
+            if (e.target.closest('.game-card') || e.target.closest('.game-card-favorite')) {
+                return;
+            }
+
+            isDragging = true;
+            hasDragged = false;
+            startX = e.pageX;
+            startScrollPosition = scrollPosition;
+            track.style.cursor = 'grabbing';
+            track.style.userSelect = 'none';
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (!isDragging) return;
+
+            e.preventDefault();
+            const deltaX = startX - e.pageX;
+
+            if (Math.abs(deltaX) > 5) {
+                hasDragged = true;
+            }
+
+            setScrollPosition(startScrollPosition + deltaX, false);
+        });
+
+        document.addEventListener('mouseup', () => {
+            if (isDragging) {
+                isDragging = false;
+                track.style.cursor = 'grab';
+                track.style.userSelect = '';
+
+                // Re-enable transition for smooth snap
+                track.style.transition = 'transform 0.3s ease';
+            }
+        });
+
+        // Touch swipe support (mobile)
+        let touchStartX = 0;
+        let touchStartScrollPosition = 0;
+
+        track.addEventListener('touchstart', (e) => {
+            touchStartX = e.touches[0].pageX;
+            touchStartScrollPosition = scrollPosition;
+            hasDragged = false;
+        }, { passive: true });
+
+        track.addEventListener('touchmove', (e) => {
+            const deltaX = touchStartX - e.touches[0].pageX;
+
+            if (Math.abs(deltaX) > 5) {
+                hasDragged = true;
+            }
+
+            setScrollPosition(touchStartScrollPosition + deltaX, false);
+        }, { passive: true });
+
+        track.addEventListener('touchend', () => {
+            // Re-enable transition for smooth snap
+            track.style.transition = 'transform 0.3s ease';
+        }, { passive: true });
+
+        // Prevent click events on game cards when dragging
+        track.addEventListener('click', (e) => {
+            if (hasDragged) {
+                e.stopPropagation();
+                e.preventDefault();
+                hasDragged = false;
+            }
+        }, true);
+
+        // Set initial cursor style
+        track.style.cursor = 'grab';
+
         // Initial button state
         setTimeout(updateButtons, 100);
+
+        // Update buttons on window resize
+        window.addEventListener('resize', updateButtons);
     }
 
     /**

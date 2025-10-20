@@ -417,45 +417,54 @@ ul {
     color: var(--color-primary);
 }
 
-.category-row-actions {
-    display: flex;
-    align-items: center;
-    gap: var(--spacing-sm);
-}
-
-.carousel-nav-btn {
-    width: 36px;
-    height: 36px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: var(--color-bg-tertiary);
-    border-radius: 50%;
-    color: var(--color-text-primary);
-    transition: var(--transition-fast);
-    opacity: 0.6;
-}
-
-.carousel-nav-btn:hover {
-    background-color: var(--color-primary);
-    opacity: 1;
-    transform: scale(1.1);
-}
-
-.carousel-nav-btn:disabled {
-    opacity: 0.3;
-    cursor: not-allowed;
-}
-
-.carousel-nav-btn:disabled:hover {
-    background-color: var(--color-bg-tertiary);
-    transform: scale(1);
-}
-
 /* Carousel Container */
 .carousel-container {
     position: relative;
     overflow: hidden;
+}
+
+.carousel-nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(26, 26, 36, 0.95);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    color: var(--color-text-primary);
+    transition: var(--transition-fast);
+    opacity: 0;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.carousel-container:hover .carousel-nav-btn {
+    opacity: 1;
+}
+
+.carousel-nav-btn.carousel-prev {
+    left: var(--spacing-md);
+}
+
+.carousel-nav-btn.carousel-next {
+    right: var(--spacing-md);
+}
+
+.carousel-nav-btn:hover {
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+    transform: translateY(-50%) scale(1.1);
+}
+
+.carousel-nav-btn:disabled {
+    opacity: 0 !important;
+    cursor: not-allowed;
+    pointer-events: none;
 }
 
 .carousel-track {
@@ -955,10 +964,23 @@ ul {
         height: 36px;
     }
 
-    /* Carousel controls */
+    /* Carousel controls - always show on mobile (no hover) */
     .carousel-nav-btn {
-        width: 32px;
-        height: 32px;
+        width: 40px;
+        height: 40px;
+        opacity: 0.8;
+    }
+
+    .carousel-nav-btn.carousel-prev {
+        left: var(--spacing-sm);
+    }
+
+    .carousel-nav-btn.carousel-next {
+        right: var(--spacing-sm);
+    }
+
+    .carousel-nav-btn:active {
+        transform: translateY(-50%) scale(0.95);
     }
 }
 

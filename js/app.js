@@ -223,6 +223,7 @@ class KloopikApp {
         const total = gamesManager.getTotalCount();
         const currentCategory = gamesManager.currentCategory;
         const searchQuery = gamesManager.searchQuery;
+        const currentRoute = router.getCurrentRoute();
 
         // Update count
         this.elements.gamesCount.textContent = `${total} games`;
@@ -230,8 +231,8 @@ class KloopikApp {
         // Clear rows
         this.elements.categoryRows.innerHTML = '';
 
-        // If searching or filtering, show single category row
-        if (searchQuery || currentCategory !== 'all') {
+        // If searching, filtering, or on favorites/recent page, show single category row
+        if (searchQuery || currentCategory !== 'all' || currentRoute === 'favorites' || currentRoute === 'recent') {
             const games = gamesManager.filteredGames;
 
             if (games.length === 0) {
@@ -639,7 +640,6 @@ class KloopikApp {
      * Toggle favorite status
      */
     toggleFavorite(gameId) {
-        const wasFavorite = storageManager.isFavorite(gameId);
         storageManager.toggleFavorite(gameId);
         const isFavorite = storageManager.isFavorite(gameId);
 

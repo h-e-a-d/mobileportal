@@ -163,8 +163,12 @@ class StorageManager {
      * Check if game is favorited
      */
     isFavorite(gameId) {
+        const validId = this._validateGameId(gameId);
+        if (!validId) {
+            return false;
+        }
         const favorites = this.getFavorites();
-        return favorites.includes(gameId);
+        return favorites.includes(validId);
     }
 
     /**

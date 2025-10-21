@@ -172,7 +172,9 @@ class GamesManager {
      * Get game by ID
      */
     getGameById(id) {
-        return this.allGames.find(game => game.id === id);
+        // Convert to string for comparison since storage returns string IDs
+        const idStr = String(id);
+        return this.allGames.find(game => String(game.id) === idStr);
     }
 
     /**

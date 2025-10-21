@@ -1,0 +1,105 @@
+{
+  "category": "robot",
+  "count": 2,
+  "games": [
+    {
+      "id": "112131",
+      "slug": "Orbadrone-robot-escape",
+      "title": "OrbaDrone - Robot Escape",
+      "description": "ℹ️About\nYou’re an Orb-shaped drone with the ability to repel and attract objects, awakened in a strange cave-like structure in a post-apocalypse scenario. Discover strange materials with unusual properties and use them to navigate in this dangerous and mysterious place.\n\n🌟Features\n● 50 levels to complete\n● 3 types of difficulties\n● 4 mini-games\n● Customize the drone with skins that have different abilities\n● 2D physics mechanics\n● 2D light effects and environments\n● Control customization to choose your preference",
+      "howToPlayText": "Mobile: Use a joystick to navigate and 2 buttons to control your abilities.\nDesktop: Use the arrow keys to move, use A to attract and S to repel",
+      "gameURL": "https://playgama.com/export/game/Orbadrone-robot-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/Orbadrone-robot-escape",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "strategy",
+        "skill",
+        "platform",
+        "maze",
+        "robot",
+        "mobile"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "obstacle-games",
+        "challenging-games",
+        "apocalypse-games",
+        "1-player-games",
+        "indie-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/582099a3-37ab-43f7-4656-cc4dc0ecb200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/86f25293-2b34-4aa5-5262-8d570ad31800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "16d76e2f63bdd10394482a4ca9832ec4",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/Orbadrone-robot-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96151",
+      "slug": "my-clearn-robot",
+      "title": "My Clearn Robot",
+      "description": "Dive into the action with My Clean Robot, an engaging side-scrolling game where you control a brave robot fighting off nasty viruses in an apartment. Experience unique challenges and upgrades across various levels while enjoying fluid gameplay on your devices.",
+      "howToPlayText": "Keyboard\nMove and turn - WASD\nHand attack - J\nLeg attack- K\nMobile\nMove and turn - move the joystick\nHand attack - hand button\nLeg attack- Leg button",
+      "gameURL": "https://playgama.com/export/game/my-clearn-robot?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/my-clearn-robot",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "robot"
+      ],
+      "tags": [
+        "2d-games",
+        "side-scrolling-games",
+        "cleaning-games",
+        "survivors-games",
+        "bullet-games",
+        "fast-paced-games",
+        "customization-games",
+        "obstacle-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/02f1caa6-3217-47ba-53b1-6eb15324d000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/43e0a0f3-2b11-4e96-9dea-7dd730f13100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1557f293ad0d4fcc93a68f544f048dff",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/my-clearn-robot?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

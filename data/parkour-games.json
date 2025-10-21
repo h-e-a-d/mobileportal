@@ -1,0 +1,405 @@
+{
+  "category": "parkour",
+  "count": 8,
+  "games": [
+    {
+      "id": "99664",
+      "slug": "rooftop-run",
+      "title": "Rooftop Run",
+      "description": "Rooftop Run – Race Across the City! 🏃‍♂️💨\n\nRun, jump, and slide over rooftops in this fast-paced parkour game! Dodge obstacles, smash through barriers, and escape from enemies as you race through exciting levels.\n",
+      "howToPlayText": "🔥 Game Features:\n\nCool Parkour Moves – Jump, roll, and slide to keep running.\n\nFast Levels – Complete thrilling challenges and master your skills.\n\nSimple Controls – Easy to learn, fun to play!\n\n🖥️ Desktop Controls:\n\n↑ (Up Arrow) – Move up\n\n↓ (Down Arrow) – Move down\n\n← (Left Arrow) – Move left\n\n→ (Right Arrow) – Move right\n\nSpacebar – Fire weapon\n\nShift – Activate boost\n\n📱 Mobile Controls:\n\nOn-Screen Joystick – Drag to move\n\nFire Button – Tap to shoot\n\nBoost Button – Tap to go faster\n\nBe the best parkour runner! Play Rooftop Run now and start your adventure! ",
+      "gameURL": "https://playgama.com/export/game/rooftop-run?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rooftop-run",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "running",
+        "platform",
+        "parkour",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "obstacle-games",
+        "agility-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f6a172bd-52d7-46a2-9180-7f2ea1853300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/99f03ab5-43ec-4f2e-91e3-461d71a78e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8526b1ddbf6643d086bcc8398a33abcc",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "da98c2ba61f74c94b81141138a274b8b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rooftop-run?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99645",
+      "slug": "geometry-arrow-2",
+      "title": "Geometry Arrow 2",
+      "description": "Geometry Arrow 2 — the sequel to the dynamic arcade game about an arrow navigating through a dangerous cave.\n\nThe goal is simple: reach the end of the cave and survive. Along the way, you'll have to dodge a variety of unique and challenging obstacles.\n\nIn this new chapter, a second playable character — the Wheel — joins the adventure!\nYou can now customize your arrow and wheel with different skins, as well as change particle effects and block textures to make the game feel truly yours.\n\nThe game features 6 levels with increasing difficulty. Each level combines both Arrow and Wheel gameplay segments, offering variety and challenge.\n\nUnlock achievements as you progress and show off your skills!",
+      "howToPlayText": "Choose one of the 6 levels in the menu and start the game by clicking it with the left mouse button, the SPACEBAR or your finger.\n\nPC controls:\n\n─ LEFT MOUSE BUTTON or SPACEBAR ─ arrow movement;\n─ ESCAPE ─ exit the level.\n\nMOBILE controls:\n\n─ TOUCHING THE SCREEN ─ movement of the arrow.",
+      "gameURL": "https://playgama.com/export/game/geometry-arrow-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/geometry-arrow-2",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "cool-games",
+        "popular",
+        "parkour"
+      ],
+      "tags": [
+        "reaction-games",
+        "avoid-games",
+        "challenging-games",
+        "jumping-games",
+        "timing-games",
+        "geometry-games",
+        "wheel-games",
+        "rhythm-games",
+        "godot-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/31f565b6-e68f-4765-c30e-85eb5ddaf600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/94758087-fc52-4243-d6ec-cc0e2eeb5000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5b84237660d746b7bd76be4e60bdba3a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/geometry-arrow-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97550",
+      "slug": "barry-prison-parkour-escape-27f2-1",
+      "title": "Barry Prison: Parkour Escape!",
+      "description": "Join the exhilarating adventure of Barry Prison: Parkour Escape! Navigate complex parkour obstacles, outsmart Warden Barry, and gather items like coins and jetpacks to execute your escape. Play for free on your phone or computer and prove your skills in this ultimate test of freedom!",
+      "howToPlayText": "Controls:\n\n💻Computer:\nMouse - camera rotation\nWASD - movement\nSpace - jump\nEnter - use items\nShift - jetpack\nTab - menu\n\n📱 Mobile device:\nUse the interface buttons on the screen",
+      "gameURL": "https://playgama.com/export/game/barry-prison-parkour-escape-27f2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/barry-prison-parkour-escape-27f2-1",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "boys",
+        "running",
+        "platform",
+        "escape",
+        "parkour",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/95d8fa77-c10c-45d0-db5e-a131f52bd300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0e2eb11a-2ada-4a2c-b873-946258f69800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "35208796b19e43a2be975625610a26b0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/barry-prison-parkour-escape-27f2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63945",
+      "slug": "geometry-arrow",
+      "title": "Geometry Arrow",
+      "description": "Geometry Arrow\nThe game is about an arrow in a cave with obstacles.\n\nThe goal of to get to the end of the cave (to the portal) alive. Along the way, you need to dodge unique obstacles and spikes. There are 6 levels in the game, each subsequent one is more difficult than the previous one.\n\nChoose one of the 13 levels in the menu and start the game by clicking with the left mouse button or with your finger on the screen.",
+      "howToPlayText": "Geometry Arrow\nThe game is about an arrow in a cave with obstacles.\n\nThe goal of to get to the end of the cave (to the portal) alive. Along the way, you need to dodge unique obstacles and spikes. There are 6 levels in the game, each subsequent one is more difficult than the previous one.\n\nChoose one of the 13 levels in the menu and start the game by clicking with the left mouse button or with your finger on the screen.\n\nPC controls:\n\n─ LEFT MOUSE BUTTON or SPACEBAR ─ arrow movement.\n\nMOBILE controls:\n\n─ TOUCHING THE SCREEN ─ arrow movement.",
+      "gameURL": "https://playgama.com/export/game/geometry-arrow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/geometry-arrow",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "cool-games",
+        "parkour"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "obstacles-games",
+        "jumping-games",
+        "challenge-games",
+        "timing-games",
+        "geometry-games",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/861c4465-bd6d-467a-0461-9f42169fee00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f5705e52-981e-4c96-681a-a9b482752500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9b9743c86eed4a879194c60596357f53",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/geometry-arrow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86380",
+      "slug": "robby-the-lava-tsunami",
+      "title": "Robby The Lava Tsunami",
+      "description": "Robby The Lava Tsunami is an exciting free-to-play online game where you race against a flowing lava wave. Enjoy a colorful setting, unique skills, and endless customization options. Perfect for fans of speed and acrobatics, it’s accessible on iOS, Android, and desktop. Test your skills and strive for victory!",
+      "howToPlayText": "Control (computer):\n● WASD - Movement\n● Mouse - Camera Overview\n● Space - Jump\n● Tab or Escape Pause\n● Keys 1, 2, 3, 4, 5 - Activating abilities\n\nControl (phone):\n● Using the game interface\n● Move in any place - Camera view",
+      "gameURL": "https://playgama.com/export/game/robby-the-lava-tsunami?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/robby-the-lava-tsunami",
+      "genres": [
+        "action",
+        "running",
+        "cool-games",
+        "popular",
+        "parkour"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "fast-paced-games",
+        "customization-games",
+        "interactive-games",
+        "obstacle-games",
+        "addictive-games",
+        "roblox-games",
+        "jumping-games",
+        "speed-games",
+        "collecting-games",
+        "challenge-games",
+        "desktop-games",
+        "indie-games",
+        "borwser-games",
+        "virtual-games",
+        "android-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/da97f3a6-bb5e-4cdd-7f5d-ac4e3e5e0000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/88e2506c-19c7-4684-f8c4-04e80c144400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cbcbadfbf06c468bb3e36adb0f508f31",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/robby-the-lava-tsunami?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109413",
+      "slug": "steve-parkour-in-mine",
+      "title": "Steve parkour in mine",
+      "description": "Jump, run, and don’t fall! Help Steve navigate dangerous levels filled with traps, chasms, and true cubic madness.\n\nThe levels keep getting harder, and your reaction speed and jumping precision are your only hope.\n\nThis game is perfect for both beginners and those who consider themselves masters of parkour in virtual worlds.\n\nAre you ready to show what Steve is capable of in the world of parkour?",
+      "howToPlayText": "Use the WASD keys to control the character. Press the spacebar to jump. Use the mouse to control the camera.",
+      "gameURL": "https://playgama.com/export/game/steve-parkour-in-mine?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/steve-parkour-in-mine",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "running",
+        "platform",
+        "minecraft",
+        "parkour",
+        "blocks"
+      ],
+      "tags": [
+        "reaction-games",
+        "obstacle-games",
+        "blocky-games",
+        "jumping-games",
+        "challenge-games",
+        "agility-games",
+        "1-player-games",
+        "mine-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fe08a564-e746-443f-de9e-25624a291000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/60d05203-4ec5-469c-d399-409e382f5200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5db0e18fc83a42cc8ffc4b7e142a77a6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/steve-parkour-in-mine?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86469",
+      "slug": "mine-jump",
+      "title": "Mine Jump",
+      "description": "Join the exciting world of Mine Jump, an engaging online experience that merges quick thinking with rapid actions. Explore a captivating realm where each jump reveals hidden treasures. Enhance your character and uncover the mysteries of an alien planet, all while enjoying the thrill on any device!",
+      "howToPlayText": "Jump, jump, jump! A challenging reaction and logic game that won't let you get bored! Collect slugs, pump up your hero and find the edge of this planet!\n\nClick on the left or right side of the screen to move diagonally on a cell. If you make a mistake, you can go back. Get as far as you can to find out all the secrets of this mysterious planet!",
+      "gameURL": "https://playgama.com/export/game/mine-jump?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mine-jump",
+      "genres": [
+        "action",
+        "arcade",
+        "running",
+        "cool-games",
+        "mini",
+        "parkour"
+      ],
+      "tags": [
+        "reaction-games",
+        "dodge-games",
+        "addictive-games",
+        "endless-games",
+        "obstacles-games",
+        "jumping-games",
+        "mind-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "timing-games",
+        "mine-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/09f6f2d4-34f0-487a-4556-7d6819aa0b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/117e9e89-6ab7-4757-e12a-cdcf91d8fe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "771b8b049f7a4d69ab1fff66a1a52404",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mine-jump?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112602",
+      "slug": "your-obby-parkour",
+      "title": " Your Obby Parkour",
+      "description": "Enter a thrilling world of non-stop challenges! Run, jump, dodge, and conquer in the ultimate parkour platformer! \nSurvive crazy levels — from burning lava and icy slides to water traps and mysterious portals. Watch out for trampolines, spinning traps, and tons of hidden paths!\n\nPlay with friends and travel through fun regions — from simple to brutally hard! Discover the hidden little dragon, collect trophies, and unlock secret shortcuts and bonus zones!\n\nBe careful of:\nDeadly skeletons\nLava-filled volcanoes\nSlippery ice paths\nHorror mazes where it's easy to get lost!\n\nReady to be a true parkour master? Find the fastest paths, conquer extreme stages, and show the world your skills!\n\nPerfect for fans of obby-style maps, parkour games, secrets, adventures, and multiplayer fun!",
+      "howToPlayText": "The goal: get to the end.\n\nControl:\nWASD - movement.\nSpace bar - jump.\nTAB - pause.\nShift - cursor.\nMouse wheel - zoom in/out.\n\nOn the phone:\nUse the game interface.",
+      "gameURL": "https://playgama.com/export/game/your-obby-parkour?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/your-obby-parkour",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "3d",
+        "running",
+        "platform",
+        "obby",
+        "parkour",
+        "mobile"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "obstacle-games",
+        "challenging-games",
+        "jumping-games",
+        "agility-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/66c4e622-f10c-4b86-90cc-c91bf2e78500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/13141533-79a8-42bd-0236-d2e046fffe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2e76899f8cfee273170b7eb0ac2e4a67",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/your-obby-parkour?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

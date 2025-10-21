@@ -1,0 +1,74 @@
+{
+  "category": "wolf",
+  "count": 1,
+  "games": [
+    {
+      "id": "55",
+      "slug": "left-4-die",
+      "title": "Left 4 Die",
+      "description": "Left 4 Die is an intense survival shooter set in a post-apocalyptic environment. Utilize strategy to face endless enemies in this web-based game with stunning graphics and responsive controls. Experience the excitement across various devices as you navigate dangers, wield formidable weapons, and adapt to survive.",
+      "howToPlayText": "WASD - move Left Mouse button - attack R - reload SPACE - jump 1 - 4 - select weapons. Approach the weapons dealer to buy weapons, the armor dealer - to buy armor, the barber - to change your appearance, the commander - to receive a new mission. Complete missions and kill zombies to earn money and experience. The higher your level, the more powerful equipment and higher rewards for missions you can obtain, but you will also face more numerous hordes of zombies chasing you.",
+      "gameURL": "https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/left-4-die",
+      "genres": [
+        "action",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "cool-games",
+        "zombie",
+        "pve",
+        "survival",
+        "wolf",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "fast-paced-games",
+        "addictive-games",
+        "arena-games",
+        "webgl-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "building-games",
+        "horde-survival-games",
+        "borwser-games",
+        "virtual-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/65c4ee1c-517f-4e10-c93a-10d04aa4fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fe7362d-e8da-414f-b8fb-9b69c90db100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5cbf6816fc7d4a3c90282ecc9d451ed2",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "b0c3f523da054f49922d56bdaa76bce1",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "ee3e3ad4267947e7a4d42dc2429fd370",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "e9323ad585a4491daf38ea69ac82bf56",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

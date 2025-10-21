@@ -167,10 +167,18 @@ class KloopikApp {
             // Icon based on category
             const icon = this.getCategoryIcon(category);
 
-            item.innerHTML = `
-                <div class="sidebar-item-icon">${icon}</div>
-                <span class="sidebar-item-text">${category === 'all' ? 'All Games' : this.formatCategoryName(category)}</span>
-            `;
+            // Create icon div (XSS-safe)
+            const iconDiv = document.createElement('div');
+            iconDiv.className = 'sidebar-item-icon';
+            iconDiv.textContent = icon; // Safe from XSS
+
+            // Create text span (XSS-safe)
+            const textSpan = document.createElement('span');
+            textSpan.className = 'sidebar-item-text';
+            textSpan.textContent = category === 'all' ? 'All Games' : this.formatCategoryName(category); // Safe from XSS
+
+            item.appendChild(iconDiv);
+            item.appendChild(textSpan);
 
             item.addEventListener('click', () => {
                 this.handleCategoryClick(category);
@@ -314,6 +322,9 @@ class KloopikApp {
         // Update count
         this.elements.gamesCount.textContent = `${total} games`;
 
+        // Cleanup old carousels before clearing (prevent memory leaks)
+        this.cleanupCarousels();
+
         // Clear rows
         this.elements.categoryRows.innerHTML = '';
 
@@ -369,28 +380,67 @@ class KloopikApp {
     }
 
     /**
-     * Create "All Games" grid section
+     * Cleanup all carousel event listeners to prevent memory leaks
+     */
+    cleanupCarousels() {
+        // Find all category rows
+        const rows = this.elements.categoryRows.querySelectorAll('.category-row');
+
+        let cleanedCount = 0;
+
+        rows.forEach(row => {
+            // Call cleanup function if it exists
+            if (row._carouselCleanup && typeof row._carouselCleanup === 'function') {
+                row._carouselCleanup();
+                cleanedCount++;
+            }
+        });
+
+        if (window.logger && cleanedCount > 0) {
+            window.logger.debug('[App] Cleaned up', cleanedCount, 'carousels');
+        }
+    }
+
+    /**
+     * Create "All Games" grid section (XSS-safe)
      */
     createAllGamesGrid() {
         const section = document.createElement('div');
         section.className = 'all-games-section';
         section.id = 'allGamesSection';
 
-        section.innerHTML = `
-            <div class="category-row-header">
-                <h3 class="category-row-title">All Games</h3>
-            </div>
-            <div class="all-games-grid" id="allGamesGrid"></div>
-            <div class="load-more-container" id="allGamesLoadMore" style="display: none;">
-                <button class="btn-load-more" id="allGamesLoadMoreBtn">Load More Games</button>
-            </div>
-        `;
+        // Create header (safe)
+        const header = document.createElement('div');
+        header.className = 'category-row-header';
 
-        // Add initial games
-        const grid = section.querySelector('.all-games-grid');
-        const loadMoreContainer = section.querySelector('.load-more-container');
-        const loadMoreBtn = section.querySelector('#allGamesLoadMoreBtn');
+        const title = document.createElement('h3');
+        title.className = 'category-row-title';
+        title.textContent = 'All Games';
+        header.appendChild(title);
 
+        // Create grid container
+        const grid = document.createElement('div');
+        grid.className = 'all-games-grid';
+        grid.id = 'allGamesGrid';
+
+        // Create load more container
+        const loadMoreContainer = document.createElement('div');
+        loadMoreContainer.className = 'load-more-container';
+        loadMoreContainer.id = 'allGamesLoadMore';
+        loadMoreContainer.style.display = 'none';
+
+        const loadMoreBtn = document.createElement('button');
+        loadMoreBtn.className = 'btn-load-more';
+        loadMoreBtn.id = 'allGamesLoadMoreBtn';
+        loadMoreBtn.textContent = 'Load More Games';
+
+        loadMoreContainer.appendChild(loadMoreBtn);
+
+        section.appendChild(header);
+        section.appendChild(grid);
+        section.appendChild(loadMoreContainer);
+
+        // Setup pagination
         let currentPage = 1;
         const gamesPerPage = 24;
 
@@ -431,7 +481,7 @@ class KloopikApp {
     }
 
     /**
-     * Create category row with carousel
+     * Create category row with carousel (XSS-safe)
      */
     createCategoryRow(category, games) {
         const row = document.createElement('div');
@@ -440,37 +490,77 @@ class KloopikApp {
 
         const categoryName = category === 'all' ? 'All Games' : this.formatCategoryName(category);
 
-        row.innerHTML = `
-            <div class="category-row-header">
-                <h3 class="category-row-title">${categoryName}</h3>
-            </div>
-            <div class="carousel-container">
-                <button class="carousel-nav-btn carousel-prev" aria-label="Previous">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                        <polyline points="15 18 9 12 15 6"></polyline>
-                    </svg>
-                </button>
-                <button class="carousel-nav-btn carousel-next" aria-label="Next">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                        <polyline points="9 18 15 12 9 6"></polyline>
-                    </svg>
-                </button>
-                <div class="carousel-track"></div>
-            </div>
-        `;
+        // Create header (safe)
+        const header = document.createElement('div');
+        header.className = 'category-row-header';
+
+        const title = document.createElement('h3');
+        title.className = 'category-row-title';
+        title.textContent = categoryName; // Safe from XSS
+
+        header.appendChild(title);
+        row.appendChild(header);
+
+        // Create carousel container
+        const carouselContainer = document.createElement('div');
+        carouselContainer.className = 'carousel-container';
+
+        // Create prev button with SVG
+        const prevBtn = document.createElement('button');
+        prevBtn.className = 'carousel-nav-btn carousel-prev';
+        prevBtn.setAttribute('aria-label', 'Previous');
+
+        const prevSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+        prevSvg.setAttribute('width', '20');
+        prevSvg.setAttribute('height', '20');
+        prevSvg.setAttribute('viewBox', '0 0 24 24');
+        prevSvg.setAttribute('fill', 'none');
+        prevSvg.setAttribute('stroke', 'currentColor');
+
+        const prevPolyline = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+        prevPolyline.setAttribute('points', '15 18 9 12 15 6');
+
+        prevSvg.appendChild(prevPolyline);
+        prevBtn.appendChild(prevSvg);
+
+        // Create next button with SVG
+        const nextBtn = document.createElement('button');
+        nextBtn.className = 'carousel-nav-btn carousel-next';
+        nextBtn.setAttribute('aria-label', 'Next');
+
+        const nextSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+        nextSvg.setAttribute('width', '20');
+        nextSvg.setAttribute('height', '20');
+        nextSvg.setAttribute('viewBox', '0 0 24 24');
+        nextSvg.setAttribute('fill', 'none');
+        nextSvg.setAttribute('stroke', 'currentColor');
+
+        const nextPolyline = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+        nextPolyline.setAttribute('points', '9 18 15 12 9 6');
+
+        nextSvg.appendChild(nextPolyline);
+        nextBtn.appendChild(nextSvg);
+
+        // Create track
+        const track = document.createElement('div');
+        track.className = 'carousel-track';
 
         // Add game cards to carousel
-        const track = row.querySelector('.carousel-track');
         games.forEach(game => {
             const card = this.createGameCard(game);
             track.appendChild(card);
         });
 
+        // Assemble carousel
+        carouselContainer.appendChild(prevBtn);
+        carouselContainer.appendChild(nextBtn);
+        carouselContainer.appendChild(track);
+        row.appendChild(carouselContainer);
+
         // Setup carousel navigation
         this.setupCarousel(row);
 
         // Click title to filter by category
-        const title = row.querySelector('.category-row-title');
         title.addEventListener('click', () => {
             if (category !== 'all') {
                 this.handleCategoryClick(category);
@@ -540,8 +630,8 @@ class KloopikApp {
             }
         });
 
-        // Mouse drag support (desktop)
-        track.addEventListener('mousedown', (e) => {
+        // Mouse drag support (desktop) - Store handlers for cleanup
+        const mouseDownHandler = (e) => {
             // Don't start drag if clicking on a game card or favorite button
             if (e.target.closest('.game-card') || e.target.closest('.game-card-favorite')) {
                 return;
@@ -553,9 +643,9 @@ class KloopikApp {
             startScrollPosition = scrollPosition;
             track.style.cursor = 'grabbing';
             track.style.userSelect = 'none';
-        });
+        };
 
-        document.addEventListener('mousemove', (e) => {
+        const mouseMoveHandler = (e) => {
             if (!isDragging) return;
 
             e.preventDefault();
@@ -566,9 +656,9 @@ class KloopikApp {
             }
 
             setScrollPosition(startScrollPosition + deltaX, false);
-        });
+        };
 
-        document.addEventListener('mouseup', () => {
+        const mouseUpHandler = () => {
             if (isDragging) {
                 isDragging = false;
                 track.style.cursor = 'grab';
@@ -577,19 +667,23 @@ class KloopikApp {
                 // Re-enable transition for smooth snap
                 track.style.transition = 'transform 0.3s ease';
             }
-        });
+        };
 
-        // Touch swipe support (mobile)
+        track.addEventListener('mousedown', mouseDownHandler);
+        document.addEventListener('mousemove', mouseMoveHandler);
+        document.addEventListener('mouseup', mouseUpHandler);
+
+        // Touch swipe support (mobile) - Store handlers for cleanup
         let touchStartX = 0;
         let touchStartScrollPosition = 0;
 
-        track.addEventListener('touchstart', (e) => {
+        const touchStartHandler = (e) => {
             touchStartX = e.touches[0].pageX;
             touchStartScrollPosition = scrollPosition;
             hasDragged = false;
-        }, { passive: true });
+        };
 
-        track.addEventListener('touchmove', (e) => {
+        const touchMoveHandler = (e) => {
             const deltaX = touchStartX - e.touches[0].pageX;
 
             if (Math.abs(deltaX) > 5) {
@@ -597,21 +691,31 @@ class KloopikApp {
             }
 
             setScrollPosition(touchStartScrollPosition + deltaX, false);
-        }, { passive: true });
+        };
 
-        track.addEventListener('touchend', () => {
+        const touchEndHandler = () => {
             // Re-enable transition for smooth snap
             track.style.transition = 'transform 0.3s ease';
-        }, { passive: true });
+        };
+
+        track.addEventListener('touchstart', touchStartHandler, { passive: true });
+        track.addEventListener('touchmove', touchMoveHandler, { passive: true });
+        track.addEventListener('touchend', touchEndHandler, { passive: true });
 
         // Prevent click events on game cards when dragging
-        track.addEventListener('click', (e) => {
+        const clickHandler = (e) => {
             if (hasDragged) {
                 e.stopPropagation();
                 e.preventDefault();
                 hasDragged = false;
             }
-        }, true);
+        };
+
+        track.addEventListener('click', clickHandler, true);
+
+        // Update buttons on window resize
+        const resizeHandler = () => updateButtons();
+        window.addEventListener('resize', resizeHandler);
 
         // Set initial cursor style
         track.style.cursor = 'grab';
@@ -619,73 +723,105 @@ class KloopikApp {
         // Initial button state
         setTimeout(updateButtons, 100);
 
-        // Update buttons on window resize
-        window.addEventListener('resize', updateButtons);
+        // Store cleanup function on the row element for later cleanup
+        rowElement._carouselCleanup = () => {
+            // Remove all event listeners
+            track.removeEventListener('mousedown', mouseDownHandler);
+            document.removeEventListener('mousemove', mouseMoveHandler);
+            document.removeEventListener('mouseup', mouseUpHandler);
+            track.removeEventListener('touchstart', touchStartHandler);
+            track.removeEventListener('touchmove', touchMoveHandler);
+            track.removeEventListener('touchend', touchEndHandler);
+            track.removeEventListener('click', clickHandler, true);
+            window.removeEventListener('resize', resizeHandler);
+
+            if (window.logger) {
+                window.logger.debug('[Carousel] Cleanup completed for:', category);
+            }
+        };
     }
 
     /**
-     * Create game card element
+     * Create game card element (XSS-safe using DOMHelper)
      */
     createGameCard(game) {
-        const card = document.createElement('div');
-        card.className = 'game-card';
-        card.dataset.gameId = game.id;
-
         const isFavorite = storageManager.isFavorite(game.id);
 
-        // Get thumbnail
-        const thumbnail = gamesManager.getGameThumbnail(game);
-
-        card.innerHTML = `
-            <img
-                src="${thumbnail}"
-                alt="${game.title}"
-                class="game-card-image"
-                loading="lazy"
-                onerror="this.src='${gamesManager.generatePlaceholderImage(game.title)}'"
-            >
-            <div class="game-card-overlay">
-                <h3 class="game-card-title">${game.title}</h3>
-            </div>
-            <button class="game-card-favorite ${isFavorite ? 'is-favorite' : ''}" data-game-id="${game.id}">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
-                </svg>
-            </button>
-        `;
-
-        // Click to play game
-        card.addEventListener('click', (e) => {
-            // Don't open modal if clicking favorite button
-            if (!e.target.closest('.game-card-favorite')) {
-                this.openGame(game);
-            }
-        });
-
-        // Favorite button
-        const favoriteBtn = card.querySelector('.game-card-favorite');
-        favoriteBtn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            this.toggleFavorite(game.id);
-        });
+        // Use DOMHelper for safe DOM creation (prevents XSS)
+        const card = DOMHelper.createGameCard(
+            game,
+            isFavorite,
+            () => this.openGame(game),
+            () => this.toggleFavorite(game.id)
+        );
 
         return card;
     }
 
     /**
-     * Open game page
+     * Open game page (with error handling)
      */
     openGame(game) {
-        // Add to recently played
-        storageManager.addRecentlyPlayed(game.id);
+        try {
+            // Validate game data
+            if (!game) {
+                throw new Error('Invalid game data: game is null or undefined');
+            }
 
-        // Track game play event
-        if (window.Analytics) {
-            window.Analytics.trackGamePlay(game);
+            if (!game.slug) {
+                throw new Error(`Invalid game data: missing slug for game ${game.id || 'unknown'}`);
+            }
+
+            if (!game.id) {
+                throw new Error(`Invalid game data: missing ID for game ${game.slug}`);
+            }
+
+            // Add to recently played
+            try {
+                storageManager.addRecentlyPlayed(game.id);
+            } catch (storageError) {
+                // Log but don't block navigation
+                if (window.logger) {
+                    window.logger.warn('[App] Failed to add to recently played:', storageError);
+                }
+            }
+
+            // Track game play event
+            if (window.Analytics) {
+                try {
+                    window.Analytics.trackGamePlay(game);
+                } catch (analyticsError) {
+                    // Log but don't block navigation
+                    if (window.logger) {
+                        window.logger.warn('[App] Failed to track game play:', analyticsError);
+                    }
+                }
+            }
+
+            // Navigate to the generated game page
+            window.location.href = `/catalog/${game.slug}/`;
+
+        } catch (error) {
+            // Log error
+            if (window.logger) {
+                window.logger.error('[App] Error opening game:', error);
+            }
+
+            // Track error in analytics
+            if (window.Analytics) {
+                try {
+                    window.Analytics.trackError('game_open_error', error.message, {
+                        gameId: game?.id,
+                        gameSlug: game?.slug
+                    });
+                } catch (analyticsError) {
+                    // Silent fail
+                }
+            }
+
+            // Show user-friendly error message
+            this.showError('Unable to open game. Please try again.');
         }
-
-        // Navigate to the generated game page
-        window.location.href = `/catalog/${game.slug}/`;
     }
 
     /**
@@ -912,20 +1048,55 @@ class KloopikApp {
     }
 
     /**
-     * Show error message
+     * Show error message (XSS-safe)
      */
     showError(message) {
         if (this.elements.emptyState) {
             this.elements.emptyState.style.display = 'block';
-            this.elements.emptyState.innerHTML = `
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                    <circle cx="12" cy="12" r="10"></circle>
-                    <line x1="12" y1="8" x2="12" y2="12"></line>
-                    <line x1="12" y1="16" x2="12.01" y2="16"></line>
-                </svg>
-                <h3>Error</h3>
-                <p>${message}</p>
-            `;
+
+            // Clear existing content
+            this.elements.emptyState.innerHTML = '';
+
+            // Create SVG safely
+            const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+            svg.setAttribute('width', '64');
+            svg.setAttribute('height', '64');
+            svg.setAttribute('viewBox', '0 0 24 24');
+            svg.setAttribute('fill', 'none');
+            svg.setAttribute('stroke', 'currentColor');
+
+            const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+            circle.setAttribute('cx', '12');
+            circle.setAttribute('cy', '12');
+            circle.setAttribute('r', '10');
+
+            const line1 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+            line1.setAttribute('x1', '12');
+            line1.setAttribute('y1', '8');
+            line1.setAttribute('x2', '12');
+            line1.setAttribute('y2', '12');
+
+            const line2 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+            line2.setAttribute('x1', '12');
+            line2.setAttribute('y1', '16');
+            line2.setAttribute('x2', '12.01');
+            line2.setAttribute('y2', '16');
+
+            svg.appendChild(circle);
+            svg.appendChild(line1);
+            svg.appendChild(line2);
+
+            // Create error heading
+            const heading = document.createElement('h3');
+            heading.textContent = 'Error';
+
+            // Create message paragraph (safe from XSS)
+            const paragraph = document.createElement('p');
+            paragraph.textContent = message; // Safe from XSS
+
+            this.elements.emptyState.appendChild(svg);
+            this.elements.emptyState.appendChild(heading);
+            this.elements.emptyState.appendChild(paragraph);
         }
 
         if (this.elements.categoryRows) {
@@ -1021,6 +1192,69 @@ class KloopikApp {
         });
     }
 }
+
+/**
+ * Global Error Handlers
+ * Catch uncaught errors and unhandled promise rejections
+ */
+function setupGlobalErrorHandlers() {
+    // Catch uncaught JavaScript errors
+    window.addEventListener('error', (event) => {
+        if (window.logger) {
+            window.logger.error('[Global Error]', event.error || event.message, {
+                filename: event.filename,
+                lineno: event.lineno,
+                colno: event.colno
+            });
+        }
+
+        // Track in analytics
+        if (window.Analytics) {
+            try {
+                window.Analytics.trackError('uncaught_error', event.error?.message || event.message, {
+                    filename: event.filename,
+                    lineno: event.lineno,
+                    colno: event.colno,
+                    stack: event.error?.stack
+                });
+            } catch (analyticsError) {
+                // Silent fail - don't let analytics errors break error handling
+            }
+        }
+
+        // Don't prevent default error handling
+        return false;
+    });
+
+    // Catch unhandled promise rejections
+    window.addEventListener('unhandledrejection', (event) => {
+        if (window.logger) {
+            window.logger.error('[Unhandled Promise Rejection]', event.reason);
+        }
+
+        // Track in analytics
+        if (window.Analytics) {
+            try {
+                window.Analytics.trackError('unhandled_rejection', event.reason?.message || String(event.reason), {
+                    promise: event.promise,
+                    stack: event.reason?.stack
+                });
+            } catch (analyticsError) {
+                // Silent fail
+            }
+        }
+
+        // Prevent default console error
+        event.preventDefault();
+    });
+
+    if (window.logger) {
+        window.logger.info('[App] Global error handlers initialized');
+    }
+}
+
+// Setup global error handlers first
+setupGlobalErrorHandlers();
 
 // Initialize app when DOM is ready
 if (document.readyState === 'loading') {

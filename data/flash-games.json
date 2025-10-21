@@ -1,0 +1,50 @@
+{
+  "category": "flash",
+  "count": 1,
+  "games": [
+    {
+      "id": "109822",
+      "slug": "stack-swipe",
+      "title": "Stack Swipe",
+      "description": "Welcome to Stack Swipe, a colorful puzzle game where every swipe brings you closer to satisfying chain reactions!\nSwipe to shift entire rows or columns and stack same colored plates.\nMatch at least 5 plates in one stack to trigger a blast and work your way toward the level’s target!",
+      "howToPlayText": "Swipe in any direction to move all plates across the grid.\nPlates only move and stack if there's a same colored plate in their swipe direction.\nStack 5 or more same colored plates to automatically blast them!\nTap the Serve button to spawn new plates into empty spaces and sometimes even on top of existing ones!",
+      "gameURL": "https://playgama.com/export/game/stack-swipe?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stack-swipe",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "flash",
+        "classic",
+        "color",
+        "mobile"
+      ],
+      "tags": [
+        "challenging-games",
+        "color-matching-games",
+        "swipe-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e4e1a5d4-5576-4b3f-dd79-5d941dcdd700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f6527020-f78f-450c-d80f-d1472841c200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7e36ca499f944258b9afa1b17c2fdbe5",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stack-swipe?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

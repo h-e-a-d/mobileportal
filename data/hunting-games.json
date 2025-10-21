@@ -1,0 +1,99 @@
+{
+  "category": "hunting",
+  "count": 2,
+  "games": [
+    {
+      "id": "106379",
+      "slug": "Italian-brainrot-hunting-3D",
+      "title": "Italian Brainrot Hunting 3D",
+      "description": "Italian Brainrot meme animals hunting! Choose a weapon and go ahead - a real meme hunt in a 3D! Italian meme animals are on their guard - don't scare them off!\n\nStart hunting Italian Brainrot meme animals!\n\n🐻 Italian animals can get scared and run away if you get too close or miss! Show your stealth skills and be careful!\n\n💰 Receive a reward for a successful hunt! Spend it on buying new weapons!\n\n🔫 Multiple weapons in the store!\n\n👾 Lots of levels to complete!\n\n🌲❄️🏜️ Different game worlds with different climates!\n\n🎯 Hunt Italian Brainrot animals in 3D and complete all levels!\n\n⭐⭐⭐⭐⭐ Please, leave your ideas for new levels!",
+      "howToPlayText": "💻 On the computer:\nWASD - walk\nHold Shift - run\nLeft Mouse Button - shoot\nRight Mouse Button - target\nSpace - jump\n\n📲 On the phone:\nStick Movement - walking\nTapping on the screen - shoot\nAction buttons - aim, jump, run",
+      "gameURL": "https://playgama.com/export/game/Italian-brainrot-hunting-3D?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/Italian-brainrot-hunting-3D",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "simulation",
+        "skill",
+        "3d",
+        "shooting",
+        "gun",
+        "hunting"
+      ],
+      "tags": [
+        "mission-games",
+        "meme-games",
+        "accuracy-games",
+        "unity3d-games",
+        "challenge-games",
+        "target-games",
+        "level-games",
+        "cartoons-games",
+        "sniper-shooter",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e154ea26-ed58-4568-21a2-b99c5c5a2900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fa11dadd-2658-4afe-6778-18c480bbec00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "aa0d22c803a84722897ccf01f8b3868e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/Italian-brainrot-hunting-3D?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99606",
+      "slug": "duck-hunter",
+      "title": "Duck Hunter",
+      "description": "In this game, your task is to shoot ducks. To pass each round of 10 ducks, you must shoot at least 6. Then you will go to the next round!",
+      "howToPlayText": "In this game, your task is to shoot ducks. To pass each round of 10 ducks, you must shoot at least 6. Then you will go to the next round!",
+      "gameURL": "https://playgama.com/export/game/duck-hunter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/duck-hunter",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "shooting",
+        "hunting",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "accuracy-games",
+        "target-games",
+        "bird-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b4965d28-38e1-4d87-5d1f-c736e0bc4700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/80c4d903-0014-464b-670e-954e882d8000/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/duck-hunter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

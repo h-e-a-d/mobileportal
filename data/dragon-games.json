@@ -1,0 +1,46 @@
+{
+  "category": "dragon",
+  "count": 1,
+  "games": [
+    {
+      "id": "98046",
+      "slug": "ancient-dragons-princess-2546-1",
+      "title": "Ancient Dragons Princess",
+      "description": "Enter the magical realm of the Dragon Princess, Rennie, where elegance is paramount. Adorn her in lavish outfits, from velvet gowns to outfits suited for dragon riding. Customize a unique dragon for her, style her hair, add exquisite jewelry, and join Rennie on an extraordinary journey.",
+      "howToPlayText": "Choose outfits for the characters by tapping on them and save the photos to your device!jewelry will also impress you. Go on an adventure with the Dragon Princess!",
+      "gameURL": "https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ancient-dragons-princess-2546-1",
+      "genres": [
+        "adventure",
+        "girls",
+        "story",
+        "princess",
+        "anime",
+        "dragon",
+        "magic",
+        "rpg"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b27a9aff-14a8-4391-ad50-2c2c63471c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/88a2afee-dda3-4def-451a-f0cd63c74600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2f2396215f8645a58dcd6cc7935e0c86",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

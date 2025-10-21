@@ -1,0 +1,44 @@
+{
+  "category": "slime",
+  "count": 1,
+  "games": [
+    {
+      "id": "99451",
+      "slug": "click--idle--slimes",
+      "title": "Click & Idle - Slimes!",
+      "description": "Step into the delightful universe of Click & Idle - Slimes! Tap the squishy slime to generate income and expand your empire. Unlock and enhance various skills, each offering unique perks that go beyond simple click boosts. Some grant instant rewards, while others provide long-term advantages, allowing you to shape your own progression. Collect charming slimes, customize your background, and embark on an endless adventure to become the ultimate slime master!",
+      "howToPlayText": "Taking control is easy! On PC, click with your mouse to interact and navigate menus. On mobile, simply tap and swipe to engage with the slime, unlock upgrades, and explore different options.",
+      "gameURL": "https://playgama.com/export/game/click--idle--slimes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/click--idle--slimes",
+      "genres": [
+        "clicker",
+        "slime",
+        "idle"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4873c7af-b103-4086-453b-44383d53ff00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e923a7b8-65c9-41ee-bbab-a846f7288b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4f959835f6dd4c98928012ea77c9d855",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/click--idle--slimes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

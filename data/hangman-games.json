@@ -1,0 +1,55 @@
+{
+  "category": "hangman",
+  "count": 1,
+  "games": [
+    {
+      "id": "86396",
+      "slug": "palkovil-the-way-home",
+      "title": "Palkovil The Way Home",
+      "description": "The unique world of \"Palkovil\" will allow you to immerse yourself in the crazy atmosphere of the New Year! Hundreds of monsters and mobs, favorite animals, fascinating riddles and quests, gifts, toys and sweets, huge laboratory spaces will help you learn the most terrible secrets of this place! Collect toys, feed squirrels, dogs and cats, fight with swords, defeat bosses, collect cards by looking at paintings, find connections and do everything to bring the Christmas tree home. Save your favorite holiday together with the heroes of this game.",
+      "howToPlayText": "The main task of this quest is to bring the Christmas tree back home. Do everything so that the aliens can not spoil the holiday.\nTurn on the lights in the right rooms to move around the laboratory. Fulfill the tasks of the aliens to get toys. Collect the whole collection of unique souvenirs to please your friends with beautiful gifts!",
+      "gameURL": "https://playgama.com/export/game/palkovil-the-way-home?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/palkovil-the-way-home",
+      "genres": [
+        "adventure",
+        "pve",
+        "christmas",
+        "hangman"
+      ],
+      "tags": [
+        "minigames",
+        "fantasy-games",
+        "interactive-games",
+        "cute-games",
+        "learning-games",
+        "collecting-games",
+        "desktop-games",
+        "family-games",
+        "pixel-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f8a317c1-a3bb-4554-9c41-07a640429800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c007dd0e-9624-4317-2b5e-6d7ee0820400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "561ce4d841ad4aefb8bbc80af9365fd7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/palkovil-the-way-home?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

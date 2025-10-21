@@ -1,0 +1,102 @@
+{
+  "category": "sniper",
+  "count": 2,
+  "games": [
+    {
+      "id": "110265",
+      "slug": "hazmob-fps-online-shooter",
+      "title": "Hazmob FPS: Online Shooter",
+      "description": "Hazmob FPS is a multiplayer shooting FPS game where every second counts! Play against other players across multiple game modes in non-stop combat. This first-person shooter game is ideal for those seeking a bit of thrill.\n\nSkilled FPS players will love Hazmob FPS. The game features excellent, clean 3D graphics with a fluid and intuitive control system that allows you to maneuver quickly and tactically. The maps are designed for fast-paced battles in a close-quarters setting, leaving it down to pure reflex and skill to get the job done.\n\nPlay various game modes\n\nTeam Deathmatch\nSearch and Destroy\nCapture the flag\nDomination\nFree for all\nElimination\nGun race\n",
+      "howToPlayText": "Controls\n\nWASD = move\nSpace = jump\nLeft mouse = shoot\nRight mouse / V = aim\nP = leaderboard, pause, and settings\nG = pick up the gun\nC = crouch\nShift = run\n1, 2, 3 = switch weapons\n4, 5, 6 = skills\nE = alternative skills\nQ = alternative skills",
+      "gameURL": "https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hazmob-fps-online-shooter",
+      "genres": [
+        "action",
+        "arcade",
+        "strategy",
+        "skill",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "fighting",
+        "popular",
+        "first-person-shooter",
+        "sniper",
+        "train",
+        "battle-royale"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "reaction-games",
+        "multiple-players-games",
+        "exciting-games",
+        "accuracy-games",
+        "competitive-games",
+        "military-games",
+        "combat-games",
+        "teams-games",
+        "sniper-shooter",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1f0c7c3-3611-4f93-49ae-3b779e216c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a2e46182-077e-4ec8-d0aa-3435536eb800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8a7a62bfcec943b6a64d1188c8baf31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90505",
+      "slug": "agent-sniper-city",
+      "title": "Agent Sniper City",
+      "description": "Agent Sniper City is a high-stakes sniper game where you step into the role of an elite sharpshooter. Perched atop towering buildings, your mission is to eliminate dangerous criminals with precision shots. Use your skills to aim, scope, and execute targets while scanning the city for new threats. Stay focused—the fate of the city rests in your hands!",
+      "howToPlayText": "Keyboard\nScope: Right mouse button\nZoom In/Out: Mouse scroll wheel\nShoot: Left mouse button\nLook Around: Drag mouse",
+      "gameURL": "https://playgama.com/export/game/agent-sniper-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/agent-sniper-city",
+      "genres": [
+        "action",
+        "simulation",
+        "skill",
+        "shooting",
+        "mouse",
+        "popular",
+        "first-person-shooter",
+        "sniper",
+        "mobile"
+      ],
+      "tags": [
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/47d98964-bd5b-4961-3dea-835c78056200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/30757515-52b1-45d1-52fa-8b5a94d94c00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/agent-sniper-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

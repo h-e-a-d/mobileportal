@@ -1,0 +1,241 @@
+{
+  "category": "minecraft",
+  "count": 5,
+  "games": [
+    {
+      "id": "99438",
+      "slug": "skyblock-3d-survival",
+      "title": "Skyblock 3D: Survival",
+      "description": "Embark on a unique survival adventure on floating islands in a 3D world, where each island offers valuable resources. Explore vibrant landscapes, battle monsters to grow stronger, and trade with villagers for useful items. Build plantations and breed animals to ensure a steady supply of food and resources. The skies are full of islands, each one holding secrets and challenges. Survive, craft, battle, and thrive in this exciting world!",
+      "howToPlayText": "For computer:\n- Move: W, A, S, D\n- Jump: Spacebar\n- Break blocks: Hold down LMB\n- Place blocks: RMB / F\n- Inventory: E\n- Pause: Tab\n- Help: J\n- Drop: Q (Shift+Q Drop full slot)\n\nFor mobile devices:\n- Move: Left Joystick\n- Jump: Arrow icon button\n- Break blocks: Hold down the sword icon button.\n- Stack blocks: Hold down the cross icon button.\n- Inventory: Orange button in the middle of the screen.\n- Pause: Purple button in the upper right corner of the screen",
+      "gameURL": "https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/skyblock-3d-survival",
+      "genres": [
+        "adventure",
+        "3d",
+        "minecraft",
+        "survival",
+        "monster",
+        "crafting"
+      ],
+      "tags": [
+        "sandbox-games",
+        "resource-management-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/068ae819-f79a-4e74-9e57-3921f5dba000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a12cdd35-31c2-4aff-587f-c69635c2f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "967797b5f82241c7ad77e3e35b582adb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109178",
+      "slug": "trap-craft",
+      "title": "Trap Craft",
+      "description": "The Hacker is ready to fulfill any desire of a Princess, Noob, Pro, Herobrine and the rest.\nHe offers them to play a game: if you protect the portal from zombies, then the wish will come true!\nEach character has its own funny ending! Find out all of them!\n\nFeatures of the game Trap craft. Herobrine and Noob vs Hacker\n\n- 6 adventures: Herobrine, Princess, Noob, Pro, Foxy, Imp!\n- 12 pets - tame all!\n- This is a walkthrough game, not just a mod.\n- The main characters have inventory for items\n- Unique abilities of weapons\n- Different types of monsters: from zombies to Dragons!\n- At the levels you will meet Entity 303\n- Play together with friendly pets, set traps and fight against the hostile zombies of the cube world.\n- Watch video exhibitions - learn the history of Herobrine, Princess, Nubik.\n- The best Trap Crafting adventure game - defeat zombies, survive, craft traps, tame pets in a cube world.\n\nAnd also try our other monster school games!",
+      "howToPlayText": "You need to build a defense of your chosen traps against zombies. By killing zombies, you get coins that you can use to set traps in the way of zombies. Control the hero with the keyboard and mouse.",
+      "gameURL": "https://playgama.com/export/game/trap-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/trap-craft",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "mouse",
+        "minecraft",
+        "zombie",
+        "survival",
+        "tower-defense"
+      ],
+      "tags": [
+        "challenging-games",
+        "defense-games",
+        "touchscreen-games",
+        "trap-games",
+        "desktop-games",
+        "horde-survival-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/44ec06ac-beaf-4799-9500-8a19750a1b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0f9ed7d3-94f3-4665-cf40-0b94efeda000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5fe92434d4fd48798906109f6e21b204",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/trap-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64036",
+      "slug": "block-mine-fuse-tnt",
+      "title": "Block Mine Fuse TNT",
+      "description": "Block Mine Fuse TNT is an exhilarating adventure game where players take on the mission to liberate the world from the ominous presence of Herobrine and its eerie constructions. Step into this action-packed universe and unleash your full potential by upgrading and deploying TNT, rockets, and a myriad of explosive powers upon cubic settlements. Play online for free without the hassle of downloading, and dive into a world where destruction meets strategy, all within the comfort of your browser. With its seamless integration across platforms such as iOS, Android, and desktop, Block Mine Fuse TNT offers a dynamic experience for gamers on the go or at home.",
+      "howToPlayText": "Block Mine Fuse TNT  this is a story game set in a cubic world, a wonderful world captured by Herobrine. Help Nubik the fuse defeat Herobrine with TNT on a parachute and other arsenal. Pump up and drop TNT on Herobrine.\n\nFree the world from Herobrine and its creepy buildings.\nUpgrade and drop TNT, rockets and all your power on cubic settlements.\nIn the game you will find:\n- 31 exciting unique levels;\n- - storyline with a cube and a Herobrine;\n- various types of TNT;\n- Unique Survival mode, create your bases and repel attacks as much as you can;\n- Desiccant, Ifrit, Gast, Vardan, Creeper and other bosses;\n- New game +, after completing the game (all pumping remains from the last game);\n",
+      "gameURL": "https://playgama.com/export/game/block-mine-fuse-tnt?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-mine-fuse-tnt",
+      "genres": [
+        "action",
+        "adventure",
+        "3d",
+        "cool-games",
+        "minecraft",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "destruction-games",
+        "tnt-games",
+        "desktop-games",
+        "sandbox-games",
+        "building-games",
+        "mining-games",
+        "pixel-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f63a9cc8-fd71-4a73-b61d-f8cef2500c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f2caa236-7ca7-43da-159e-d5fc9b607d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bb6dc2f987af450db189f8f1892b7a2a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-mine-fuse-tnt?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109413",
+      "slug": "steve-parkour-in-mine",
+      "title": "Steve parkour in mine",
+      "description": "Jump, run, and don’t fall! Help Steve navigate dangerous levels filled with traps, chasms, and true cubic madness.\n\nThe levels keep getting harder, and your reaction speed and jumping precision are your only hope.\n\nThis game is perfect for both beginners and those who consider themselves masters of parkour in virtual worlds.\n\nAre you ready to show what Steve is capable of in the world of parkour?",
+      "howToPlayText": "Use the WASD keys to control the character. Press the spacebar to jump. Use the mouse to control the camera.",
+      "gameURL": "https://playgama.com/export/game/steve-parkour-in-mine?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/steve-parkour-in-mine",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "running",
+        "platform",
+        "minecraft",
+        "parkour",
+        "blocks"
+      ],
+      "tags": [
+        "reaction-games",
+        "obstacle-games",
+        "blocky-games",
+        "jumping-games",
+        "challenge-games",
+        "agility-games",
+        "1-player-games",
+        "mine-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fe08a564-e746-443f-de9e-25624a291000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/60d05203-4ec5-469c-d399-409e382f5200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5db0e18fc83a42cc8ffc4b7e142a77a6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/steve-parkour-in-mine?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "93483",
+      "slug": "noob-saves-girl-a-story",
+      "title": "Noob saves a girl: A Story",
+      "description": "Join an exciting rescue adventure in \"Noob Saves a Girl,\" a free online game. Take on the role of a passionate hero trying to save his love from a cunning villain. Enjoy thrilling battles and strategic challenges on your phone or computer in captivating settings.",
+      "howToPlayText": "Moving around on the computer using the mouse and keyboard.\nUse the joystick to move around on mobile devices.\nDefeat all the bosses!",
+      "gameURL": "https://playgama.com/export/game/noob-saves-girl-a-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/noob-saves-girl-a-story",
+      "genres": [
+        "action",
+        "adventure",
+        "minecraft",
+        "zombie",
+        "pve"
+      ],
+      "tags": [
+        "exciting-games",
+        "combat-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/108c30b1-d80d-4024-8083-5c1d45cbe300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/deb66070-df29-4827-b145-391564718300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a937d1d946b547bcbbd8bff0c5b5d539",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/noob-saves-girl-a-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

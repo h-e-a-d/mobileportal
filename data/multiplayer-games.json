@@ -1,0 +1,2446 @@
+{
+  "category": "multiplayer",
+  "count": 53,
+  "games": [
+    {
+      "id": "86383",
+      "slug": "snake-2048-64be-1",
+      "title": "Snake 2048",
+      "description": "Snake 2048 is a fun online game where you start with a small cube and grow by consuming weaker snakes while avoiding stronger ones. Accessible on multiple platforms, it merges classic snake gameplay with strategic 2048 elements, providing engaging action for all types of players.",
+      "howToPlayText": "Eat cubes that are smaller or your mass. You lose if you crash into a cube of a larger mass. Become a giant!\n\nDesktop:\nThe snake turns with the cursor.\n\nMobile:\nUse the joystick to rotate the snake.",
+      "gameURL": "https://playgama.com/export/game/snake-2048-64be-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-2048-64be-1",
+      "genres": [
+        "io",
+        "multiplayer",
+        "snake"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "collection-games",
+        "pixel-games",
+        "borwser-games",
+        "unity-games-online",
+        "snake-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fda56bdd-8bdf-449b-08cc-9ae1f4e08200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4d6d283c-b5af-4a82-0257-27d5725b9100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "017a2063136b4f8481f3c8659e25214f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-2048-64be-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110265",
+      "slug": "hazmob-fps-online-shooter",
+      "title": "Hazmob FPS: Online Shooter",
+      "description": "Hazmob FPS is a multiplayer shooting FPS game where every second counts! Play against other players across multiple game modes in non-stop combat. This first-person shooter game is ideal for those seeking a bit of thrill.\n\nSkilled FPS players will love Hazmob FPS. The game features excellent, clean 3D graphics with a fluid and intuitive control system that allows you to maneuver quickly and tactically. The maps are designed for fast-paced battles in a close-quarters setting, leaving it down to pure reflex and skill to get the job done.\n\nPlay various game modes\n\nTeam Deathmatch\nSearch and Destroy\nCapture the flag\nDomination\nFree for all\nElimination\nGun race\n",
+      "howToPlayText": "Controls\n\nWASD = move\nSpace = jump\nLeft mouse = shoot\nRight mouse / V = aim\nP = leaderboard, pause, and settings\nG = pick up the gun\nC = crouch\nShift = run\n1, 2, 3 = switch weapons\n4, 5, 6 = skills\nE = alternative skills\nQ = alternative skills",
+      "gameURL": "https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hazmob-fps-online-shooter",
+      "genres": [
+        "action",
+        "arcade",
+        "strategy",
+        "skill",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "fighting",
+        "popular",
+        "first-person-shooter",
+        "sniper",
+        "train",
+        "battle-royale"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "reaction-games",
+        "multiple-players-games",
+        "exciting-games",
+        "accuracy-games",
+        "competitive-games",
+        "military-games",
+        "combat-games",
+        "teams-games",
+        "sniper-shooter",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1f0c7c3-3611-4f93-49ae-3b779e216c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a2e46182-077e-4ec8-d0aa-3435536eb800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8a7a62bfcec943b6a64d1188c8baf31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110845",
+      "slug": "car-smash-simulator-crash--tune",
+      "title": "Car Smash Simulator: Crash & Tune",
+      "description": "Welcome to the ultimate car crash simulator!\n\nSmash, crash, and customize your vehicles in a giant open-world sandbox. Experience realistic damage - watch doors fly off, hoods crumple, and wheels pop off in brutal crashes.\n\nDrive through zones packed with destruction tools:\n- Giant hammers\n- Hydraulic crushers\n- Mega ramps and more\n\nDiscover new cars roaming the world and make each one yours with tuning:\n- Change full body color or individual parts\n- Adjust wheel size, height, and camber\n- Style your ride your way\n\nWhether you're here to break stuff, perform insane stunts, or just roam free - it's your playground of metal and madness.",
+      "howToPlayText": "Keyboard Controls:\nWASD - drive\nSpace - handbrake\nShift - nitro\nTab - pause\nC - camera\nR - flip car\nK - repair\nN - next car\nB - slow motion\n\nOn mobile devices — use on-screen buttons.",
+      "gameURL": "https://playgama.com/export/game/car-smash-simulator-crash--tune?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/car-smash-simulator-crash--tune",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "car-racing",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "destroy-games",
+        "car-crash-games",
+        "sandbox-games",
+        "open-world-games",
+        "crush-games",
+        "arcade-car"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/12e3407f-f9c8-4287-48a1-fc5f7b646e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/58c58170-8949-4d35-0e94-e7fc64105000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "06ee5a9ff7744d5091f46e059c1ba3a0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/car-smash-simulator-crash--tune?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86262",
+      "slug": "master-chess",
+      "title": "Master Chess",
+      "description": "Sharpen your tactics to defeat the king in this classic game. Compete online with either the AI or players from around the world. Aim for victory!",
+      "howToPlayText": "On desktop: click the piece you want to move and then click the square on the board where you want to positionate the piece.\n\nOn mobile: tap the piece you want to move and then tap the square on the board where you want to positionate the piece.",
+      "gameURL": "https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-chess",
+      "genres": [
+        "two-player",
+        "multiplayer",
+        "chess",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "turnbased-games",
+        "interactive-games",
+        "rts-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/584d459d-be49-44e2-b09b-04b10a241900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d00b16b-8a23-45dc-7543-1a7db0be8d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "066b3bab8a1c460cbc5d057dbbe37125",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "18",
+      "slug": "online-car-destruction",
+      "title": "Online Car Destruction Simulator 3D",
+      "description": "3D Online Car Destruction Simulator is an adrenaline-pumping game that emphasizes realistic vehicle crashes. Players can enjoy demolition chaos in immersive settings, driving various cars with intricate damage effects. Engage in thrilling multiplayer action, and experience this free game on mobile and desktop, no downloads required.",
+      "howToPlayText": "Controls:\nTAB - pause menu (or Escape)\n\nMoving W (forward), S (backward), A (left), D (right).\nSpacebar - handbrake.\nShift - nitro.\nC - change camera.\nU - free camera.\nR - reset car.\nK - restore car.\nB - slow down time.\nN - switch car.\n\nFor mobile devices, use the game interface.\n\nThe goal of the game: just dride and crash cars as you like ;)",
+      "gameURL": "https://playgama.com/export/game/online-car-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/online-car-destruction",
+      "genres": [
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "pve",
+        "driving",
+        "crazy-games"
+      ],
+      "tags": [
+        "destruction-games",
+        "interactive-games",
+        "car-crash-games",
+        "desktop-games",
+        "sandbox-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/94431240-6650-49f4-0a70-d39dee753200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/37d672d6-df6c-4c3c-a7e7-be1ec2f96f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9c8ce3ea9ae74b6f9a2338dcbdc8045e",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "14a7bf621f614ad0963c0061da2defc0",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "53488fda044a4f84981bbfce7e334baa",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "2e255c3914ef433db3e59a09b3ef98eb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/online-car-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111546",
+      "slug": "domino-online-multiplayer",
+      "title": "Domino Online Multiplayer",
+      "description": "Domino Online Multiplayer: Challenge Your Mind in Exciting Domino Duels!\n\nAre you ready for a thrilling battle of wits and strategy? Domino Online Multiplayer brings the classic game of dominoes to your screen with exciting multiplayer options and engaging features. Play for free and without registration — dive into the world of dominoes and test your skills against various opponents!\n\nWhy choose Domino Online Multiplayer?\n\nMultiple game modes:\n- play against a computer with 9 difficulty levels (from Beginner to World Champion);\n- engage in online duels with real players in real-time;\n- send a link and play with a friend, even if you’re miles apart;\n- enjoy a convenient «one-screen» mode for fun battles at home.\n\nFlexible settings and features:\n- choose from different time controls: Bullet, Blitz, Rapid, or Classic;\n- use the move undo option to correct mistakes;\n- benefit from hints that suggest the best move to help you learn on the fly;\n- track your progress with a rating and detailed statistics;\n- customize the look of the tiles and the playing field to suit your taste;\n- review the move history to analyze your games and improve your strategy;\n- exchange stickers and chat with your opponents to make the game more enjoyable.\n\nAdditional thrill:\nMake bets and win gold from your opponents — add an extra layer of excitement to your matches!\nDomino Online Multiplayer offers a challenging and entertaining experience for players of all levels. Join now and turn every game into an exciting challenge where every move brings you closer to victory!",
+      "howToPlayText": "Getting Started\n\nChoose your game mode:\n- play against the computer;\n- engage in online duels with real players;\n- play with a friend by sharing a link;\n- enjoy a «one-screen» mode for playing with someone nearby.\n\nSelect your game settings:\n- choose a time control mode (Bullet, Blitz, Rapid, or Classic);\n- enable hints if you need help with your moves.\n\nGame Rules and Gameplay\n\nSetup:\n- each player is dealt 7 domino tiles at the start of the game;\n- the player with the lowest double (except for the blank tile) starts the game.\n\nMaking Moves:\n- players take turns extending the domino chain on the table, matching the numbers on adjacent tiles;\n- if a player doesn’t have a tile that matches the open ends of the chain, they must draw tiles from the bazaar (remaining tiles) until they find a matching one.\n\nWinning a Round:\n- the first player to play all their tiles wins the round;\n- the losing player counts their penalty points, which are equal to the sum of the pips (dots) on their remaining tiles;\n- special tiles: the 0-0 tile is worth 25 points, and the 6-6 tile is worth 50 points.\n\nEnding a Round:\n- if no player can make a move and the bazaar is empty, the round ends;\n- the player with the fewest pips on their remaining tiles wins the round.\n\nScoring and Ending the Game:\n- after each round, the next hand begins;\n- the game continues until one player reaches 100 penalty points, at which point they are considered the loser of the entire game.\n\nEnjoy the strategic challenge of Domino Online Multiplayer and see if you have what it takes to outwit your opponents!",
+      "gameURL": "https://playgama.com/export/game/domino-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/domino-online-multiplayer",
+      "genres": [
+        "arcade",
+        "strategy",
+        "skill",
+        "multiplayer",
+        "mouse",
+        "pvp",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "brain-training-games",
+        "challenging-games",
+        "competitive-games",
+        "domino-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ccec6962-5378-4e0b-c990-6bd4269c1100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4b83d5e7-6472-4bfe-7dfa-458cbaa60600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9298fe9ae3dc42fc8178319c6f74cbb1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/domino-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111579",
+      "slug": "chess-online-multiplayer",
+      "title": "Chess Online Multiplayer",
+      "description": "Play Chess Online and Improve Your Skills!\n\nAre you ready to challenge your mind and enjoy the timeless game of chess? Chess Multiplayer is the perfect place to play chess online — no registration required! Whether you’re a beginner or a seasoned player, our platform offers an exciting chess experience for everyone.\n\nWhy choose Chess for Free?\n\nMultiple game modes: play against the computer, compete online with players from around the world, challenge a friends, or play together on the same screen!\n21 difficulty levels: choose your opponent — from Beginner to World Champion. Perfect for both newcomers and chess masters!\nTime control modes: pick your preferred pace with Unlimited, Bullet, Blitz, Rapid, or Classic modes.\nInteractive features: highlight possible moves, cancel a move if you make a mistake, use interactive hints to find the best move, and analyze your game after it’s over to learn from your mistakes.\nPersonalized experience: customize the look of the pieces and the board, set handicaps, and keep track of your rating, points, and game statistics.\nExtra fun: share funny cartoon emotions with your opponent and make your game more enjoyable!\nImprove your chess skills and have fun — play Chess for free right now!",
+      "howToPlayText": "Chess Online Multiplayer follows the classic rules of chess. The goal of the game is to checkmate your opponent’s king, putting it in a position where it is under threat of capture and has no legal moves to escape.\n\n**Getting Started**\n\n1. **Choose the game type:**\n* play online against other players;\n* challenge the computer;\n* play together on the same screen with a friend.\n\n2. **If you’re playing against the computer:**\n* select the opponent’s difficulty level (from Beginner to World Champion);\n* choose whether to use a handicap and interactive hints.\n\n3. **If you’re playing with a friend:**\n* decide on the time control mode (Unlimited, Bullet, Blitz, Rapid, Classic).\n* choose your bet\n\n**Basic Rules and Gameplay**\n\n* Players take turns making moves.\n* Pawns move forward and capture diagonally.\n* Knights move in an «L» shape.\n* Other pieces have their own unique moves.\n\nTo succeed, develop a strategy: protect your pieces, control the center of the board, and anticipate your opponent’s moves.\n\nThe game ends when one player checkmates the opponent’s king (winning the game) or when a draw is achieved under certain conditions.\n\n**Draw Conditions**\nA draw is a result where neither player wins, and the game ends in a tie. It can occur under the following circumstances:\n* **stalemate:** when a player has no legal moves but is not in check;\n* **three-fold repetition of the position:** when the same position occurs three times;\n* **50 moves without a capture or pawn move;**\n* **insufficient material to checkmate;**\n* mutual agreement between players.\n\n**Special Chess Moves**\n\n**Castling**\nCastling is a special move involving the king and a rook. It can be performed only if:\n* neither the king nor the rook has moved yet;\n* there are no other pieces between the king and the rook;\n* the king is not in check;\n* the king does not pass through or stop on squares that are under attack.\n\nThis move helps to protect the king and connect the rooks for better defense.\n\n**En Passant (Taking on Pass)**\nEn passant is a special pawn capture. If your opponent moves a pawn two squares forward and lands next to your pawn, you can capture it on your next move as if it had moved only one square. Your pawn will take its place, but this capture must be done immediately.\n\n**Additional Features**\n\n* **Made a mistake?** Use the move undo function to reconsider your strategy.\n* After each match, a detailed analysis highlights mistakes and suggests better moves.\n* You can replay specific moments to strengthen your understanding of the game.\n* Save your rating and choose different time modes (Bullet, Blitz, Rapid).\n* Customize the board and pieces to your liking.\n* Review the move history and express your emotions by communicating with your opponent using playful cartoon emojis.",
+      "gameURL": "https://playgama.com/export/game/chess-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/chess-online-multiplayer",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "chess",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e7b6ad19-ee23-4490-c7ea-7103e65f3400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9e2eb475-4c3b-45cf-4071-79fd367be100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "069e9d3492b838dddc1aeba466ae8125",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/chess-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111547",
+      "slug": "english-checkers-online-multiplayer",
+      "title": "English Checkers Online Multiplayer",
+      "description": "**English Checkers Online Multiplayer: Challenge Your Mind and Master the Game!**\n\nAre you ready to dive into the world of strategy and logic? English Checkers Online Multiplayer offers an exciting experience for checkers enthusiasts of all levels! Play for free and without registration — choose your opponent and sharpen your skills in this classic game.\n\n**Why choose English Checkers Online Multiplayer?**\n\n- **Multiple game modes:**\n  - play against a powerful computer engine with 10 difficulty levels (from Beginner to World Champion);\n  - compete online with real players and climb the rating ladder;\n  - enjoy a friendly match with a friend on the same screen.\n\n- **Engaging features:**\n  - display of possible moves to help plan your strategy;\n  - interactive tips to improve your gameplay;\n  - move undo option — fix your mistakes and try again;\n  - game analysis after each match — identify your mistakes and learn from them;\n  - selection of time control modes: unlimited, bullet, blitz, rapid, classic;\n  - option to choose the side (black or white) before starting the game;\n  - handicap options, such as making captures mandatory.\n\n- **Game rules and mechanics:**\n  - capture your opponent’s checkers by jumping over them — if there’s an empty square behind the opponent’s checker, you can jump and land there;\n  - regular checkers move diagonally forward one square and can only move forward;\n  - when a checker reaches the last row, it is crowned and becomes a king, which can move diagonally both forward and backward;\n  - kings can capture multiple opponent’s checkers and must continue capturing as long as possible;\n  - jumps are mandatory, and if there are several options, you can choose any of them;\n  - you win by capturing all of your opponent’s checkers or completely blocking them so they can’t move.\n\n- **Personalized experience:**\n  - choose the design of checkers and the board to make the game visually appealing;\n  - view the move history to review your past games;\n  - exchange emotions with your opponent and make the game more enjoyable.\n\n- **Additional thrill:**\n  - make bets and win gold from your opponents — add an extra layer of excitement to your matches!\n\n**Join English Checkers Online Multiplayer now and become a checkers master!**",
+      "howToPlayText": "**How to Play English Checkers**\n\nEnglish Checkers is a strategic board game where players aim to capture their opponent’s checkers or block them completely. Here’s how to get started and understand the basic rules:\n\n**Game Objective**\nThe goal is to either capture all of your opponent’s checkers or completely block them so they can’t make any legal moves.\n\n**Types of Checkers**\n- **Simple checker:** moves diagonally forward one square and can only capture forward.\n- **King:** can move diagonally both forward and backward on any free square and can capture in both directions. When a simple checker reaches the last row, it becomes a king and gains these additional abilities.\n\n**Basic Movement and Capture Rules**\n1. **Movement:**\n- simple checkers move diagonally forward one square at a time;\n- kings can move diagonally in any direction on any free square.\n\n2. **Capture:**\n- if your checker is next to your opponent’s checker and there’s an empty square behind it, you must jump over the opponent’s checker and land in the empty square, capturing the opponent’s piece;\n- captures are mandatory — if you have the option to capture, you must do so;\n- if a capture leads to another possible capture, you must continue capturing as part of the same turn until no more captures are possible;\n- when a simple checker reaches the last row during a capture, it becomes a king but cannot make further moves in the same turn.\n\n3. **Choosing Capture Options:**\n- if there are multiple capture options available, you can choose which one to make;\n- the «Turkish strike» rule means that a checker that has been beaten but not yet removed from the board can block the path of a king or another checker.\n\n**Winning the Game**\nYou win the game by:\n- capturing all of your opponent’s checkers;\n- blocking your opponent so that they have no legal moves left.\n\n**Getting Started in English Checkers Online Multiplayer**\n1. **Choose your game mode:** play against the computer, compete online with real players, or play with a friend on the same screen.\n2. **Select your difficulty level or opponent:** if playing against the computer, choose from 10 difficulty levels; if playing online, find a real opponent.\n3. **Choose your side:** select whether you want to play as black or white.\n4. **Start playing:** follow the rules of movement and capture to outmanoeuvre your opponent and achieve victory.\n\nEnjoy the game and sharpen your strategic skills with English Checkers Online Multiplayer!",
+      "gameURL": "https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/english-checkers-online-multiplayer",
+      "genres": [
+        "strategy",
+        "skill",
+        "two-player",
+        "multiplayer",
+        "checkers",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "brain-training-games",
+        "challenging-games",
+        "competitive-games",
+        "chekers-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8b1e8ef1-074c-46da-700f-3078206f3d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8ed73055-d1f3-4b59-51cd-046d8ffe4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "308d931b0a224faaac5d0ef230a11d39",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110692",
+      "slug": "car-destruction-king",
+      "title": " Car Destruction King",
+      "description": "Drive different cars, test your strength with rotating hammers, presses, catapults and other obstacles!\nTake part in the races and set new records.\nSlow down time for a more realistic crash.\nChoose different maps and different game modes!",
+      "howToPlayText": "Controls:\nTAB - pause menu (or Escape)\n\nDriving - WASD.\nSpacebar - handbrake.\nShift - nitro.\nC - change camera.\nR - reset car.\nK - restore car.\nN - switch car.\nB - slow motion.\n\nFor mobile devices, use the game interface.",
+      "gameURL": "https://playgama.com/export/game/car-destruction-king?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/car-destruction-king",
+      "genres": [
+        "action",
+        "racing",
+        "strategy",
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "nitrome",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "destruction-games",
+        "destroy-games",
+        "unity3d-games",
+        "crash-games",
+        "car-crash-games",
+        "demolition-cars-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5c773d5e-07dc-4f02-608c-c02dcd200f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ff784dd4-7281-401e-5695-bbabf76ff200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cdac251fb08c4fafb7bb056eadfa2623",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/car-destruction-king?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112220",
+      "slug": "streetracer-realistic-destruction",
+      "title": "StreetRacer: Realistic Destruction",
+      "description": "Experience the ultimate car destruction mayhem! \n\nIn \"StreetRacer: Realistic Destruction\", you have complete freedom in a vast open world environment. Wreck cars in spectacular ways – watch parts fly off, witness realistic damage, and see wheels go flying in epic crashes.\n\nKey Features:\n- Advanced car customization options\n- Full exterior customization\n- Wheel and suspension tuning\n- Destruction tools galore\n- Interactive press and ramp areas\n- Dynamic traffic simulation\n- Realistic damage physics\n\nExplore, destroy, and create your own challenges in this ultimate car destruction playground!",
+      "howToPlayText": "Controls:\nWASD - drive\nSpace - handbrake\nShift - boost\nC - change camera\nR - reset car\nN - new vehicle\nK - repair\nB - slow motion\nTab - pause\n\nMobile users: tap on-screen buttons.\n\nObjective: wreck, tune, and explore to your heart's content!",
+      "gameURL": "https://playgama.com/export/game/streetracer-realistic-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/streetracer-realistic-destruction",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "car-racing",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "race-games",
+        "iphone-games",
+        "destruction-games",
+        "destroy-games",
+        "addictive-games",
+        "vehicles-games",
+        "car-crash-games",
+        "desktop-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a76dd090-6ab3-48c3-e996-83db0f354700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/884d36d7-af05-400f-17d6-4bbf9b3f9800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "30f84086e67f1d4a3db3ddd1412cbede",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/streetracer-realistic-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112133",
+      "slug": "bow-brawls",
+      "title": "Bow Brawls",
+      "description": "Bow Brawls – Top-Down Archery Battles!\n\nEnter Bow Brawls, a thrilling archery survival game where you aim with drag controls that feel like a real bow. Pull, release, and strike down endless waves of enemies! Each wave ends with a powerful boss fight, forcing you to master skill and strategy.\n\nUnlock 5 unique bows, 5 armors, and 5 arenas as you progress. Every weapon and battleground adds a new style of play. Face bosses with special abilities and prove your reflexes in intense battles.\n\nCompete with players worldwide through global leaderboards. Show off your best scores and climb to the top to become the ultimate archer.\n\nPerfect for casual players, kids, and competitive gamers, Bow Brawls is easy to pick up yet challenging to master. Endless action, exciting unlocks, and competitive spirit await you.\n\n🎯 Aim true. ⚔ Defeat bosses. 👑 Rule the leaderboard.\nPlay Bow Brawls now and test your archery skills!",
+      "howToPlayText": "How to Play\n\nIn Bow Brawls, survive endless waves of enemies using skill and precision. Use the joystick (mobile) or WASD (PC) to move. Aim by pulling the on-screen joystick in the opposite direction of your target—release to shoot arrows like a real bow.\n\nEnemies attack from all directions, including melee fighters and ranged shooters. Every few waves, a boss appears with unique skills like dashing, jumping over you, or launching projectiles—stay alert and adapt!\n\nDefeat bosses to earn gems, which unlock new bows and armors with different abilities. Reach higher scores to unlock new arenas and face tougher challenges.\n\nYour score is based on enemy kills, with each type rewarding different points. Climb the leaderboards by defeating as many enemies as possible. Manage your health bar carefully—you only get one life per run.\n\nMaster your aim, survive waves, defeat bosses, and rise as the ultimate archer!",
+      "gameURL": "https://playgama.com/export/game/bow-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bow-brawls",
+      "genres": [
+        "io",
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "multiplayer",
+        "shooting",
+        "pve",
+        "pvp",
+        "archery"
+      ],
+      "tags": [
+        "survivors-games",
+        "dodge-games",
+        "exciting-games",
+        "accuracy-games",
+        "agility-games",
+        "bow-games",
+        "unity-games-online",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/691be611-f3b1-4a10-7b84-71d80e790300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/78f4cc5e-0a0e-4d60-e957-a4e7d9374b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "db2117e5be33fc405cdb4a6ba022dd23",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bow-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86486",
+      "slug": "bombaman-3d-a2de-1",
+      "title": "BOMBAMAN 3D",
+      "description": "Dive into an exhilarating 3D journey with BOMBAMAN 3D! Tackle complex mazes, strategically use bombs to clear paths, and defeat fearsome enemies. Discover power-ups, find the secret exit, and face challenging bosses, all while enjoying an engaging solo or multiplayer adventure on your devices.",
+      "howToPlayText": "🕹️ Use W A S D or Arrow keys to move\n\n💣 Press Spacebar to place a bomb\n\n⏲️ The bomb explodes after 3 seconds. Bombs placed side by side trigger each other 🔥\n\n⏳ You have 99 seconds for each level. Collect clocks from boxes to extend this time ⏰\n\n🔧 You can increase the number and range of bombs with various power-ups\n\n👾 You need to hit the boss 3 times with bombs to defeat it",
+      "gameURL": "https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bombaman-3d-a2de-1",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "two-player",
+        "3d",
+        "multiplayer",
+        "maze",
+        "monster"
+      ],
+      "tags": [
+        "iphone-games",
+        "desktop-games",
+        "bomb-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b429599a-dfcd-4ccf-f857-ad455ddc2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/91a6b52f-693b-4daf-b7e9-ab5b870b0a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "497ed981a981423ca47a3df5c56ed31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "39",
+      "slug": "color-brawls",
+      "title": "Color Brawls",
+      "description": "Color Brawls is a thrilling online game where you compete using bright colors to defeat rivals. Play instantly on any device without downloads or sign-ups. Enjoy this fast-paced adventure anywhere, featuring various locations and unique challenges, perfect for those looking for a fun and engaging experience.",
+      "howToPlayText": "*PC Controls*\nWASD / arrow keys = move\nLeft-click = shoot\nTab = pause\n\n*Mobile Controls*\nJoystick = move\nSwipe = look\nButton = shoot",
+      "gameURL": "https://playgama.com/export/game/color-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/color-brawls",
+      "genres": [
+        "action",
+        "funny",
+        "multiplayer",
+        "shooting",
+        "cool-games"
+      ],
+      "tags": [
+        "reaction-games",
+        "iphone-games",
+        "fast-paced-games",
+        "interactive-games",
+        "addictive-games",
+        "painting-games",
+        "desktop-games",
+        "indie-games",
+        "shoot-em-up-games",
+        "pixel-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3db2dea0-1637-4586-8081-f0ebfa00e300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/36e9496b-a541-40f1-7b36-ee6253c02500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7783ad6ad962428e8d1757d9b7320682",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/color-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106363",
+      "slug": "dark-city-multiplayer",
+      "title": "Dark City. Multiplayer",
+      "description": "Dark City. Multiplayer is an online open-world horror game where players are divided into two factions: police and bandits, fighting for control over an abandoned city consumed by darkness.\n\nThe world is alive and shared among all players — every step could lead to a confrontation with an enemy... or something far worse.\n\nThe police try to restore order, protect survivors, and reclaim captured territories.\n\nThe bandits aim to establish their rule by taking over zones, setting ambushes, and hiding in the shadows.\n\nCapture areas, hold control, fend off enemy attacks… and survive the horror slowly awakening in the depths of the city.",
+      "howToPlayText": "WASD – Move\nSpace – Jump\nEnter – Game Chat\nE – Inventory\n\nAfter starting the game, join the bandit or police faction and capture as many districts as possible.\nEvery 30 seconds, you will receive money for the districts you control.",
+      "gameURL": "https://playgama.com/export/game/dark-city-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dark-city-multiplayer",
+      "genres": [
+        "action",
+        "simulation",
+        "multiplayer",
+        "shooting",
+        "fighting",
+        "police",
+        "war"
+      ],
+      "tags": [
+        "open-world-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea866900-5622-448c-806a-7eef26587300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/146de99d-e3f4-41b6-792d-776869e19800/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/dark-city-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64025",
+      "slug": "swat-and-greens-vs-zombies",
+      "title": "SWAT and GREENS vs Zombies",
+      "description": "Engage in SWAT and GREENS vs Zombies, a thrilling strategy game where you defend humanity from a zombie apocalypse. Enjoy online gameplay without downloads, equip over 50 unique weapons, and face endless undead waves. Test your skills in various modes and strive for victory in PvP battles.",
+      "howToPlayText": "\"SWAT & GREENS vs Zombies\" is an engaging tower defense strategy game where you can upgrade and unlock new members of the SWAT squad as well as plants. Together, they will stand against waves of advancing zombies.\n\n Upgrade SWAT members and plants to create a stronger squad.\n- Each member of the special forces squad comes equipped with unique weaponry, strategically position them on the battlefield.\n- Every plant has a cooldown period; use their powers wisely in combat.\n- Strive to minimize losses in battle to maximize the level completion reward.\n\nBattle Controls:\nDrag SWAT members and plants onto the field by holding down the left mouse button/touchscreen.",
+      "gameURL": "https://playgama.com/export/game/swat-and-greens-vs-zombies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/swat-and-greens-vs-zombies",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "zombie",
+        "pve",
+        "battleship",
+        "halloween",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "iphone-games",
+        "addictive-games",
+        "combat-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ab9b214d-0e0e-4213-daeb-f91317947700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f8d79da8-e8ef-4a87-6e05-d5782efb9600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5be099820af44eefb0a3b09edc7edbc1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/swat-and-greens-vs-zombies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105574",
+      "slug": "durak",
+      "title": "Durak",
+      "description": "Durak is essentially a shedding card game where each player will try to get rid of the cards in their hand first. Durak is quite an enjoyable game that has over the years made a general impact on millions. It is a game that requires critical thinking, which is why it is more popular among people who consider themselves tech-savvy.\n\nThe objective of Durak is to play all your cards. The loser in Durak will be the last player with cards in their hand. So, to ensure you do not lose, try to act fast and get rid of your cards as soon as you can.\n\nDurak is the most popular Russian card game. Durak means fool and it refers to the person who loses the game.\n\nA Durak card game is one of the easiest and most fun card games. Players do not need much to get started. You will only need: a poker deck reduced to 36 cards from Ace to 6.\n\nHowever, this game is quite interesting because there will usually be multiple winners. To ensure you do not lose, try to act fast and get rid of your cards as soon as you can.\n\n\nDurak might not be a game you are overly familiar with. But in Russia, Durak is by far the most popular card game! It has got a fascinating history and will be sure to make a unique choice if you are looking for something a little different.\n\nAnother interesting thing about this game is that it is played with a smaller deck.\n\nDurak is fun and, rather, a unique card game. If you enjoy more strategic card games and are looking for something a little different, why not give Durak a try?\n\n\n\n\n\n\n",
+      "howToPlayText": "Durak is played by 2 to 4 players. Total cards used are 36 cards - Only 6 7 8 9 10 J Q K A of all suits are used.\n\nThe deck is shuffled, and each player is dealt with 6 cards. The bottom card of the stock is turned and placed face up on the table. The rest of the pack is then placed on half over the turn-up and at right angles to it, so that it remains visible. The trump suit is drawn as the last card.\n\nThe first person to play is the one who holds the lowest trump suit in his hand. The game proceeds in a clockwise direction. The player who started to play acts as an attacker and the player sitting next to him in a clockwise direction acts as a defender.\n\nThe player who has the lowest trump card will be the first attacker. If the attack succeeds, the defender loses their turn, and the attack passes to the player on the defender's left. If the attack fails, the defender becomes the next attacker. The attacker opens their turn by playing a card face up on the table as an attacking card. Defender responds to the attack with a defending card. A trump card of any rank beats all cards in the other three suits\n\nTo win Durak, you need to play all your cards quickly. Once you have played your cards, you are out of the game and will need to wait for the rest of the players. The last player with cards in their hand loses.",
+      "gameURL": "https://playgama.com/export/game/durak?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/durak",
+      "genres": [
+        "cards",
+        "multiplayer",
+        "classic"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/155b03ff-4ee7-4832-7a80-5a793ed18000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d533a896-e613-4a07-66b5-2cd7aba5ef00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6da28f6b80174e49b288fbf9becad5eb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/durak?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99679",
+      "slug": "business-go",
+      "title": "Business Go",
+      "description": "Business Go is a classic board game where players buy, sell, and rent properties to build their wealth and outplay the competition.",
+      "howToPlayText": "Roll the dice, buy properties, and collect rent to build your business empire.\n",
+      "gameURL": "https://playgama.com/export/game/business-go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/business-go",
+      "genres": [
+        "multiplayer",
+        "management",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "casual-games",
+        "business-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c28b9662-27c1-4168-c626-f0bd672a8b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b76fafb9-9da5-4b5e-a061-a24d8858e700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d017b6da706641b1ac2a359499001ede",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/business-go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94836",
+      "slug": "radial-3d",
+      "title": "Radial 3D",
+      "description": "Join the thrilling adventure of Radial 3D, where you explore space while controlling a black hole. Your goal is to absorb celestial bodies, avoid dangers, and ascend through the cosmos. This free game challenges your skills on both mobile and PC. How far will you go?",
+      "howToPlayText": "Move the Black Hole – Move the mouse.\n",
+      "gameURL": "https://playgama.com/export/game/radial-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/radial-3d",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "3d",
+        "multiplayer",
+        "cool-games",
+        "popular"
+      ],
+      "tags": [
+        "hyper-casual-games",
+        "avoid-games",
+        "rocket-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b651ca5d-0832-4481-73c5-518f42250600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1991b401-781e-405d-6e80-e50fa0901400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e63eac5a860a412fa96fba6504cd8df3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/radial-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106344",
+      "slug": "bullet-echo",
+      "title": "Bullet Echo",
+      "description": "Lead your team to victory in this unique PvP tactical team shooter! Choose from dozens of different heroes with unique play styles and abilities. Unite with friends, set a strategy, and be the last team standing when the battle ends. Your vision is limited by the beam of a flashlight, but you can hear enemies' steps and shots. Unlock and upgrade new heroes, participate in championships, and fight to unlock new perks, maps, and game modes!\n\nBullet Echo — Game Description\nBullet Echo is a tactical, team-based PvP shooter with a unique top-down perspective, developed by ZeptoLab. The game stands out for its stealth-focused gameplay, fast-paced battles, and emphasis on teamwork.\n\nKey Features\nUnique Tactical Stealth Action:\nYour vision is limited by the beam of a flashlight, but you can hear enemies' steps and shots. This creates suspenseful, strategic encounters where sound and positioning are crucial.\n\nTeam Play and Strategy:\nPlay with friends or match with players worldwide. Unite your team, set a strategy, and be the last team standing. The level of your hero is matched with the highest in your party, making it easy to play with friends of any experience.\n\nDiverse Heroes:\nChoose from dozens of different heroes, each with unique play styles, weapons, and abilities. Unlock and upgrade heroes to boost their power and unlock new perks.\n\nMultiple Game Modes:\n\nBattle Royale: Five teams of three players each compete to be the last team standing on a shrinking map.\n\nTeam vs Team: Two teams of five players face off on exclusive maps.\n\nKing of the Hill: Solo mode with 15 players battling for survival.\n\nAdditional modes and maps are available as you progress.\n\nProgression and Rewards:\nParticipate in championships, accomplish missions, and receive valuable resources. Unlock new heroes, perks, maps, and game modes as you play.\n\nGameplay Overview\nTop-Down Shooter:\nThe game uses a top-down view, giving players an aerial perspective of the battlefield. Stealth, quick reflexes, and tactical movement are essential.\n\nAuto-Shooting:\nHeroes automatically fire when an enemy enters their firing cone, allowing players to focus on movement and positioning.\n\nLooting:\nCollect weapons, ammo, armor, and power-ups during matches to enhance your hero’s abilities.\n\nRevive System:\nTeammates can revive each other during battles, adding another layer of teamwork and strategy.",
+      "howToPlayText": "Main Objectives\nTeam up with friends or play solo to compete in tactical PvP battles.\n\nSurvive and eliminate enemy teams using stealth, strategy, and your hero’s unique abilities.\n\nCollect loot and power-ups to strengthen your hero during each match.\n\nBe the last team or player standing to win the round.\n\nDesktop Controls (if playing via emulator or official desktop version)\nNote: Bullet Echo is primarily a mobile game, but can be played on PC via Android emulators. Controls may vary depending on emulator settings.\n\nW, A, S, D / Arrow Keys: Move your hero.\n\nMouse: Aim your flashlight cone (direction of vision).\n\nLeft Mouse Button: Use hero’s special ability (if mapped).\n\nSpacebar: Interact with objects or revive teammates (if mapped).\n\nEsc: Open game menu or pause.\n\nYou can customize key bindings in most emulators for optimal comfort.\n\nMobile Controls\nVirtual Joystick (Left side): Move your hero around the map.\n\nSwipe / Drag (Right side): Aim your flashlight and field of vision.\n\nAbility Button: Tap to activate your hero’s special ability.\n\nInteract Button: Tap to pick up items, open chests, or revive teammates.\n\nAuto-Shoot: Your hero fires automatically when an enemy enters your cone of vision.\n\nTips for Success\nUse walls and obstacles for cover and to ambush enemies.\n\nListen for enemy footsteps and gunfire to locate opponents in the fog of war.\n\nStick with your team for better chances of survival and to revive each other.\n\nUpgrade and experiment with different heroes to find your best play style.\n\nMaster the controls and tactics to dominate the arena in Bullet Echo!",
+      "gameURL": "https://playgama.com/export/game/bullet-echo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bullet-echo",
+      "genres": [
+        "action",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "pvp",
+        "survival",
+        "battle-royale",
+        "mobile"
+      ],
+      "tags": [
+        "top-down-games",
+        "survivors-games",
+        "fast-paced-games",
+        "tournament-games",
+        "stealth-games",
+        "competitive-games",
+        "heroes-games",
+        "arena-games",
+        "combat-games",
+        "tactical-games",
+        "teams-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/18f1e7bc-3e2e-47ac-db71-c71d27e20600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f90302d8-9196-45ac-2fa0-2d1b1700e200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a687d4f55fae439aa192968338d802c9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bullet-echo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105510",
+      "slug": "slides-and-climbs",
+      "title": "Slides And Climbs",
+      "description": "Slides And Climbs is a laid-back online game based on the traditional English board game of the same name, which served as an inspiration for the American version known as Chutes and Ladders. This beloved classic board game can be played for free in single-player mode or with friends locally. Roll the dice and navigate your way to the finish line. Let’s hope you avoid landing on a snake!",
+      "howToPlayText": "You have the option to play with as many as six players, where each player can choose their own color. Roll the dice to advance your piece, and rolling a 6 gives you an additional free roll. You can enjoy Slides And Climbs with a maximum of six friends or choose to compete against AI opponents.",
+      "gameURL": "https://playgama.com/export/game/slides-and-climbs?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/slides-and-climbs",
+      "genres": [
+        "kids",
+        "multiplayer",
+        "party",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/960eebb5-f5fa-49f1-9092-edb9fe922d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/949f14aa-1e10-4767-0120-687a53288600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b03684aaac6c4c7093e227556c20ee70",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/slides-and-climbs?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99747",
+      "slug": "4-color-card-game",
+      "title": "4 Color Card Game",
+      "description": "4 Color Card Game is a fast-paced, easy-to-learn card game perfect for players of all ages. The goal is simple: match cards by color or number and be the first to get rid of all your cards. With action cards that can change the flow of the game in an instant, every round is full of surprises and fun. Whether you're playing with friends, family, or challenging opponents online, 4 Color Card Game delivers quick, exciting matches that keep you coming back for more.",
+      "howToPlayText": "To play 4 color card game on a desktop, use your mouse to interact with the cards. Your hand appears at the bottom of the screen. To play a card, move your cursor over a matching card and left-click it to place it on the discard pile. If no cards match, click the draw pile to get a new card. For Wild cards, click to play, then select a color by clicking the desired color option. When you have one card left, click the “TAP” button to avoid penalties. The game automatically ends your turn after each action.",
+      "gameURL": "https://playgama.com/export/game/4-color-card-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/4-color-card-game",
+      "genres": [
+        "puzzle",
+        "cards",
+        "multiplayer",
+        "color",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bc34a26d-3713-459f-7fc6-04e62a7b3800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3cbb1df2-f433-49eb-6ff8-6b004cebcf00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0f82d992afbd409e8e28f37c0863f937",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/4-color-card-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99685",
+      "slug": "snake-of-balls",
+      "title": "Snake of Balls",
+      "description": "Chase a tricky snake in this thrilling online game! It speeds up and moves unpredictably. Every mistake you make feeds it. Can you keep up and outsmart the chaos? Play now and test your reflexes!",
+      "howToPlayText": "Hunt the snake, which at first glance seems like easy prey.\nBut, it's not like that!\nThe snake will accelerate and move along a chaotic trajectory, and each of your mistakes will become food for it.",
+      "gameURL": "https://playgama.com/export/game/snake-of-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-of-balls",
+      "genres": [
+        "action",
+        "skill",
+        "multiplayer",
+        "snake",
+        "survival",
+        "classic",
+        "mobile"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea0c9e87-8771-48fc-26b9-ce318b1e2c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/93621e1d-6e68-41b2-72e2-795bcf391d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "50afcab8fc454f2bb387af1c7924e45e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-of-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99610",
+      "slug": "blade-bedlam",
+      "title": "Blade & Bedlam",
+      "description": " A top-down, physics-based, medieval melee fighter! Block projectiles and melee attack with your weapons and try to hit the enemies! Survive for as long as you can by dodging attacks, quickly killing enemies and buying items form the shop between rounds!",
+      "howToPlayText": "\n\n Use the Mouse to swing your weapon and W A S D to move your character.\n Right click or press Shift to dodge roll.\n Buy items to upgrade your knight and survive the waves of chaos.\n Look for special items to assist in smiting your foes.\n Take on the ultimate challenge and defeat all the bosses.\n",
+      "gameURL": "https://playgama.com/export/game/blade-bedlam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/blade-bedlam",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "multiplayer",
+        "pve",
+        "survival",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "medieval-games",
+        "combat-games",
+        "sword-games",
+        "tactical-games",
+        "horde-survival-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1f70a7e-272b-4b3e-f716-cfa428d62900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/99983057-4b00-489b-7e2c-23d0a6092f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e539d487c8f64c2482ecc8d15dd8bb6a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/blade-bedlam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99476",
+      "slug": "cards-in-fool-caf5-1",
+      "title": "Cards in Fool",
+      "description": "Play Cards in Fool – a strategic turn-based online card game! Outsmart opponents, make them draw cards, and climb the leaderboard. Flip cards, win matches, and earn points in this classic multiplayer challenge!",
+      "howToPlayText": "In the game of \"Cards a Fool\", the classic rules are that the one with the smaller trump card goes first. There are 36 cards in the deck. At the beginning, one trump card is selected, which determines the highest suit over all. The principle of the game is the same, First one goes with any card, the other must fight off with the highest of the same suit or a trump card. If the one who strayed then he walks and so on in turn. The winner is the one who has no cards left and the deck is empty. In the case when no one has any cards left, a draw is recognized, in this case no points are awarded or taken away. Track your score on the leaderboard.",
+      "gameURL": "https://playgama.com/export/game/cards-in-fool-caf5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cards-in-fool-caf5-1",
+      "genres": [
+        "cards",
+        "multiplayer",
+        "brain",
+        "classic"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/be20ae7f-9103-4609-0efa-5b0625d32f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3b816050-b124-4405-1dd9-1c49776c6c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bce062c9bb834e0aac1ecdea86e53685",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cards-in-fool-caf5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99448",
+      "slug": "merge-mushroom",
+      "title": "Merge Mushroom",
+      "description": "🍄 Throw mushrooms on mushrooms to get new ones\n🍄 Collect all possible mushrooms\n🍄 Compete with other mushroom pickers around the world!",
+      "howToPlayText": "Drag your finger ot mouse cursor to drop mushroom where you want.",
+      "gameURL": "https://playgama.com/export/game/merge-mushroom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/merge-mushroom",
+      "genres": [
+        "puzzle",
+        "multiplayer",
+        "mouse",
+        "popular",
+        "merge",
+        "matching",
+        "mobile"
+      ],
+      "tags": [
+        "endless-games",
+        "incremental-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ed71df2a-4ac3-4250-9445-abdb9bef8700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/eef345a6-7266-410b-627c-7b3cd651f800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f1d72e25639b411eacbbdb0a0fbc0fb9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/merge-mushroom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86270",
+      "slug": "angry-checkers-11c2-1",
+      "title": "Angry Checkers",
+      "description": "Angry Checkers is a thrilling take on the traditional board game, where players try to eliminate opponents’ checkers. Available on multiple platforms, it features various play modes including multiplayer and single-player. This action-packed game delivers engaging and strategic fun for everyone without requiring downloads or sign-ups.",
+      "howToPlayText": "Physics based action game, where your goal is to knock off all enemy checkers from the board. \n\nTap or click one of your checkers and drag it to the direction you want the checker to go. \n\nYou are in full control of the direction and power of your checker move.",
+      "gameURL": "https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/angry-checkers-11c2-1",
+      "genres": [
+        "multiplayer",
+        "co-op",
+        "pvp",
+        "checkers",
+        "physics",
+        "board"
+      ],
+      "tags": [
+        "games-for-pc",
+        "turnbased-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "chekers-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/83994f74-c1a6-45df-ade8-6b2300ee3b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/769b035c-ef39-4cff-e318-ecd735609700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "09acd9d843744bb39288857be8236236",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "92819",
+      "slug": "4-colors",
+      "title": "4 Colors",
+      "description": "Get ready to challenge up to three computer opponents in this game!\n\nStrategize your moves and be the first to get rid of your cards by matching them by color or number.\n\nBut be careful, if you forget to shout \"\"Uno\"\" when you have only one card left, you'll face a penalty of two extra cards!\n\nAnd don't forget about the action cards – they can bring a whole new level of chaos and confusion to the game!",
+      "howToPlayText": "Ready to make your move?\n\nClick or tap the card you want to play!\n\nIf you don't have a card that matches the color or number, draw a card from the deck and try again.\n\nRemember, every move counts in this game, so choose wisely and be strategic!",
+      "gameURL": "https://playgama.com/export/game/4-colors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/4-colors",
+      "genres": [
+        "cards",
+        "skill",
+        "multiplayer",
+        "board"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "brain-training-games",
+        "interactive-games",
+        "addictive-games",
+        "mind-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "family-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/904bc0f8-50be-43cd-713c-675d1e3ce000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/76e1b730-b931-41d6-da56-bdfe8de55a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "22d95a5cbc404ba0a27326007a3f9362",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/4-colors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86410",
+      "slug": "tank-fury-boss-battle-2d",
+      "title": "Tank Fury: Boss Battle 2D",
+      "description": "Dive into the exciting realm of Tank Fury: Boss Battle 2D, where strategy combines with intense action. Control various powerful tanks, enhance your weapons and defenses, and prepare to confront formidable bosses that challenge your skills in this engaging online game. Play on both mobile and computer!",
+      "howToPlayText": "Upgrade your tank and fight!\n\nControls for PC (keyboard + mouse):\n\nA and D: Move\nW and S: Aim\nSpacebar: Attack\nControls for mobile:\nUse the on-screen buttons.",
+      "gameURL": "https://playgama.com/export/game/tank-fury-boss-battle-2d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tank-fury-boss-battle-2d",
+      "genres": [
+        "action",
+        "skill",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "desktop-games",
+        "indie-games",
+        "pixel-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4281eaf8-226b-4f1c-ecc3-e3256de77c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d9eac436-0f10-4a0d-dacb-01f6288d1c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "894b2673e8fa4f178575f61d35b7ad1e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tank-fury-boss-battle-2d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99717",
+      "slug": "stealth-robbery-of-a-house-together",
+      "title": "Stealth robbery of a house together",
+      "description": "Stealth robbery of a house together: steal things, hide from the guards, take the loot to the van. Play with a friend on the same device.\n\nPlay alone or with a friend on the same device. Your task is to take out as much furniture and valuables as possible from the house without being caught by security!\n\nThe house is carefully guarded: guards are patrolling, and if you get in their line of sight, run! Use the abilities\n\nThe goal of the game\nis to collect items from the house and take them to the van to complete the progress bar and complete the level! The more valuable the items are, the faster the scale increases.",
+      "howToPlayText": "Stealth robbery of a house together: steal things, hide from the guards, take the loot to the van. Play with a friend on the same device.\n\nPlay alone or with a friend on the same device. Your task is to take out as much furniture and valuables as possible from the house without being caught by security!\n\nThe house is carefully guarded: guards are patrolling, and if you get in their line of sight, run! Use the abilities\n\nThe goal of the game\nis to collect items from the house and take them to the van to complete the progress bar and complete the level! The more valuable the items are, the faster the scale increases.\n\nOn PC:\nPlayer 1: Move with W, A, S, D\nPlayer 2: Move with Arrow Keys\n\nOn the phone:\nSingle player - move your finger on the screen\nLeft player — move your finger on the left side of the screen\nRight player — move your finger on the right side of the screen\n",
+      "gameURL": "https://playgama.com/export/game/stealth-robbery-of-a-house-together?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stealth-robbery-of-a-house-together",
+      "genres": [
+        "action",
+        "skill",
+        "two-player",
+        "multiplayer",
+        "mobile"
+      ],
+      "tags": [
+        "avoid-games",
+        "stealth-games",
+        "robbery-games",
+        "collecting-games",
+        "unity-games-online",
+        "stealth-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/799be9f0-1423-4406-2d4f-eecfc24c0800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/26eed709-4bfa-4cff-bd88-40b328ff6700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "686527a2102e464aac36cb1a47b2d9f8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stealth-robbery-of-a-house-together?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110448",
+      "slug": "craftsman-land",
+      "title": "Craftsman Land",
+      "description": "Craftsman Land – build your own farm and help the town recover!\n\nCraftsman Land is a farming and crafting game where your goal is to rebuild the inherited land, expand your farm, and support the local community.\n\nAfter a devastating flood, the town is in ruins. As the heir to the land, it’s up to you to restore your farm, help the townsfolk, and bring life back to the surrounding villages. Grow crops like corn and onions, go fishing, and construct new buildings such as a house, chicken coop, and cowshed. Inside your home, you can decorate and design the interior to your liking.\n\nTake care of your animals – feed chickens and cows, collect fresh eggs and milk, and use them for crafting or trading. Complete quests for local people, trade with merchants, and produce a wide variety of items thanks to the crafting system. Improve your skills, specialize in your favorite activities, and become a true master craftsman.\n\nThe world of Craftsman Land is constantly growing with new places, tasks, and adventures waiting to be discovered",
+      "howToPlayText": "In Craftsman Land, playing is simple and intuitive. On mobile devices you tap the screen, while on PC you use the mouse. Actions are performed automatically – all you need are the required items and resources. With just a click, you can trigger different activities such as building houses, crafting tools, or producing goods.\n\nComplete quests given by townsfolk to earn rewards and progress in the story. When you run out of quests, head to the crossroads where the bulletin board offers an endless supply of new tasks.\n\nExplore the map to visit different shops:\n\nBuilding materials store – get everything you need for construction.\n\nTool shop – find useful equipment for your farm.\n\nGardening store – buy seeds and expand your fields.\n\nNot everything has to be bought! Many materials can be produced by yourself. Chop wood, fire clay into bricks at the campfire, and create other essential resources to use in crafting and construction.\n\nGrow crops, raise animals, trade, and craft your way to success while helping the entire town thrive!",
+      "gameURL": "https://playgama.com/export/game/craftsman-land?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/craftsman-land",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "multiplayer",
+        "mouse",
+        "cool-games",
+        "popular",
+        "crafting"
+      ],
+      "tags": [
+        "quests-games",
+        "building-games",
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f7db3d35-ce5e-47b3-96b8-da36600f4400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bc4b50a4-a61d-475a-dc93-1b5336427c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "39c2b2fb927d4214ab8ba7c84a74f330",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/craftsman-land?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86322",
+      "slug": "tsunami-race",
+      "title": "Tsunami Race",
+      "description": "Tsunami Race is an exciting online adventure game where players race against a looming tsunami. Select your character, navigate through obstacles, and compete in various game modes, including dodging fruits and racing on water slides. Experience adrenaline-pumping action without downloads or registration across multiple platforms.",
+      "howToPlayText": "Tap and Hold on the screen to move character! ",
+      "gameURL": "https://playgama.com/export/game/tsunami-race?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tsunami-race",
+      "genres": [
+        "action",
+        "racing",
+        "funny",
+        "multiplayer",
+        "cool-games",
+        "pve"
+      ],
+      "tags": [
+        "minigames",
+        "iphone-games",
+        "interactive-games",
+        "obstacle-games",
+        "water-games",
+        "addictive-games",
+        "avoid-games",
+        "collecting-games",
+        "desktop-games",
+        "pixel-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/726eb757-52a4-431f-4b0e-6710734f2e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/75c30eff-f614-48fb-b5f7-22f6b2659600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fa1c993913a34edeb86f559db68ce5d7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tsunami-race?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97655",
+      "slug": "bs-simulator-559a-1",
+      "title": "BS Simulator",
+      "description": "Enter the captivating realm of BS Simulator, where each contest allows you to discover new Brawlers and advance in competition. Enjoy opening Brawl Boxes for great rewards, complete daily tasks, customize your profile, and participate in mini-games for exciting prizes, all available on both mobile and PC for free.",
+      "howToPlayText": "How to Play:\nOpen Brawl Boxes to unlock Brawlers and rewards.\nComplete quests to earn tokens and progress in Brawl Pass.\nWin trophies to advance on Trophy Road.\nCheck the shop for special offers and customize your profile!",
+      "gameURL": "https://playgama.com/export/game/bs-simulator-559a-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bs-simulator-559a-1",
+      "genres": [
+        "funny",
+        "multiplayer"
+      ],
+      "tags": [
+        "minigames",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d34558b6-fff1-4877-a974-4fc795abcb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c93d48ad-760e-4444-078d-df5ff1a28800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "107ac31222254765a593f65378dc89d0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bs-simulator-559a-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "55",
+      "slug": "left-4-die",
+      "title": "Left 4 Die",
+      "description": "Left 4 Die is an intense survival shooter set in a post-apocalyptic environment. Utilize strategy to face endless enemies in this web-based game with stunning graphics and responsive controls. Experience the excitement across various devices as you navigate dangers, wield formidable weapons, and adapt to survive.",
+      "howToPlayText": "WASD - move Left Mouse button - attack R - reload SPACE - jump 1 - 4 - select weapons. Approach the weapons dealer to buy weapons, the armor dealer - to buy armor, the barber - to change your appearance, the commander - to receive a new mission. Complete missions and kill zombies to earn money and experience. The higher your level, the more powerful equipment and higher rewards for missions you can obtain, but you will also face more numerous hordes of zombies chasing you.",
+      "gameURL": "https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/left-4-die",
+      "genres": [
+        "action",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "cool-games",
+        "zombie",
+        "pve",
+        "survival",
+        "wolf",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "fast-paced-games",
+        "addictive-games",
+        "arena-games",
+        "webgl-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "building-games",
+        "horde-survival-games",
+        "borwser-games",
+        "virtual-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/65c4ee1c-517f-4e10-c93a-10d04aa4fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fe7362d-e8da-414f-b8fb-9b69c90db100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5cbf6816fc7d4a3c90282ecc9d451ed2",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "b0c3f523da054f49922d56bdaa76bce1",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "ee3e3ad4267947e7a4d42dc2429fd370",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "e9323ad585a4491daf38ea69ac82bf56",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90382",
+      "slug": "destruction-simulator",
+      "title": "Destruction Simulator",
+      "description": "\n• Slow-motion\n- You have the full control over the time rate: slow it down, inrease the speed or just stop the simulation\n\n• Gravity\n- Took it all from freezing time… Well, play with low / high gravity or just turn it off like you are in space ;)\n\n• Control of gameplay\n- Disable or enable explosions visualization (if it covers debris you want to see), only smoke or even lights / flashes.\n- Too many debris on the screen? Just enable limitation option so all debris over certain value will smoothly disappear\n- Not enough debris? Simply increase destructibility level\n\n• Guns\n- About 13 different explosives (missiles, dynamites, bombs)\n- Earthquake, tornado, singularity\n- Different sized cannon balls\n- Custom gun editor\n\n• Maps\n- Destroy over 30+ prebuild map\n- Map editor: Build your own map\n\n• Simulator\nWe have created this game for our personal needs - always dreamed of the game that allows you to destroy buildings, but there wasnt any, sooo… had to do one ourselves : )",
+      "howToPlayText": "From a computer, press LMB (Left Mouse Button) and swipe across the screen to rotate the camera. Movement on WASD (and QE to raise the camera shutter). The rest is through the game interface.\nFor mobile use fingers and in-game UI:3",
+      "gameURL": "https://playgama.com/export/game/destruction-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/destruction-simulator",
+      "genres": [
+        "action",
+        "strategy",
+        "simulation",
+        "3d",
+        "multiplayer",
+        "popular",
+        "physics",
+        "mobile"
+      ],
+      "tags": [
+        "creative-games",
+        "destruction-games",
+        "destroy-games",
+        "bomb-games",
+        "sandbox-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1395ae84-90c5-4e9d-7ba0-69b02a078000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cdc08b53-0455-4a64-178d-2beb66f9e700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "df453b20a8c346bc95a6cf6d3e1c1f38",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/destruction-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110830",
+      "slug": "geometry-vibes",
+      "title": "Geometry Vibes ",
+      "description": "Geometry Vibes is a reaction-based arcade game where you avoid obstacles, traps and spikes that come at you in waves. Your goal in the game is to keep your arrow on the route and take it as far as possible. Geometry Vibes, where the excitement never ends, invites you to challenge.",
+      "howToPlayText": "How to Play Geometry Vibes?\n\nThe game is quite simple to play, but difficult to master.\nTry to continue without hitting obstacles.\n\nClick to \"MOUSE LEFT-CLICK\" or \"UP ARROW\" and hold to fly up.\n\nRelease the button to dive down.\n\nIn 2,3,4 Player game modes, players are controlled with \"UP ARROW\", \"H\" and \"L\". (MOUSE LEFT-CLICK and SPACE keys can also be used instead of W.)",
+      "gameURL": "https://playgama.com/export/game/geometry-vibes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/geometry-vibes",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "3d",
+        "multiplayer",
+        "platform",
+        "cool-games",
+        "popular",
+        "music",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "fast-paced-games",
+        "dodge-games",
+        "obstacle-games",
+        "endless-games",
+        "geometry-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7f6efed3-a979-4880-0ec5-fb0cc9b85200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6b8c6e8a-4e02-44a9-ec1f-d39b3c648200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6a23eda4fac74d23848658c3fd75e2de",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/geometry-vibes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99687",
+      "slug": "zap",
+      "title": "ZAP",
+      "description": "Play ZAP, the thrilling online puzzle card game! Match cards by color or number to clear your hand and block opponents. Fast-paced, fun, and competitive - perfect for card game lovers!",
+      "howToPlayText": "There are various strategies you can use to maximize your chances of winning at this ZAP game. The main principle is to get rid of all your cards before everyone else. You can do that by matching the color or number of the card placed down before yours. If you don't have a playable card, you must draw cards from the pile until you do.\n\nWhen you have one card left, press the \"1\" button, otherwise you will be punished with two penalty cards!",
+      "gameURL": "https://playgama.com/export/game/zap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zap",
+      "genres": [
+        "cards",
+        "skill",
+        "multiplayer",
+        "cool-games",
+        "popular",
+        "classic",
+        "mobile"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/839ec5aa-2c75-43ab-607a-937322b49a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b5c00003-730d-4d28-ed51-fdd42b87a600/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97687",
+      "slug": "legions-way-of-war",
+      "title": "Legions: Way of War",
+      "description": "Dive into the exciting world of \"Legions: Way of War,\" a real-time strategy game that tests your tactical skills. Lead your troops to success by expertly positioning them and utilizing your heroes. Enjoy this captivating blend of strategy and competition on any device!",
+      "howToPlayText": "To win, arrange and connect the squads correctly. Develop your army and get new types of troops: archers, cavalry, infantry, artillery and Heroes. To enjoy the game, pass all the tests.",
+      "gameURL": "https://playgama.com/export/game/legions-way-of-war?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/legions-way-of-war",
+      "genres": [
+        "adventure",
+        "strategy",
+        "multiplayer",
+        "pvp",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "rts-games",
+        "tactical-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/52bbe32f-9041-4224-bd53-e0738b118800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/133455d0-fce4-4dba-d731-a1842abbe900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "97030aa4e1d647a698d1734295125b6b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/legions-way-of-war?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "22",
+      "slug": "stairs-trivia-playgama",
+      "title": "Stairs Trivia",
+      "description": "Stairs Trivia is an exciting online quiz game that lets players elevate their knowledge by correctly answering questions. Compete to reach the peak and be the last player standing. Accessible for free on various platforms, it offers a unique 3D experience with engaging challenges without any download or registration.",
+      "howToPlayText": "Use your mouse to control the character. Stop at piles and collect them to construct stairs. Build your way up!\n",
+      "gameURL": "https://playgama.com/export/game/stairs-trivia-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stairs-trivia-playgama",
+      "genres": [
+        "quiz",
+        "funny",
+        "multiplayer",
+        "brain"
+      ],
+      "tags": [
+        "games-for-teens",
+        "brain-training-games",
+        "interactive-games",
+        "addictive-games",
+        "learning-games",
+        "mind-games",
+        "test-games",
+        "collecting-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "family-games",
+        "stairs-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6d7be21b-4fe5-4d1d-fe20-d74c2a704000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b6ad9e6a-89a4-4cf8-eb18-6f5a7d745a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "08f2ddff67d9452dbc74a59fd7024bf9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stairs-trivia-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99145",
+      "slug": "obby-warriors-of-the-sword",
+      "title": "Obby: Warriors of The Sword",
+      "description": "Become a hero in Obby: Warriors of The Sword! Collect powerful swords, defeat enemies and unlock new abilities! Go through rebirth and become a legend. Get stronger, pump up your hero and become the best in this exciting game!\n\nKey Game Features:\n\n⚔️ Epic Battles: Upgrade your hero, unlock new abilities and fight unique enemies! 🕹️\n\n💥 Sword and Artifact Collection: Buy, upgrade and collect different swords to create the strongest hero with powerful weapons! 🗡️💎\n\n💪 Allies and Reborn: Make loyal allies and go through rebirth, becoming even stronger and opening new battle opportunities. 🤝🔄\n\n😎 Endless customizations: You can choose from a variety of skins, pets and jewelry to make your hero unique and truly stylish! 🎨🐾✨\n\n👑 Missions and Challenges: Complete exciting missions, unlock new levels and get rare rewards. 🎯🏅",
+      "howToPlayText": "💻Desktop:\n\nWASD - Movement\nLMB - Take a hit\nSpace - Jump\nRMB and mouse movement - Camera rotation\n\n📱 Smartphone:\n\nMovement - Joystick on the left side of the screen\nRotate the camera - Finger movements on the right side of the screen\nClick on the screen - Take a shot",
+      "gameURL": "https://playgama.com/export/game/obby-warriors-of-the-sword?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-warriors-of-the-sword",
+      "genres": [
+        "action",
+        "adventure",
+        "multiplayer",
+        "obby",
+        "popular",
+        "pve",
+        "pvp",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "combat-games",
+        "sword-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/591a81ee-96e8-44f3-a3d9-0523abeacb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3f8e29ef-5303-4047-4e40-400dfc3a6100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "85fbd22249c94a3d9140b8b3a8266a0d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-warriors-of-the-sword?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63926",
+      "slug": "little-big-fighters",
+      "title": "Little Big Fighters",
+      "description": "Little Big Fighters is an exciting action game set in a lively survival arena where players must showcase their combat skills to rise through the ranks. Accessible via browsers on desktop and mobile, it offers a seamless experience without downloads or registration, focusing on battles and strategic growth.",
+      "howToPlayText": "Left Mouse Button = Move\nClick = Fight a boss\nL = Unlock the mouse",
+      "gameURL": "https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/little-big-fighters",
+      "genres": [
+        "io",
+        "action",
+        "multiplayer",
+        "survival",
+        "battleship",
+        "wrestling"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "arena-games",
+        "combat-games",
+        "desktop-games",
+        "indie-games",
+        "borwser-games",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c1e92c7-492a-403f-7281-e49555bfe300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b77c5ed4-3ac5-4279-0dfa-25b612d86900/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86374",
+      "slug": "strategy-of-war-tanks-and-helicopters",
+      "title": "Strategy of war: Tanks and helicopters",
+      "description": "War Strategy: Tanks and Helicopters is an engaging online strategy game where you lead forces to seize enemy strongholds. Play seamlessly on various devices without downloading. Enjoy tactical combat as you use tanks and helicopters to succeed in this skill-testing military challenge—no registration needed.",
+      "howToPlayText": "Select a base to move or attack, click once for half the troops, twice for all, and remember that moving between ground and air bases requires double the troops.",
+      "gameURL": "https://playgama.com/export/game/strategy-of-war-tanks-and-helicopters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/strategy-of-war-tanks-and-helicopters",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "pvp",
+        "army",
+        "tanks",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "rts-games",
+        "military-games",
+        "defense-games",
+        "desktop-games",
+        "helicopter-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1b42adb3-e32f-4a8d-3c27-fbad79a1ed00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d397030f-2852-4ff9-c902-8c9894bdfc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fdd621d1e3754caf8fdd1ae8ccbbd194",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/strategy-of-war-tanks-and-helicopters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99499",
+      "slug": "shrinkzoneio",
+      "title": "shrinkzone.io",
+      "description": "Welcome to Shrinkzone, a lightning-fast, doodle-style battle royale where survival depends on your appetite! Start off as a tiny blob and devour food scattered across the map to grow larger and stronger. But beware — other players are doing the same. Use quick reflexes and clever movement to avoid the giants and hunt down the weak. As the shrinking safe zone forces players closer together, only the smartest and hungriest will survive. Are you ready to dominate the arena and claim the top spot?",
+      "howToPlayText": "Keyboard\n• Move – WASD \n\nMobile\n• Move – On-screen joystick",
+      "gameURL": "https://playgama.com/export/game/shrinkzoneio?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/shrinkzoneio",
+      "genres": [
+        "io",
+        "action",
+        "multiplayer",
+        "pvp"
+      ],
+      "tags": [
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d9550104-b55e-4661-2524-9ca2e72f6900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/28a6fdcc-05d1-413c-060f-a3a3e7d8f700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f3675c234bda4a53bce36778e9767275",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/shrinkzoneio?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63944",
+      "slug": "imposter-3d-playgama",
+      "title": "Imposter 3D",
+      "description": "Imposter 3D offers an exciting arcade adventure where you can choose to be either a \"Killer\" or a \"Hero.\" Develop strategies to win as you face various challenges. Play for free online on multiple devices without registration, making it accessible for all gamers. Enjoy a thrilling, dynamic experience!",
+      "howToPlayText": "-",
+      "gameURL": "https://playgama.com/export/game/imposter-3d-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/imposter-3d-playgama",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "funny",
+        "multiplayer",
+        "cool-games",
+        "survival"
+      ],
+      "tags": [
+        "interactive-games",
+        "addictive-games",
+        "challenging-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "teams-games",
+        "open-world-games",
+        "pixel-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7a78709d-3467-4807-600e-27e3e07de400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0312ed6b-03c0-4647-4a92-f9b3debda800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "24c5ab4d8e424c1da41b6d3db878fda3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/imposter-3d-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86378",
+      "slug": "bubble-stars-boxes-shade-and-juju",
+      "title": "Bubble Stars Boxes: Shade and Juju",
+      "description": "In this addictive game, 88 different characters and 671 skins on these characters are waiting for you! Open the crates and old crates in which all these characters and skins are hidden! Take the challenge and try to complete all the events in the game! Win in battles and get cups, become the best in this game! And how far can you go?",
+      "howToPlayText": "The navigation in this game is very simple.\nJust use the mouse on desktop or your finger tap on android device.",
+      "gameURL": "https://playgama.com/export/game/bubble-stars-boxes-shade-and-juju?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-stars-boxes-shade-and-juju",
+      "genres": [
+        "action",
+        "funny",
+        "multiplayer",
+        "cool-games",
+        "battleship",
+        "mini",
+        "bubble"
+      ],
+      "tags": [
+        "games-for-pc",
+        "interactive-games",
+        "addictive-games",
+        "mind-games",
+        "desktop-games",
+        "collection-games",
+        "incremental-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e2b64033-55fd-46eb-25d2-b3965904e400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/36bb47da-d8fc-40e2-8a99-8dc26bf18000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e5b6769b73f34a7b86e75a53ed1bc4a7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-stars-boxes-shade-and-juju?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99549",
+      "slug": "edgefire",
+      "title": "EdgeFire",
+      "description": "EdgeFire is a fast-paced online shooter that throws you into thrilling battles against real players from around the world. Whether you're flying solo or teaming up with friends, every match is a chance to prove your dominance on the battlefield.\n\nSharpen your aim and unleash lightning-fast reflexes, earn rewards, and become the top player in each round. Outsmart your opponents with clever tactics and strategic plays that turn the tide of battle in your favor.\n\nDive into action-packed gameplay with a variety of stunning skins that enhance your experience and appeal to both seasoned shooter veterans and newcomers alike. Each battle is a fresh challenge, packed with intensity and adrenaline.\n\nStep into the arena, test your skills, and rise to glory. Are you ready to dominate the fight?",
+      "howToPlayText": "WASD - move\nR - reload\nLeft mouse button - shoot\nEsc - pause menu",
+      "gameURL": "https://playgama.com/export/game/edgefire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/edgefire",
+      "genres": [
+        "action",
+        "skill",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "pvp",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "multiple-players-games",
+        "competitive-games",
+        "arena-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a93dba25-48f2-4252-2fc5-181a561acf00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/990529ee-db5e-4759-df7a-bf390ce9fe00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/edgefire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94828",
+      "slug": "gunner-pursuit",
+      "title": "Gunner Pursuit",
+      "description": "Dive into the thrilling universe of Gunner Pursuit, where fast-paced action and weaponry collide. Experience intense pursuits and shoot from your fast-moving vehicle while navigating enemies. Enhance your gear for survival and triumph in every challenging stage. Enjoy this free game on your phone or computer for continuous excitement.",
+      "howToPlayText": "Keyboard\nLook around - Mouse movement\nShoot - Left-click\nLock/Unlock Cursor - L",
+      "gameURL": "https://playgama.com/export/game/gunner-pursuit?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/gunner-pursuit",
+      "genres": [
+        "action",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/39e3a2d1-ab83-4d79-9700-4e0a31cab400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f772d494-5ca5-4aca-9eb8-46439a61b600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c4eb85437fce44f390caf2580a4bfa5e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/gunner-pursuit?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109528",
+      "slug": "hot-rods-arena-stars",
+      "title": "Hot Rods Arena Stars",
+      "description": "Welcome to the arena where the weak don’t survive!\n\nTake the wheel of a legendary, heavily armed Hot Rod and challenge dozens of ruthless opponents.\n\nHere, there are no rules — only speed, firepower, and your reflexes decide who becomes the champion. Blast enemies with precise shots, collect stars, and unlock powerful upgrades for your battle beast.\n\nSwap weapons, reinforce your armor, hit top speed, and leave nothing but smoke and wreckage behind!\n\nEvery arena is a new challenge, where only those willing to take risks can claim victory.\n\nReady to prove you’re the king of the road? Then hit the gas and race toward glory!",
+      "howToPlayText": "Desktop:\nW, A, S, D — drive your car\n\nMobile:\nMovement — use the left stick (up, down, left, right)\n\nGoal:\nCollect stars to outscore your rivals. Use your weapons wisely — blow up enemies, trap them, and don’t give them a chance to strike back. One mistake, and your car becomes scrap metal!",
+      "gameURL": "https://playgama.com/export/game/hot-rods-arena-stars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hot-rods-arena-stars",
+      "genres": [
+        "action",
+        "racing",
+        "strategy",
+        "car",
+        "multiplayer",
+        "car-racing",
+        "pvp"
+      ],
+      "tags": [
+        "arena-games",
+        "car-crash-games",
+        "collecting-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/723a043b-8df5-47ae-7aee-d67bb52cc700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b1a13e26-f9e1-4156-424b-5249736a2100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3558cc15a3524dd09c9e5d8fe6b663e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hot-rods-arena-stars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86411",
+      "slug": "finger-soccer-tournament",
+      "title": "Finger Soccer Tournament",
+      "description": "Finger Soccer Tournament is an engaging game where players pick teams to outscore opponents. Enjoy free online play with no downloads, featuring quality graphics. Compete solo or with friends on PC, Android, and iOS. Join the finger soccer realm and strive to be the top champion!",
+      "howToPlayText": "Touch and hold the screen to move the paddle. Defend your goal and make more goals than your opponent.",
+      "gameURL": "https://playgama.com/export/game/finger-soccer-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/finger-soccer-tournament",
+      "genres": [
+        "sports",
+        "multiplayer",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "tournament-games",
+        "desktop-games",
+        "1-player-games",
+        "simple-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a77d7309-12e0-4d84-0ef5-e3f3d970fb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5cdb53ac-7be9-4535-d536-486957e90600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "88131cded3ee495287f025572fc36dcf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/finger-soccer-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99642",
+      "slug": "yatzy-82db-1",
+      "title": "Yatzy",
+      "description": "Yatzy is the ultimate classic dice game that brings endless fun and excitement! Experience the thrill of rolling five dice to score the best combinations and outsmart your opponents. Whether you're a casual player or a Yatzy master, this game is perfect for you! Similar to games like Yacht and Yahtzee, Yatzy combines elements of strategy and luck, making it both challenging and entertaining. Whether aiming for a 🎲 Full House, a 📏 Straight, or the elusive 🏆 Yatzy (five of a kind), each roll offers a new opportunity to outscore your opponents.\n",
+      "howToPlayText": "Roll five dice to score the highest total over 13 rounds.\nYour Goal: Get the best possible combinations each round.\nRoll Up to 3 Times: Choose which dice to keep or re-roll.\nPick a Category: After rolling, select a scoring category — each can be used only once.\nScorecard:\nUpper Section: Count dice by number (Ones to Sixes).\nLower Section: Use combos like Full House, Straights, or Yatzy (5 of a kind).\nBonus: Score 63+ in the Upper Section for +50 points.\nExtra Yatzy? Get 100 bonus points!\n\nHighest total wins!",
+      "gameURL": "https://playgama.com/export/game/yatzy-82db-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/yatzy-82db-1",
+      "genres": [
+        "multiplayer",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "casual-games",
+        "competitive-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/851743ab-e16e-47d7-01cc-b4969e2d1400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3e1377de-547a-439e-1285-366d462f0200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6217954e64b54241955777cfe2f2c45c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/yatzy-82db-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109529",
+      "slug": "super-fruit-runner-hyper-casual",
+      "title": "Super Fruit Runner - Hyper Casual",
+      "description": "In this hyper casual runner game 🚀, you control fast-moving fruits and dodge obstacles to reach the finish line 🍏. With 15 unique levels 🗺️ and 12 special achievements 🎖️, the fun never ends! Thanks to 7 language options — English 🇬🇧, Russian 🇷🇺, French 🇫🇷, Turkish 🇹🇷, Spanish 🇪🇸, German 🇩🇪, and Italian 🇮🇹 — everyone can enjoy the game 🌍.\n\nDestroy fruits by hitting knives 🗡️ and earn Yakut to buy powerful upgrades 💎, including:\n\nIncrease starting fruit count 🍎\n\nIncrease Yakut earnings 💰\n\nExtra reward for hitting green platforms ➕\n\nReduce loss from hitting red platforms ➖\n\nUse your speed, reflexes, and strategy 🧠💨 to clear all levels, unlock every achievement 🎖️.",
+      "howToPlayText": "1️⃣ Start the Game! 🚀 Run your fruit forward 🏃‍♂️, dodge obstacles, and complete levels! 🍏 Every step requires speed and focus! ⚡\n2️⃣ Avoid obstacles! ❌ Try not to hit the knives — but if you do, you’ll earn Yakut.\n3️⃣ Watch the platforms! 🟩 Green platforms give you extra rewards ➕, 🔴 red platforms reduce your fruit count ➖.\n4️⃣ Use your Yakut! Between levels, upgrade your abilities 🎯 to start stronger.\n5️⃣ Complete the goals! 📜 Collect all 12 special achievements and finish every level to become the master of the game! 🏅\n\n💡 Tip: Balance your upgrades ⚖️ to survive longer and maximize your Yakut earnings! 🔥",
+      "gameURL": "https://playgama.com/export/game/super-fruit-runner-hyper-casual?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/super-fruit-runner-hyper-casual",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "adventure",
+        "sports",
+        "skill",
+        "running",
+        "multiplayer",
+        "platform",
+        "popular"
+      ],
+      "tags": [
+        "reaction-games",
+        "fruits-games",
+        "dodge-games",
+        "hyper-casual-games",
+        "avoid-games",
+        "collecting-games",
+        "1-player-games",
+        "level-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d13b8034-b3cd-4d91-6ca2-29fc076c4b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0e7b2bc6-a5f0-4377-8fd5-f244d1a52100/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/super-fruit-runner-hyper-casual?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99749",
+      "slug": "money-empire",
+      "title": "Money Empire",
+      "description": "Money Empire is an exciting strategy game 🧠 with clicker 👆 and board game 🎲 elements, where you build your path to wealth 💸 step by step.\n\nMove around the game board, unlock new businesses 🏪, invest in passive income 🏦, upgrade your enterprises 🚀, and compete with other players 🏆 to become the most successful entrepreneur!\n\nCasinos 🎰, stock markets 📉📈, banks 🏛️, luxury real estate 🏡, and company shares 📊 — use every tool to grow your fortune.\n\nWatch out for global news 📰 that may impact your income, and plan your moves wisely — your success 💎 depends on your strategy!",
+      "howToPlayText": "1️⃣ Roll the dice 🎲 and move across the board.\n2️⃣ Land on business tiles 🏪 to earn money and upgrade them 🔧.\n3️⃣ Use special tiles like the bank 🏦, casino 🎰, stock exchange 📉, or HQ 🏢 to boost your empire 📊.\n4️⃣ Buy luxury items 💎 and climb the leaderboard 🏅!\n5️⃣ Manage your finances wisely 🧠, and beware of taxes 🧾 and random events ⚠️.\n\nBuild a powerful empire — from a humble startup 🚀 to a global financial machine 🏗️💼!",
+      "gameURL": "https://playgama.com/export/game/money-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/money-empire",
+      "genres": [
+        "multiplayer",
+        "mouse",
+        "management",
+        "board"
+      ],
+      "tags": [
+        "business-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/491f91fd-2849-4620-97de-304439fa7b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ce3e56e1-a372-478f-bdee-06a6ef9b6200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d761241aa4434bd4ac4ed254c801109e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/money-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105532",
+      "slug": "attack-super-hole",
+      "title": "Attack super hole",
+      "description": "Play as a hole on the ground and consume as many soldiers as you can before the time runs out to battle the increasingly more dangerous monsters!",
+      "howToPlayText": "Moving around on the computer using the keyboard, attacking by pressing the left mouse button. \n\nMove around on mobile devices using joysticks and attack by clicking on the corresponding button.",
+      "gameURL": "https://playgama.com/export/game/attack-super-hole?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/attack-super-hole",
+      "genres": [
+        "action",
+        "arcade",
+        "multiplayer",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2a45613a-6965-49f2-883a-c10c4c2f4a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a41a022b-f15a-47e4-2749-a1aa9f227d00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/attack-super-hole?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99615",
+      "slug": "blocklands-io",
+      "title": "Blockadventure io",
+      "description": "🌍 Welcome to BlockAdventure!\n\nDive into the thrilling world of BlockAdventure, a Minecraft-inspired online multiplayer experience packed with parkour challenges, obby adventures, and endless fun! Explore blocky worlds, compete with other players, and push your skills to the limit. Whether you’re jumping across floating platforms or racing through tricky maps, there’s always something exciting to do.\n\nCustomize your style in the Skin Menu — choose your favorite look and stand out from the crowd as you conquer each obstacle!\n\nAnd the best part? This is just the beginning.\nNew game modes and adventures are already on the way!\n\n🚀 Coming Soon Features\n\t•\t🎮 Mini-Games Hub – Unlock and play various mini-games with friends\n\t•\t🧩 Puzzle-Based Maps – Solve environmental puzzles to progress\n\t•\t👥 Custom Avatars & Skins – Personalize your character even more\n\t•\t🏆 Leaderboard System – Climb the global ranks and show off your skills\n\t•\t🛠️ Level Editor – Build and share your own parkour or obby maps\n\t•\t🌎 New Game Worlds – Unique themes and environments to explore\n\n⸻\n\n🕹️ Controls\n\nDesktop Controls:\n\t•\tW / A / S / D or Arrow Keys: Move\n\t•\tSpacebar: Jump\n\t•\tC: Change camera view\n\t•\tF: Step back (return to checkpoint or previous step)\n\nMobile Controls:\n\t•\tOn-Screen Joystick: Move freely\n\t•\tJump Button: Tap to jump\n\t•\tCamera Button: Toggle camera view\n\t•\tBack Button: Go back to previous checkpoint",
+      "howToPlayText": "🕹️ Controls\n\nDesktop Controls:\n\t•\tW / A / S / D or Arrow Keys: Move\n\t•\tSpacebar: Jump\n\t•\tC: Change camera view\n\t•\tF: Step back (return to checkpoint or previous step)\n\nMobile Controls:\n\t•\tOn-Screen Joystick: Move freely\n\t•\tJump Button: Tap to jump\n\t•\tCamera Button: Toggle camera view\n\t•\tBack Button: Go back to previous checkpoint ",
+      "gameURL": "https://playgama.com/export/game/blocklands-io?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/blocklands-io",
+      "genres": [
+        "adventure",
+        "multiplayer",
+        "construction",
+        "blocks"
+      ],
+      "tags": [
+        "minigames",
+        "customization-games",
+        "voxel-games",
+        "obstacle-games",
+        "blocky-games",
+        "competitive-games",
+        "jumping-games",
+        "sandbox-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ec30b8e5-3cd9-4461-add2-e962f499f800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6e2c4897-a84c-4a27-0721-b137815bd600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "344adb6e03274d29bd6cebfe6fac8f95",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/blocklands-io?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

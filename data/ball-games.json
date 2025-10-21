@@ -1,0 +1,989 @@
+{
+  "category": "ball",
+  "count": 21,
+  "games": [
+    {
+      "id": "109179",
+      "slug": "soccer-dash",
+      "title": "Soccer Dash",
+      "description": "Soccer Dash is a soccer game in which you swipe a soccer ball through obstacles and soccer players and hit the ball to score a goal.\n\nYou have drag controls, drag to choose the direction of the kick, and release to hit the ball. During the dragging process, the game goes into a slow motion state, so you can take your time to choose the direction of the kick.\n",
+      "howToPlayText": "The goal of the game is to bypass all the traps and score a goal.\nControl - swipe the ball. Change the direction of the kick and release to launch the ball.",
+      "gameURL": "https://playgama.com/export/game/soccer-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/soccer-dash",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "cool-games",
+        "popular",
+        "maze",
+        "ball"
+      ],
+      "tags": [
+        "goalkeeper-games",
+        "goal-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7b868c6b-e220-4052-fdd1-edc3cbd90f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/77e59b1c-b7ff-4e6c-0c38-6dfd02ca1a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "953971aed0d44396aeec90243fa0d7e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/soccer-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109972",
+      "slug": "idle-pong",
+      "title": "Idle Pong",
+      "description": "Idle Pong is a fun and satisfying idle clicker game where every tap launches a high-speed pong ball to smash through colorful obstacles! Watch the chaos unfold as your pong bounces, breaks, and earns you XP even while you're idle.\n\n",
+      "howToPlayText": "Click or tap to buy and spawn pong balls\n\nClick and drag on the UI to scroll up and down\n\nUpgrade your power, unlock unique pong balls with exciting effects, and push through challenging stages as you chase the next big combo. Whether you're actively tapping or just watching the pongs go wild, there's always something satisfying to see.",
+      "gameURL": "https://playgama.com/export/game/idle-pong?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/idle-pong",
+      "genres": [
+        "arcade",
+        "strategy",
+        "skill",
+        "clicker",
+        "ball",
+        "classic",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "incremental-games",
+        "ping-pong-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/372634f6-c470-4a82-ba74-778584ea5d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4a419c60-dbd6-465e-0d9e-8c931ce1cd00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1891f91c24794d989c4fdb8ce9afe19f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/idle-pong?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112192",
+      "slug": "pool-8",
+      "title": "Pool 8",
+      "description": "Pool 8 is a brain-teasing puzzle game based on a Pool board. \nPot the balls in the correct order to move through a series of increasingly difficult challenges!\n\nThere's a multitude of difficulty levels that you naturally progress through, starting with the easiest \"rookie\" level. At the end of each difficulty level, you get a chance to win extra retries in the \"smash the candies\" bonus round. You can also earn these by watching a short video ad.\nYes, but it starts out easy. As you progress, you reach higher difficulty levels.",
+      "howToPlayText": "The unique mechanics in this game mean you can only move up, down, left, and right. \nThere are no diagonal movements, which poses a tricky challenge when several balls are on the table. \nThe key to winning the level is to think about the order of each move to ensure you can line up all the shots successfully.",
+      "gameURL": "https://playgama.com/export/game/pool-8?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pool-8",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "ball",
+        "brain",
+        "classic",
+        "pool",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "billiards-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5f8b6da9-bffe-470c-7f30-ed956ed90d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/533f0674-fe6a-4f8a-4079-96cacce51600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "15f1f3d0999d0b35d7beaa3baae660e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pool-8?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112478",
+      "slug": "smash--merge-balls",
+      "title": "Smash & Merge Balls",
+      "description": "Short Description: A skill-based arcade game with colorful physics.\n\nFull Description: In this game, you control a character that starts a fusion chain reaction! \nStrike the colorful balls to get them moving. \nThe key rule: when two balls of the same color collide, they merge, and you earn points. \nCreate massive chains of mergers to maximize your high score!\n\n\n(lore)\n(from the Showman):\nLadies and gentlemen, boys and girls! Welcome to the greatest show in the cosmos — the Arena of Fusion!\n\nHere is your instrument of chaos — the mighty merger mallet! Don't be shy, give it a swing! \nYour mission is brilliantly simple: step onto the arena floor and prepare for a rainbow deluge! \nSmash those colorful spheres, make them crash, and when two of the same color meet — \nBOOM! — they fuse into a glorious explosion of points!",
+      "howToPlayText": "-Use the \"WASD\" or the \"touchscreen joystick\" to move\n-Use the \"Space\" or the \"touch-screen button\" to dash\n-Use \"left mouse button\" or \"Touch screen button\" to Hit\n-Hit the balls and collide the balls of the same color to score points, \nwhen they collide they create another ball of random color.",
+      "gameURL": "https://playgama.com/export/game/smash--merge-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/smash--merge-balls",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "ball",
+        "merge",
+        "color",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "iphone-games",
+        "addictive-games",
+        "smash-games",
+        "desktop-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/761fd6ba-b2da-4c29-ec42-4e976e56fc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4933d46b-86bb-424e-7443-eb13f8fe5c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6c26d0351d744f01c92a7b98f6d11b8c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/smash--merge-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112191",
+      "slug": "hit--knock-down",
+      "title": "Hit & Knock Down",
+      "description": "Hit & Knock Down is a casual arcade-style shooting/throwing game where you aim to hit targets using various balls. When you successfully hit a target, it will either be knocked down or explode.\nThe goal is to clear each stage by obtaining the required score (or meeting stage objectives) and then move on to the next challenge.",
+      "howToPlayText": "Drag or swipe on the screen to aim the ball toward a target. (Typical of these types of games — though the store page doesn’t detail exact controls, it says “simple control.”)\nRelease your touch (or tap, depending on control scheme) to throw the ball toward the designated target.\nIf your throw strikes the target (a can, dish, fruit, or object), it will either fall or explode. You earn points for successful hits.",
+      "gameURL": "https://playgama.com/export/game/hit--knock-down?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hit--knock-down",
+      "genres": [
+        "action",
+        "arcade",
+        "sports",
+        "skill",
+        "funny",
+        "ball",
+        "mobile"
+      ],
+      "tags": [
+        "target-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/741b7f6b-df35-4219-3383-8cae0ccf9900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/276b7168-0af0-427d-a6c4-2ca3fb268700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0dd420942e8b23d55ebfd6f3ade77ab7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hit--knock-down?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109069",
+      "slug": "school-of-basketball",
+      "title": "School Of Basketball",
+      "description": "It is the basketball arcade game in which you must try to score baskets in all the different game modes available. A basketball school opens its doors for enthusiasts like you. Do you know where to aim the ball so that you always hit the basket? Do you know any secret strategies? You have a limited number of balls and every time you miss, you also miss one ball. However, if you never miss, on the contrary, sometimes the ball will be added. How many points will you score? ",
+      "howToPlayText": "Touch and drug anywhere on screen to throw a ball!\nYou can play either arcade, time attack, and distance mode. Arcade mode gives you 10 balls to use; you must continue to score baskets although it becomes harder each time you score.\nTime attack mode requires you to score as many baskets within the time limit as possible; you have unlimited balls but limited time. \nDistance mode allows you to increase the distance of your shot each time that you score. The distance decreases every time you miss a shot, don’t let the distance reach zero; otherwise, it is game over.",
+      "gameURL": "https://playgama.com/export/game/school-of-basketball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/school-of-basketball",
+      "genres": [
+        "action",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "boys",
+        "basketball",
+        "ball",
+        "physics"
+      ],
+      "tags": [
+        "accuracy-games",
+        "ballon-games",
+        "highscore-games",
+        "challenging-games",
+        "goal-games",
+        "challenge-games",
+        "agility-games",
+        "1-player-games",
+        "balance-games",
+        "target-games",
+        "dunking-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c5d10819-7510-461b-136c-341ad918c100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/de105d8e-550e-44d5-59ed-8d0cf7b85c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "743846388226436e9e8863b7a7421f51",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/school-of-basketball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109976",
+      "slug": "red-hide-ball",
+      "title": "Red Hide Ball",
+      "description": "Passionate about brain teasers? Want to challenge your logical skills? Then take a look at Hide Ball a logic puzzle game in which you should hide good balls from dreadful and harmful monsters.\nRed Hide Ball is an amusing logic game that will test your IQ and raise your intellectual abilities to a new level. Plan every step, estimate a possible outcome and build tactical strategies. Solve logical puzzles, pass lots of interesting levels and win the game!\n",
+      "howToPlayText": "A puzzle board is presented with a configuration of balls, blockers, pathways, and monsters.\nYou tap or swipe objects often dragging or tapping using the minimal necessary moves.\nHide “good” balls by positioning them behind safe zones or behind obstacles.\nPredict monster movements or blocked paths so the good ball isn’t captured.\nOnce the good ball is secure or the goal for the level is achieved, you move on to the next puzzle.",
+      "gameURL": "https://playgama.com/export/game/red-hide-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/red-hide-ball",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "maze",
+        "ball",
+        "brain"
+      ],
+      "tags": [
+        "casual-games",
+        "obstacle-games",
+        "challenging-games",
+        "defense-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a6f435a1-6f23-41ac-1d45-d82187afc900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a14ee53b-3e08-4088-faae-f009054e3200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "491728c1f2c2444f9bf39c7bf268f73d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/red-hide-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110611",
+      "slug": "tower-colour-crash",
+      "title": "Tower Colour Crash",
+      "description": "Crash the Tower! Only the best crashers will be able to destroy all\ntowers in this 3D physics game. Try to let all towers collapse with\nthe amount of given balls. But you will only destroy the shapes\nwith the same colour as you ball. Use the powerful earthquake or\nshotgun power ups, to create huge chain reactions, which will\nlead into the towers destruction. Beautiful designed levels and\nshapes will await you, so don’t waste any second and become\nthe greatest tower crasher of ‘em all!",
+      "howToPlayText": "- Start each level by choosing the right angle to hit the tower, swipe right or left.\n- Throw the Ball on Blocks of the matching colour to destroy it!\n- Make the Tower collapse!",
+      "gameURL": "https://playgama.com/export/game/tower-colour-crash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tower-colour-crash",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "ball",
+        "color",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "destruction-games",
+        "destroy-games",
+        "hyper-casual-games",
+        "crash-games",
+        "color-matching-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/765e3302-862a-42fb-cdcc-0dc6b914c900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d18e7fcf-3cff-47f0-8623-dfa38a14a700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8bba334181194d3ca648426f7366fdd3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tower-colour-crash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110720",
+      "slug": "bucket-ball",
+      "title": "Bucket Ball",
+      "description": "Welcome to the Bucket Ball Game! 🎉 Tap the gate to open it and start the fun. Move obstacles out of the way or use them cleverly to guide the ball into the bucket. You'll get different items to help you complete each level. Remember, as you go higher, the game gets tougher, so think before you move! Each time you finish a level, you earn 1 point and move on to a more challenging one. How many levels can you play? Press on and challenge yourself! Just click your mouse to play. Enjoy the game! 🎮",
+      "howToPlayText": "Use the tools given to you to solve each level. As you progress, the game becomes harder, so use your wits!\n\nWhy is Glass Pong the most fun aim and shoot casual game?\nSuper fun and gets you hooked\nSimple to start but a tough nut to crack\nOffers many unique and challenging levels\nFree to play, so jump right in!",
+      "gameURL": "https://playgama.com/export/game/bucket-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bucket-ball",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "ball",
+        "physics",
+        "brain"
+      ],
+      "tags": [
+        "casual-games",
+        "obstacle-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/16c62d77-207b-47da-fca1-713ef1105400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/db0a02b9-11d0-4f61-eab5-7a39a0204100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fec324d4da49420d9227cf2759a0bf07",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bucket-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99484",
+      "slug": "stack-ball-3d",
+      "title": "Stack Ball 3D",
+      "description": "Break through countless platforms with the ball, but avoid hitting black spots or you'll lose. Try to hit as many platforms as you can to gain speedboost and become unstoppable",
+      "howToPlayText": "Controls: tap the phone screen, or press the left mouse button to make the ball start advancing downwards.",
+      "gameURL": "https://playgama.com/export/game/stack-ball-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stack-ball-3d",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "3d",
+        "popular",
+        "ball",
+        "easy",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "avoid-games",
+        "endless-games",
+        "breaking-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c7693cf-470b-4871-4900-5671defb0000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd90749f-0455-4e2d-5de9-d6c87149d700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2a4b5e19901945db96650c6e43527b96",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stack-ball-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110346",
+      "slug": "mini-golf-battle",
+      "title": "Mini Golf Battle",
+      "description": "Mini Golf Battle is a fun and casual mini golf challenge where your goal is simple: hit the ball into the hole with as few shots as possible. The game combines easy controls with tricky levels full of slopes, angles, and obstacles that test your timing and precision.\nEach level is designed to get a little harder, so you’ll need to aim carefully, control your shot power, and plan the best path to sink the ball. It’s a relaxing yet addictive golf experience made for quick play sessions.",
+      "howToPlayText": "Drag/swipe in the direction you want the ball to move.\nPull back and release to adjust the strength of your shot.\nThe longer you drag, the stronger the hit.\nTry to sink the ball into the hole in the fewest strokes possible.\nWatch out for walls, ramps, and barriers that can deflect your ball.\nUse angles to bounce around corners smartly.\n\nFire Power:\nThis bonus gives your ball a flaming speed boost.\nIt’s useful for long straight shots or when you want to quickly cross a large gap.\nBest used when you need maximum distance in a single strike.\n\nWing / Glide Power:\nThis bonus allows your ball to glide smoothly as if it has wings.\nIt reduces friction and gives your ball a longer travel path with better control.\nIdeal for precision shots where you want distance but also don’t want to overshoot too wildly.\n\nSpring / Bounce Power:\nThis bonus acts like a spring-loaded push.\nIt helps your ball bounce forward with extra force, perfect for overcoming obstacles or making tricky jumps.\nBest for courses with barriers, ramps, or platforms where normal shots can’t reach.",
+      "gameURL": "https://playgama.com/export/game/mini-golf-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mini-golf-battle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "ball",
+        "mini-golf",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "casual-games",
+        "obstacle-games",
+        "accuracy-games",
+        "challenging-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/67010539-bef7-4192-57c6-10c614247700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b5b34687-7be7-414a-85ac-ab83295d6500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8c2eacb55c41499788955c7d20ef70d4",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mini-golf-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110341",
+      "slug": "bricks-balls-breaker",
+      "title": "Bricks Balls Breaker",
+      "description": "Bricks Balls Breaker is a addictive and challenging brick game.\nJust play it to relax your brain. Be focus on breaking bricks and you will find it more funny and exciting.\nPlay and relax your brain. Focus on breaking bricks and you will find it more funny and exciting.\nSwipe, aim, and shoot to break bricks and overcome thrilling puzzles. Smash as many bricks as possible in a single shot to earn stars, gems, and power-ups. With no time limits, you can enjoy this relaxing yet challenging game anywhere, anytime!",
+      "howToPlayText": "- Hold the screen with your finger and move to aim.\n- Find best positions and angles to hit all bricks.\n- When the durability of brick reaches 0, destroyed.\n- Never let bricks reach the bottom or game is over.",
+      "gameURL": "https://playgama.com/export/game/bricks-balls-breaker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bricks-balls-breaker",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "ball",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "breaking-games",
+        "bricks-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/31f37ba4-b241-43fd-eaf4-9b0d52213800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c05e8d76-5cac-4255-74cf-fd820b2bba00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "eb503898c1d64d588197ba09789d1db8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bricks-balls-breaker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96201",
+      "slug": "draw--drop",
+      "title": "Draw & Drop",
+      "description": "Dive into the thrilling universe of Draw & Drop, where creativity and skill collide! Navigate the ball into a basket by sketching your route, while overcoming tricky obstacles. Test your ingenuity through various levels, available for free on both mobile and desktop. Enjoy the challenge!",
+      "howToPlayText": "-Draw a line where you can direct the ball to the goal\n\n-Click on the ball or the \"start\" icon in the Top Right to start\n\n-The ball will move along the line you drew.\n\n-The level passes when the ball hits the Target.",
+      "gameURL": "https://playgama.com/export/game/draw--drop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/draw--drop",
+      "genres": [
+        "puzzle",
+        "skill",
+        "ball",
+        "physics",
+        "brain",
+        "drawing",
+        "mobile"
+      ],
+      "tags": [
+        "iphone-games",
+        "obstacle-games",
+        "avoid-games",
+        "creativity-games",
+        "lines-games",
+        "challenging-games",
+        "goal-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0117f716-a305-4dce-0760-d8d5ea378800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bc610231-4e05-4525-0f38-6df02655d000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "df120c7bf95a4020968f662846e16d8d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/draw--drop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99493",
+      "slug": "ball-path-through-obstacles",
+      "title": "Ball: Path Through Obstacles",
+      "description": "Roll through an obstacle course playing as a ball. Avoid traps and collect coins to unlock new skins",
+      "howToPlayText": "The game controls depend on the device you are playing on.\n\nOn PC:\nUse the WASD keys to control the ball.\n\nW (up) — moving forward.\nA (left) — turn left.\nS (down) is a backward movement.\nD (right) — turn to the right.\nThe space bar is a jump.\nTo use the improvements, click on the improvement icon on the left side of the screen.\nTo buy a skin, click on the store icon in the menu.\n\nOn a smartphone/tablet:\nOn touch devices, control is performed using a virtual joystick located in the lower left part of the screen. Move your finger across the screen to control the movement of the ball.\nTo jump, click on the button in the lower right part of the screen.\nTo use the improvements, click on the improvement icon on the left side of the screen.\nTo buy a skin, click on the store icon in the menu.",
+      "gameURL": "https://playgama.com/export/game/ball-path-through-obstacles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ball-path-through-obstacles",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "3d",
+        "platform",
+        "ball",
+        "difficult",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "avoid-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2e8cdfc3-6e58-44ff-c25b-a6c62f428200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e8a59968-25eb-4490-c52f-977e6d183f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8c7043532c484ac189087bbc3b306809",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ball-path-through-obstacles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110344",
+      "slug": "ball-attack",
+      "title": "Ball Attack",
+      "description": "Blast through endless waves of bouncing balls, dodge incoming obstacles, and upgrade your powerful cannon to survive longer in this intense, fast-paced arcade shooter filled with nonstop action and explosive fun!",
+      "howToPlayText": "Drag to Move: Slide your finger (or mouse) left and right to control the cannon.\nShoot Automatically: Your cannon fires continuously—focus on aiming and dodging!\nDestroy Balls: Each ball has a number—shoot to reduce it to zero and blast it apart.\nDodge Everything: Avoid touching balls or it’s game over!\nCollect Coins: Use coins to upgrade your firepower, speed, and special abilities.\nSurvive Waves: The longer you last, the tougher (and more rewarding) it gets!",
+      "gameURL": "https://playgama.com/export/game/ball-attack?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ball-attack",
+      "genres": [
+        "action",
+        "arcade",
+        "strategy",
+        "skill",
+        "shooting",
+        "number",
+        "survival",
+        "ball",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "arcade-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bf6ce1d4-4a60-4671-fc1f-5ab731a29f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0cb74ef9-c9d6-4e20-7e85-475d00be8b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "33ed242c2c2b45129c4a3d23ae0e9d82",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ball-attack?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99710",
+      "slug": "stickerball",
+      "title": "StickerBall",
+      "description": "Stickerball is a fast-paced game where you collect stickers using a ball with unique abilities! Your goal is to collect 180 colorful stickers across 9 levels by completing challenges and activating triggers that change the game’s rules. Each turn, 10 stickers fly onto the field from a purchased pack, but any uncollected ones disappear—act quickly and precisely!\n\nThe game shines with 14 dynamic triggers: freeze stickers, double rewards with \"x2,\" turn the ball into a magnet or ghost, activate \"disco\" mode, or control a dual ball! The more stickers you collect in one turn, the higher your combo and the more coins you earn. Holo-stickers, with their unique designs, grant double the currency!\n\nPlay across 12 vibrant, randomly changing fields. Buy sticker packs, upgrade your collection, and strategize by activating triggers at the perfect moment to maximize rewards. ",
+      "howToPlayText": "How to play:\n1. Aiming:\nMove your cursor to aim-the arrow on the ball shows the strike direction.\n\n2. Power Charging:\nHold LMB to fill the arrow’s power gauge. Release to launch the ball! Striking too early cancels the shot.\n\n3. Collecting Stickers:\nAfter striking, the ball bounces off walls, collecting stickers, coins, and crystals. The more you gather in one turn, the higher your combo and bonuses!\n\n4. Triggers:\nCollect special icons (magnet, x2, freeze, etc.) to power up the ball or alter sticker behavior. For example, \"Ghost\" lets the ball pass through triggers, while \"Double Move\" grants a second strike without new stickers appearing.\n\n5. Buying Packs:\nBefore your first turn, choose a free Level 1 pack. Each pack contains 100 stickers, with 10 appearing per turn.\n\n6. Strategy Tips:\nUse \"Freeze\" or \"Bonus\" to increase the number of stickers on the field.\nCombine triggers like \"Magnet\" + \"x2\" for double rewards.\nPrioritize Holo-stickers - they grant x2 coins!",
+      "gameURL": "https://playgama.com/export/game/stickerball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickerball",
+      "genres": [
+        "arcade",
+        "mouse",
+        "cool-games",
+        "ball",
+        "mobile"
+      ],
+      "tags": [
+        "collecting-games",
+        "timing-games",
+        "collection-games",
+        "defold-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b7d10afc-2047-4195-94b3-fd588a207400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/403c7c5c-0283-4133-2f88-d8354bec9700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bfcdf90b696a4b5a95daecdbe13822a8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickerball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110241",
+      "slug": "rolling-balls-3d",
+      "title": "Rolling Balls 3D",
+      "description": "Rolling Balls 3D is a casual game in which you have to test your reaction and dexterity. The goal of the game is to guide the ball through an endless maze of obstacles, collecting balls along the way to get more! The bottom line is that every time you collect a ball, a clone of your ball is created and added to the maze, increasing the difficulty as you progress!",
+      "howToPlayText": "Swipe your finger or mouse to move the balls from side to side and avoid obstacles.\n\nCollect a lot of balls and reach the finish line to complete the level.",
+      "gameURL": "https://playgama.com/export/game/rolling-balls-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rolling-balls-3d",
+      "genres": [
+        "arcade",
+        "skill",
+        "3d",
+        "running",
+        "mouse",
+        "ball",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "casual-games",
+        "obstacle-games",
+        "agility-games",
+        "rolling-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d88ef11d-fcd2-47c2-7f2a-8aed1db19a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c9081227-f9f9-4553-3b49-38f2a6a2aa00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "60f57859a7d34f43a4349884421cab6d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rolling-balls-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111459",
+      "slug": "balls-ricochet",
+      "title": "Balls: Ricochet!",
+      "description": "Balls: Ricochet! - an arcade shooting game. The project pays tribute to the memory of old retro gaming. If you consider yourself a true connoisseur of games, you should play this game and immerse yourself in nostalgia. The game will delight you:\n-Authentic gameplay\n-Correct ball physics\n-Good visual design\nThe exciting, addictive gameplay will immerse you in the pursuit of the best score for a long time. The concept, developed in the early 80s, still works perfectly. Start playing and beat your friend's score! \nAlso pay attention to the following parts of the \"Balls\", have a nice game!",
+      "howToPlayText": "Your task in the game is to set the direction of the ball. The ball destroys blocks using the environment of the level, you can set the direction of the ball so that it ricochets off the walls and blocks, so in one shot you can knock out several blocks at once.",
+      "gameURL": "https://playgama.com/export/game/balls-ricochet?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/balls-ricochet",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "ball",
+        "physics",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "destroy-games",
+        "challenging-games",
+        "bricks-games",
+        "1-player-games",
+        "target-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f431cead-09df-48e2-e3df-eedf3c7ceb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cd93344c-b190-4038-7247-11df68a72300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d616151f479e4458811ce65e78083f84",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/balls-ricochet?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111479",
+      "slug": "cannon-strike",
+      "title": "Cannon Strike",
+      "description": "Welcome to the fun world of Cannon Strike, an arcade game where you shoot balls from a cannon! It's very easy to play.\nSo, are you ready to aim and fire? Download Cannon Strike Ball now and start playing! Challenge yourself to see how many levels you can pass! \nGet the game today and have a blast shooting cannonballs! \n\n",
+      "howToPlayText": "To finish a level, you need to fill all the buckets with balls. 🪣\nDrop the right number of balls into each bucket to move to the next level. Watch out for moving obstacles that can block your shots!\nIn Cannon Strike, aim and shoot as many cannonballs as you can into the basket. It's a game that tests your aiming skills with a bit of physics fun!",
+      "gameURL": "https://playgama.com/export/game/cannon-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cannon-strike",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "shooting",
+        "mouse",
+        "ball",
+        "physics",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "addictive-games",
+        "accuracy-games",
+        "challenge-games",
+        "1-player-games",
+        "level-games",
+        "simple-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7a90cb43-a576-492e-f196-4976d1195000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7e872ab2-6195-47e7-8d17-ee5c6c82e500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e497ce881a064682b0932fb4d2e54496",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cannon-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99708",
+      "slug": "Ball-bounce-try-it",
+      "title": "Ball Bounce: Try It",
+      "description": "Ball Bounce is a casual game that is very fun and challenging. Your task is to guide the ball which continues to bounce towards the portal while passing through obstacles\n\n",
+      "howToPlayText": "Ball Bounce is a casual game that is very fun and challenging. Your task is to guide the ball which continues to bounce towards the portal while passing through obstacles.\nDesktop Controls:\n← (Left Arrow): Move left.\n→ (Right Arrow): Move right.\nMobile Controls:\npress Screen right: Move left.\npress Screen left: Move right.",
+      "gameURL": "https://playgama.com/export/game/Ball-bounce-try-it?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/Ball-bounce-try-it",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "platform",
+        "ball",
+        "mobile"
+      ],
+      "tags": [
+        "games-for-pc",
+        "reaction-games",
+        "brain-training-games",
+        "dodge-games",
+        "flip-games",
+        "visual-games",
+        "challenge-games",
+        "agility-games",
+        "gravity-games",
+        "1-player-games",
+        "geometry-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f0647f62-9c1f-426a-eb9a-8720158c7500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/169ed946-0724-46f8-507d-efd2c05c8b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3f2e8c5ffc10ec123f8413262770862e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/Ball-bounce-try-it?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111851",
+      "slug": "tenkyu-ball",
+      "title": "TENKYU BALL",
+      "description": "TENKYU BALL is a 3D casual ball-rolling puzzle game where you must guide a ball through tilting stages to reach the goal. The environment is minimalistic, and the challenge comes from balancing control vs risk. As you tilt the stage more, the ball moves faster, but there’s danger: if you tilt too much, the ball may fall off and you'll fail the level.",
+      "howToPlayText": "Tilt the stage / swipe finger:\nYou swipe (or drag) on your screen to tilt the surface on which the ball rests.\nThe tilt direction determines where the ball rolls.\nControl carefully:\nIf you tilt too much, the ball gains speed and can fall off the edge.\nTilt only as much as needed to navigate turns, avoid gaps, and make tricky maneuvers.\nReach the goal:\nEach stage has a goal point or exit you must reach. Successfully get the ball there without falling off.\nFailure and retry:\nIf the ball falls, the level ends (you lose) and you’ll need to restart that stage.",
+      "gameURL": "https://playgama.com/export/game/tenkyu-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tenkyu-ball",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "maze",
+        "ball",
+        "physics"
+      ],
+      "tags": [
+        "rolling-games",
+        "balance-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b010a179-8e0e-4760-2b90-7cfe93104400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bf0c74bf-059d-4a55-14d9-786b1c704f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "12f18dfbd581bda07346b1039d705230",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tenkyu-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

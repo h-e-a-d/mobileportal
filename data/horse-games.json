@@ -1,0 +1,58 @@
+{
+  "category": "horse",
+  "count": 1,
+  "games": [
+    {
+      "id": "90508",
+      "slug": "fix-the-hoof",
+      "title": "Fix The Hoof",
+      "description": "Dive into the calming experience of Fix The Hoof, a free online game where you care for the hooves of different animals like horses and goats. Enjoy a captivating 3D environment while earning money to improve your farm. Accessible on both mobile and desktop, it's perfect for relaxation.",
+      "howToPlayText": "Who doesn't like the ASMR feel in cleaning and fixing hoof of a horse, cow, goat etc. This is the most satisfying ASMR 3d game for cleaning, polishing and painting hooves. You've seen it in the ASMR videos and now you get to do it yourself in this oddly satisfying game!",
+      "gameURL": "https://playgama.com/export/game/fix-the-hoof?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fix-the-hoof",
+      "genres": [
+        "puzzle",
+        "simulation",
+        "3d",
+        "mouse",
+        "animals",
+        "clicker",
+        "popular",
+        "horse",
+        "cozy"
+      ],
+      "tags": [
+        "iphone-games",
+        "cleaning-games",
+        "relaxing-games",
+        "painting-games",
+        "asmr-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/81138162-acd8-4fa7-bf65-c701934f6f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1dac9c35-87f2-4c26-970f-aa05c1465700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "36af61d07eae46e6a3b17261116dad00",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fix-the-hoof?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

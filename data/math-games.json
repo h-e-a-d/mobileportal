@@ -1,0 +1,325 @@
+{
+  "category": "math",
+  "count": 7,
+  "games": [
+    {
+      "id": "112123",
+      "slug": "maths-puzzle",
+      "title": "Maths Puzzle",
+      "description": "Maths Puzzle is a fun and engaging logic-based game that challenges your mathematical skills and problem-solving abilities. With a variety of puzzles that range in difficulty, this game is perfect for anyone looking to improve their mental agility and enjoy a fun, educational experience. Your task is to solve mathematical equations by figuring out the missing numbers, symbols, or operations in order to make both sides of the equation equal. The puzzles come with increasing complexity, so you’ll need both strategy and quick thinking to succeed.",
+      "howToPlayText": "Objective: Your goal is to solve the math puzzle by filling in the missing numbers or operations to make the equation correct.\n\nStart the Game: Click on the puzzle to begin. You’ll be presented with an equation that is missing some parts (numbers or operators).\n\nSolve the Puzzle: Use your knowledge of basic arithmetic (addition, subtraction, multiplication, and division) to complete the puzzle. You may need to fill in missing numbers or choose the correct mathematical operators to balance both sides of the equation.\n\nHints: If you're stuck, some versions of the game offer hints that help guide you towards the solution. Use them wisely to avoid wasting moves.\n\nLevels: As you progress, the difficulty will increase. New challenges such as more complex equations or multiple missing elements will keep you on your toes.\n\nTime and Scoring: Depending on the version of the game, you may be timed, so solving the puzzles quickly could earn you more points or rewards.\n\nWinning the Game: Successfully solve a series of puzzles to move to the next level. Keep going to challenge your brain and improve your math skills.",
+      "gameURL": "https://playgama.com/export/game/maths-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/maths-puzzle",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "kids",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "learning-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/04a7f5df-ca52-482d-05ed-e7149c6f0100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b11a4726-741d-4d88-1b8d-80190fddc500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8b1e785e7eb557795659893b2c1fefcc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/maths-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110372",
+      "slug": "jennys-math-puzzle",
+      "title": "Jenny's Math Puzzle",
+      "description": "\"Jenny's Math Puzzle\" is an engaging educational puzzle game that combines math challenges with interactive gameplay. Players must strategically place number tiles onto a grid to form correct mathematical equations. As a unique twist, the game seamlessly blends arithmetic practice with logical problem-solving, offering a fresh take on the genre. Its gradually increasing difficulty and visually appealing design make it both fun and mentally stimulating for players of all ages.",
+      "howToPlayText": "The main objective is to complete all mathematical equations on the board by dragging number tiles from the pool to the empty slots. Each equation must be valid (e.g., horizontally or vertically correct). To win, fill the entire grid correctly without any mismatches. The primary control is using the mouse (or touch on mobile devices) to drag and drop tiles. If you make a mistake, you can remove tiles by dragging them back to the pool.",
+      "gameURL": "https://playgama.com/export/game/jennys-math-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/jennys-math-puzzle",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "kids",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bddce9ee-d788-4c41-7202-a74361529b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b4b6228c-253b-4288-6a48-b4a570288c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "951576fe9a694655b1f7134bff12c083",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/jennys-math-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95241",
+      "slug": "master-of-numbers-4abc-1",
+      "title": "Master of Numbers",
+      "description": "Experience the excitement of mathematics with Master of Numbers, a fast-paced online game. Race to collect beneficial numbers while dodging harmful ones, enhancing your math and strategy skills as you progress through increasingly challenging levels. Play on your phone or computer for an engaging mental workout.",
+      "howToPlayText": "The goal: to reach the finish line by typing the maximum possible number.\nAbsorb numbers smaller than yours highlighted in blue. If you encounter a red number larger than yours, you will lose your number and you will have to start over.\nAvoid electric saws, cross bridges and jump over ditches.\nAt the finish line you will find a lot of walls to destroy",
+      "gameURL": "https://playgama.com/export/game/master-of-numbers-4abc-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-of-numbers-4abc-1",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "running",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4bec3488-0419-41de-608a-c421fa9e9900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b1f3519c-e9de-47b0-a30b-5930f4d0ed00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "479536cfded64c94bb11a91f161e63fc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-of-numbers-4abc-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "56",
+      "slug": "merge13-playgama",
+      "title": "Merge 13",
+      "description": "Merge 13 is a thrilling online puzzle game where players combine numbered cells for higher scores. Accessible on various devices without downloads, it provides a captivating mix of logic and math, perfect for puzzle enthusiasts. Jump right in and challenge your strategic thinking to reach 13!",
+      "howToPlayText": "Drag cells with the same value together to merge them into a higher-numbered cell. Keep combining until you achieve a greater value. The higher the number you reach, the more challenging the puzzle becomes. Watch out for how you position your cells and plan ahead for bigger merges.\nFocus on merging cells strategically instead of randomly dragging them together. Sometimes it's better to save certain cells for future merges. Anticipation and planning will help you reach the highest values.",
+      "gameURL": "https://playgama.com/export/game/merge13-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/merge13-playgama",
+      "genres": [
+        "puzzle",
+        "number",
+        "math",
+        "merge",
+        "brain",
+        "logic"
+      ],
+      "tags": [
+        "brain-training-games",
+        "interactive-games",
+        "addictive-games",
+        "learning-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "simple-games",
+        "borwser-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/759e0857-6352-44d4-bf2d-50f1cbf59700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/10d7e239-93cb-49d0-8304-647a93f80300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6b0b907a2e02406487b2d45ed7ef5c06",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/merge13-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111208",
+      "slug": "emoji-math-quiz",
+      "title": "Emoji Math Quiz",
+      "description": "Embark on a brain-teasing adventure with Emoji Math, the game that blends math puzzles with emoji fun! Challenge yourself through six equations where each emoji represents a numerical value. Sharpen your skills as you decipher the emoji codes to solve each equation correctly. Dive into Emoji Math and unravel the mystery behind every emoji's value to conquer this exciting mathematical journey! ",
+      "howToPlayText": "Click on empty form to input your answer. Use hint if you are stuck. Theme toggle option for dark mode and light mode support. View leaderboards and share your progress with your friends.",
+      "gameURL": "https://playgama.com/export/game/emoji-math-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emoji-math-quiz",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "kids",
+        "math",
+        "educational"
+      ],
+      "tags": [
+        "brain-training-games",
+        "accuracy-games",
+        "memory-games",
+        "challenging-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/66910c87-5d93-4c7c-fd71-b22dc998d500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/87ef103f-580e-4ee8-8a59-d4493df69c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bcf2d37eb9714095b5c2c4363e4c7152",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emoji-math-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111181",
+      "slug": "nullify--merge-math",
+      "title": "Nullify - Merge Math",
+      "description": "Nullify is a minimal abstract relaxing puzzle with the goal of clearing everything from the screen by merging numbers and math symbols.\nImprove your logic and math skills by completing unique handcrafted levels and infinite generated levels.\n\nFeatures:\n-56 Levels to complete\n-4 Infinite games modes\n-Simple and easy controls by dragging elements\n-13 math symbols",
+      "howToPlayText": "Nullify is a minimal abstract relaxing puzzle with the goal of clearing everything from the screen by merging numbers and math symbols.\nImprove your logic and math skills by completing unique handcrafted levels and infinite generated levels.\nClick and drag to move the symbols and merge them to clear everything from the screen.",
+      "gameURL": "https://playgama.com/export/game/nullify--merge-math?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/nullify--merge-math",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "number",
+        "math",
+        "merge",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8408974b-c042-45ce-f084-95e81623b100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c355f682-fa5b-49fe-c6fb-a7dc05d99a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "37f624d128a14d9fb3181e67c5d26cda",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/nullify--merge-math?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111622",
+      "slug": "number-sums",
+      "title": "Number Sums",
+      "description": "Number Sums is a challenging number puzzle to train your mental math. The goal is to make the sum of numbers in each row, column, and colored region be equal to the clues on the side of the board and inside the colored regions. Practice your math skills and logic with Number Sums!\n\nEach row, column, and region has its own solution, but the goal of this math game with numbers is to make them all work at the same time. You have to circle the correct numbers and erase the numbers you don't need. Remember, the sums of the numbers in rows, columns and colored regions should be equal to the numbers on the sides of the board and inside each region. Each level of this numbers game has only one solution, try to find it to solve educational math puzzles!\n\nMental arithmetic is an invaluable math skill for your everyday life. Inside Number Sums you'll find math puzzles of various difficulty. The mechanics of these math riddles sounds simple but requires a lot of thinking. Playing sum number games and solving math problems can improve your arithmetic skills. If you are interested in number puzzles or math games for adults, and in training your addition skills, play this engaging number game for hours of fun!",
+      "howToPlayText": "- Circle the correct numbers that add up to the values on the sides of the rows, columns and regions.\n- Use the toggle to switch between circling and erasing modes. It will help you to mark the correct numbers and the extra numbers that you don't need.\n- Each level of these math puzzles has only one possible solution, so make sure that the rows, columns and colored regions work together at the same time.\n- Train your math skills with this free number puzzle with various levels of difficulty. Open different types of board from 3x3 to 10x10.\n",
+      "gameURL": "https://playgama.com/export/game/number-sums?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/number-sums",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/67e77593-b062-4ced-da00-4f278a40fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd3cf9db-2024-48bc-d590-b82749d8e300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "13346c89fee003f809bf063b8e981c63",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/number-sums?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

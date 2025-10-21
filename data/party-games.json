@@ -1,0 +1,48 @@
+{
+  "category": "party",
+  "count": 1,
+  "games": [
+    {
+      "id": "105510",
+      "slug": "slides-and-climbs",
+      "title": "Slides And Climbs",
+      "description": "Slides And Climbs is a laid-back online game based on the traditional English board game of the same name, which served as an inspiration for the American version known as Chutes and Ladders. This beloved classic board game can be played for free in single-player mode or with friends locally. Roll the dice and navigate your way to the finish line. Let’s hope you avoid landing on a snake!",
+      "howToPlayText": "You have the option to play with as many as six players, where each player can choose their own color. Roll the dice to advance your piece, and rolling a 6 gives you an additional free roll. You can enjoy Slides And Climbs with a maximum of six friends or choose to compete against AI opponents.",
+      "gameURL": "https://playgama.com/export/game/slides-and-climbs?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/slides-and-climbs",
+      "genres": [
+        "kids",
+        "multiplayer",
+        "party",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/960eebb5-f5fa-49f1-9092-edb9fe922d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/949f14aa-1e10-4767-0120-687a53288600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b03684aaac6c4c7093e227556c20ee70",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/slides-and-climbs?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "category": "stickman",
+  "count": 13,
+  "games": [
+    {
+      "id": "98050",
+      "slug": "break-stick-completely",
+      "title": "Break Stick Completely",
+      "description": "Dive into the quirky realm of Break Stick Completely, where you unleash mayhem with a stick figure. Use vehicles and obstacles to create comical chaos and rack up points through fun stunts. Accessible on phone and computer, this free game promises endless laughter and enjoyment.",
+      "howToPlayText": "🎮 Choose a vehicle – from a motorcycle to a supermarket cart!  \n🚧 Add funny obstacles – giant ramps, traps, and much more!\n🔥 Press “Start” and watch the crazy stunts Stick performs!\n🏆 Earn points, unlock new levels, and come up with even more experiments!",
+      "gameURL": "https://playgama.com/export/game/break-stick-completely?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/break-stick-completely",
+      "genres": [
+        "arcade",
+        "simulation",
+        "funny",
+        "popular",
+        "ragdoll",
+        "physics",
+        "crazy-games",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "stunt-games",
+        "destruction-games",
+        "crash-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e7977913-a9c7-4c2e-fd24-76a8f1b58200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fb11d41-ca7e-493d-0a8c-c9ce9c757500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c899ec6803774ab3a51a5316b7cd9a9f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/break-stick-completely?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106342",
+      "slug": "stickman-clicker",
+      "title": "Stickman Clicker",
+      "description": "Stickman Clicker is a clicker game where you help a stickman become a billionaire. Tap to earn money, invest in upgrades, and unlock stylish accessories. Customize your stickman and achieve milestones by unlocking various achievements. How wealthy can you get?",
+      "howToPlayText": "Click the stickman to earn money, buy upgrades, unlock achievements, and grow your idle empire fast!",
+      "gameURL": "https://playgama.com/export/game/stickman-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-clicker",
+      "genres": [
+        "strategy",
+        "clicker",
+        "management",
+        "idle",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "business-games",
+        "incremental-games",
+        "cash-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/974aa683-f001-441a-1368-853225b63300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0b498ca4-366d-4278-dc72-6a1d23eb7b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ff949c50c537467e9875bc3f61790045",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86412",
+      "slug": "ragdoll-soccer",
+      "title": "Ragdoll Soccer",
+      "description": "Enter the thrilling world of Ragdoll Soccer, where you command a stick figure footballer in exciting games. Aim to outscore rivals and become a champion, whether playing alone or with a friend, offering nonstop enjoyment on your phone or computer.",
+      "howToPlayText": "Play football with a stickman! A fun 2D sports game for one or two players!\nControl the stickman like a doll and hit the ball to score a goal against the opponent.\n\nFeatures of the game:\n - single player mode\n- local multiplayer for two players\n - Championship mode\n - The game has boosters and abilities!\n - penalty shootout mode\n\nTo play with a PC, you can use:\n- keyboard (WASD +QE)\n- mouse\n- gamepad\nTo play from your phone, use touch input",
+      "gameURL": "https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ragdoll-soccer",
+      "genres": [
+        "action",
+        "sports",
+        "two-player",
+        "penalty",
+        "henry-stickmin",
+        "unity",
+        "stickman"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "family-games",
+        "controller-compatible-games",
+        "pixel-games",
+        "borwser-games",
+        "2-player-soccer",
+        "2-player-sports",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aad5362e-36ed-4c47-4c6d-a6e1da2db100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/859018fb-3e5a-4e4c-4e17-3d3b06290b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6dcb5bacbd7941cfbe9ba84680910aa9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112423",
+      "slug": "stickman-escape--plane-and-ship",
+      "title": "Stickman Escape - Plane and Ship",
+      "description": "Prove to everyone that you are a rich man! Only those players who have money can make a purchase in this game. The continuation of the game about escaping from the ship is paid.\nIn this game you need to find all the successful options for escaping from the plane and the ship. You will face difficulties on the way, enemies, a choice of items, a choice of actions and monsters. You will play as the character Stick.",
+      "howToPlayText": "Find all the successful ways to escape from the plane and ship.\nUse your computer mouse to control the game.\nIf you have a mobile device, use a stylus or your finger.",
+      "gameURL": "https://playgama.com/export/game/stickman-escape--plane-and-ship?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-escape--plane-and-ship",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "skill",
+        "escape",
+        "brain",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "ship-games",
+        "plane-games",
+        "choice-games",
+        "interactive-games",
+        "decision-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/588cbeea-17aa-44fe-83a3-13e1dd6f8600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/010d0750-ddfe-46b3-39f6-41443098b300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "533457ccc2582dd48c5fdc6e439c0b1c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-escape--plane-and-ship?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112553",
+      "slug": "stick-new-year-in-prison",
+      "title": "Stick New Year in Prison",
+      "description": "You will play as a Stickman character. Your character ended up behind bars in a prison cell on New Year's Eve. \nYour task is to find three successful ways to escape from prison. On Christmas Day, you will be presented with ten different items in a package that can be used to escape. In the game you will face a lot of problems that you will need to solve in order to get a taste of freedom. Various locations with a New Year's Eve theme will cheer you up.",
+      "howToPlayText": "Use a computer mouse to control the game.\nIf you have a mobile device, then use a stylus or a finger.\nTo complete the game, you need to click on different objects and find successful ways to escape from prison.",
+      "gameURL": "https://playgama.com/export/game/stick-new-year-in-prison?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stick-new-year-in-prison",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "point-and-click",
+        "escape",
+        "stickman"
+      ],
+      "tags": [
+        "iphone-games",
+        "holiday-games",
+        "1-player-games",
+        "android-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dbc0ac66-a23c-424a-3ab1-2d4428209100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/82753373-78b1-4e76-1ed3-ac99ee9cad00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b8ee31ab57d4de68cef4de6ccb22d941",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stick-new-year-in-prison?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64059",
+      "slug": "archery-ragdoll",
+      "title": "Archer Ragdoll",
+      "description": "Get ready for the exciting adventure that awaits you:\n\n• Experience the incredible ragdoll archer physics that will leave you breathless;\n• Feel the realistic physics of arrows and armor - each arrow loudly ricochets and bounces, creating unpredictable situations;\n• Discover unique arrows with unique gameplay features that will add variety to your game;\n• A damage system awaits you, where each part of the body receives a different level of damage, making the game even more realistic;\n• Upgrade your hero to become a real master archer;\n• Fight interesting opponents and powerful bosses for a real challenge;\n• Enjoy beautiful and pleasant graphics, where explosions, sparks and splashes will envelop you like “Fire”;\n• Participate in the general ranking of players to show your skills;\n• Constantly level up with daily player ratings.",
+      "howToPlayText": "Control the archer using the mouse or by touching the screen on the left highlighted part of the screen.\n\nHold the mouse (finger) behind the archer's back to draw the bow (no need to pull it horizontally). Keeping the bow drawn, aim and release.",
+      "gameURL": "https://playgama.com/export/game/archery-ragdoll?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/archery-ragdoll",
+      "genres": [
+        "arcade",
+        "funny",
+        "ragdoll",
+        "physics",
+        "archery",
+        "stickman"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "iphone-games",
+        "addictive-games",
+        "challenging-games",
+        "desktop-games",
+        "indie-games",
+        "shoot-em-up-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7857df6e-c7b3-48b9-1ffe-ed3bd8dfa100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1758c1ec-e406-4a36-84a9-fe3388c65f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "68e2382101d549eab34209b7a82998ce",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "e4f8894359f24d4abff144b174ff89c2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/archery-ragdoll?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6224",
+      "slug": "stickman-miners-wars-playgama",
+      "title": "Stickman Miners Wars",
+      "description": "Lead your stickman king to victory in Stickman Miners Wars, where strategic decision-making is key. Command an army of miners and warriors to build your forces and triumph over opponents. Upgrade your units and yourself as you gain experience, and strategically attack enemy castles while defending your own. Will your strategy lead you to dominance? Play Stickman Miners Wars now!",
+      "howToPlayText": "First, you need to choose the first region you want to reclaim on the global map and press the PLAY button.\n\nAfter this, you will enter the level and can play as the Stickman King. To move, use the keyboard keys (arrow keys or WASD) or a joystick or mouse.\n\nTo start, go to the miner purchase zone and buy a few miners. They will begin mining gold for you, and you can mine gold alongside them. Once you have accumulated enough gold, go to the warrior purchase zone to build your army.\n\nTo send your army into attack, click the sword icon on the right or press the E key. Your goal is to first destroy the opponent’s towers and then their castle.\n\nBut be careful, as the opponent aims to do the same to your castle.\n\nControls:\n\nWASD / arrow keys / drag left-click = move\nLeft-click = interact with the in-game buttons",
+      "gameURL": "https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-miners-wars-playgama",
+      "genres": [
+        "action",
+        "two-player",
+        "pve",
+        "battleship",
+        "war",
+        "stickman"
+      ],
+      "tags": [
+        "interactive-games",
+        "1-player-games",
+        "mine-games",
+        "incremental-games",
+        "building-games",
+        "tactical-games",
+        "king-games",
+        "mining-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c6958da-36e3-475a-5751-27b68d7f9800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8a219fbe-bd6b-4304-66bb-ee5bee3aad00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d65db999ae2a432393218cee2791cbb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95859",
+      "slug": "stick-boy-bazooka-ragdoll",
+      "title": "Stick Boy: Bazooka Ragdoll",
+      "description": "Dive into the thrilling realm of Stick Boy: Bazooka Ragdoll, where strategy and chaos collide. Use various powerful bazookas to defeat enemies and destroy bases. Make smart choices in ammo to enjoy the chaos and lead Stick Boy to victory, available for free online on phones and computers.",
+      "howToPlayText": "Gameplay:\n\n- To win: Destroy all enemies in the level\n- Buy new weapons with unique bullets\n- Defeat: If your Stick is destroyed by bullets or level hazards, and if you destroy hostages\n\nControls:\n\nHold down your finger on the screen or press and hold the Left Mouse Button to take aim.\nRelease to fire\n\nDazzling explosive effects and impressive physics turn each level into a unique puzzle",
+      "gameURL": "https://playgama.com/export/game/stick-boy-bazooka-ragdoll?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stick-boy-bazooka-ragdoll",
+      "genres": [
+        "action",
+        "gun",
+        "ragdoll",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2758935e-ef48-40ed-a48d-d9c0013d8100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/723e8921-672b-408a-e596-8160412bf300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "91fec5fb72824cd3827a5a7539605a39",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stick-boy-bazooka-ragdoll?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97401",
+      "slug": "stickboy-epic-swordsman-ef96-1",
+      "title": "Stickboy Epic Swordsman",
+      "description": "Embrace your warrior spirit in Stickboy Epic Swordsman, an exciting online game where you equip diverse armor, face tough challenges, and defeat powerful bosses. Explore a vibrant world, gather exclusive gear, and find unique swords to enhance your combat tactics. Rise through the ranks and test your skills against others.",
+      "howToPlayText": "Control your character with the WAD keys (computer) or virtual buttons (smartphone/tablet), E key punch or virtual punch button.",
+      "gameURL": "https://playgama.com/export/game/stickboy-epic-swordsman-ef96-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickboy-epic-swordsman-ef96-1",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "boys",
+        "cool-games",
+        "popular",
+        "stickman"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4e7b6b72-4a09-444f-f417-f48e1b804d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9b54d225-6612-4ba6-c642-772491083a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3f42a72db8c14069acdfffa1df169902",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickboy-epic-swordsman-ef96-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63951",
+      "slug": "halloween-stickman-2",
+      "title": "Halloween Stickman 2",
+      "description": "Halloween Stickman 2 offers an exhilarating gaming experience where you navigate a mischievous, spooky environment. Play online for free and dive into a Halloween-themed adventure as you outsmart your trickster friend, Stickman, to seek revenge amidst the festive chaos.",
+      "howToPlayText": "Use a computer mouse to control the game.\nIf you have a mobile device, use a stylus or a finger.\nIt is necessary to watch the story animation and choose a way to punish the Stickman. You need to click on the buttons to see all the punishments of the Stickman.",
+      "gameURL": "https://playgama.com/export/game/halloween-stickman-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/halloween-stickman-2",
+      "genres": [
+        "action",
+        "adventure",
+        "funny",
+        "story",
+        "ghost",
+        "point-and-click",
+        "scary",
+        "halloween",
+        "stickman"
+      ],
+      "tags": [
+        "2d-games",
+        "mystery-games",
+        "interactive-games",
+        "detective-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/76fb6b17-fe22-424b-0796-15c8b0f41f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/099a6548-afcf-4975-cd14-b0b91ae66500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "645a8dc8134943ea984e281b1c94716d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/halloween-stickman-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63952",
+      "slug": "halloween-stickman",
+      "title": "Halloween Stickman",
+      "description": "Halloween Stickman is an exciting adventure game where you can exact revenge on your tricky friend by rewinding time. Set in a spooky atmosphere, experience a captivating story with your choices influencing the outcome. Play for free on any device, and immerse yourself in this thrilling 2D horror journey.",
+      "howToPlayText": "Use a computer mouse to control the game.\nIf you have a mobile device, use a stylus or a finger.\nIt is necessary to watch the story animation and choose a way to punish the Stickman. You need to click on the buttons to see all the punishments of the Stickman.",
+      "gameURL": "https://playgama.com/export/game/halloween-stickman?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/halloween-stickman",
+      "genres": [
+        "action",
+        "adventure",
+        "funny",
+        "scary",
+        "halloween",
+        "stickman"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "pixel-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/44979e18-f8d0-4895-5f58-c237dd1e5000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/30188696-5313-41ab-ce5b-00ad14818200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4eb608888ba949099b3d3a8fa746fd9a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/halloween-stickman?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86408",
+      "slug": "stickman-jailbreak-story-playgama",
+      "title": "Stickman: Jailbreak Story",
+      "description": "Dive into the exciting world of \"Stickman: Jailbreak Story,\" where cleverness and agility lead to liberation. Play as an innocent stickman trapped in a jail, solving complex puzzles and avoiding clever guards and tricky obstacles. Enjoy an engaging gameplay experience on both mobile and desktop that tests your strategy and quick thinking.",
+      "howToPlayText": "Use your mouse or tap the screen to select items, interact with objects, and solve puzzles. Make quick decisions and choose the correct options to outsmart guards and navigate your way to freedom!",
+      "gameURL": "https://playgama.com/export/game/stickman-jailbreak-story-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-jailbreak-story-playgama",
+      "genres": [
+        "story",
+        "henry-stickmin",
+        "stickman"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "stealth-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/26866690-4b76-4bce-f554-8b9779285600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b7ead6f5-569f-4277-d29c-f64699785800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4981b9d5a8d44d299cda952df9e311a8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-jailbreak-story-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110038",
+      "slug": "ammo-rush-master",
+      "title": "Ammo Rush Master",
+      "description": "Get ready to run, multiply, and blast your way to victory in Ammo Rush Master!\nDodge obstacles, choose the right gates, and build the biggest Ammo army of bullets. Then, grab your blaster and unleash a storm of foam darts to smash through targets, enemies, and bosses!\n\n? Features\n\nAddictive hyper-casual gameplay – easy to play, hard to master.\n\nFun math gates that boost or reduce your army.\n\nColorful worlds: beach, city, rainbow skies, desert, and more.\n\nHuge variety of Ammo-style blasters to unlock and upgrade.\n\nExciting boss battles at the end of each world.\n\nSmooth controls and satisfying shooting effects.\n\n⚡ Can you become the ultimate Ammo Rush Master and blast your way to the top? Download now and find out!",
+      "howToPlayText": "? How to Play\n\nRun through the track and pass through gates (+, -, ×, ÷) to increase your firepower.\n\nCollect stickman allies and multiply your shooting strength.\n\nAvoid traps and tricky gates that can reduce your numbers.\n\nAt the end, aim your Ammo blaster and fire away to break through walls and bosses!",
+      "gameURL": "https://playgama.com/export/game/ammo-rush-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ammo-rush-master",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "shooting",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "hyper-casual-games",
+        "addictive-games",
+        "arcade-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e824f4d2-fd3d-427b-3357-0945b5acf800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8afa0f1e-a9ee-42c6-2b6f-3e4d44697900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c230fcb521634da1afa18b0d460baf6f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ammo-rush-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

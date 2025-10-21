@@ -1,0 +1,92 @@
+{
+  "category": "geography",
+  "count": 2,
+  "games": [
+    {
+      "id": "112619",
+      "slug": "world-flags-quiz",
+      "title": "World Flags Quiz",
+      "description": "World Flags Quiz is a fast-paced, fun, and educational mobile game that challenges players to match countries with their correct flags. Designed with simplicity and clarity in mind, the game offers a single, highly addictive game mode that tests your geographical knowledge one country at a time. In each round, players are presented with the name of a country — such as France, Brazil, Japan, or Nigeria — and must choose the correct flag from a set of four options. Only one is right, and the other three are cleverly selected to test your attention to detail and flag recognition skills. Enjoy playing this flag quiz game here",
+      "howToPlayText": "use mouse to choose any answer! World Flags Quiz is a fast-paced, fun, and educational mobile game that challenges players to match countries with their correct flags. Designed with simplicity and clarity in mind, the game offers a single, highly addictive game mode that tests your geographical knowledge one country at a time. In each round, players are presented with the name of a country — such as France, Brazil, Japan, or Nigeria — and must choose the correct flag from a set of four options. Only one is right, and the other three are cleverly selected to test your attention to detail and flag recognition skills. Enjoy playing this flag quiz game here",
+      "gameURL": "https://playgama.com/export/game/world-flags-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/world-flags-quiz",
+      "genres": [
+        "quiz",
+        "kids",
+        "mouse",
+        "geography",
+        "trivia",
+        "educational"
+      ],
+      "tags": [
+        "attention-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1af852a6-a7e5-40b1-37cc-d0d16d50d300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/da2d9c43-c5cc-4b97-1770-f7b455090400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8bf307c6b440971eb51402910f8a0aad",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/world-flags-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86403",
+      "slug": "flag-puzzle-jam-collect-flags",
+      "title": " Flag Puzzle Jam: Collect Flags",
+      "description": "Explore the intriguing realm of Flag Puzzle Jam, where puzzle-solving and flag collection unite. This engaging and free online game offers both relaxation and an opportunity to discover national symbols. Enjoy a colorful and seamless experience on any device as you embark on this worldwide quest.",
+      "howToPlayText": "🧩 Welcome to Flag Puzzle Jam 🌍\n\nImmerse yourself in Flag Jam, a unique blend of puzzle-solving, flags collecting, and visual ASMR effects! Tap to match banner pieces, watch them glide smoothly into place, and clear the board as you complete each flag. With easy-to-learn mechanics and stunning visual effects, Flag Jam is the perfect game to help you unwind.\n\n🎮 How to Play:\n\n🏁 Simple & Addictive Gameplay: Just tap on a banner piece, and it will automatically move to its correct spot. Complete each flag with the right pieces!\n🧠 Strategic Puzzle Solving: Plan each tap carefully – if you fill up all slots with the wrong pieces, you’ll lose the level. Focus on matching pieces to clear the board!\n🗺️ Complete Flags to Progress: Each level challenges you to complete flags by finding and matching all the correct pieces.\n🌐 Collect & Display Flags: Unlock national symbols from various countries around the world as you complete levels. Build your own banner collection in the Avenue of Flags!",
+      "gameURL": "https://playgama.com/export/game/flag-puzzle-jam-collect-flags?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/flag-puzzle-jam-collect-flags",
+      "genres": [
+        "puzzle",
+        "geography"
+      ],
+      "tags": [
+        "relaxing-games",
+        "learning-games",
+        "mind-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6e1b662c-abb0-43a0-a522-cac1695b1c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6f433a83-49a3-4ebd-becf-f4fc026d1500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8d42f2b85fea499f87b3efda3ee98ae2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/flag-puzzle-jam-collect-flags?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

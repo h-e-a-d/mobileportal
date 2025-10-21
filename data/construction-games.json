@@ -1,0 +1,392 @@
+{
+  "category": "construction",
+  "count": 8,
+  "games": [
+    {
+      "id": "108864",
+      "slug": "constructor-bricks",
+      "title": "Constructor Bricks",
+      "description": "An exciting building game awaits you, where you can immerse yourself in the world of creative design. The game offers many levels with a variety of models, from simple objects to complex architectural masterpieces. Each project includes step-by-step instructions, making it easy for players to follow and assemble unique structures.\n\nThis is a great way to develop spatial thinking skills, attentiveness, and patience. During the assembly process, you will not only have fun but also learn about different design approaches and architectural styles. Participate in exciting challenges, compete with friends, and share your successes.\n\nJoin the community and discover an amazing world where your imagination becomes reality, even if you follow clear instructions!",
+      "howToPlayText": "The construction set is assembled by clicking on the blocks specified in the instructions.\n\nTo drag blocks, hold the cursor or finger on the desired block",
+      "gameURL": "https://playgama.com/export/game/constructor-bricks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/constructor-bricks",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "simulation",
+        "construction",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "bricks-games",
+        "learning-games",
+        "challenge-games",
+        "level-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cb4c0b78-c727-4e1c-9ac0-152c30de4d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3e17f7df-ae54-476b-38e3-6e99b32a6500/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/constructor-bricks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99739",
+      "slug": "space-rovers",
+      "title": "Space Rovers",
+      "description": "Strap in and get ready to conquer the Red Planet in Space Rovers — a physics-based rover builder and cargo delivery game where your engineering skills are the key to survival. Design unique vehicles, transport goods across unforgiving Martian landscapes, and experience the thrill of interplanetary logistics like never before.",
+      "howToPlayText": "Assemble rovers from a wide selection of wheels and blocks. No two vehicles are the same — each build reflects your creativity and problem-solving skills. Whether you favor compact designs or massive cargo haulers, the possibilities are endless.\n\nDesktop Controls:\n↑ (Up Arrow) / → (Right Arrow): Move forward.\n↓ (Down Arrow) / ← (Left Arrow): Move backwards.\n\nMobile Controls:\nLeft Pedal: Move forward.\nRight Pedal: Move backwards.",
+      "gameURL": "https://playgama.com/export/game/space-rovers?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/space-rovers",
+      "genres": [
+        "adventure",
+        "physics",
+        "space",
+        "construction",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "customization-games",
+        "creativity-games",
+        "building-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dcb04c09-c1bb-40fc-d207-c11914922000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c6d2ce3c-4091-463b-dcea-a1456281a600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7a934a651e334aa8b6cfa2c82b7e0358",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/space-rovers?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99453",
+      "slug": "airplane-factory--tycoon",
+      "title": "Airplane Factory - Tycoon",
+      "description": "Build and expand your own aviation empire in Airplane Factory - Tycoon ! Start small by producing lightweight planes, and gradually scale up to manufacturing giant airliners and advanced fighter jets. Manage production lines, upgrade your factory facilities, enhance your manager’s skills, and unlock new types of aircraft to boost your profits. Strategically grow your business to become the ultimate aircraft manufacturer! ",
+      "howToPlayText": "Controls on Desktop:    \n- WASD  or Left Mouse Click (LMB) : Move your character around the map.\n\nControls on Mobile Devices:    \n- Swipe : Simply swipe across the screen to move your character in any direction.\n     ",
+      "gameURL": "https://playgama.com/export/game/airplane-factory--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/airplane-factory--tycoon",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "cool-games",
+        "management",
+        "airplane",
+        "construction",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "business-games",
+        "incremental-games",
+        "resource-management-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/061f7caf-19d7-4744-c7d4-4a3151b46f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/60a9a5b3-671b-4ace-a138-408a35fc2a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ef73a88440cf450db6284b578598df6b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/airplane-factory--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6236",
+      "slug": "axe-run-playgama",
+      "title": "Axe Run",
+      "description": "Dive into the excitement of Axe Run! Chop through barriers, collect wood, gain speed through gates, and upgrade your character while building a city. Test your skills across various levels, all for free, on both mobile and desktop. Ideal for fans of action and strategy!",
+      "howToPlayText": "On desktop:\n- Hold the right mouse button and swipe to move\nOn mobile:\n- Hold your finger and swipe to move",
+      "gameURL": "https://playgama.com/export/game/axe-run-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/axe-run-playgama",
+      "genres": [
+        "action",
+        "racing",
+        "adventure",
+        "running",
+        "tycoon",
+        "cool-games",
+        "construction"
+      ],
+      "tags": [
+        "city-building-games",
+        "fast-paced-games",
+        "interactive-games",
+        "addictive-games",
+        "endless-games",
+        "collecting-games",
+        "1-player-games",
+        "building-games",
+        "pixel-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/268c63dc-ee0d-4994-ad60-736d8fec4500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/62c968e4-1289-4123-3f9f-45980ead7400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8942c4cca8cd4e46a84dfe74240433cd",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/axe-run-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110338",
+      "slug": "block-builder-jam",
+      "title": "Block Builder Jam",
+      "description": "Block Builder Jam is a new puzzle game that will test your logical thinking and creativity! \nThis game will captivate you with its unique gameplay, which makes full use of physics simulation.",
+      "howToPlayText": "Tap a floating block on the screen to drop it.\nComplete the specified shape using the dropped blocks.\nClear stages and try new challenges!",
+      "gameURL": "https://playgama.com/export/game/block-builder-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-builder-jam",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "brain",
+        "construction",
+        "blocks"
+      ],
+      "tags": [
+        "creative-games",
+        "casual-games",
+        "blocky-games",
+        "bricks-games",
+        "1-player-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4b3ac52a-6e74-47fe-6c62-e83c656d3e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/44cc7590-4945-4ef5-5318-e6a577ebb800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "62afd46a669a4576a4ab2ee54c5f76fd",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-builder-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99615",
+      "slug": "blocklands-io",
+      "title": "Blockadventure io",
+      "description": "🌍 Welcome to BlockAdventure!\n\nDive into the thrilling world of BlockAdventure, a Minecraft-inspired online multiplayer experience packed with parkour challenges, obby adventures, and endless fun! Explore blocky worlds, compete with other players, and push your skills to the limit. Whether you’re jumping across floating platforms or racing through tricky maps, there’s always something exciting to do.\n\nCustomize your style in the Skin Menu — choose your favorite look and stand out from the crowd as you conquer each obstacle!\n\nAnd the best part? This is just the beginning.\nNew game modes and adventures are already on the way!\n\n🚀 Coming Soon Features\n\t•\t🎮 Mini-Games Hub – Unlock and play various mini-games with friends\n\t•\t🧩 Puzzle-Based Maps – Solve environmental puzzles to progress\n\t•\t👥 Custom Avatars & Skins – Personalize your character even more\n\t•\t🏆 Leaderboard System – Climb the global ranks and show off your skills\n\t•\t🛠️ Level Editor – Build and share your own parkour or obby maps\n\t•\t🌎 New Game Worlds – Unique themes and environments to explore\n\n⸻\n\n🕹️ Controls\n\nDesktop Controls:\n\t•\tW / A / S / D or Arrow Keys: Move\n\t•\tSpacebar: Jump\n\t•\tC: Change camera view\n\t•\tF: Step back (return to checkpoint or previous step)\n\nMobile Controls:\n\t•\tOn-Screen Joystick: Move freely\n\t•\tJump Button: Tap to jump\n\t•\tCamera Button: Toggle camera view\n\t•\tBack Button: Go back to previous checkpoint",
+      "howToPlayText": "🕹️ Controls\n\nDesktop Controls:\n\t•\tW / A / S / D or Arrow Keys: Move\n\t•\tSpacebar: Jump\n\t•\tC: Change camera view\n\t•\tF: Step back (return to checkpoint or previous step)\n\nMobile Controls:\n\t•\tOn-Screen Joystick: Move freely\n\t•\tJump Button: Tap to jump\n\t•\tCamera Button: Toggle camera view\n\t•\tBack Button: Go back to previous checkpoint ",
+      "gameURL": "https://playgama.com/export/game/blocklands-io?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/blocklands-io",
+      "genres": [
+        "adventure",
+        "multiplayer",
+        "construction",
+        "blocks"
+      ],
+      "tags": [
+        "minigames",
+        "customization-games",
+        "voxel-games",
+        "obstacle-games",
+        "blocky-games",
+        "competitive-games",
+        "jumping-games",
+        "sandbox-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ec30b8e5-3cd9-4461-add2-e962f499f800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6e2c4897-a84c-4a27-0721-b137815bd600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "344adb6e03274d29bd6cebfe6fac8f95",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/blocklands-io?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112427",
+      "slug": "construction-set--3d-builder",
+      "title": "Construction Set - 3D Builder",
+      "description": "Construction Set - 3D Builder is a creative building puzzle game that lets you step into the role of a master builder. You’ll design and assemble intricate 3D structures, piece by piece, turning simple parts into impressive creations. Challenge your skills, unleash your imagination, and watch your architectural masterpieces come to life. Let your creativity flow as you construct and unwind. \nConstruction Set - 3D Builder is more than just a puzzle game; \nits a canvas for your imagination. \nWhether you are a budding architect or simply love the satisfaction of seeing your creations come to life, this building game will provide hours of enjoyable and challenging gameplay.\n🌟 Build Your World, Brick by Brick! \n🌟Features Variety of Themes: Explore a wide range of themes and environments, from lush forests to bustling cities, each with its own unique set of structures to construct. \nWhether you are building a towering skyscraper or a cozy cabin, there is always something exciting to create.\nRealistic Physics: Construction Set - 3D Builder game features realistic physics, ensuring that your structures are not only visually stunning but also stable. \nRelaxing Gameplay: With its soothing music and relaxing gameplay, Construction Set - 3D Builder game offers a tranquil escape from the everyday hustle and bustle. ",
+      "howToPlayText": "Controls PC:\nLeft mouse button = choose a piece\nRight mouse button = zoom\nMobile:\nTap = choose a piece\nDouble tap and hold = zoom",
+      "gameURL": "https://playgama.com/export/game/construction-set--3d-builder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/construction-set--3d-builder",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "simulation",
+        "skill",
+        "3d",
+        "mouse",
+        "popular",
+        "educational",
+        "construction"
+      ],
+      "tags": [
+        "creative-games",
+        "relaxing-games",
+        "creativity-games",
+        "sandbox-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ff6a34ae-9456-47eb-9d28-1b9f7cf74c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/853f086c-cd77-46fb-6445-eabcba032000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7f4068fe476be10641fa4c2924d776bf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/construction-set--3d-builder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111940",
+      "slug": "bridge-builder",
+      "title": "Bridge Builder",
+      "description": "Become a design engineer who will have to improvise and, above all, adapt to the task at hand. Use different materials to build structures that can support the weight of the vehicle.\n\nGame Features:\n\n- Excellent physics - a real simulator\n- Challenging levels in four different locations\n- Challenging puzzles requiring the use of thinking and logic\n- Built-in hint system will help you develop your skills",
+      "howToPlayText": "Desktop controls: \nDrag left click = build a bridge\nSpace = start simulation\nZ = undo\nDouble left click to remove a bridge part\n\nMobile controls:\nUse touchscreen and on-screen controls",
+      "gameURL": "https://playgama.com/export/game/bridge-builder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bridge-builder",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "simulation",
+        "skill",
+        "3d",
+        "car",
+        "mouse",
+        "physics",
+        "brain",
+        "logic",
+        "intelligence",
+        "construction",
+        "mobile"
+      ],
+      "tags": [
+        "fullscreen-games",
+        "interactive-games",
+        "addictive-games",
+        "exciting-games",
+        "vehicles-games",
+        "challenging-games",
+        "connect-games",
+        "mind-games",
+        "touchscreen-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "traffic-games",
+        "building-games",
+        "geometry-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1089e84a-b549-4ef6-236b-b391afd98a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/255ab48f-b318-4e79-b593-235d67708400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "745ed57e3159fc39b4c74b7e59318a67",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bridge-builder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

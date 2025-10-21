@@ -1,0 +1,142 @@
+{
+  "category": "checkers",
+  "count": 3,
+  "games": [
+    {
+      "id": "111547",
+      "slug": "english-checkers-online-multiplayer",
+      "title": "English Checkers Online Multiplayer",
+      "description": "**English Checkers Online Multiplayer: Challenge Your Mind and Master the Game!**\n\nAre you ready to dive into the world of strategy and logic? English Checkers Online Multiplayer offers an exciting experience for checkers enthusiasts of all levels! Play for free and without registration — choose your opponent and sharpen your skills in this classic game.\n\n**Why choose English Checkers Online Multiplayer?**\n\n- **Multiple game modes:**\n  - play against a powerful computer engine with 10 difficulty levels (from Beginner to World Champion);\n  - compete online with real players and climb the rating ladder;\n  - enjoy a friendly match with a friend on the same screen.\n\n- **Engaging features:**\n  - display of possible moves to help plan your strategy;\n  - interactive tips to improve your gameplay;\n  - move undo option — fix your mistakes and try again;\n  - game analysis after each match — identify your mistakes and learn from them;\n  - selection of time control modes: unlimited, bullet, blitz, rapid, classic;\n  - option to choose the side (black or white) before starting the game;\n  - handicap options, such as making captures mandatory.\n\n- **Game rules and mechanics:**\n  - capture your opponent’s checkers by jumping over them — if there’s an empty square behind the opponent’s checker, you can jump and land there;\n  - regular checkers move diagonally forward one square and can only move forward;\n  - when a checker reaches the last row, it is crowned and becomes a king, which can move diagonally both forward and backward;\n  - kings can capture multiple opponent’s checkers and must continue capturing as long as possible;\n  - jumps are mandatory, and if there are several options, you can choose any of them;\n  - you win by capturing all of your opponent’s checkers or completely blocking them so they can’t move.\n\n- **Personalized experience:**\n  - choose the design of checkers and the board to make the game visually appealing;\n  - view the move history to review your past games;\n  - exchange emotions with your opponent and make the game more enjoyable.\n\n- **Additional thrill:**\n  - make bets and win gold from your opponents — add an extra layer of excitement to your matches!\n\n**Join English Checkers Online Multiplayer now and become a checkers master!**",
+      "howToPlayText": "**How to Play English Checkers**\n\nEnglish Checkers is a strategic board game where players aim to capture their opponent’s checkers or block them completely. Here’s how to get started and understand the basic rules:\n\n**Game Objective**\nThe goal is to either capture all of your opponent’s checkers or completely block them so they can’t make any legal moves.\n\n**Types of Checkers**\n- **Simple checker:** moves diagonally forward one square and can only capture forward.\n- **King:** can move diagonally both forward and backward on any free square and can capture in both directions. When a simple checker reaches the last row, it becomes a king and gains these additional abilities.\n\n**Basic Movement and Capture Rules**\n1. **Movement:**\n- simple checkers move diagonally forward one square at a time;\n- kings can move diagonally in any direction on any free square.\n\n2. **Capture:**\n- if your checker is next to your opponent’s checker and there’s an empty square behind it, you must jump over the opponent’s checker and land in the empty square, capturing the opponent’s piece;\n- captures are mandatory — if you have the option to capture, you must do so;\n- if a capture leads to another possible capture, you must continue capturing as part of the same turn until no more captures are possible;\n- when a simple checker reaches the last row during a capture, it becomes a king but cannot make further moves in the same turn.\n\n3. **Choosing Capture Options:**\n- if there are multiple capture options available, you can choose which one to make;\n- the «Turkish strike» rule means that a checker that has been beaten but not yet removed from the board can block the path of a king or another checker.\n\n**Winning the Game**\nYou win the game by:\n- capturing all of your opponent’s checkers;\n- blocking your opponent so that they have no legal moves left.\n\n**Getting Started in English Checkers Online Multiplayer**\n1. **Choose your game mode:** play against the computer, compete online with real players, or play with a friend on the same screen.\n2. **Select your difficulty level or opponent:** if playing against the computer, choose from 10 difficulty levels; if playing online, find a real opponent.\n3. **Choose your side:** select whether you want to play as black or white.\n4. **Start playing:** follow the rules of movement and capture to outmanoeuvre your opponent and achieve victory.\n\nEnjoy the game and sharpen your strategic skills with English Checkers Online Multiplayer!",
+      "gameURL": "https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/english-checkers-online-multiplayer",
+      "genres": [
+        "strategy",
+        "skill",
+        "two-player",
+        "multiplayer",
+        "checkers",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "brain-training-games",
+        "challenging-games",
+        "competitive-games",
+        "chekers-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8b1e8ef1-074c-46da-700f-3078206f3d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8ed73055-d1f3-4b59-51cd-046d8ffe4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "308d931b0a224faaac5d0ef230a11d39",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99729",
+      "slug": "master-checkers-25e9-1",
+      "title": "Master Checkers",
+      "description": "Play Checkers, the classic two-player board game! Make diagonal moves, eliminate opponents, and crown your piece as a king. Challenge the computer, a local player, or opponents worldwide in this exciting Italian Checkers version!",
+      "howToPlayText": "Moves are only allowed on dark squares, so pieces always move diagonally. Single pieces are always restricted to moving forward (towards the opponent).\nCapture pieces by jumping.\nA piece that makes a capture (jump) jumps over one of the opponent's pieces and lands in a straight diagonal line on the other side. Only one piece can be captured in one jump; however, multiple jumps are allowed in one move.\nJumps (or captures) are mandatory.\nIf a player can make a capture, the jump must be made.\n\nWhen a piece reaches the furthest row from the player who controls it, it becomes a king and can move either forward or backward.",
+      "gameURL": "https://playgama.com/export/game/master-checkers-25e9-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-checkers-25e9-1",
+      "genres": [
+        "skill",
+        "two-player",
+        "checkers",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "chekers-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1697e189-1dfe-4ad2-7d1a-40dcada80f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e1ccd169-f2ca-4dd4-049a-c7df44018800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2e27123963ca4e29a605e63be99eeefa",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-checkers-25e9-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86270",
+      "slug": "angry-checkers-11c2-1",
+      "title": "Angry Checkers",
+      "description": "Angry Checkers is a thrilling take on the traditional board game, where players try to eliminate opponents’ checkers. Available on multiple platforms, it features various play modes including multiplayer and single-player. This action-packed game delivers engaging and strategic fun for everyone without requiring downloads or sign-ups.",
+      "howToPlayText": "Physics based action game, where your goal is to knock off all enemy checkers from the board. \n\nTap or click one of your checkers and drag it to the direction you want the checker to go. \n\nYou are in full control of the direction and power of your checker move.",
+      "gameURL": "https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/angry-checkers-11c2-1",
+      "genres": [
+        "multiplayer",
+        "co-op",
+        "pvp",
+        "checkers",
+        "physics",
+        "board"
+      ],
+      "tags": [
+        "games-for-pc",
+        "turnbased-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "chekers-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/83994f74-c1a6-45df-ade8-6b2300ee3b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/769b035c-ef39-4cff-e318-ecd735609700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "09acd9d843744bb39288857be8236236",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

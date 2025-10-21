@@ -1,0 +1,552 @@
+{
+  "category": "app-store",
+  "count": 11,
+  "games": [
+    {
+      "id": "15",
+      "slug": "race-to-win",
+      "title": "Battle Arena Race to Win",
+      "description": "Dive into the thrilling universe of Battle Arena Race to Win, an exciting online game where you join either the Red or Blue team. Battle in quick-paced car fights, upgrade vehicles for speed and durability, and rise through the ranks to ensure your team''s triumph on both mobile and PC!",
+      "howToPlayText": "W / up arrow key = accelerate\nS / down arrow key = move backward\nA / left arrow key = turn left\nD / right arrow key = turn right\nR = restore position\nSpace = handbrake (drift)\nLeft Shift = nitro",
+      "gameURL": "https://playgama.com/export/game/race-to-win?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/race-to-win",
+      "genres": [
+        "racing",
+        "app-store",
+        "pve",
+        "crazy-games"
+      ],
+      "tags": [
+        "iphone-games",
+        "fast-paced-games",
+        "addictive-games",
+        "arena-games",
+        "car-crash-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fa0d6909-5643-41b6-f453-6f181f1f3400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1e3e44a7-0d90-4d04-e2c2-92404355df00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "04a43008e7364c3bb0b49149ba08ab8c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/race-to-win?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "1",
+      "slug": "click-click-clicker-playgama",
+      "title": "Click Click Clicker",
+      "description": "<strong>Click Click Clicker</strong> defines the idle clicker genre, offering engaging gameplay where players accumulate wealth by clicking a button. As you advance, you can unlock different buttons, cursors, themes, and music. This free game is available on <strong>mobile devices and computers</strong>, providing fun for all.",
+      "howToPlayText": "Click Click Clicker is as true to the clicker genre as it gets. You’re clicking a button to click another button. Click the button, upgrade your abilities, and get shiny new buttons for your hard work.\n\nLike many clicker games, you start with one humble click. With each click, you generate cash to buy upgrades. Those upgrades include an increase in your passive ability to earn money, the amount of cash you earn per click, or the number of cursors you have.\n\nClick Click Clicker is all about getting shiny new things with minimal effort. You can customize everything in this game: backgrounds, music, cursor, and buttons. But you have to put in the work to unlock them first! Keep clicking or coast along on your idle earnings until you get there.",
+      "gameURL": "https://playgama.com/export/game/click-click-clicker-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/click-click-clicker-playgama",
+      "genres": [
+        "cool-games",
+        "app-store",
+        "idle"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "one-button-games",
+        "collecting-games",
+        "1-player-games",
+        "incremental-games",
+        "simple-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7120e5a4-b423-4af6-a457-2c7d0c294900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aa333e70-6bd6-4056-6240-cc4fec672700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3ea6e4787b4a406cb10df024570f9c1d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/click-click-clicker-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86377",
+      "slug": "makeup-fruits",
+      "title": "Makeup Fruits",
+      "description": "Have you ever imagined transforming a watermelon into a stunning masterpiece? At Makeup Fruits, you can creatively enhance fruits with cosmetics. Enjoy this fun game on your device and explore a vibrant world of fruity style, where each transformation allows you to express your flair.",
+      "howToPlayText": "Have you ever imagined giving a watermelon a makeover? How about adding a flutter of eyelashes or a swipe of lipstick to a juicy melon? In Makeup Fruits, your mission is to help these delightful fruits dazzle with beauty. It's all in your hands to adorn them with the perfect makeup and accessories for their stunning transformation!\n\nClick to select the fruit you want to transform into a beauty icon, then proceed to choose and apply a variety of makeup options. Explore a diverse selection of brands, powder colors, eyelashes, lipsticks, stickers, and more!\n\nAt the end, you'll be able to take a \"selfie\" of your fabulous creation to share with your friends.\n\nYou'll also earn \"gems\" as a reward for your work. These gems can be used to unlock exciting new items and keep the fun going!",
+      "gameURL": "https://playgama.com/export/game/makeup-fruits?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/makeup-fruits",
+      "genres": [
+        "kids",
+        "funny",
+        "app-store",
+        "make-up",
+        "dress-up",
+        "decoration",
+        "fashion"
+      ],
+      "tags": [
+        "customization-games",
+        "creative-games",
+        "relaxing-games",
+        "interactive-games",
+        "beauty-salon-games",
+        "cute-games",
+        "art-games",
+        "1-player-games",
+        "family-games",
+        "children-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/35e642d5-dd88-454c-0908-d80c3f729100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/259e1729-83bd-4300-9a9b-0a225a21be00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c5943269728e4698a4807497f23e559b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/makeup-fruits?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86304",
+      "slug": "penalty-challenge-64c5-1",
+      "title": "Penalty Challenge",
+      "description": "Penalty Challenge is a thrilling online sports game that allows you to play as a striker or goalkeeper. Compete for free against AI or global players, earn points, and rise in rankings. Choose from top European clubs or national teams, showcasing your talent in an electrifying atmosphere.",
+      "howToPlayText": "Penalty Kicks: Striker or Goalkeeper?\nChallenge the AI or players from around the world to earn experience points and climb the global leaderboard!\n\nChoose a team from among the strongest clubs in Europe and European national teams to enter a high-level competition and show your talent!\n\nYou can play with your footballer, either male or female, as a striker or a goalkeeper: put your skills to the test amid the stadium smoke and the cheering crowd!",
+      "gameURL": "https://playgama.com/export/game/penalty-challenge-64c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/penalty-challenge-64c5-1",
+      "genres": [
+        "sports",
+        "app-store",
+        "pve",
+        "penalty",
+        "soccer"
+      ],
+      "tags": [
+        "competitive-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/497b8e67-579a-4ec5-84a4-30cac14e5100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7a8074b7-4aea-4c04-9343-11c47091bc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "13750c5d536e484f903098f985dd0b6d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/penalty-challenge-64c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "42",
+      "slug": "money-factory",
+      "title": "Money Factory - Earn a Billion ",
+      "description": "Money Factory - Earn a Billion is an engaging online strategy and puzzle game where you manage a money-making factory. Strategically enhance your operations, overcome challenges, and unlock new levels while boosting your earnings. Play on any device and enjoy a thrilling experience as you build wealth and demonstrate your skills.",
+      "howToPlayText": "1. Making money is easy at first, but you'll need creativity and luck to keep growing your factory.\n2. Buy boosters, fill the field, and multiply your earnings.\n3. Hold your finger or mouse button to move boosters, release to place or combine two identical ones.\n4. Aim to become a billionaire!\n",
+      "gameURL": "https://playgama.com/export/game/money-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/money-factory",
+      "genres": [
+        "puzzle",
+        "tycoon",
+        "app-store",
+        "management",
+        "idle"
+      ],
+      "tags": [
+        "2d-games",
+        "business-games",
+        "desktop-games",
+        "incremental-games",
+        "cash-games",
+        "resource-management-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/66bc24eb-4d6c-4a1e-0cac-d793e2816700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aff8a8af-c3f6-4f2f-a067-7e29376cf900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5f1051e0428e4dc2889c2abba70d322a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/money-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6248",
+      "slug": "popcat-merge-the-cats-playgama",
+      "title": " PopCats: Merge the cats!",
+      "description": "PopCats: Merge the cats! is a fun online puzzle game where you combine matching cats to form bigger, cuter ones. Enjoy the playful feline stories while aiming for the top of the leaderboard. No downloads or sign-ups needed, perfect for all cat enthusiasts on any device!",
+      "howToPlayText": "- Connect identical seals into larger seals by clicking on the screen with your finger or mouse.\n- To get to know a cat and find out its history, click on its image in the bottom panel.\n- Make sure that the cats do not reach the top line, otherwise the game will end!\n- You can change the next cat for watching ads.\n- Use yarn to remove the interfering cat, and remember - the main thing here is not to miss!\n- Collect points to take a leading position in the player rankings.\n- Win by connecting the two biggest cats!",
+      "gameURL": "https://playgama.com/export/game/popcat-merge-the-cats-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/popcat-merge-the-cats-playgama",
+      "genres": [
+        "puzzle",
+        "funny",
+        "app-store",
+        "story",
+        "cats"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "cute-games",
+        "mind-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "incremental-games",
+        "borwser-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/29da13cd-e4cb-45dd-b072-e5775da51d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7cc97cf6-defc-49b6-9490-414d170ed200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3e6b91d6a0b04607b176546a3ae663fd",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/popcat-merge-the-cats-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "58",
+      "slug": "colors-forms",
+      "title": "Colors&Forms",
+      "description": "Colors&Forms is a thrilling online game that tests your reflexes and strategy. Enjoy a variety of entertaining puzzles and colorful designs without any downloads. With different game modes available, you’ll find countless challenges to complete as you progress through the levels.",
+      "howToPlayText": "The control is simple - move the pieces at the bottom of the tracks to match the falling elements and complete the missions on each level.\nBefore the game, choose the appropriate game mode by speed.\nBe careful, there may be objects on the screen that you need to interact with by clicking on them.\nTo switch the type of game, use the button with the image of a castle.\nChange the language, disable music and sound effects in the game settings.",
+      "gameURL": "https://playgama.com/export/game/colors-forms?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/colors-forms",
+      "genres": [
+        "puzzle",
+        "skill",
+        "app-store",
+        "brain",
+        "mini"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "shapes-games",
+        "interactive-games",
+        "addictive-games",
+        "challenging-games",
+        "mind-games",
+        "color-matching-games",
+        "collecting-games",
+        "desktop-games",
+        "level-games",
+        "pixel-games",
+        "borwser-games",
+        "android-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/07565c05-cad2-4b7f-95bd-b1353845a500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3254858e-c3b4-4605-a08d-52cea2393d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3d0097adf4814c099c69cbd261dc012a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/colors-forms?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86399",
+      "slug": "emilys-hotel-solitaire",
+      "title": "Emily''s Hotel Solitaire",
+      "description": "Emily''s Hotel Solitaire is a thrilling card game where you can design your ideal hotel. Play for free online and enjoy a tropical escape while helping Emily realize her grandfather''s dream. Earn stars to enhance your environment, transforming it into a stunning destination with each achievement.",
+      "howToPlayText": "Select the cards that are one higher or one lower in value of your drawn\ncard to remove it from the playing field. To complete a level, you need to remove all the cards from\nthe playing field without running out of cards from your stock.",
+      "gameURL": "https://playgama.com/export/game/emilys-hotel-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emilys-hotel-solitaire",
+      "genres": [
+        "puzzle",
+        "cards",
+        "app-store",
+        "management",
+        "cozy"
+      ],
+      "tags": [
+        "city-building-games",
+        "2d-games",
+        "iphone-games",
+        "relaxing-games",
+        "addictive-games",
+        "desktop-games",
+        "1-player-games",
+        "building-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/634b7257-2c84-46f6-299b-d20d8ff05c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/af884e62-3f14-4b40-f822-f595a881fb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9d9194907c6d415ba3c36c6f968a8d9c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emilys-hotel-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86415",
+      "slug": "ragdoll-crashtest-throw-and-break",
+      "title": "Ragdoll Crash-Test: Throw and Break!",
+      "description": "Ragdoll Crash-Test: Throw and Break! is a fun puzzle game centered around destruction. Enjoy throwing a stickman to shatter it into pieces online for free. With realistic physics and various challenges, the game guarantees non-stop fun and thrilling chaos.",
+      "howToPlayText": "🕹Drag the stickman onto the selected objects and watch the chaos unfold. Try to experiment with different objects to maximize damage.\n\n🎯 Choose from a variety of objects to smash, hit, and drag the stickman. Each object has unique properties for maximum impact.",
+      "gameURL": "https://playgama.com/export/game/ragdoll-crashtest-throw-and-break?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ragdoll-crashtest-throw-and-break",
+      "genres": [
+        "action",
+        "puzzle",
+        "app-store",
+        "ragdoll"
+      ],
+      "tags": [
+        "2d-games",
+        "destruction-games",
+        "interactive-games",
+        "addictive-games",
+        "crash-games",
+        "desktop-games",
+        "1-player-games",
+        "simple-games",
+        "throwing-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2671567c-04d1-4ef8-dfaa-c9b0f2a7d900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/65fdf16f-7482-4857-2d98-70a1060e8800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1cbe32ecf2444651a508c985b8360784",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ragdoll-crashtest-throw-and-break?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63941",
+      "slug": "build-levels-earn-money",
+      "title": "Build levels – earn money!",
+      "description": "Get ready for an addictive challenge! Tap the screen to release balls and aim for the holes in each round. After every round, hit the store to grab powerful upgrades and cool items to boost your progress. Complete levels, collect diamonds, and unlock permanent upgrades to level up faster. How far can you push your skills? The further you go, the bigger the rewards!",
+      "howToPlayText": "1. Tap anywhere on the screen to release balls into the holes at the start of each round\n2. After each round, visit the store to buy upgrades or items for the next level.\n3. Complete levels to earn diamonds, which can be used for permanent upgrades.\n4. Keep leveling up and maximize your skills!",
+      "gameURL": "https://playgama.com/export/game/build-levels-earn-money?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/build-levels-earn-money",
+      "genres": [
+        "app-store",
+        "idle"
+      ],
+      "tags": [
+        "2d-games",
+        "brain-training-games",
+        "addictive-games",
+        "mind-games",
+        "collecting-games",
+        "desktop-games",
+        "level-games",
+        "incremental-games",
+        "building-games",
+        "diamonds-games",
+        "borwser-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/650737f1-ffe9-4642-7825-77877a3a8700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/842aa49a-42af-451e-ec44-7cf461bf6000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d5bf0cded7fd46c0a7cb10d1d25bf899",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "7f0e8b26a720478ab2e7036a98f556c3",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "9ab3d0d0b60d43c5bff0fa040fa4c7ba",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/build-levels-earn-money?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63968",
+      "slug": "master-of-3-tiles",
+      "title": "Master of 3 Tiles",
+      "description": "Master of 3 Tiles is a thrilling online puzzle game. Match identical tiles in sets of three to clear the board. Each level increases in difficulty, enhancing your strategic skills. No downloads or registration needed, it’s accessible on desktop and mobile for short or long gaming sessions.",
+      "howToPlayText": "Master of 3 Tiles is a thrilling online puzzle game. Match identical tiles in sets of three to clear the board. Each level increases in difficulty, enhancing your strategic skills. No downloads or registration needed, it’s accessible on desktop and mobile for short or long gaming sessions.",
+      "gameURL": "https://playgama.com/export/game/master-of-3-tiles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-of-3-tiles",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "cool-games",
+        "app-store",
+        "scrabble",
+        "matching",
+        "mahjong",
+        "brain"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "challenging-games",
+        "mind-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "tiles-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/17dc1b1b-c373-43d4-2bf6-9f12051f4e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/568b2893-0a06-4bb4-07e7-cfe6aeb7d100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1eca2a1adf184017958cd8c6b7ae0310",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-of-3-tiles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

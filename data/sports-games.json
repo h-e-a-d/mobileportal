@@ -1,0 +1,836 @@
+{
+  "category": "sports",
+  "count": 18,
+  "games": [
+    {
+      "id": "106346",
+      "slug": "moto-x3m",
+      "title": "Moto X3M",
+      "description": "Moto X3M is an awesome bike game with challenging levels. Choose a bike, put your helmet on, pass obstacles, and get ready to beat the time on tons of off-road circuits. Have fun with Moto X3M! The controls are simple – use the keyboard arrow keys to control the acceleration and deceleration, and also your tilt. Ride through each course and try to land your jumps perfectly – if you angle your bike incorrectly you risk tipping your bike over! \nEach level features different obstacles and objects for you to traverse – you will find this game both fun and challenging! This is off-road biking to the max and for any motorbike fan, this game will provide a huge amount of enjoyment! ",
+      "howToPlayText": "WASD or ARROWS \nPress the up arrow key to accelerate\nBalance your bike with the left and right arrow keys\nBreak by pressing the down arrow key\nPerform flips and other stunts to gain time\nDon't crash",
+      "gameURL": "https://playgama.com/export/game/moto-x3m?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/moto-x3m",
+      "genres": [
+        "action",
+        "racing",
+        "adventure",
+        "sports",
+        "skill",
+        "cool-games",
+        "popular",
+        "motorbike",
+        "dirt-bike",
+        "mobile"
+      ],
+      "tags": [
+        "stunt-games",
+        "offroad-games",
+        "casual-games",
+        "obstacle-games",
+        "challenging-games",
+        "bike-racing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/53361cce-791e-4e4a-23dc-528ce9ea1000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9ee7484b-8967-45fc-1ce3-4c52e5ebed00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "236ada3eea264401b7be98a0466cd6ce",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/moto-x3m?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109179",
+      "slug": "soccer-dash",
+      "title": "Soccer Dash",
+      "description": "Soccer Dash is a soccer game in which you swipe a soccer ball through obstacles and soccer players and hit the ball to score a goal.\n\nYou have drag controls, drag to choose the direction of the kick, and release to hit the ball. During the dragging process, the game goes into a slow motion state, so you can take your time to choose the direction of the kick.\n",
+      "howToPlayText": "The goal of the game is to bypass all the traps and score a goal.\nControl - swipe the ball. Change the direction of the kick and release to launch the ball.",
+      "gameURL": "https://playgama.com/export/game/soccer-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/soccer-dash",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "cool-games",
+        "popular",
+        "maze",
+        "ball"
+      ],
+      "tags": [
+        "goalkeeper-games",
+        "goal-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7b868c6b-e220-4052-fdd1-edc3cbd90f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/77e59b1c-b7ff-4e6c-0c38-6dfd02ca1a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "953971aed0d44396aeec90243fa0d7e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/soccer-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86412",
+      "slug": "ragdoll-soccer",
+      "title": "Ragdoll Soccer",
+      "description": "Enter the thrilling world of Ragdoll Soccer, where you command a stick figure footballer in exciting games. Aim to outscore rivals and become a champion, whether playing alone or with a friend, offering nonstop enjoyment on your phone or computer.",
+      "howToPlayText": "Play football with a stickman! A fun 2D sports game for one or two players!\nControl the stickman like a doll and hit the ball to score a goal against the opponent.\n\nFeatures of the game:\n - single player mode\n- local multiplayer for two players\n - Championship mode\n - The game has boosters and abilities!\n - penalty shootout mode\n\nTo play with a PC, you can use:\n- keyboard (WASD +QE)\n- mouse\n- gamepad\nTo play from your phone, use touch input",
+      "gameURL": "https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ragdoll-soccer",
+      "genres": [
+        "action",
+        "sports",
+        "two-player",
+        "penalty",
+        "henry-stickmin",
+        "unity",
+        "stickman"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "family-games",
+        "controller-compatible-games",
+        "pixel-games",
+        "borwser-games",
+        "2-player-soccer",
+        "2-player-sports",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aad5362e-36ed-4c47-4c6d-a6e1da2db100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/859018fb-3e5a-4e4c-4e17-3d3b06290b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6dcb5bacbd7941cfbe9ba84680910aa9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111095",
+      "slug": "dunkin-beanz",
+      "title": "Dunkin Beanz",
+      "description": "🌟 Dunkin Beanz: The Ultimate Basketball Challenge! 🏀🌟\n\n🆕 Update Alert! Dive into the thrilling world of Dunking Beanz with our latest version!\n\n🌟 Key Features:\n✨ - Addictive Gameplay: Experience the thrill of dunking in fast-paced and exciting matches.\n🌐 - Multiplayer Madness: Challenge and compete against players worldwide!\n🏆 - Compete for Glory: Climb the leaderboards, unlock achievements, and prove you're the ultimate Dunkin Beanz master.\n\n🎮 Get ready to Dunk, Upgrade, and Unbox your way to victory! 🏀🔥",
+      "howToPlayText": "Use WASD / arrow keys / drag the left mouse button to move around. Release the buttons to throw or pass.",
+      "gameURL": "https://playgama.com/export/game/dunkin-beanz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dunkin-beanz",
+      "genres": [
+        "action",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "funny",
+        "mouse",
+        "cool-games",
+        "popular",
+        "basketball"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "addictive-games",
+        "competitive-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f081c5f9-705d-4a3a-629a-42e2248ac800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b9b6af41-004f-4843-36db-6146acafdf00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3bda48a403fe4bd48a959e1b54b21157",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dunkin-beanz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112192",
+      "slug": "pool-8",
+      "title": "Pool 8",
+      "description": "Pool 8 is a brain-teasing puzzle game based on a Pool board. \nPot the balls in the correct order to move through a series of increasingly difficult challenges!\n\nThere's a multitude of difficulty levels that you naturally progress through, starting with the easiest \"rookie\" level. At the end of each difficulty level, you get a chance to win extra retries in the \"smash the candies\" bonus round. You can also earn these by watching a short video ad.\nYes, but it starts out easy. As you progress, you reach higher difficulty levels.",
+      "howToPlayText": "The unique mechanics in this game mean you can only move up, down, left, and right. \nThere are no diagonal movements, which poses a tricky challenge when several balls are on the table. \nThe key to winning the level is to think about the order of each move to ensure you can line up all the shots successfully.",
+      "gameURL": "https://playgama.com/export/game/pool-8?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pool-8",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "ball",
+        "brain",
+        "classic",
+        "pool",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "billiards-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5f8b6da9-bffe-470c-7f30-ed956ed90d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/533f0674-fe6a-4f8a-4079-96cacce51600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "15f1f3d0999d0b35d7beaa3baae660e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pool-8?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112191",
+      "slug": "hit--knock-down",
+      "title": "Hit & Knock Down",
+      "description": "Hit & Knock Down is a casual arcade-style shooting/throwing game where you aim to hit targets using various balls. When you successfully hit a target, it will either be knocked down or explode.\nThe goal is to clear each stage by obtaining the required score (or meeting stage objectives) and then move on to the next challenge.",
+      "howToPlayText": "Drag or swipe on the screen to aim the ball toward a target. (Typical of these types of games — though the store page doesn’t detail exact controls, it says “simple control.”)\nRelease your touch (or tap, depending on control scheme) to throw the ball toward the designated target.\nIf your throw strikes the target (a can, dish, fruit, or object), it will either fall or explode. You earn points for successful hits.",
+      "gameURL": "https://playgama.com/export/game/hit--knock-down?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hit--knock-down",
+      "genres": [
+        "action",
+        "arcade",
+        "sports",
+        "skill",
+        "funny",
+        "ball",
+        "mobile"
+      ],
+      "tags": [
+        "target-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/741b7f6b-df35-4219-3383-8cae0ccf9900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/276b7168-0af0-427d-a6c4-2ca3fb268700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0dd420942e8b23d55ebfd6f3ade77ab7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hit--knock-down?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "92781",
+      "slug": "dummy-world-cup-playgama",
+      "title": "Dummies World Cup",
+      "description": "Get ready for an exciting football challenge with Dummies World Cup, where you take command of a dummy representing your favorite national team. Immerse yourself in this captivating football game as you strive to score as many goals as possible before the final whistle. Choose from 32 national teams inspired by FIFA and engage in thrilling matches that will test your skills and strategies!\n\n\nGame tips\nTo enhance your gameplay, focus on quick movements to outwit your opponent while choosing the right timing to kick the ball. Use feints to confuse the rival dummy and create scoring opportunities. Practicing your shooting and positioning will also help you rack up those goals!\n\n\nHow to play\nPlaying Dummies World Cup is a breeze! Simply select your favorite team, then control your dummy on the pitch. On computer, navigate using the arrow keys and hit the spacebar to kick. On your phone, tap to choose and use on-screen buttons for movement and kicking actions. Stay focused and strike at the right moments to outscore your opponent!\n\n\nHow to play Dummies World Cup for free?\nYou can enjoy Dummies World Cup for free on Playhop. Just visit our platform and dive into this thrilling experience along with many other exciting online games!\n\n\nControls\nOn a computer, use the arrow keys to maneuver your player around the field. The spacebar is your go-to for shooting the ball into the opponent’s goal. On a mobile device, make use of the touch controls to guide your dummy and strike, ensuring you’re agile as you play against other national teams.",
+      "howToPlayText": "Drag and drop with the mouse or touch to throw your dummy in the direction of the arrow.\nAll you have to do is choose their favorite contending national from 32 teams (according to FIFA) and go head-to-head with the opponent team’s dummy.",
+      "gameURL": "https://playgama.com/export/game/dummy-world-cup-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dummy-world-cup-playgama",
+      "genres": [
+        "sports",
+        "funny",
+        "ragdoll",
+        "world-cup",
+        "soccer"
+      ],
+      "tags": [
+        "2d-games",
+        "goalkeeper-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c9840ae7-7a90-4e49-9bc9-bfbd257b0a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a6e4f76a-4719-422f-fd94-29e61b14f600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f43bc664698d41339cf162021d41949f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dummy-world-cup-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86304",
+      "slug": "penalty-challenge-64c5-1",
+      "title": "Penalty Challenge",
+      "description": "Penalty Challenge is a thrilling online sports game that allows you to play as a striker or goalkeeper. Compete for free against AI or global players, earn points, and rise in rankings. Choose from top European clubs or national teams, showcasing your talent in an electrifying atmosphere.",
+      "howToPlayText": "Penalty Kicks: Striker or Goalkeeper?\nChallenge the AI or players from around the world to earn experience points and climb the global leaderboard!\n\nChoose a team from among the strongest clubs in Europe and European national teams to enter a high-level competition and show your talent!\n\nYou can play with your footballer, either male or female, as a striker or a goalkeeper: put your skills to the test amid the stadium smoke and the cheering crowd!",
+      "gameURL": "https://playgama.com/export/game/penalty-challenge-64c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/penalty-challenge-64c5-1",
+      "genres": [
+        "sports",
+        "app-store",
+        "pve",
+        "penalty",
+        "soccer"
+      ],
+      "tags": [
+        "competitive-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/497b8e67-579a-4ec5-84a4-30cac14e5100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7a8074b7-4aea-4c04-9343-11c47091bc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "13750c5d536e484f903098f985dd0b6d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/penalty-challenge-64c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109069",
+      "slug": "school-of-basketball",
+      "title": "School Of Basketball",
+      "description": "It is the basketball arcade game in which you must try to score baskets in all the different game modes available. A basketball school opens its doors for enthusiasts like you. Do you know where to aim the ball so that you always hit the basket? Do you know any secret strategies? You have a limited number of balls and every time you miss, you also miss one ball. However, if you never miss, on the contrary, sometimes the ball will be added. How many points will you score? ",
+      "howToPlayText": "Touch and drug anywhere on screen to throw a ball!\nYou can play either arcade, time attack, and distance mode. Arcade mode gives you 10 balls to use; you must continue to score baskets although it becomes harder each time you score.\nTime attack mode requires you to score as many baskets within the time limit as possible; you have unlimited balls but limited time. \nDistance mode allows you to increase the distance of your shot each time that you score. The distance decreases every time you miss a shot, don’t let the distance reach zero; otherwise, it is game over.",
+      "gameURL": "https://playgama.com/export/game/school-of-basketball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/school-of-basketball",
+      "genres": [
+        "action",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "boys",
+        "basketball",
+        "ball",
+        "physics"
+      ],
+      "tags": [
+        "accuracy-games",
+        "ballon-games",
+        "highscore-games",
+        "challenging-games",
+        "goal-games",
+        "challenge-games",
+        "agility-games",
+        "1-player-games",
+        "balance-games",
+        "target-games",
+        "dunking-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c5d10819-7510-461b-136c-341ad918c100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/de105d8e-550e-44d5-59ed-8d0cf7b85c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "743846388226436e9e8863b7a7421f51",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/school-of-basketball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105841",
+      "slug": "Soccer-training",
+      "title": "Soccer Training",
+      "description": "In Soccer Training, your aspirations in soccer become a reality as you enter the prestigious realm of the world’s top team. This sports game turns your device into a football pitch where your free-kick skills are challenged to the maximum. With 15 levels, each progressively tougher than the one before, you'll require all of your accuracy and strength to prevail.",
+      "howToPlayText": "Accuracy is essential in Soccer Training—focus on the corners of the goal to improve your scoring opportunities. Be mindful of moving targets—they increase your score but can be challenging! Don’t feel disheartened by shots that get blocked; instead, use them as a learning experience and modify your next attempt accordingly.",
+      "gameURL": "https://playgama.com/export/game/Soccer-training?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/Soccer-training",
+      "genres": [
+        "sports",
+        "skill",
+        "boys",
+        "mouse",
+        "mobile"
+      ],
+      "tags": [
+        "accuracy-games",
+        "goal-games",
+        "challenge-games",
+        "level-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/04dc469d-801e-43d6-edd5-b2909fe8a400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6fdd90c0-fad0-47d8-5138-986075023c00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/Soccer-training?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99455",
+      "slug": "billiards-3d-russian-pyramid-04bf-1",
+      "title": "Billiards 3D: Russian Pyramid",
+      "description": "Play a realistic online billiards game against virtual opponents of varying difficulty. Customize AI skill levels to match your ability and improve your game. Enjoy lifelike tables of different sizes and refine your strategy in this immersive billiards experience!",
+      "howToPlayText": "- For aiming click anywhere on the table and rotate the cue\n- For precise aiming, turn the precision aim wheel on the right side of the screen, or aim the cue while holding down the Shift button if you play on PC\n- To hit, click on the cue on the left side of the screen and pull towards the desired force of the blow, then release\n- For screws, click on the ball icon with a dot in the upper right part of the screen, move the impact point and confirm the installation of the point by clicking on the green button. If you're playing on a PC, you can hold down the X button on your keyboard while aiming to move the point of impact\n- To change the inclination of the cue, click on the cue ball icon at the top of the screen. In this mode, tap anywhere on the screen and raise the cue to the desired angle, then confirm the change by pressing the green button. If you play on a computer, you can hold down the Z button while aiming, this will also change the tilt of the cue.",
+      "gameURL": "https://playgama.com/export/game/billiards-3d-russian-pyramid-04bf-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/billiards-3d-russian-pyramid-04bf-1",
+      "genres": [
+        "sports",
+        "skill",
+        "3d",
+        "mouse",
+        "physics",
+        "classic",
+        "pool",
+        "mobile"
+      ],
+      "tags": [
+        "challenging-games",
+        "billiards-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/92137f63-e3b9-4f3c-1f60-0ec638931c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/69ce53f7-1038-42c1-db6d-877d72d8ad00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ed0954e60c8344a289255c2863bd0a2e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/billiards-3d-russian-pyramid-04bf-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99443",
+      "slug": "golf-invaders",
+      "title": "Golf Invaders",
+      "description": "Welcome to Golf Invaders, the ultimate arcade golf shooter! Your golf course has been invaded by punks, bums, and other troublemakers. Your goal? Aim, shoot, and eliminate all invaders using precision golf shots!",
+      "howToPlayText": "Welcome to Golf Invaders, the ultimate arcade golf shooter! Your golf course has been invaded by punks, bums, and other troublemakers. Your goal? Aim, shoot, and eliminate all invaders using precision golf shots!\n\n🎯 Aim & Shoot – Drag to aim your shot and release to fire the golf ball. Be strategic—each level has limited golf balls, so make every shot count!\n\n💥 Use Power Shots – Unlock explosive golf balls to deal massive damage and clear multiple invaders at once!\n\n🌦 Adapt to Weather – Wind impact ball physics, making each shot more challenging!\n\n👾 Defeat Unique Invaders – Face off against different enemies, each with their own behaviors.\n\nPlay Golf Invaders now and experience the most action-packed golf battle ever! ⛳🔥",
+      "gameURL": "https://playgama.com/export/game/golf-invaders?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/golf-invaders",
+      "genres": [
+        "action",
+        "arcade",
+        "sports",
+        "skill",
+        "physics",
+        "mobile"
+      ],
+      "tags": [
+        "bullet-games",
+        "accuracy-games",
+        "kill-games",
+        "target-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7de2ae16-7dcd-413e-66c8-d72518531d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d81b74e7-e8d9-4016-3ddc-d44efb4e5300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "623849a1f1554856977316ef1af18117",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/golf-invaders?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110860",
+      "slug": "animal-basketball",
+      "title": "Animal Basketball",
+      "description": "Basketball games: The Power of Moe! Ultra-healing hand-painted physical shooting party\n\n[Moe Animal Troupe Gathering] \nManipulation will be serious kittens, cute chicks, naughty crocodiles! The cute characters come with their own exclusive shooting action, each action can trigger the screen heartbeat warning! \n\n[Visual Feast Blitz sports games]\n● Hoop game  with 100+ kinds of magical basketballs and special effects: pizza ball, fishbowl ball, baseball, etc. \n● 4 healing courts: beach by the sea, countryside at sunset, deep forest, and dangerous cliffs - every basket will play tricks!\n\n[Triple Pleasure Mode] \nArcade Rampage: 60-second adrenaline challenge! Combo effects are stacked, full-screen blow-up effects are cool!\nRoad to the Championship: Challenge how many throws without missing it.\nAchievement Mission: 200 missions! Unlock outrageous medals such as “Board Wipe King” and “God Pitcher” \n\n[Physics Ghostly Moments] \nReal Physics Engine x Moe's Magic Modification! The wall clock can also be used to shoot baskets!\n\nCall your friends and have a healing and addictive fingertip hoop party!",
+      "howToPlayText": "Desktop Controls:\nMouse left button to drag and shoot.\n\nMobile Controls:\nTouch and move on screen  to drag and shoot.",
+      "gameURL": "https://playgama.com/export/game/animal-basketball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/animal-basketball",
+      "genres": [
+        "arcade",
+        "sports",
+        "skill",
+        "funny",
+        "animals",
+        "popular",
+        "basketball",
+        "mobile"
+      ],
+      "tags": [
+        "mission-games",
+        "addictive-games",
+        "animal-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/037c436d-7e07-4af0-25e0-e03c66138000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2094e8ef-864e-4958-a906-a005c7dbfe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4bd84a98fb6a47ceb481318a40c1e1ab",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/animal-basketball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110346",
+      "slug": "mini-golf-battle",
+      "title": "Mini Golf Battle",
+      "description": "Mini Golf Battle is a fun and casual mini golf challenge where your goal is simple: hit the ball into the hole with as few shots as possible. The game combines easy controls with tricky levels full of slopes, angles, and obstacles that test your timing and precision.\nEach level is designed to get a little harder, so you’ll need to aim carefully, control your shot power, and plan the best path to sink the ball. It’s a relaxing yet addictive golf experience made for quick play sessions.",
+      "howToPlayText": "Drag/swipe in the direction you want the ball to move.\nPull back and release to adjust the strength of your shot.\nThe longer you drag, the stronger the hit.\nTry to sink the ball into the hole in the fewest strokes possible.\nWatch out for walls, ramps, and barriers that can deflect your ball.\nUse angles to bounce around corners smartly.\n\nFire Power:\nThis bonus gives your ball a flaming speed boost.\nIt’s useful for long straight shots or when you want to quickly cross a large gap.\nBest used when you need maximum distance in a single strike.\n\nWing / Glide Power:\nThis bonus allows your ball to glide smoothly as if it has wings.\nIt reduces friction and gives your ball a longer travel path with better control.\nIdeal for precision shots where you want distance but also don’t want to overshoot too wildly.\n\nSpring / Bounce Power:\nThis bonus acts like a spring-loaded push.\nIt helps your ball bounce forward with extra force, perfect for overcoming obstacles or making tricky jumps.\nBest for courses with barriers, ramps, or platforms where normal shots can’t reach.",
+      "gameURL": "https://playgama.com/export/game/mini-golf-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mini-golf-battle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "ball",
+        "mini-golf",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "casual-games",
+        "obstacle-games",
+        "accuracy-games",
+        "challenging-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/67010539-bef7-4192-57c6-10c614247700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b5b34687-7be7-414a-85ac-ab83295d6500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8c2eacb55c41499788955c7d20ef70d4",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mini-golf-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86411",
+      "slug": "finger-soccer-tournament",
+      "title": "Finger Soccer Tournament",
+      "description": "Finger Soccer Tournament is an engaging game where players pick teams to outscore opponents. Enjoy free online play with no downloads, featuring quality graphics. Compete solo or with friends on PC, Android, and iOS. Join the finger soccer realm and strive to be the top champion!",
+      "howToPlayText": "Touch and hold the screen to move the paddle. Defend your goal and make more goals than your opponent.",
+      "gameURL": "https://playgama.com/export/game/finger-soccer-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/finger-soccer-tournament",
+      "genres": [
+        "sports",
+        "multiplayer",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "tournament-games",
+        "desktop-games",
+        "1-player-games",
+        "simple-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a77d7309-12e0-4d84-0ef5-e3f3d970fb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5cdb53ac-7be9-4535-d536-486957e90600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "88131cded3ee495287f025572fc36dcf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/finger-soccer-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95521",
+      "slug": "darts-pro-3cf1-1",
+      "title": "Darts Pro",
+      "description": "Step up to the oche with <strong>Darts Pro</strong>, the ultimate online precision game that challenges your aim and skills. Immerse yourself in the world of darts, where the rules are inspired by the official Darts Regulation Authority. Whether you're on your phone or computer, this game offers a <strong>free</strong> and thrilling experience. Aim with your mouse or touch screen, and strive to hit that elusive bullseye. Keep an eye out for bonus symbols that can significantly boost your score. Simple to play, yet difficult to master, Darts Pro will test the limits of your dexterity and precision.",
+      "howToPlayText": "Playing Darts Pro is easy to understand. Use your mouse or touch screen to target your dart, then click or tap to throw. Your goal is to land as close to the center of the target as you can. However, be mindful of bonus symbols that can boost your points.",
+      "gameURL": "https://playgama.com/export/game/darts-pro-3cf1-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/darts-pro-3cf1-1",
+      "genres": [
+        "arcade",
+        "sports",
+        "skill",
+        "mouse",
+        "cool-games",
+        "classic",
+        "difficult",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "accuracy-games",
+        "darts-games",
+        "challenging-games",
+        "desktop-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8f94f55f-b919-43cf-3f8a-917502a35800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a211470d-b8ca-4514-8fd1-fca5331bb400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e1dfff275a0a4fb1b33fe4ea5d143e12",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/darts-pro-3cf1-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109529",
+      "slug": "super-fruit-runner-hyper-casual",
+      "title": "Super Fruit Runner - Hyper Casual",
+      "description": "In this hyper casual runner game 🚀, you control fast-moving fruits and dodge obstacles to reach the finish line 🍏. With 15 unique levels 🗺️ and 12 special achievements 🎖️, the fun never ends! Thanks to 7 language options — English 🇬🇧, Russian 🇷🇺, French 🇫🇷, Turkish 🇹🇷, Spanish 🇪🇸, German 🇩🇪, and Italian 🇮🇹 — everyone can enjoy the game 🌍.\n\nDestroy fruits by hitting knives 🗡️ and earn Yakut to buy powerful upgrades 💎, including:\n\nIncrease starting fruit count 🍎\n\nIncrease Yakut earnings 💰\n\nExtra reward for hitting green platforms ➕\n\nReduce loss from hitting red platforms ➖\n\nUse your speed, reflexes, and strategy 🧠💨 to clear all levels, unlock every achievement 🎖️.",
+      "howToPlayText": "1️⃣ Start the Game! 🚀 Run your fruit forward 🏃‍♂️, dodge obstacles, and complete levels! 🍏 Every step requires speed and focus! ⚡\n2️⃣ Avoid obstacles! ❌ Try not to hit the knives — but if you do, you’ll earn Yakut.\n3️⃣ Watch the platforms! 🟩 Green platforms give you extra rewards ➕, 🔴 red platforms reduce your fruit count ➖.\n4️⃣ Use your Yakut! Between levels, upgrade your abilities 🎯 to start stronger.\n5️⃣ Complete the goals! 📜 Collect all 12 special achievements and finish every level to become the master of the game! 🏅\n\n💡 Tip: Balance your upgrades ⚖️ to survive longer and maximize your Yakut earnings! 🔥",
+      "gameURL": "https://playgama.com/export/game/super-fruit-runner-hyper-casual?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/super-fruit-runner-hyper-casual",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "adventure",
+        "sports",
+        "skill",
+        "running",
+        "multiplayer",
+        "platform",
+        "popular"
+      ],
+      "tags": [
+        "reaction-games",
+        "fruits-games",
+        "dodge-games",
+        "hyper-casual-games",
+        "avoid-games",
+        "collecting-games",
+        "1-player-games",
+        "level-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d13b8034-b3cd-4d91-6ca2-29fc076c4b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0e7b2bc6-a5f0-4377-8fd5-f244d1a52100/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/super-fruit-runner-hyper-casual?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111794",
+      "slug": "basketball-tap",
+      "title": "Basketball Tap",
+      "description": "Basketball Tap is a fast-paced casual sports game.\nTime your taps perfectly, launch the ball into the air, and score epic slam dunks!",
+      "howToPlayText": "Tap the screen, control the ball, and guide it toward the basket to make your best shots and score points!",
+      "gameURL": "https://playgama.com/export/game/basketball-tap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/basketball-tap",
+      "genres": [
+        "arcade",
+        "sports",
+        "skill",
+        "basketball",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "addictive-games",
+        "timing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9b016a4c-959f-4528-38ff-e21c7383f500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74f8c69b-848d-4c5d-4880-7abdf626f900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "36eb2846bacd281d2a3437cf37c5a0e1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/basketball-tap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

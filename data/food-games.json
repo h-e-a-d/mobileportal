@@ -1,0 +1,462 @@
+{
+  "category": "food",
+  "count": 10,
+  "games": [
+    {
+      "id": "94750",
+      "slug": "paws-and-pals-diner",
+      "title": "Paws And Pals Diner",
+      "description": "Discover the fun of running your own animal-themed café in Paws And Pals Diner! Delight in serving cute customers and crafting tasty meals in this engaging 2D game, available on both mobile and desktop for endless enjoyment.",
+      "howToPlayText": "Use the mouse or finger tap to play the game.",
+      "gameURL": "https://playgama.com/export/game/paws-and-pals-diner?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/paws-and-pals-diner",
+      "genres": [
+        "adventure",
+        "simulation",
+        "mouse",
+        "animals",
+        "food",
+        "management",
+        "restaurant",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "business-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/410d10d8-aa29-4fef-064e-86fc00f60100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8f064b31-ed8e-470d-a9b3-1fa6a2980200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9b6e122afb354a9abb195a6f9409e258",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/paws-and-pals-diner?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112102",
+      "slug": "fruit-slicer",
+      "title": "Fruit Slicer",
+      "description": "Get ready to become a fruit-slicing master in the most exciting fruit cutting game ever! It's simple: slice fruits to master the art of fruit cutting. The best part? It’s absolutely free to play and packed with fun!\n\nGame Modes:\n- Classic: Just relax and slice.\n- Time: Race against the clock!\n- Arcade: Plan your slices without time limit!\n\nFruit Slicer offers simple yet addictive gameplay that will keep you entertained for hours. With cool challenges and the chance to compete against friends, there's never a dull moment. 🎯",
+      "howToPlayText": "- Touch and Slice: Swipe your screen to cut flying fruits.\n- Avoid Bombs: Be careful not to slice a bomb. 💣\n- Stunning Graphics: Enjoy beautiful backgrounds and vibrant fruit animations.\n- Hyper Casual Fun: Easy to play, hard to master.\n- Massive Points: Slash multiple fruits at once to score big.\n- Cool Boosts: Over 30 power-ups like Blast-fruit and Bomb-deflect.\n- Juicy Rewards: Earn daily deals and special bonuses.\n- Amazing Sound: Dynamic sound effects enhance the slicing experience.\n- Extra Challenges: Unlock bonus levels for even more fun.\n- Play Anywhere: No internet? No problem! Play offline.\n- Impressive Effects: Special power effects for a mesmerizing slicing spree.",
+      "gameURL": "https://playgama.com/export/game/fruit-slicer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fruit-slicer",
+      "genres": [
+        "arcade",
+        "skill",
+        "food",
+        "mobile"
+      ],
+      "tags": [
+        "fruits-games",
+        "knife-games",
+        "relaxing-games",
+        "addictive-games",
+        "exciting-games",
+        "challenge-games",
+        "1-player-games",
+        "slicing-games",
+        "simple-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea4094b1-750e-4500-7804-73a63e096e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/08c75da5-c87b-479c-b2bc-476dacd8b100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3b871f999af9d9304c8f119da6f5fdf2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fruit-slicer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106374",
+      "slug": "obby-pizza-delivery",
+      "title": "Obby Pizza Delivery",
+      "description": "Become a delivery boy in the maze and deliver pizzas to the locals. Rent a scooter to move faster. Pick a bigger bag so you can take more orders at a time and deliver even more pizzas. Complete orders, increase your reputation and open new zones with residents!",
+      "howToPlayText": "🏃‍♂️ Pick up orders at the pizzeria and deliver them to the residents\n🛴 Rent a scooter to move faster\n🌟 Upgrade your reputation and open new zones\n✅ The game has simple controls",
+      "gameURL": "https://playgama.com/export/game/obby-pizza-delivery?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-pizza-delivery",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "strategy",
+        "simulation",
+        "kids",
+        "obby",
+        "food"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "obstacle-games",
+        "delivery-games",
+        "time-management-games",
+        "1-player-games",
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5af533ac-c194-4788-75e6-b6cf6ccdd900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/691ba495-dabd-49af-e7e2-9de8579dc300/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-pizza-delivery?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111478",
+      "slug": "eating-simulator-italian-animal-brainrot",
+      "title": "Eating Simulator The Italian Animals Brainrot",
+      "description": "Eating Simulator The Italian Animals Brainrot A fun physics puzzle game: feed hungry animals from Italian memes by using gravity, logic, and creativity!\n\nIs a one-of-a-kind physics puzzle game where your mission is to feed adorable and funny animals inspired by Italian memes. Each level challenges your logic, reflexes, and creativity: manipulate objects, control gravity, and build action chains to deliver food straight into the paws or beaks of quirky creatures. The game offers dozens of levels with increasing difficulty, hilarious scenarios, surprising solutions, and signature humor. Attention to detail and precision will be the key to success, while your reward will be the grateful looks of happy, well-fed animals. Dive into a world of carefree fun, where physics is your main tool for playful experiments, and every completed level brings fresh emotions. Test your skills and prove that you can feed every Brainrot animal!",
+      "howToPlayText": "Drag, tap, and build paths! Use blocks and physics to guide food to the animals. Watch out for traps, experiment, and find creative solutions. The goal is simple: make the creatures happy!",
+      "gameURL": "https://playgama.com/export/game/eating-simulator-italian-animal-brainrot?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/eating-simulator-italian-animal-brainrot",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "funny",
+        "animals",
+        "food",
+        "physics",
+        "mobile"
+      ],
+      "tags": [
+        "meme-games",
+        "gravity-games",
+        "1-player-games",
+        "level-games",
+        "eating-games",
+        "weird-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aa0141aa-a67b-4ef4-285d-ae4fe95a0000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5a7b95bf-4cad-48f9-8111-9816aed04500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6ede12455c384050ac2bd9120f677ddf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/eating-simulator-italian-animal-brainrot?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111620",
+      "slug": "tiny-delivery",
+      "title": "Tiny Delivery",
+      "description": "Tiny Delivery is an game, created by combining the ideas of food delivery and hill climbing.\nCustomize your car and wheels in the store, and complete each level with your favorite vehicle.\nBefore starting the game, you can activate the truck rack to keep the food from falling out, making it easier to finish the level.",
+      "howToPlayText": "Use the left and right arrow keys on your keyboard (on PC) or the left and right touch buttons on your screen (on mobile) to move the vehicle forward and backward and deliver the food to the customer. Be careful not to drop the food! If the food falls on the ground, you will lose your level.",
+      "gameURL": "https://playgama.com/export/game/tiny-delivery?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tiny-delivery",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "strategy",
+        "simulation",
+        "skill",
+        "food",
+        "driving",
+        "mobile"
+      ],
+      "tags": [
+        "delivery-games",
+        "challenging-games",
+        "1-player-games",
+        "timing-games",
+        "level-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5f45fe36-5e29-4d17-9d38-39ecd7c63000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/35bb1490-d331-4035-859f-5fa74e8dbf00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "de5c4806341cee1aac3cae4df877dd4c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tiny-delivery?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86384",
+      "slug": "fit-master-3d",
+      "title": "Fit Master 3D",
+      "description": "Fit Master 3D is a fun online puzzle game focused on arranging food items into matching boxes. No downloads or sign-ups are required. Enjoy the challenge with burgers, fries, and more across various devices. Each level offers tasty twists and a unique sorting experience.",
+      "howToPlayText": "🍕 Fit, Twist & Feast! 🥗 Dive into this satisfying puzzle challenge where your mission is to fit delicious food items into the perfect box! From juicy burgers to crispy fries, every level brings a new tasty twist. Can you master the art of food fitting and complete the feast? 🍔✨\n\nPerfect for puzzle lovers and foodies alike! 🍣🧩 Download now and start fitting! 🎮\n\nMouse \nClick Drag and Drop\n\nMobile\nDrag and Drop",
+      "gameURL": "https://playgama.com/export/game/fit-master-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fit-master-3d",
+      "genres": [
+        "puzzle",
+        "skill",
+        "3d",
+        "food",
+        "logic"
+      ],
+      "tags": [
+        "iphone-games",
+        "interactive-games",
+        "addictive-games",
+        "burger-games",
+        "sorting-games",
+        "learning-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e53e8850-a364-497f-21db-22dcae47ec00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b44ff3c4-5154-4446-b82b-b834d50e5d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "413e00c8832a442eb0fa4f205d34b572",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fit-master-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99572",
+      "slug": "cooking-letters--word-search",
+      "title": "Cooking Letters - Word Search",
+      "description": "- Start Your Culinary Adventure. When you enter the kitchen you will see a variety of tasty letters scattered across the game board. Each letter is an ingredient for creating words.  \n- Find All the Hidden Words. Your goal is to find all the words from the list hidden on the game board. The faster you complete the task the more points you earn.  \n- Unlock New Levels. As you progress you will unlock new levels where the words get longer and the challenges become more exciting. Cook up increasingly complex dishes made of letters.  \n- Earn Rewards. For every word you find you earn points. Use them to unlock additional bonuses or new kitchen themes.  \n- Train Your Brain. This game is not only fun but also helps improve focus vocabulary and quick thinking.\n     ",
+      "howToPlayText": "\n- Collect Words. Swipe your finger or use your cursor to connect the letters and form words. You can connect letters in any direction horizontally vertically diagonally or even zigzag.  ",
+      "gameURL": "https://playgama.com/export/game/cooking-letters--word-search?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cooking-letters--word-search",
+      "genres": [
+        "puzzle",
+        "skill",
+        "kids",
+        "food",
+        "words",
+        "educational",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "connect-games",
+        "swipe-games",
+        "search-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d48160a-913a-425a-7c81-de9a7338e300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/35a766ff-af25-4ab1-6ce6-d3de70fea800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f0dcedda2ee14b5f8d5e60de634abd68",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cooking-letters--word-search?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86488",
+      "slug": "bubble-tea-cocktail-maker-mix-drinks-f0c2-1",
+      "title": "Bubble Tea Cocktail Maker Mix Drinks",
+      "description": "Dive into the world of crafting drinks with the exciting **Bubble Tea Cocktail Maker Mix Drinks** game. Explore diverse ingredients to create unique cocktails. Enjoy the mixology experience on any device, unwind at your virtual bar, and become a master drink creator.",
+      "howToPlayText": "Prepare the most delicious and original cocktails together with Bubble Tea Cocktail Maker Mix Drinks! Game provides an opportunity to experiment with different ingredients and create your own unique drinks. Playfully, you will master the art of mixology.\n\nBubble Tea Cocktail Maker Mix Drinks is a colorful and addictive game that allows you to create unique cocktails and turn your virtual bar into a real place to relax.\nOne of the main features of the game is its many ingredients. You can choose from many different options and create new combinations that will bring unforgettable pleasure to each of your clients. You won't have to worry about anything, as all the ingredients will be well proportioned to create the perfect delicious drink.\nThe game is easy to control and has a simple interface that will allow everyone to enjoy the process of creating drinks.\nWe advise you to play Bubble Tea Cocktail Maker mix drinks to try different cocktail options and turn into a real professional in the art of mixology. This game will be an ideal choice for fans of creative games or just for those who like to cook something delicious in the virtual world.\n\nUse the buttons to pour the necessary ingredients into a glass, a hint of how the drink should look is located in the upper right corner.",
+      "gameURL": "https://playgama.com/export/game/bubble-tea-cocktail-maker-mix-drinks-f0c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-tea-cocktail-maker-mix-drinks-f0c2-1",
+      "genres": [
+        "skill",
+        "food"
+      ],
+      "tags": [
+        "brain-training-games",
+        "addictive-games",
+        "desktop-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/38a6befc-83ac-4814-9246-026674407a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8769f740-4fa8-4fbb-e1ec-f253b749c600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cf18b21e81da4d25b00a92d876b99dbb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-tea-cocktail-maker-mix-drinks-f0c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109101",
+      "slug": "food-sort-3d",
+      "title": "Food Sort 3D",
+      "description": "In this game, you manage your own food court, sorting various food items into their respective categories. You'll encounter different eateries, from fast-food joints to upscale restaurants, each requiring you to sort items like burgers,\nsushi, hotdog, fries, pizza and desserts. The game features colorful graphics and quick, satisfying levels that keep you engaged as you expand your food",
+      "howToPlayText": "Drag and drop with a mouse is when you:\n\nMove the cursor over an item.\n\nPress and hold the left mouse button (don’t release yet).\n\nMove the mouse to drag the item to a new position.\n\nRelease the button to drop it in place.",
+      "gameURL": "https://playgama.com/export/game/food-sort-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/food-sort-3d",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "3d",
+        "popular",
+        "food",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "sorting-games",
+        "simple-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8408652e-c720-43bf-d893-9e5695d50e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/33248dc8-864d-4312-3c45-352b42667100/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/food-sort-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111511",
+      "slug": "fruit-chopper",
+      "title": "Fruit Chopper",
+      "description": "Grand fruit slasher is out!\n\nGameplay is zero hassle. Time your throws carefully and try to slash multiple fruits at once to get bonus score! Be nimble and accurate - DO NOT MISS!\n\nYou'll get one cocktail per every level completed. After you get 4 cocktails, you will get free spin of fortune wheel! RARE COCKTAILS = BETTER REWARDS!\n\nCan you reach level 100?",
+      "howToPlayText": "You try to slash / cut fruits as they come or are thrown — particularly trying to hit multiple fruits with one throw/slash to get bonus points. The aim is to keep going without missing.\nYou tap or swipe (depending on the moment) to time your throw/slash. Time it carefully so you can hit as many fruits in one go as possible.\nImportant: Do NOT miss — if you fail to hit fruits properly, it affects your progress.",
+      "gameURL": "https://playgama.com/export/game/fruit-chopper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fruit-chopper",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "mouse",
+        "food",
+        "ninja",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "fruits-games",
+        "addictive-games",
+        "timing-games",
+        "slicing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c827c00-2b12-4ba7-1dd4-53f805a79c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fca16340-0851-4f5c-120e-39868b7e5a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "76a10445fdf94eba98e7e19ff305ae68",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fruit-chopper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

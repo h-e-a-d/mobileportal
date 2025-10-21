@@ -1,0 +1,813 @@
+{
+  "category": "car-racing",
+  "count": 16,
+  "games": [
+    {
+      "id": "110845",
+      "slug": "car-smash-simulator-crash--tune",
+      "title": "Car Smash Simulator: Crash & Tune",
+      "description": "Welcome to the ultimate car crash simulator!\n\nSmash, crash, and customize your vehicles in a giant open-world sandbox. Experience realistic damage - watch doors fly off, hoods crumple, and wheels pop off in brutal crashes.\n\nDrive through zones packed with destruction tools:\n- Giant hammers\n- Hydraulic crushers\n- Mega ramps and more\n\nDiscover new cars roaming the world and make each one yours with tuning:\n- Change full body color or individual parts\n- Adjust wheel size, height, and camber\n- Style your ride your way\n\nWhether you're here to break stuff, perform insane stunts, or just roam free - it's your playground of metal and madness.",
+      "howToPlayText": "Keyboard Controls:\nWASD - drive\nSpace - handbrake\nShift - nitro\nTab - pause\nC - camera\nR - flip car\nK - repair\nN - next car\nB - slow motion\n\nOn mobile devices — use on-screen buttons.",
+      "gameURL": "https://playgama.com/export/game/car-smash-simulator-crash--tune?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/car-smash-simulator-crash--tune",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "car-racing",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "destroy-games",
+        "car-crash-games",
+        "sandbox-games",
+        "open-world-games",
+        "crush-games",
+        "arcade-car"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/12e3407f-f9c8-4287-48a1-fc5f7b646e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/58c58170-8949-4d35-0e94-e7fc64105000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "06ee5a9ff7744d5091f46e059c1ba3a0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/car-smash-simulator-crash--tune?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99602",
+      "slug": "turbo-stunt-racing",
+      "title": "Turbo Stunt Racing",
+      "description": "Experience high-speed thrills in Turbo Stunt Racing! Perform epic stunts, race fierce rivals, and upgrade unique cars in this 3D arcade racer packed with action, traps, and ramps. Master precision driving and dominate every level!",
+      "howToPlayText": "Rev your engines and dive into the adrenaline-pumping world of Turbo Stunt Racing! This immersive 3D arcade racing game brings you stylized graphics and non-stop action. Face off against fierce opponents as you race through increasingly challenging levels.\n\nIn Turbo Stunt Racing, it’s not just about speed—it's about style! Complete daring stunts and master the art of precision driving to earn big rewards. Use your hard-earned cash to upgrade your vehicle or splurge on a brand-new ride, each with unique characteristics and performance boosts.\n\nThe levels are packed with dynamic obstacles, traps, and ramps that test your reflexes and racing skills. Navigate through perilous turns and soar over jaw-dropping jumps to stay ahead of the competition.\n\nWhether you're a casual gamer or a racing enthusiast, Turbo Stunt Racing offers a thrilling experience that will keep you on the edge of your seat. Buckle up, hit the turbo, and prove you're the ultimate racing champion!\n\nControls:\n↑ (Up Arrow / W): Accelerate\n↓ (Down Arrow / S): Decelerate\n← (Left Arrow / A): Steer left\n→ (Right Arrow / D): Steer right\n",
+      "gameURL": "https://playgama.com/export/game/turbo-stunt-racing?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/turbo-stunt-racing",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "skill",
+        "3d",
+        "car",
+        "car-racing",
+        "cool-games",
+        "driving",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/edc18234-be34-4d3d-b009-0e564be1dd00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd75f441-3db3-4316-7657-623bd316a900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3c59cafef0174a4997a1b912311f373b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/turbo-stunt-racing?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111797",
+      "slug": "zombie-derby",
+      "title": "Zombie Derby",
+      "description": "Zombie Derby is a wild mix of racing and zombie mayhem from Brinemedia. Jump behind the wheel and plow through hordes of the undead standing in your way. But be careful - your fuel is limited, and once you stop, you’ll become easy prey. Time your nitro boosts wisely, as they might be the only thing that gets you over a hill or across a deadly gap.",
+      "howToPlayText": "Accelerate - W/Arrow up\nShoot gun - Spacebar\nUse nitro - Left Shift/N\nTilt forward/backward - Left/Right arrow or A/D",
+      "gameURL": "https://playgama.com/export/game/zombie-derby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-derby",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "shooting",
+        "car-racing",
+        "zombie",
+        "survival",
+        "driving",
+        "physics",
+        "crazy-games",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "offroad-games",
+        "addictive-games",
+        "accuracy-games",
+        "avoid-games",
+        "obstacles-games",
+        "apocalypse-games",
+        "road-games",
+        "agility-games",
+        "1-player-games",
+        "bloody-games",
+        "traffic-games",
+        "level-games",
+        "wheel-games",
+        "offroad-car",
+        "arcade-car",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/96407488-0601-49a0-f6e1-46b1f7a70d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b913f855-e1f8-44bb-b5ea-72071a295d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "38f66cd40aa5619791f414eac138c699",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "5e421c4a145eeb59cbfa9f9edc5a53c1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-derby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112169",
+      "slug": "zombie-derby-2",
+      "title": "Zombie Derby 2",
+      "description": "Zombie Derby 2 is a fast and fun driving game with zombies everywhere. Get in your car, run over the undead, and try to survive as long as you can. Use your fuel wisely - if you run out, the zombies will catch you. Collect upgrades, unlock new cars, and use nitro boosts to jump over hills and smash through big groups of zombies.",
+      "howToPlayText": "Accelerate - W/Arrow up\nShoot gun - Spacebar\nUse nitro - Left Shift/N\nTilt forward/backward - Left/Right arrow or A/D",
+      "gameURL": "https://playgama.com/export/game/zombie-derby-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-derby-2",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "simulation",
+        "shooting",
+        "car-racing",
+        "popular",
+        "zombie",
+        "driving",
+        "halloween",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "survivors-games",
+        "bullet-games",
+        "interactive-games",
+        "destroy-games",
+        "exciting-games",
+        "crash-games",
+        "flip-games",
+        "derby-games",
+        "apocalypse-games",
+        "visual-games",
+        "road-games",
+        "agility-games",
+        "1-player-games",
+        "bloody-games",
+        "wheel-games",
+        "arcade-car",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a56f530c-c5e6-4b3a-a2eb-cd61ab20c400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2d622bd4-80b6-474a-6372-f40f3bf3e900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3e2836ea2baef3cae4d39b32b321077b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-derby-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112320",
+      "slug": "racing-destruction-and-chase",
+      "title": "Racing: Destruction and Chase",
+      "description": "Dive into a world where every crash is a masterpiece!  \n\n- Realistic Destruction: Flying doors, hoods, wheels, and sparks under your feet.  \n- Freedom of Action: Race, evade the police, or explore the open world at your own pace.  \n- Unlimited Tuning: Customize paint jobs, wheel sizes, suspension height, and create your unique style.  \n- Destruction Tools: Use presses, hammers, ramps to test vehicle durability.  \n\nKey Features:  \n- Dynamic police chases with realistic physics.  \n- AI-driven bots that populate the game world.  \n- Instant car repair for non-stop action.  \n\nEach collision tells a new story. Every ride is your choice!",
+      "howToPlayText": "Controls:  \nWASD - movement  \nSpace - handbrake  \nShift - acceleration (nitro)  \nC - camera angle  \nR - flip the car  \nK - repair  \nB - slow motion  \nTab - pause  \n\nOn the phone, using the buttons on the screen.",
+      "gameURL": "https://playgama.com/export/game/racing-destruction-and-chase?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/racing-destruction-and-chase",
+      "genres": [
+        "action",
+        "racing",
+        "3d",
+        "car",
+        "funny",
+        "car-racing",
+        "driving"
+      ],
+      "tags": [
+        "race-games",
+        "destruction-games",
+        "vehicles-games",
+        "car-tuning-games",
+        "car-crash-games",
+        "demolition-games",
+        "sandbox-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bc35a6e5-8bc2-4064-34ba-e47fb173f500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/008bb12d-bda6-4b49-6610-50f9ea143000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "380d3f28b6c1252f8442650520bd6a7a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/racing-destruction-and-chase?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112220",
+      "slug": "streetracer-realistic-destruction",
+      "title": "StreetRacer: Realistic Destruction",
+      "description": "Experience the ultimate car destruction mayhem! \n\nIn \"StreetRacer: Realistic Destruction\", you have complete freedom in a vast open world environment. Wreck cars in spectacular ways – watch parts fly off, witness realistic damage, and see wheels go flying in epic crashes.\n\nKey Features:\n- Advanced car customization options\n- Full exterior customization\n- Wheel and suspension tuning\n- Destruction tools galore\n- Interactive press and ramp areas\n- Dynamic traffic simulation\n- Realistic damage physics\n\nExplore, destroy, and create your own challenges in this ultimate car destruction playground!",
+      "howToPlayText": "Controls:\nWASD - drive\nSpace - handbrake\nShift - boost\nC - change camera\nR - reset car\nN - new vehicle\nK - repair\nB - slow motion\nTab - pause\n\nMobile users: tap on-screen buttons.\n\nObjective: wreck, tune, and explore to your heart's content!",
+      "gameURL": "https://playgama.com/export/game/streetracer-realistic-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/streetracer-realistic-destruction",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "car-racing",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "race-games",
+        "iphone-games",
+        "destruction-games",
+        "destroy-games",
+        "addictive-games",
+        "vehicles-games",
+        "car-crash-games",
+        "desktop-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a76dd090-6ab3-48c3-e996-83db0f354700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/884d36d7-af05-400f-17d6-4bbf9b3f9800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "30f84086e67f1d4a3db3ddd1412cbede",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/streetracer-realistic-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112335",
+      "slug": "car-crash-test-abandoned-city",
+      "title": "Car Crash Test: Abandoned City",
+      "description": "Immerse yourself in an adrenaline-pumping world of destruction and speed!\nBimka is an abandoned city with destruction online is a game where you control cars that break down with stunning realism. Doors, hoods, and wheels can all fly off with a powerful impact! Explore a vast open world filled with ramps, presses, and other tools for epic destruction.\n\nCreate unique cars by changing the color of the body, details, and adjusting the size and alignment of the wheels. Meet other cars speeding along the roads and compete with them in spectacular crashes. Enjoy crazy jumps, collisions, and complete freedom of action!\nRealistic car destruction\nCustomization: color, wheels, and style\nVast open world\nUnique crash test sites\nDestroy, build, and race - create your own chaos on the road!",
+      "howToPlayText": "Controls:\nWASD - steer the car\nSpace - brake hard\nShift - enable nitro\nC - switch camera\nN - change car\nR - put car back in service\nK - repair car\nB - slow down time\nTab - open pause\n\nOn mobile: use the buttons on the screen.\nGoal: drive, crash, tune - do whatever you want!",
+      "gameURL": "https://playgama.com/export/game/car-crash-test-abandoned-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/car-crash-test-abandoned-city",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "adventure",
+        "simulation",
+        "boys",
+        "3d",
+        "car-racing",
+        "driving"
+      ],
+      "tags": [
+        "vehicles-games",
+        "crash-games",
+        "car-crash-games",
+        "sandbox-games",
+        "open-world-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/63d562cb-32cf-42d8-9352-b00e4fe6b000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/50e631e4-a69d-42e3-3558-68bfb63b6500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6ea605ab38a1bde58c807b4fb4f67a8f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/car-crash-test-abandoned-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109176",
+      "slug": "carvivor-ops",
+      "title": "Carvivor Ops",
+      "description": "Carvivor Ops is a car-based action game that challenges you to survive increasingly intense waves of police within a limited time. ",
+      "howToPlayText": "Get behind the wheel of a weaponized supercar !\nDodge the cops, fire rockets Upgrade your gear, survive endless chases, and become the ultimate escape artist!\n\nDesktop Controls:\n↑ (Up Arrow, W): Move upward.\n↓ (Down Arrow, S): Move downward.\n← (Left Arrow, A): Move left.\n→ (Right Arrow, D): Move right.\n\nMobile Controls:\nControl the car using the buttons on the screen!",
+      "gameURL": "https://playgama.com/export/game/carvivor-ops?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/carvivor-ops",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "strategy",
+        "car",
+        "shooting",
+        "car-racing",
+        "survival",
+        "driving"
+      ],
+      "tags": [
+        "dodge-games",
+        "vehicles-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/699e1796-0626-4697-8788-96fc5953e600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4713f256-35e0-499c-3180-124a19e0da00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d5be5c2b65a44187aa6b0e742274b379",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/carvivor-ops?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86413",
+      "slug": "moto-obby",
+      "title": "Moto Obby",
+      "description": "Join the exciting world of Moto Obby, where your motorbike skills face intense challenges. Overcome tricky hazards like swinging hammers and sharp spikes in a quest for victory. Test your reflexes across various levels in this thrilling online game, available on phones and computers.",
+      "howToPlayText": "Use the arrows ⬆️⬇️ or \"WS\" to move and ⬅️➡️ or \"AD\" to spin.\nSometimes you’ll need to slow down, and other times you’ll need to speed up to win. Try different tactics.\nIf your bike gets stuck, press ⬅️➡️ or \"AD\" to hop!",
+      "gameURL": "https://playgama.com/export/game/moto-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/moto-obby",
+      "genres": [
+        "action",
+        "car-racing",
+        "cool-games",
+        "obby",
+        "dirt-bike",
+        "driving",
+        "bike"
+      ],
+      "tags": [
+        "stunt-games",
+        "reaction-games",
+        "obstacle-games",
+        "addictive-games",
+        "exciting-games",
+        "obstacles-games",
+        "challenging-games",
+        "jumping-games",
+        "speed-games",
+        "super-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74efb2d7-c956-413b-bbee-0b2e8c817f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/43282bdf-f3a9-4cd5-c371-d61cb4646d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "00e4d0b599e640b595cdfff740ecbcff",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/moto-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111288",
+      "slug": "buggy-simulator-sandbox-3d",
+      "title": " Buggy Simulator Sandbox 3D",
+      "description": "Buggy Simulator Sandbox 3D is a buggy physics simulator, ride on various maps and observe the behavior of cars and their wheels. There are several cars to choose from - you can switch between them at any time and control any one. Explore the map with the city and the bridge, jump over the hills, drive off the bridge. On the test zone, you can destroy the pyramids, evaluate the work of the suspension and more.",
+      "howToPlayText": "Controls:\n\"WASD\" - driving/steering\n\"SPACE\" - handbrake\n\"C\" - change camera\n\"Shift\" - nitro\n\"R\" - reset car\n\"N\" - next car\n\"Tab\" - menu\nThe rest is through the game interface.\n\nFor mobile devices, use the game interface.\n\nThe goal of the game: just ride as you like ;)",
+      "gameURL": "https://playgama.com/export/game/buggy-simulator-sandbox-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/buggy-simulator-sandbox-3d",
+      "genres": [
+        "racing",
+        "simulation",
+        "3d",
+        "car",
+        "car-racing",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "stunt-games",
+        "offroad-games",
+        "unity3d-games",
+        "vehicles-games",
+        "sandbox-games",
+        "buggy-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e91fcf9a-5ad1-484e-1976-4f612b120b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e49a9a12-3890-4c77-5a33-a84863a3d100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9640e0a24e3543b78d4cc817398c146e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/buggy-simulator-sandbox-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106382",
+      "slug": "driverz-ed",
+      "title": "Driverz Ed",
+      "description": "Welcome to Driverz Ed, with your instructor Ed! Explore Ed's beautiful island, completing challenges, or just drive around and try to find all the secrets the Island has to offer!\n\nFind the hidden Puzzle Pieces and unlock every car.",
+      "howToPlayText": "Explore the world, find the hidden Puzzle Pieces, unlock every car.\n\nControls:\nWASD to Move\nArrows to Move\nMouse to Control the Camera.\n\nG - Fast Travel to Start of Races\nM - Shows all available missions and current records\nP - Pause and open settings",
+      "gameURL": "https://playgama.com/export/game/driverz-ed?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/driverz-ed",
+      "genres": [
+        "puzzle",
+        "racing",
+        "adventure",
+        "simulation",
+        "3d",
+        "car",
+        "car-racing",
+        "driving"
+      ],
+      "tags": [
+        "race-games",
+        "mission-games",
+        "vehicles-games",
+        "collecting-games",
+        "open-world-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b8a210fe-2224-49be-26ee-9e17f1c5fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dd4492e3-16cd-4e86-ce88-14b5e4c78e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9933365fb98b4f8cb8598130f601c70f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/driverz-ed?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106315",
+      "slug": "winged-wheels-2",
+      "title": "Winged Wheels 2",
+      "description": "Ready to challenge your brain and reflexes like never before?\n\nIn this fast-paced action game, you'll control a car and a spaceship simultaneously. While dodging enemies and obstacles with one vehicle, you’ll be collecting coins and power-ups with the other – all in real time!\n\nMultitask like a pro: Master the art of controlling two vehicles at once\n\nUnlock new cars and spaceships with unique visuals\n\nUpgrade your abilities after each run for better performance\n\nFace random events and power-ups that shake up the gameplay\n\nClimb the global leaderboard and prove your skills\n\nThis game is designed to test your concentration, dexterity, and multitasking to the absolute limit. Whether you're dodging missiles or grabbing that last coin, every second counts.\n\nCan you handle the chaos?",
+      "howToPlayText": "PC:\n← (Left Arrow): Move left with the car.\n→ (Right Arrow): Move right with the car.\nA: Move left with the spaceship. \nD: Move right with the spaceship. \n\nMobile: \n- Swipe on the left side to move the spaceship. \n- Swipe on the right side to move the car. \n\nObjective: \nCollect coins to buy upgrades and climb the leaderboard.\nHitting an enemy or obstacle will cost you one health. Losing a coin also costs one health.\n\nPower Ups: \n- Magnetic Field: Coins are automatically attracted to your vehicle. Upgrades increase the duration.\n- Energy Shield: Destroys enemies and obstacles on contact. Upgrades increase the duration.\n- Extra Life: Grants you an additional life. \n- Weapon System: Automatically fires rockets at the nearest enemy or obstacle. Upgrades increase the ammo capacity.",
+      "gameURL": "https://playgama.com/export/game/winged-wheels-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/winged-wheels-2",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "simulation",
+        "skill",
+        "platform",
+        "car-racing",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "collecting-games",
+        "defold-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1d7c32a9-08eb-4ec8-ba2d-b19ce6a72f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/11e0428f-2645-488c-cbfd-bdf493edb100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a584cbe306db4d9c98ddfab7dcdf1e2a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/winged-wheels-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98692",
+      "slug": "turbo-racer-extreme",
+      "title": "Turbo Racer Extreme",
+      "description": "You race through traffic, dodging cars and trying to get the most amount of points. The closer you get to other cars - the more points you get. You can choose the difficulty and aesthetic of your race every time.",
+      "howToPlayText": "Welcome to Turbo Racer Extreme In this racer you'll be able to drive in three modes, one way, two way and time attack. Every modes have three stages which are sunny, night and rainy. You need to drive and avoid getting hit or bumped by other cars. Speed your way on the highway and get your possible top speed. Unlock all the achievements and earn the highest points as possible, not just to get your name in the leaderboard but also you can purchase other cars using the points which was converted to coins. Play now and see how fast you can be!\nKeyboard\nMove - WASD or Left/Right/Up/Down Arrow Key\nBrake - Space\n",
+      "gameURL": "https://playgama.com/export/game/turbo-racer-extreme?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/turbo-racer-extreme",
+      "genres": [
+        "action",
+        "racing",
+        "skill",
+        "car-racing",
+        "driving"
+      ],
+      "tags": [
+        "race-games",
+        "fast-paced-games",
+        "dodge-games",
+        "avoid-games",
+        "vehicles-games",
+        "highscore-games",
+        "speed-games",
+        "road-games",
+        "traffic-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/67f7ad50-d695-4a2e-8e60-308681002a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/686021c2-9782-4e5a-7704-8471775bbc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3d2c50b1c2564e42a115e080891b4399",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/turbo-racer-extreme?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "52",
+      "slug": "crazy-descent",
+      "title": "Crazy Descent",
+      "description": "Crazy Descent is an exciting racing game where you can compete in high-speed aerial races instantly, no downloads needed. Experience captivating 3D visuals and fluid gameplay on any device, upgrade your vehicle, and take on various challenges, catering to both experienced racers and newcomers.",
+      "howToPlayText": "Mobile: touch the screen and swipe left/right\nDesktop: W - go forward, A/D - turn, R - restart\n",
+      "gameURL": "https://playgama.com/export/game/crazy-descent?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/crazy-descent",
+      "genres": [
+        "action",
+        "racing",
+        "car-racing",
+        "cool-games",
+        "driving",
+        "crazy-games"
+      ],
+      "tags": [
+        "race-games",
+        "fast-paced-games",
+        "addictive-games",
+        "obstacles-games",
+        "derby-games",
+        "car-crash-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/da676340-010f-418e-1a7d-601975125400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b823a433-3bd6-4a3e-89de-ad71a3992100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "71517334ac6b4a629af4e14d9193d920",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/crazy-descent?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109528",
+      "slug": "hot-rods-arena-stars",
+      "title": "Hot Rods Arena Stars",
+      "description": "Welcome to the arena where the weak don’t survive!\n\nTake the wheel of a legendary, heavily armed Hot Rod and challenge dozens of ruthless opponents.\n\nHere, there are no rules — only speed, firepower, and your reflexes decide who becomes the champion. Blast enemies with precise shots, collect stars, and unlock powerful upgrades for your battle beast.\n\nSwap weapons, reinforce your armor, hit top speed, and leave nothing but smoke and wreckage behind!\n\nEvery arena is a new challenge, where only those willing to take risks can claim victory.\n\nReady to prove you’re the king of the road? Then hit the gas and race toward glory!",
+      "howToPlayText": "Desktop:\nW, A, S, D — drive your car\n\nMobile:\nMovement — use the left stick (up, down, left, right)\n\nGoal:\nCollect stars to outscore your rivals. Use your weapons wisely — blow up enemies, trap them, and don’t give them a chance to strike back. One mistake, and your car becomes scrap metal!",
+      "gameURL": "https://playgama.com/export/game/hot-rods-arena-stars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hot-rods-arena-stars",
+      "genres": [
+        "action",
+        "racing",
+        "strategy",
+        "car",
+        "multiplayer",
+        "car-racing",
+        "pvp"
+      ],
+      "tags": [
+        "arena-games",
+        "car-crash-games",
+        "collecting-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/723a043b-8df5-47ae-7aee-d67bb52cc700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b1a13e26-f9e1-4156-424b-5249736a2100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3558cc15a3524dd09c9e5d8fe6b663e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hot-rods-arena-stars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99693",
+      "slug": "mr-drifter-car-chase-simulator",
+      "title": "Mr. Drifter: Car Chase Simulator",
+      "description": "Run fast, crash hard, and cheat death — in style.\n\nRace through a chaotic low-poly city as you dodge police, traffic, and total destruction. Use game-changing power-ups like Slow-Mo, Freeze, and EMP Blasts to escape the impossible.\n\nUnlock wild getaway cars\nGrab power-ups mid-chase\nSmash through obstacles & roadblocks\nStylized low-poly world with top-down tilt\nEndless cops. Infinite chaos.\n\nOne rule: don’t stop. How long can you stay free?\n",
+      "howToPlayText": "Desktop:\nMove with WASD or Arrow Keys\nCollect power-ups and dodge obstacles to stay alive\n\nTouch Devices:\nUse on-screen touch controls to steer",
+      "gameURL": "https://playgama.com/export/game/mr-drifter-car-chase-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mr-drifter-car-chase-simulator",
+      "genres": [
+        "action",
+        "racing",
+        "skill",
+        "car-racing",
+        "driving",
+        "drifting"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "destruction-games",
+        "vehicles-games",
+        "endless-games",
+        "crime-games",
+        "car-crash-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fbeffa58-daa9-41b2-5921-3e553dd33300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/098a6c7b-9a41-4a0e-97ce-ae66f5f82300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c3eddc29677c4a158af5d42e53c4cadc",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "09bdcfc914c64ff0b8f0e22fa553c4e1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mr-drifter-car-chase-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

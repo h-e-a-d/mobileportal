@@ -1,0 +1,694 @@
+{
+  "category": "board",
+  "count": 16,
+  "games": [
+    {
+      "id": "86262",
+      "slug": "master-chess",
+      "title": "Master Chess",
+      "description": "Sharpen your tactics to defeat the king in this classic game. Compete online with either the AI or players from around the world. Aim for victory!",
+      "howToPlayText": "On desktop: click the piece you want to move and then click the square on the board where you want to positionate the piece.\n\nOn mobile: tap the piece you want to move and then tap the square on the board where you want to positionate the piece.",
+      "gameURL": "https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-chess",
+      "genres": [
+        "two-player",
+        "multiplayer",
+        "chess",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "turnbased-games",
+        "interactive-games",
+        "rts-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/584d459d-be49-44e2-b09b-04b10a241900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d00b16b-8a23-45dc-7543-1a7db0be8d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "066b3bab8a1c460cbc5d057dbbe37125",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111546",
+      "slug": "domino-online-multiplayer",
+      "title": "Domino Online Multiplayer",
+      "description": "Domino Online Multiplayer: Challenge Your Mind in Exciting Domino Duels!\n\nAre you ready for a thrilling battle of wits and strategy? Domino Online Multiplayer brings the classic game of dominoes to your screen with exciting multiplayer options and engaging features. Play for free and without registration — dive into the world of dominoes and test your skills against various opponents!\n\nWhy choose Domino Online Multiplayer?\n\nMultiple game modes:\n- play against a computer with 9 difficulty levels (from Beginner to World Champion);\n- engage in online duels with real players in real-time;\n- send a link and play with a friend, even if you’re miles apart;\n- enjoy a convenient «one-screen» mode for fun battles at home.\n\nFlexible settings and features:\n- choose from different time controls: Bullet, Blitz, Rapid, or Classic;\n- use the move undo option to correct mistakes;\n- benefit from hints that suggest the best move to help you learn on the fly;\n- track your progress with a rating and detailed statistics;\n- customize the look of the tiles and the playing field to suit your taste;\n- review the move history to analyze your games and improve your strategy;\n- exchange stickers and chat with your opponents to make the game more enjoyable.\n\nAdditional thrill:\nMake bets and win gold from your opponents — add an extra layer of excitement to your matches!\nDomino Online Multiplayer offers a challenging and entertaining experience for players of all levels. Join now and turn every game into an exciting challenge where every move brings you closer to victory!",
+      "howToPlayText": "Getting Started\n\nChoose your game mode:\n- play against the computer;\n- engage in online duels with real players;\n- play with a friend by sharing a link;\n- enjoy a «one-screen» mode for playing with someone nearby.\n\nSelect your game settings:\n- choose a time control mode (Bullet, Blitz, Rapid, or Classic);\n- enable hints if you need help with your moves.\n\nGame Rules and Gameplay\n\nSetup:\n- each player is dealt 7 domino tiles at the start of the game;\n- the player with the lowest double (except for the blank tile) starts the game.\n\nMaking Moves:\n- players take turns extending the domino chain on the table, matching the numbers on adjacent tiles;\n- if a player doesn’t have a tile that matches the open ends of the chain, they must draw tiles from the bazaar (remaining tiles) until they find a matching one.\n\nWinning a Round:\n- the first player to play all their tiles wins the round;\n- the losing player counts their penalty points, which are equal to the sum of the pips (dots) on their remaining tiles;\n- special tiles: the 0-0 tile is worth 25 points, and the 6-6 tile is worth 50 points.\n\nEnding a Round:\n- if no player can make a move and the bazaar is empty, the round ends;\n- the player with the fewest pips on their remaining tiles wins the round.\n\nScoring and Ending the Game:\n- after each round, the next hand begins;\n- the game continues until one player reaches 100 penalty points, at which point they are considered the loser of the entire game.\n\nEnjoy the strategic challenge of Domino Online Multiplayer and see if you have what it takes to outwit your opponents!",
+      "gameURL": "https://playgama.com/export/game/domino-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/domino-online-multiplayer",
+      "genres": [
+        "arcade",
+        "strategy",
+        "skill",
+        "multiplayer",
+        "mouse",
+        "pvp",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "brain-training-games",
+        "challenging-games",
+        "competitive-games",
+        "domino-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ccec6962-5378-4e0b-c990-6bd4269c1100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4b83d5e7-6472-4bfe-7dfa-458cbaa60600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9298fe9ae3dc42fc8178319c6f74cbb1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/domino-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111579",
+      "slug": "chess-online-multiplayer",
+      "title": "Chess Online Multiplayer",
+      "description": "Play Chess Online and Improve Your Skills!\n\nAre you ready to challenge your mind and enjoy the timeless game of chess? Chess Multiplayer is the perfect place to play chess online — no registration required! Whether you’re a beginner or a seasoned player, our platform offers an exciting chess experience for everyone.\n\nWhy choose Chess for Free?\n\nMultiple game modes: play against the computer, compete online with players from around the world, challenge a friends, or play together on the same screen!\n21 difficulty levels: choose your opponent — from Beginner to World Champion. Perfect for both newcomers and chess masters!\nTime control modes: pick your preferred pace with Unlimited, Bullet, Blitz, Rapid, or Classic modes.\nInteractive features: highlight possible moves, cancel a move if you make a mistake, use interactive hints to find the best move, and analyze your game after it’s over to learn from your mistakes.\nPersonalized experience: customize the look of the pieces and the board, set handicaps, and keep track of your rating, points, and game statistics.\nExtra fun: share funny cartoon emotions with your opponent and make your game more enjoyable!\nImprove your chess skills and have fun — play Chess for free right now!",
+      "howToPlayText": "Chess Online Multiplayer follows the classic rules of chess. The goal of the game is to checkmate your opponent’s king, putting it in a position where it is under threat of capture and has no legal moves to escape.\n\n**Getting Started**\n\n1. **Choose the game type:**\n* play online against other players;\n* challenge the computer;\n* play together on the same screen with a friend.\n\n2. **If you’re playing against the computer:**\n* select the opponent’s difficulty level (from Beginner to World Champion);\n* choose whether to use a handicap and interactive hints.\n\n3. **If you’re playing with a friend:**\n* decide on the time control mode (Unlimited, Bullet, Blitz, Rapid, Classic).\n* choose your bet\n\n**Basic Rules and Gameplay**\n\n* Players take turns making moves.\n* Pawns move forward and capture diagonally.\n* Knights move in an «L» shape.\n* Other pieces have their own unique moves.\n\nTo succeed, develop a strategy: protect your pieces, control the center of the board, and anticipate your opponent’s moves.\n\nThe game ends when one player checkmates the opponent’s king (winning the game) or when a draw is achieved under certain conditions.\n\n**Draw Conditions**\nA draw is a result where neither player wins, and the game ends in a tie. It can occur under the following circumstances:\n* **stalemate:** when a player has no legal moves but is not in check;\n* **three-fold repetition of the position:** when the same position occurs three times;\n* **50 moves without a capture or pawn move;**\n* **insufficient material to checkmate;**\n* mutual agreement between players.\n\n**Special Chess Moves**\n\n**Castling**\nCastling is a special move involving the king and a rook. It can be performed only if:\n* neither the king nor the rook has moved yet;\n* there are no other pieces between the king and the rook;\n* the king is not in check;\n* the king does not pass through or stop on squares that are under attack.\n\nThis move helps to protect the king and connect the rooks for better defense.\n\n**En Passant (Taking on Pass)**\nEn passant is a special pawn capture. If your opponent moves a pawn two squares forward and lands next to your pawn, you can capture it on your next move as if it had moved only one square. Your pawn will take its place, but this capture must be done immediately.\n\n**Additional Features**\n\n* **Made a mistake?** Use the move undo function to reconsider your strategy.\n* After each match, a detailed analysis highlights mistakes and suggests better moves.\n* You can replay specific moments to strengthen your understanding of the game.\n* Save your rating and choose different time modes (Bullet, Blitz, Rapid).\n* Customize the board and pieces to your liking.\n* Review the move history and express your emotions by communicating with your opponent using playful cartoon emojis.",
+      "gameURL": "https://playgama.com/export/game/chess-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/chess-online-multiplayer",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "chess",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e7b6ad19-ee23-4490-c7ea-7103e65f3400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9e2eb475-4c3b-45cf-4071-79fd367be100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "069e9d3492b838dddc1aeba466ae8125",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/chess-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111547",
+      "slug": "english-checkers-online-multiplayer",
+      "title": "English Checkers Online Multiplayer",
+      "description": "**English Checkers Online Multiplayer: Challenge Your Mind and Master the Game!**\n\nAre you ready to dive into the world of strategy and logic? English Checkers Online Multiplayer offers an exciting experience for checkers enthusiasts of all levels! Play for free and without registration — choose your opponent and sharpen your skills in this classic game.\n\n**Why choose English Checkers Online Multiplayer?**\n\n- **Multiple game modes:**\n  - play against a powerful computer engine with 10 difficulty levels (from Beginner to World Champion);\n  - compete online with real players and climb the rating ladder;\n  - enjoy a friendly match with a friend on the same screen.\n\n- **Engaging features:**\n  - display of possible moves to help plan your strategy;\n  - interactive tips to improve your gameplay;\n  - move undo option — fix your mistakes and try again;\n  - game analysis after each match — identify your mistakes and learn from them;\n  - selection of time control modes: unlimited, bullet, blitz, rapid, classic;\n  - option to choose the side (black or white) before starting the game;\n  - handicap options, such as making captures mandatory.\n\n- **Game rules and mechanics:**\n  - capture your opponent’s checkers by jumping over them — if there’s an empty square behind the opponent’s checker, you can jump and land there;\n  - regular checkers move diagonally forward one square and can only move forward;\n  - when a checker reaches the last row, it is crowned and becomes a king, which can move diagonally both forward and backward;\n  - kings can capture multiple opponent’s checkers and must continue capturing as long as possible;\n  - jumps are mandatory, and if there are several options, you can choose any of them;\n  - you win by capturing all of your opponent’s checkers or completely blocking them so they can’t move.\n\n- **Personalized experience:**\n  - choose the design of checkers and the board to make the game visually appealing;\n  - view the move history to review your past games;\n  - exchange emotions with your opponent and make the game more enjoyable.\n\n- **Additional thrill:**\n  - make bets and win gold from your opponents — add an extra layer of excitement to your matches!\n\n**Join English Checkers Online Multiplayer now and become a checkers master!**",
+      "howToPlayText": "**How to Play English Checkers**\n\nEnglish Checkers is a strategic board game where players aim to capture their opponent’s checkers or block them completely. Here’s how to get started and understand the basic rules:\n\n**Game Objective**\nThe goal is to either capture all of your opponent’s checkers or completely block them so they can’t make any legal moves.\n\n**Types of Checkers**\n- **Simple checker:** moves diagonally forward one square and can only capture forward.\n- **King:** can move diagonally both forward and backward on any free square and can capture in both directions. When a simple checker reaches the last row, it becomes a king and gains these additional abilities.\n\n**Basic Movement and Capture Rules**\n1. **Movement:**\n- simple checkers move diagonally forward one square at a time;\n- kings can move diagonally in any direction on any free square.\n\n2. **Capture:**\n- if your checker is next to your opponent’s checker and there’s an empty square behind it, you must jump over the opponent’s checker and land in the empty square, capturing the opponent’s piece;\n- captures are mandatory — if you have the option to capture, you must do so;\n- if a capture leads to another possible capture, you must continue capturing as part of the same turn until no more captures are possible;\n- when a simple checker reaches the last row during a capture, it becomes a king but cannot make further moves in the same turn.\n\n3. **Choosing Capture Options:**\n- if there are multiple capture options available, you can choose which one to make;\n- the «Turkish strike» rule means that a checker that has been beaten but not yet removed from the board can block the path of a king or another checker.\n\n**Winning the Game**\nYou win the game by:\n- capturing all of your opponent’s checkers;\n- blocking your opponent so that they have no legal moves left.\n\n**Getting Started in English Checkers Online Multiplayer**\n1. **Choose your game mode:** play against the computer, compete online with real players, or play with a friend on the same screen.\n2. **Select your difficulty level or opponent:** if playing against the computer, choose from 10 difficulty levels; if playing online, find a real opponent.\n3. **Choose your side:** select whether you want to play as black or white.\n4. **Start playing:** follow the rules of movement and capture to outmanoeuvre your opponent and achieve victory.\n\nEnjoy the game and sharpen your strategic skills with English Checkers Online Multiplayer!",
+      "gameURL": "https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/english-checkers-online-multiplayer",
+      "genres": [
+        "strategy",
+        "skill",
+        "two-player",
+        "multiplayer",
+        "checkers",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "brain-training-games",
+        "challenging-games",
+        "competitive-games",
+        "chekers-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8b1e8ef1-074c-46da-700f-3078206f3d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8ed73055-d1f3-4b59-51cd-046d8ffe4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "308d931b0a224faaac5d0ef230a11d39",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112424",
+      "slug": "ludo-legend",
+      "title": "Ludo Legend",
+      "description": "Play a game of Ludo! Everyone's favorite board game! Play alone or with your friends on one device! Just pass it on! Colorful design and easy mechanics will keep you playing for hours! ",
+      "howToPlayText": "Get your tokens from start to finish with rolls of a die. First, release them on the roll of 6. Roll a die and decide which token you move. Get all of them into a safehouse first and you win! But watch out, your opponents can kick your token back to their starting position when they land on the spot with one of your tokens! ",
+      "gameURL": "https://playgama.com/export/game/ludo-legend?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ludo-legend",
+      "genres": [
+        "puzzle",
+        "two-player",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "1-player-games",
+        "family-games",
+        "2-player-dice"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/643b25d7-0326-4793-64bd-94e97e682900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ac52e38b-4fe6-4b0f-ae44-942fae3cd600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "df1b5c8c103516ed7d494a829f6e66d0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ludo-legend?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112274",
+      "slug": "domino-battle",
+      "title": "Domino Battle",
+      "description": "Dominoes are back better than ever. You can choose your preferred style of game where it doesn't matter whether you choose Draw or Block. The level of fun is always the same!",
+      "howToPlayText": "In the game of domino, you start with 7 tiles on the hand, where you try from the very start to beat your opponent with prompt disposal of all the tiles. One with higher tile on the hand starts. Each game consists of more than one round and the player, who gets sooner 100 points wins.",
+      "gameURL": "https://playgama.com/export/game/domino-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/domino-battle",
+      "genres": [
+        "skill",
+        "mouse",
+        "popular",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "iphone-games",
+        "casual-games",
+        "relaxing-games",
+        "attention-games",
+        "brain-training-games",
+        "luck-games",
+        "desktop-games",
+        "1-player-games",
+        "tiles-games",
+        "high-quality-games",
+        "domino-games",
+        "android-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2336a810-1c7a-4aa2-9c52-eb3f8ed1a000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7c65a8e4-3cdb-4361-bba8-07d8eaf3d300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "43a1fffa0cb011669acc0f7df8ba233b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/domino-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99729",
+      "slug": "master-checkers-25e9-1",
+      "title": "Master Checkers",
+      "description": "Play Checkers, the classic two-player board game! Make diagonal moves, eliminate opponents, and crown your piece as a king. Challenge the computer, a local player, or opponents worldwide in this exciting Italian Checkers version!",
+      "howToPlayText": "Moves are only allowed on dark squares, so pieces always move diagonally. Single pieces are always restricted to moving forward (towards the opponent).\nCapture pieces by jumping.\nA piece that makes a capture (jump) jumps over one of the opponent's pieces and lands in a straight diagonal line on the other side. Only one piece can be captured in one jump; however, multiple jumps are allowed in one move.\nJumps (or captures) are mandatory.\nIf a player can make a capture, the jump must be made.\n\nWhen a piece reaches the furthest row from the player who controls it, it becomes a king and can move either forward or backward.",
+      "gameURL": "https://playgama.com/export/game/master-checkers-25e9-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-checkers-25e9-1",
+      "genres": [
+        "skill",
+        "two-player",
+        "checkers",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "chekers-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1697e189-1dfe-4ad2-7d1a-40dcada80f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e1ccd169-f2ca-4dd4-049a-c7df44018800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2e27123963ca4e29a605e63be99eeefa",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-checkers-25e9-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99679",
+      "slug": "business-go",
+      "title": "Business Go",
+      "description": "Business Go is a classic board game where players buy, sell, and rent properties to build their wealth and outplay the competition.",
+      "howToPlayText": "Roll the dice, buy properties, and collect rent to build your business empire.\n",
+      "gameURL": "https://playgama.com/export/game/business-go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/business-go",
+      "genres": [
+        "multiplayer",
+        "management",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "casual-games",
+        "business-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c28b9662-27c1-4168-c626-f0bd672a8b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b76fafb9-9da5-4b5e-a061-a24d8858e700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d017b6da706641b1ac2a359499001ede",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/business-go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105510",
+      "slug": "slides-and-climbs",
+      "title": "Slides And Climbs",
+      "description": "Slides And Climbs is a laid-back online game based on the traditional English board game of the same name, which served as an inspiration for the American version known as Chutes and Ladders. This beloved classic board game can be played for free in single-player mode or with friends locally. Roll the dice and navigate your way to the finish line. Let’s hope you avoid landing on a snake!",
+      "howToPlayText": "You have the option to play with as many as six players, where each player can choose their own color. Roll the dice to advance your piece, and rolling a 6 gives you an additional free roll. You can enjoy Slides And Climbs with a maximum of six friends or choose to compete against AI opponents.",
+      "gameURL": "https://playgama.com/export/game/slides-and-climbs?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/slides-and-climbs",
+      "genres": [
+        "kids",
+        "multiplayer",
+        "party",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/960eebb5-f5fa-49f1-9092-edb9fe922d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/949f14aa-1e10-4767-0120-687a53288600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b03684aaac6c4c7093e227556c20ee70",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/slides-and-climbs?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99548",
+      "slug": "even-odd-dice-playgama",
+      "title": "Even Odd Dice",
+      "description": "Play Even Odd Dice – a thrilling online game for 1-4 players! Easy rules, fun gambling twist. Great for families, friends, or solo play. Test your luck and prediction skills now in this exciting dice game!",
+      "howToPlayText": "\nEach player chooses whether their bet is “even” or “odd”. After that, you need to press the dice and see what luck will be like! There is also a special mode where you can try to get the maximum number of wins in a row - just one-on-one with fate. Good luck in the game!\n\n\nThe game of Even-Odd on Dice is an exciting pastime for 1-4 players that combines simplicity of rules with gambling elements. Perfect for family evenings, friendly gatherings or even a solitary game.\n\nThe object of the game is to predict whether the sum of the dice will be the exact number of even or odd numbers. Each turn brings an element of chance and strategy, as players must take into account previous rolls and try to guess when luck will be on their side.\n\nGame includes:\n\nEasy rules: Suitable for players of all ages, allowing you to learn the mechanics quickly.\n\nInstant Results: Each roll of the dice creates tension and anticipation, making gameplay exciting.\n\nFlexible Format: You can enjoy the game either in company or alone, taking on the challenge on your own or competing with friends.\n\nJoin the exciting world of Odd-Even and see who will be the master of prediction!\n\n\n",
+      "gameURL": "https://playgama.com/export/game/even-odd-dice-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/even-odd-dice-playgama",
+      "genres": [
+        "puzzle",
+        "skill",
+        "mouse",
+        "brain",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/64ef6daf-0c34-4c63-08a9-36c3f9778000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/80149f53-68ed-4b23-1345-56748d8f7600/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/even-odd-dice-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86270",
+      "slug": "angry-checkers-11c2-1",
+      "title": "Angry Checkers",
+      "description": "Angry Checkers is a thrilling take on the traditional board game, where players try to eliminate opponents’ checkers. Available on multiple platforms, it features various play modes including multiplayer and single-player. This action-packed game delivers engaging and strategic fun for everyone without requiring downloads or sign-ups.",
+      "howToPlayText": "Physics based action game, where your goal is to knock off all enemy checkers from the board. \n\nTap or click one of your checkers and drag it to the direction you want the checker to go. \n\nYou are in full control of the direction and power of your checker move.",
+      "gameURL": "https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/angry-checkers-11c2-1",
+      "genres": [
+        "multiplayer",
+        "co-op",
+        "pvp",
+        "checkers",
+        "physics",
+        "board"
+      ],
+      "tags": [
+        "games-for-pc",
+        "turnbased-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "chekers-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/83994f74-c1a6-45df-ade8-6b2300ee3b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/769b035c-ef39-4cff-e318-ecd735609700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "09acd9d843744bb39288857be8236236",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "92819",
+      "slug": "4-colors",
+      "title": "4 Colors",
+      "description": "Get ready to challenge up to three computer opponents in this game!\n\nStrategize your moves and be the first to get rid of your cards by matching them by color or number.\n\nBut be careful, if you forget to shout \"\"Uno\"\" when you have only one card left, you'll face a penalty of two extra cards!\n\nAnd don't forget about the action cards – they can bring a whole new level of chaos and confusion to the game!",
+      "howToPlayText": "Ready to make your move?\n\nClick or tap the card you want to play!\n\nIf you don't have a card that matches the color or number, draw a card from the deck and try again.\n\nRemember, every move counts in this game, so choose wisely and be strategic!",
+      "gameURL": "https://playgama.com/export/game/4-colors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/4-colors",
+      "genres": [
+        "cards",
+        "skill",
+        "multiplayer",
+        "board"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "brain-training-games",
+        "interactive-games",
+        "addictive-games",
+        "mind-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "family-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/904bc0f8-50be-43cd-713c-675d1e3ce000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/76e1b730-b931-41d6-da56-bdfe8de55a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "22d95a5cbc404ba0a27326007a3f9362",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/4-colors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98051",
+      "slug": "backgammon-feef-1",
+      "title": "Backgammon",
+      "description": "Discover the captivating game of Backgammon, where strategy and skill are key. Navigate your pieces to eliminate them before your rival does. Enjoy playing this timeless game online for free on your device, and strive to become a Backgammon champion!",
+      "howToPlayText": "Roll the dice and move your piece.\nThe winner is the one who removes all of his chips from the board before the opponent.\nBe careful! It's not just luck. In the long term, strategy plays a more important role.",
+      "gameURL": "https://playgama.com/export/game/backgammon-feef-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/backgammon-feef-1",
+      "genres": [
+        "two-player",
+        "backgammon",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "luck-games",
+        "2-player-board"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a8d02436-7f15-4f8f-6a99-c34e34bb0b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c64c4657-b14c-4260-f6ff-71ca881e4200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9a2e4f40e9f241b49ccaa96210f1f8a7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/backgammon-feef-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99642",
+      "slug": "yatzy-82db-1",
+      "title": "Yatzy",
+      "description": "Yatzy is the ultimate classic dice game that brings endless fun and excitement! Experience the thrill of rolling five dice to score the best combinations and outsmart your opponents. Whether you're a casual player or a Yatzy master, this game is perfect for you! Similar to games like Yacht and Yahtzee, Yatzy combines elements of strategy and luck, making it both challenging and entertaining. Whether aiming for a 🎲 Full House, a 📏 Straight, or the elusive 🏆 Yatzy (five of a kind), each roll offers a new opportunity to outscore your opponents.\n",
+      "howToPlayText": "Roll five dice to score the highest total over 13 rounds.\nYour Goal: Get the best possible combinations each round.\nRoll Up to 3 Times: Choose which dice to keep or re-roll.\nPick a Category: After rolling, select a scoring category — each can be used only once.\nScorecard:\nUpper Section: Count dice by number (Ones to Sixes).\nLower Section: Use combos like Full House, Straights, or Yatzy (5 of a kind).\nBonus: Score 63+ in the Upper Section for +50 points.\nExtra Yatzy? Get 100 bonus points!\n\nHighest total wins!",
+      "gameURL": "https://playgama.com/export/game/yatzy-82db-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/yatzy-82db-1",
+      "genres": [
+        "multiplayer",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "casual-games",
+        "competitive-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/851743ab-e16e-47d7-01cc-b4969e2d1400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3e1377de-547a-439e-1285-366d462f0200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6217954e64b54241955777cfe2f2c45c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/yatzy-82db-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99749",
+      "slug": "money-empire",
+      "title": "Money Empire",
+      "description": "Money Empire is an exciting strategy game 🧠 with clicker 👆 and board game 🎲 elements, where you build your path to wealth 💸 step by step.\n\nMove around the game board, unlock new businesses 🏪, invest in passive income 🏦, upgrade your enterprises 🚀, and compete with other players 🏆 to become the most successful entrepreneur!\n\nCasinos 🎰, stock markets 📉📈, banks 🏛️, luxury real estate 🏡, and company shares 📊 — use every tool to grow your fortune.\n\nWatch out for global news 📰 that may impact your income, and plan your moves wisely — your success 💎 depends on your strategy!",
+      "howToPlayText": "1️⃣ Roll the dice 🎲 and move across the board.\n2️⃣ Land on business tiles 🏪 to earn money and upgrade them 🔧.\n3️⃣ Use special tiles like the bank 🏦, casino 🎰, stock exchange 📉, or HQ 🏢 to boost your empire 📊.\n4️⃣ Buy luxury items 💎 and climb the leaderboard 🏅!\n5️⃣ Manage your finances wisely 🧠, and beware of taxes 🧾 and random events ⚠️.\n\nBuild a powerful empire — from a humble startup 🚀 to a global financial machine 🏗️💼!",
+      "gameURL": "https://playgama.com/export/game/money-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/money-empire",
+      "genres": [
+        "multiplayer",
+        "mouse",
+        "management",
+        "board"
+      ],
+      "tags": [
+        "business-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/491f91fd-2849-4620-97de-304439fa7b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ce3e56e1-a372-478f-bdee-06a6ef9b6200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d761241aa4434bd4ac4ed254c801109e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/money-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97393",
+      "slug": "domino-legend-0f25-1",
+      "title": "Domino Legend",
+      "description": "Dive into the enchanting realm of Domino Legend. Ideal for both veterans and nostalgic players, this online game offers an exciting challenge. Enjoy the beloved Block and Draw formats, and experience the joy of a fast-paced match on your device.",
+      "howToPlayText": "A round of domino is played until one player places all of their tiles or until the game is blocked and neither player can make a move. At the beginning the players receive 7 tiles and the one with higher double begins the game. If neither player got a double, then the player with the highest tile begins. The player who earns 100 points first wins.",
+      "gameURL": "https://playgama.com/export/game/domino-legend-0f25-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/domino-legend-0f25-1",
+      "genres": [
+        "puzzle",
+        "classic",
+        "logic",
+        "board"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6e4fd062-cdd5-4b47-7c8e-a75f04f4bd00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/19db832c-24e8-4628-b311-0731b433b500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1c7933a204e346ddb166431bdf44ca72",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/domino-legend-0f25-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

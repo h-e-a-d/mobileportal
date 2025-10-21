@@ -1,0 +1,562 @@
+{
+  "category": "rpg",
+  "count": 12,
+  "games": [
+    {
+      "id": "112554",
+      "slug": "lord-of-the-freaks",
+      "title": "Lord of the freaks",
+      "description": "Main Story\n\nThe protagonist finds themselves in a mysterious world called Freakland, where they meet the Worm-helper’na—a bizarre creature who reveals a shocking truth: to attain eternal happiness, they must endure a series of trials.\nFight Monsters\n\nExplore the vast reaches of Freakland, battle hordes of monsters, and defeat sinister bosses, absorbing their power. Only then can you establish your dominance in this strange world.\nSolve Puzzles\n\nUnravel the secrets of Freakland using your wits and keen observation. Every discovery brings you closer to the truth…\nMake Choices\n\nYour decisions shape the hero’s fate. Which path to take? Should you pick up that mysterious artifact? How will you handle a tough moral dilemma? Every choice affects the story’s ending.\nUpgrade Your Hero\n\nCollect coins to enhance your abilities and discover rare artifacts. And if you’re lucky—you might even gain a familiar, a loyal companion who could one day save your life.",
+      "howToPlayText": "CONTROL: \n\nPC Control:\n\n    FORWARD - W ATTACK - LMB        \n                                                               \n     BACK - ATTACK - RMB        \n                                                               \n      LEFT - JUMP - SPACEBAR        \n                                                           \n      RIGHT - D    \n\nSmartphone control:\n\n    Move - left stick\n\n    Jump - jump button\n\n    Attack - Block Button",
+      "gameURL": "https://playgama.com/export/game/lord-of-the-freaks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/lord-of-the-freaks",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "story",
+        "physics",
+        "rpg"
+      ],
+      "tags": [
+        "reaction-games",
+        "fantasy-games",
+        "fullscreen-games",
+        "hardcore-games",
+        "brain-training-games",
+        "dark-games",
+        "interactive-games",
+        "jumping-games",
+        "challenge-games",
+        "agility-games",
+        "1-player-games",
+        "indie-games",
+        "high-quality-games",
+        "weird-games",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/50456bf5-5031-47b3-f480-0cd072370000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/83da883e-3fd9-4b8c-f05b-26f3727a7b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "13f93982e004059e38edae4df1de0823",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/lord-of-the-freaks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99744",
+      "slug": "noob-saves-the-village",
+      "title": "Noob saves the village",
+      "description": "The village has been attacked by merciless monsters! Become a real hero and defeat dangerous enemies with your fighting skills!",
+      "howToPlayText": "Moving around on the computer using the keyboard, attacking by pressing the left mouse button. \n\nMove around on mobile devices using joysticks and attack by clicking on the corresponding button.",
+      "gameURL": "https://playgama.com/export/game/noob-saves-the-village?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/noob-saves-the-village",
+      "genres": [
+        "action",
+        "adventure",
+        "kids",
+        "popular",
+        "pve",
+        "survival",
+        "rpg",
+        "pixel-art",
+        "mobile"
+      ],
+      "tags": [
+        "games-for-pc",
+        "exciting-games",
+        "noob-games",
+        "combat-games",
+        "rescue-games",
+        "desktop-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74501387-15e5-43a6-bd75-ad7ad87d5d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a6625653-6cf0-4de5-a695-5d4907fbe500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9cb9b879fa3349eeb7bb2b82c5d7ef7b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/noob-saves-the-village?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99610",
+      "slug": "blade-bedlam",
+      "title": "Blade & Bedlam",
+      "description": " A top-down, physics-based, medieval melee fighter! Block projectiles and melee attack with your weapons and try to hit the enemies! Survive for as long as you can by dodging attacks, quickly killing enemies and buying items form the shop between rounds!",
+      "howToPlayText": "\n\n Use the Mouse to swing your weapon and W A S D to move your character.\n Right click or press Shift to dodge roll.\n Buy items to upgrade your knight and survive the waves of chaos.\n Look for special items to assist in smiting your foes.\n Take on the ultimate challenge and defeat all the bosses.\n",
+      "gameURL": "https://playgama.com/export/game/blade-bedlam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/blade-bedlam",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "multiplayer",
+        "pve",
+        "survival",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "medieval-games",
+        "combat-games",
+        "sword-games",
+        "tactical-games",
+        "horde-survival-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1f70a7e-272b-4b3e-f716-cfa428d62900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/99983057-4b00-489b-7e2c-23d0a6092f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e539d487c8f64c2482ecc8d15dd8bb6a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/blade-bedlam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95249",
+      "slug": "weaponsmith-evolution--weapon-merge-3573-1",
+      "title": "Weaponsmith Evolution - Weapon Merge",
+      "description": "Dive into the captivating universe of Weaponsmith Evolution - Weapon Merge, starting with simple daggers and advancing to legendary weapon crafting. This free online game tests your skills against tough foes as you upgrade weapons, ensuring the safety of the realm, whether you play on a phone or computer.",
+      "howToPlayText": "- Start with basic weapons and drag identical ones to merge them into more powerful versions.\n- Each new weapon brings more gold.\n- Spend gold on upgrades: unlock new types of weapons or speed up the merging process.\n- Fight monsters and progress through levels.\n- From time to time, you’ll encounter powerful bosses. Defeat them to prove your mastery!\n- Experiment with upgrades to increase weapon efficiency and earn more.\n- Keep playing to unlock legendary weapons and become a true master of the arsenal.",
+      "gameURL": "https://playgama.com/export/game/weaponsmith-evolution--weapon-merge-3573-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/weaponsmith-evolution--weapon-merge-3573-1",
+      "genres": [
+        "merge",
+        "crafting",
+        "rpg",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2b9fdd9e-0b13-4488-5395-3b336477bd00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/637e068e-19d8-4798-c4ff-cb7be9d92300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ffba3940630847b8961a8fe5725026c1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/weaponsmith-evolution--weapon-merge-3573-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "92176",
+      "slug": "gangster-island-crime-city",
+      "title": "Gangsta Island: Crime City",
+      "description": "Dive into the exciting realm of Crime City, where you start as a regular citizen and rise to power as a crime leader. Conquer neighborhoods, battle rival gangs, and pull off daring heists with engaging mini-games, all available for both mobile and desktop play.",
+      "howToPlayText": "Gangsta Island: Crime City is a game where you start as a street dweller and climb your way to world domination. Use street-smart skills, engage in petty thefts, confront rival crews, and venture into high-stakes heists in Las Vegas. Experience captivating mini-games and activities as you strive to become the ultimate underworld boss.",
+      "gameURL": "https://playgama.com/export/game/gangster-island-crime-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/gangster-island-crime-city",
+      "genres": [
+        "arcade",
+        "adventure",
+        "simulation",
+        "cool-games",
+        "gta",
+        "rpg",
+        "idle"
+      ],
+      "tags": [
+        "iphone-games",
+        "crime-games",
+        "gangster-games",
+        "islands-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a0ffbb28-8c32-4b43-ecd3-59e4ba73c600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e281d982-787b-4b3e-81eb-3eb384f59500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fbaaf3ca0494495294cad898f235f14d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/gangster-island-crime-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98046",
+      "slug": "ancient-dragons-princess-2546-1",
+      "title": "Ancient Dragons Princess",
+      "description": "Enter the magical realm of the Dragon Princess, Rennie, where elegance is paramount. Adorn her in lavish outfits, from velvet gowns to outfits suited for dragon riding. Customize a unique dragon for her, style her hair, add exquisite jewelry, and join Rennie on an extraordinary journey.",
+      "howToPlayText": "Choose outfits for the characters by tapping on them and save the photos to your device!jewelry will also impress you. Go on an adventure with the Dragon Princess!",
+      "gameURL": "https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ancient-dragons-princess-2546-1",
+      "genres": [
+        "adventure",
+        "girls",
+        "story",
+        "princess",
+        "anime",
+        "dragon",
+        "magic",
+        "rpg"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b27a9aff-14a8-4391-ad50-2c2c63471c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/88a2afee-dda3-4def-451a-f0cd63c74600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2f2396215f8645a58dcd6cc7935e0c86",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106303",
+      "slug": "rpg-idle-clicker",
+      "title": "RPG Idle Clicker",
+      "description": "RPG Idle Clicker is an incremental game where you embark on an adventure to slay monsters. Click to deal damage, earn gold, and unlock powerful swords to enhance your attacks. Upgrade your blades and recruit auto-attacking heroes who battle monsters every second, even while you are offline. With stunning WebGL visuals, face tougher enemies and epic bosses in this browser-based game. Whether you prefer active gameplay or idle progression, RPG Idle Clicker offers endless growth. Get ready and become the ultimate monster hunter!",
+      "howToPlayText": "Tap the enemy to deal damage and eliminate them. Interact with the UI buttons to upgrade sword levels, heroes, equip items, and much more.",
+      "gameURL": "https://playgama.com/export/game/rpg-idle-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rpg-idle-clicker",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "clicker",
+        "rpg",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "incremental-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bcf622d7-9db7-422b-aede-e9728ba66500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1e97c0bd-cf52-4865-ca43-1c9555e62200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ed7118ce43d044dca21f4052303ed9e0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rpg-idle-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99145",
+      "slug": "obby-warriors-of-the-sword",
+      "title": "Obby: Warriors of The Sword",
+      "description": "Become a hero in Obby: Warriors of The Sword! Collect powerful swords, defeat enemies and unlock new abilities! Go through rebirth and become a legend. Get stronger, pump up your hero and become the best in this exciting game!\n\nKey Game Features:\n\n⚔️ Epic Battles: Upgrade your hero, unlock new abilities and fight unique enemies! 🕹️\n\n💥 Sword and Artifact Collection: Buy, upgrade and collect different swords to create the strongest hero with powerful weapons! 🗡️💎\n\n💪 Allies and Reborn: Make loyal allies and go through rebirth, becoming even stronger and opening new battle opportunities. 🤝🔄\n\n😎 Endless customizations: You can choose from a variety of skins, pets and jewelry to make your hero unique and truly stylish! 🎨🐾✨\n\n👑 Missions and Challenges: Complete exciting missions, unlock new levels and get rare rewards. 🎯🏅",
+      "howToPlayText": "💻Desktop:\n\nWASD - Movement\nLMB - Take a hit\nSpace - Jump\nRMB and mouse movement - Camera rotation\n\n📱 Smartphone:\n\nMovement - Joystick on the left side of the screen\nRotate the camera - Finger movements on the right side of the screen\nClick on the screen - Take a shot",
+      "gameURL": "https://playgama.com/export/game/obby-warriors-of-the-sword?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-warriors-of-the-sword",
+      "genres": [
+        "action",
+        "adventure",
+        "multiplayer",
+        "obby",
+        "popular",
+        "pve",
+        "pvp",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "combat-games",
+        "sword-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/591a81ee-96e8-44f3-a3d9-0523abeacb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3f8e29ef-5303-4047-4e40-400dfc3a6100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "85fbd22249c94a3d9140b8b3a8266a0d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-warriors-of-the-sword?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "108653",
+      "slug": "wasteland-hunter-puzzle-rpg",
+      "title": "Wasteland Hunter: puzzle RPG",
+      "description": "Wasteland Hunter: puzzle RPG — a unique combination of Tetris puzzle mechanics integrated into a turn-based combat system and RPG strategy set in a post-apocalyptic world.\nWhat makes the game special:\n\nInnovative Combat System: Players use Tetris blocks with equipment (bullets, health packs, shields, grenades) to create devastating combat combinations\nStrategic Depth: Turn-based battles require tactical thinking — players adapt block formations to enemy types and situations\nMeta-Progression: Beyond combat, players rebuild and manage a survivor camp, rescue NPCs, and create unique combat figures from discovered blueprints\nHigh Replayability: Map exploration, escalating difficulty, and diverse equipment ensure long-term engagement",
+      "howToPlayText": "PC Controls\nUse mouse buttons  to play the game.\n\nMobile Controls\nUse in-game buttons to play the game.",
+      "gameURL": "https://playgama.com/export/game/wasteland-hunter-puzzle-rpg?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/wasteland-hunter-puzzle-rpg",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "strategy",
+        "story",
+        "survival",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "turnbased-games",
+        "survivors-games",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/33517b42-c8a8-4762-8560-5a6528511500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/db60565e-e909-4c63-6cb5-aa336a775900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1d3f655e58c54d288e2aee5cc73a6581",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/wasteland-hunter-puzzle-rpg?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106314",
+      "slug": "madness-ward-number-6",
+      "title": "Madness: Ward number 6",
+      "description": "In this game you are a patient of a psychiatric hospital.\n\n- Upgrade your character by leveling up.\n\n- Try your luck in the rat race.\n\n- Fight with other patients.\n\n- Buy weapons, skins and pets.",
+      "howToPlayText": "Management:\n\n- By tapping/clicking on the buttons\n\nFight with other patients and bosses to level up. After several battles, you will get a new level and points to upgrade your character.\n\nIn battles, the chance of dealing critical damage is completely random and its power depends on the \"Madness\" characteristic.",
+      "gameURL": "https://playgama.com/export/game/madness-ward-number-6?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/madness-ward-number-6",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "horror",
+        "pvp",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "dark-games",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd534e23-5e87-4a35-ee28-301a64778e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/94a9298c-bacd-437c-014b-fe41047de500/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/madness-ward-number-6?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96236",
+      "slug": "survivor-tournament",
+      "title": "Survivor Tournament",
+      "description": "Добро пожаловать на Турнир выживших - захватывающее приключение в мире, разрушенном зомби-апокалипсисом! Участвуйте в напряженных битвах на динамичных аренах, вооружая и экипируя своего воина, чтобы противостоять безжалостным испытаниям. Эта игра предлагает захватывающий опыт, в котором вы должны собирать различные предметы и стратегически улучшать своего бойца, превращая его в сильнейшего игрока.\n\nОвладейте искусством слияния и стратегии! Собирайте сбалансированное снаряжение, тщательно комбинируйте предметы и аккуратно используйте свой инвентарь, чтобы оптимизировать силу своего воина. Путешествуйте сквозь хаос, открывая редкие и эпические предметы, каждый из которых открывает новый потенциал и силу.\n\nПрисоединяйтесь к Турниру выживших сегодня и погрузитесь в волнующее путешествие выживания и завоеваний. Сможете ли вы принять вызов и стать абсолютным чемпионом в мире, наводненном нежитью? Ваша судьба ждет вас: приготовьтесь к битве, соберите ресурсы и раскройте истинную силу своего воина! Приключения, стратегия и слава манят вас в этом захватывающем турнире на выживание. Скачайте сейчас и начните свой путь к победе!",
+      "howToPlayText": "Как играть:\nПокупайте предметы, объединяйте одинаковые предметы, чтобы улучшить их характеристики.  Складывайте предметы в инвентарь, собирайте комплекты, чтобы получить дополнительные бонусы харектиристик. Все предметы вашего инвентаря участвуют в битве!  Битва происходит автоматически. \nИ пусть победит сильнейший!",
+      "gameURL": "https://playgama.com/export/game/survivor-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/survivor-tournament",
+      "genres": [
+        "action",
+        "adventure",
+        "zombie",
+        "pve",
+        "pvp",
+        "survival",
+        "merge",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8663ccf4-45d9-4191-fa16-515fb0721b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/79951662-4c5a-43d9-da31-48f18f0a4200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7d984a02a2104132b7d8c65e0a3178a0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/survivor-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112171",
+      "slug": "pocket-zone",
+      "title": "Pocket ZONE",
+      "description": "See the Chernobyl nuclear power plant and realize your innermost dream with the help of the legendary Performer of desires.\nOr maybe you just want to get away from the gray and boring life of megacities and just wander through the deserts of the earth, where a person is again left alone with an aggressive environment that dreams of absorbing him?\n\nFeatures of the game:\n☢ Hardcore real mobile survival system with the best RPG component, inspired by the Fallout and Stalker series.\n☢ Interesting random text events, the outcome of which depends only on your choice and on external factors that directly affect your chances of survival.\n☢ A complex and well-thought-out mining system, and more than a hundred random events in the search and confrontation with the aggressive environment of the anomalous world of the Zone.\n☢ More than 100 different types of weapons, armor, helmets, backpacks and costumes, including legendary and mythical items!",
+      "howToPlayText": "PC control: Left mouse click to interact with game elements. Мouse wheel to scroll lists.\nManagement on a mobile device: Touch to interact with game elements.",
+      "gameURL": "https://playgama.com/export/game/pocket-zone?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pocket-zone",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "mouse",
+        "story",
+        "survival",
+        "brain",
+        "logic",
+        "difficult",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "turnbased-games",
+        "2d-games",
+        "survivors-games",
+        "interactive-games",
+        "addictive-games",
+        "apocalypse-games",
+        "visual-games",
+        "1-player-games",
+        "indie-games",
+        "interactive-fiction-games",
+        "resource-management-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ce5d8288-c14c-48c7-a904-6494a2d45b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9516d347-8f32-4052-8f6f-253075209b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d38f3234c39b79ee17c30f8198db95fb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pocket-zone?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

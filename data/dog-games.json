@@ -1,0 +1,52 @@
+{
+  "category": "dog",
+  "count": 1,
+  "games": [
+    {
+      "id": "96931",
+      "slug": "bark--blast",
+      "title": "Bark & Blast",
+      "description": "Crash-land on a post-apocalyptic planet in BARK N BLAST! Help a brave alien dog survive and escape in this thrilling 2D platformer action RPG. Test your aim, strategy, and courage in an epic adventure. Play now and conquer the challenges!",
+      "howToPlayText": "Keyboard \n- Move left: A\n- Move right: D\n- Jump: W\n- Aim and shoot with mouse \n\nMobile \n Move and turn - joystick\n Jump - jump button",
+      "gameURL": "https://playgama.com/export/game/bark--blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bark--blast",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "shooting",
+        "platform",
+        "animals",
+        "survival",
+        "dog",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "android-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5053c756-f7e9-401c-8f1c-f72b6e9c9a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6140870c-0913-46a7-8c9f-85952ab01e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0adf519efb59403abf62f6b14070619a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/bark--blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

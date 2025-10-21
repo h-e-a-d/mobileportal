@@ -1,0 +1,53 @@
+{
+  "category": "pizza",
+  "count": 1,
+  "games": [
+    {
+      "id": "86312",
+      "slug": "nubik-courier-open-world",
+      "title": "Nubik Courier: An Open World",
+      "description": "Nubik Courier: An Open World is an exciting delivery game that turns you into a skilled pizza courier racing through lively city streets. Navigate obstacles and switch vehicles as you complete each delivery, all while enjoying free online play. Available on iOS, Android, and desktop, it's perfect for casual gamers seeking thrills.",
+      "howToPlayText": "-",
+      "gameURL": "https://playgama.com/export/game/nubik-courier-open-world?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/nubik-courier-open-world",
+      "genres": [
+        "racing",
+        "adventure",
+        "cool-games",
+        "pizza",
+        "driving"
+      ],
+      "tags": [
+        "city-building-games",
+        "delivery-games",
+        "addictive-games",
+        "desktop-games",
+        "1-player-games",
+        "open-world-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/665647fd-6a5b-4883-eb51-cf4346c72f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5930cd69-c041-4e8a-2f82-641e30a60000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "694d727a636c488d990774c4c2d83709",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/nubik-courier-open-world?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

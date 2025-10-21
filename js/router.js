@@ -120,23 +120,38 @@ class Router {
                         // Slug validation using Sanitizer if available
                         if (typeof window.Sanitizer !== 'undefined') {
                             decodedValue = window.Sanitizer.sanitizeSlug(decodedValue);
-                        } else {
-                            // Fallback validation for slugs
-                            if (!/^[a-z0-9-]+$/i.test(decodedValue) ||
-                                decodedValue.includes('..') ||
-                                decodedValue.includes('/') ||
-                                decodedValue.includes('\\')) {
-                                console.warn('[Router] Invalid slug:', decodedValue);
-                                return null;
+                        }
+
+                        // Strengthened validation (always applied)
+                        // Only allow letters, numbers, hyphens (no leading/trailing hyphens)
+                        if (!/^[a-z0-9]([a-z0-9-]*[a-z0-9])?$/i.test(decodedValue)) {
+                            if (window.logger) {
+                                window.logger.warn('[Router] Invalid slug format:', decodedValue);
                             }
+                            return null;
+                        }
+
+                        // Length check
+                        if (decodedValue.length > 100 || decodedValue.length < 1) {
+                            if (window.logger) {
+                                window.logger.warn('[Router] Slug length invalid:', decodedValue.length);
+                            }
+                            return null;
                         }
                     } else if (paramName === 'category') {
-                        // Category validation
-                        if (!/^[a-z0-9-]+$/i.test(decodedValue) ||
-                            decodedValue.includes('..') ||
-                            decodedValue.includes('/') ||
-                            decodedValue.includes('\\')) {
-                            console.warn('[Router] Invalid category:', decodedValue);
+                        // Category validation (strengthened)
+                        if (!/^[a-z0-9]([a-z0-9-]*[a-z0-9])?$/i.test(decodedValue)) {
+                            if (window.logger) {
+                                window.logger.warn('[Router] Invalid category format:', decodedValue);
+                            }
+                            return null;
+                        }
+
+                        // Length check
+                        if (decodedValue.length > 50 || decodedValue.length < 1) {
+                            if (window.logger) {
+                                window.logger.warn('[Router] Category length invalid:', decodedValue.length);
+                            }
                             return null;
                         }
                     } else {

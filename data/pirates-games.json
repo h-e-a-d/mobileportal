@@ -1,0 +1,133 @@
+{
+  "category": "pirates",
+  "count": 3,
+  "games": [
+    {
+      "id": "112297",
+      "slug": "drakkar-strike",
+      "title": "Drakkar Strike",
+      "description": "Sail the seas on your drakkar, launch spears like a furious slingshot, and crush enemy vikings before they sink you!",
+      "howToPlayText": "Drag to aim your spear & Release to launch.\n\nHit enemy vikings and sink their ships.\nClear all foes to win!",
+      "gameURL": "https://playgama.com/export/game/drakkar-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/drakkar-strike",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "shooting",
+        "mouse",
+        "popular",
+        "pirates",
+        "boat"
+      ],
+      "tags": [
+        "vikings-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8b836283-91a1-4648-e8fe-ea6ec2cb5400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bdc77c82-6a3f-40b6-90e8-3e18ae0f5700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "135a4706a8f1cca2b240fb305d5f58bf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/drakkar-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106319",
+      "slug": "the-pirate-sea-the-smugglers-way",
+      "title": "The Pirate Sea. The Smuggler's Way",
+      "description": "In the game you have to take on the role of a smuggler.\n\nSearch for treasures, complete various tasks, destroy enemy ships, capture islands, upgrade your ship, beware of sea monsters and become the most famous smuggler.",
+      "howToPlayText": "PC Management:\n\nUp arrow - Straight movement\nDown arrow - Backward movement\nRight Arrow - Move to the right\nLeft Arrow - Move to the left\n\nKey \"D\" -  Shooting from the right side.\nKey \"A\" - Shooting from the left side.\nLeft Shift - Acceleration\n\nManagement for Mobile devices:\n\nUp arrow button - Straight movement\nThe down arrow button is a backward movement.\nLeft arrow button - Move to the left\nRight arrow button - Move to the right\nA button with a burning shell on the left - Shooting from the left side\nA button with a burning shell on the right - Shooting from the starboard side\nRed-and-white arrow button - Acceleration\n\nFor accelerated swimming, you need food, it is spent while swimming in the sea.\n\nTo set the course, open the map and click on the compass icon near the desired location.\n\nThe leaderboard shows the amount of your gold.",
+      "gameURL": "https://playgama.com/export/game/the-pirate-sea-the-smugglers-way?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/the-pirate-sea-the-smugglers-way",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "simulation",
+        "pirates",
+        "mobile"
+      ],
+      "tags": [
+        "ship-games",
+        "pirates-games",
+        "islands-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b017d86d-a4f0-4643-69c7-57250e695a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/edc55ac2-2e3f-441c-b4a8-ca3bc1810500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d6c256705c28403aa50c334f3beac3de",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/the-pirate-sea-the-smugglers-way?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86461",
+      "slug": "solitaire-klondike-treasure-island",
+      "title": " Solitaire Klondike - Treasure Island",
+      "description": "Dive into the exciting adventure of Solitaire Klondike - Treasure Island, where pirates and treasures await. Help a brave heroine uncover her father''s hidden fortune while outsmarting relentless foes, all set against stunning visuals and captivating animations.",
+      "howToPlayText": "Your goal is to arrange all the cards into four piles according to suit: from Ace to King. Start with aces, then twos, threes, and so on until you reach the king.\n\nOn the game board, you can move cards between seven piles. You can only start a new pile with a king. You can place a card of a different color and one unit of lower value on a card in the stack. Groups of cards with alternating colors and ranks can be dragged between stacks, adding tactical depth.\n\nYou can review the deck an unlimited number of times, giving you the opportunity to carefully consider each move. The game ends when all the cards are neatly placed in piles.\n\nTest your skills in this exciting solitaire card game and enjoy every victory!",
+      "gameURL": "https://playgama.com/export/game/solitaire-klondike-treasure-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/solitaire-klondike-treasure-island",
+      "genres": [
+        "adventure",
+        "cards",
+        "solitaire",
+        "pirates",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "desktop-games",
+        "islands-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c4b34591-cf12-49c2-82c3-4585df14a700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f0221617-6180-4548-8270-156f4f95c000/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/solitaire-klondike-treasure-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

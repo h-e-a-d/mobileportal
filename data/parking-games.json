@@ -1,0 +1,281 @@
+{
+  "category": "parking",
+  "count": 6,
+  "games": [
+    {
+      "id": "111623",
+      "slug": "car-parking-order",
+      "title": "Car Parking Order",
+      "description": "Car parking order game to test your brainpower and skills in this remarkable puzzle game. Unlock new levels of traffic jam game by strategically guiding the cars in the correct way and prepare for an exhilarating journey ahead. With each parking challenge, you'll find yourself fully immersed in this delightful and engaged game.\n\nNavigate through unique parking lots by avoiding obstacles and overcoming various traffic jam hurdles in your way. From parking jam situations to unexpected roadblocks, every parking order level presents a new and exciting test of your parking abilities. Take on the role of a skilled driver and masterfully park your cars to their designated spots without a hitch. But be aware, as even the slightest miscalculation can lead to failure.",
+      "howToPlayText": "1. Plan your moves strategically to park each car in the correct order.\n2. Earn stars based on your performance and unlock new levels.\n3. Examine the puzzle layout and study each car's characteristics.\n4. Challenge yourself with increasing levels of difficulty.",
+      "gameURL": "https://playgama.com/export/game/car-parking-order?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/car-parking-order",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "car",
+        "parking",
+        "logic"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ffb5bd4e-2299-45db-1fd4-a1d073ae1500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bfc9dc9d-2aa8-419f-88d6-cd0588b08d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "603a22e5d84582ba39723172e9e0eb53",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/car-parking-order?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111185",
+      "slug": "car-escape",
+      "title": "Car Escape",
+      "description": "Car Escape - an exhilarating and thrilling traffic escape game that prepares you for every pulse-pounding adventure. Every step counts, and every action can spell the difference between freedom and gridlock. Can you maneuver your car out of the traffic jam and break free?\n\nStart the engine, press the accelerator, and prepare to escape the chaotic and congested streets. But don't be afraid; with your quick reflexes and sharp intellect, you'll soon master the art of navigating through traffic.",
+      "howToPlayText": " Navigate through the traffic escape scenarios and assess whether each vehicle's path is clear based on the arrows displayed. Find the optimal route for each vehicle.\n- Tap the car gently to move it in the direction indicated by the arrow. Guide each vehicle to flee the congested area.\n- Strategically select the order of vehicle movements to avoid collisions with other vehicles on the route. Carefully plan the sequence of vehicles to ensure smooth and seamless traffic flow.\n﻿",
+      "gameURL": "https://playgama.com/export/game/car-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/car-escape",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "car",
+        "driving",
+        "escape",
+        "brain",
+        "parking",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "traffic-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8122e4f8-1608-437c-41b5-97d2b65d0100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dcd2be0b-5991-4ba2-a178-489b17166e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a528f04f17994d7195707f7b8aefcf22",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/car-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86263",
+      "slug": "parking-master-urban-challenges-2a9f-1",
+      "title": "Parking Master: Urban Challenges",
+      "description": "Explore the dynamic environment of city driving in \"Parking Master: Urban Challenges,\" an engaging 3D simulation that hones your parking skills. Maneuver through complex urban settings with lifelike vehicles, ideal for anyone looking to improve their driving abilities on mobile or desktop platforms.",
+      "howToPlayText": "Your task is to park the car in a certain area without getting into an accident and doing it as quickly as possible. Follow the arrows to find a parking space. The progress is saved when the level is completed. To go to the next level, you need to pass the previous one.  \n\nWASD or arrows — movement and rotation of the car. \nThe space bar is the handbrake. \nE or ~ — open the game menu. \nM — switch the camera. ",
+      "gameURL": "https://playgama.com/export/game/parking-master-urban-challenges-2a9f-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/parking-master-urban-challenges-2a9f-1",
+      "genres": [
+        "simulation",
+        "3d",
+        "car",
+        "driving",
+        "parking"
+      ],
+      "tags": [
+        "city-building-games",
+        "interactive-games",
+        "addictive-games",
+        "challenging-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/56d5976b-edd3-4ffa-401d-9d609a438a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2e77f95c-cab6-4907-93e5-f32afdf88000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0a6ac2b69fc742dfa7699c37c0d3638d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/parking-master-urban-challenges-2a9f-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106339",
+      "slug": "parking-boom",
+      "title": "Parking Boom",
+      "description": "Parking Boom is a fun and addictive physics-based game where your goal is to launch your car straight into the parking spot!\nAdjust the power and angle, smash through other vehicles along the way, and try to land as accurately as possible.\n\nEach level offers unique obstacles and creative challenges that make your ride exciting and unpredictable.\nSharpen your parking skills, beat level after level, and aim for perfection in this fast-paced and explosive adventure.\n\nWith a variety of cars, dynamic stages, and tons of destruction, Parking Boom turns every parking attempt into a chaotic thrill ride!\nIf you're looking for something fresh, loud, and action-packed, Parking Boom will drive you into a world where crashing is half the fun!",
+      "howToPlayText": "Aim Your Car\nAdjust the angle, direction and power using the mouse or touching the screen.\n\nLaunch and Crash\nRelease to launch your car. Smash through other vehicles as you fly toward the parking spot.\n\nPark Accurately\nTry to land your car inside the highlighted parking zone. ",
+      "gameURL": "https://playgama.com/export/game/parking-boom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/parking-boom",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "boys",
+        "car",
+        "mouse",
+        "driving",
+        "physics",
+        "brain",
+        "parking"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "obstacle-games",
+        "addictive-games",
+        "exciting-games",
+        "crash-games",
+        "car-crash-games",
+        "challenge-games",
+        "construct-games-online",
+        "arcade-car",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/682840a9-5bd7-4c97-3307-552eafb92300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5051fb1c-8627-4607-0fca-e783af368e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2faa2c0256e94346a1ef4e4e2fb44988",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/parking-boom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90504",
+      "slug": "fun-town-parking",
+      "title": "Fun Town Parking",
+      "description": "Experience the excitement of **Fun Town Parking**, a dynamic parking simulation that challenges your driving skills. Maneuver through tricky paths and secure parking spots while dodging obstacles. As you advance, the difficulty escalates, refining your abilities. Can you park flawlessly in this thrilling challenge?",
+      "howToPlayText": "Keyboard\nMove - W/A/S/D or Arrow keys\nChange Gear - Shift gears to move forward or backward\nCamera - C to toggle camera view\nMute - M to mute/unmute sound\nPause - P to pause the game\nReset - R to reset the game",
+      "gameURL": "https://playgama.com/export/game/fun-town-parking?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fun-town-parking",
+      "genres": [
+        "simulation",
+        "skill",
+        "car",
+        "driving",
+        "parking"
+      ],
+      "tags": [
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online",
+        "arcade-car"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2d656ff4-902d-4f3e-0392-d44afbbd7a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/87e0bb7c-b22c-43b2-e1cf-28a05ce90d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "db8c17d9d63e4f7c888333578af25c7a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fun-town-parking?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "35",
+      "slug": "busparking",
+      "title": "Bus Parking",
+      "description": "Bus Parking is a free online simulator that challenges your parking abilities. Tackle tough courses with obstacles and time limits while aiming for quick, precise parking. Ideal for all skill levels, this exciting game will put your driving skills to the test and help you claim the title of parking master.",
+      "howToPlayText": "- Bus control with \"WASD\"\n- Gear change with \"R\" key\n- Camera angle change with \"C\" key\n- Open auxiliary mode with \"H\" key\n- Open menu screen with \"Esc\" key\n\nFor mobile control, there are button and steering wheel controls.",
+      "gameURL": "https://playgama.com/export/game/busparking?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/busparking",
+      "genres": [
+        "puzzle",
+        "simulation",
+        "skill",
+        "3d",
+        "driving",
+        "bus",
+        "parking"
+      ],
+      "tags": [
+        "minigames",
+        "obstacle-games",
+        "addictive-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d34b6faf-70d3-42b0-831b-7ae4022f5e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/09ea9851-efd2-4e11-bd04-7b530d2d7b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "edceeef130914f8e934bbcda3774bd76",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/busparking?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "category": "penalty",
+  "count": 2,
+  "games": [
+    {
+      "id": "86412",
+      "slug": "ragdoll-soccer",
+      "title": "Ragdoll Soccer",
+      "description": "Enter the thrilling world of Ragdoll Soccer, where you command a stick figure footballer in exciting games. Aim to outscore rivals and become a champion, whether playing alone or with a friend, offering nonstop enjoyment on your phone or computer.",
+      "howToPlayText": "Play football with a stickman! A fun 2D sports game for one or two players!\nControl the stickman like a doll and hit the ball to score a goal against the opponent.\n\nFeatures of the game:\n - single player mode\n- local multiplayer for two players\n - Championship mode\n - The game has boosters and abilities!\n - penalty shootout mode\n\nTo play with a PC, you can use:\n- keyboard (WASD +QE)\n- mouse\n- gamepad\nTo play from your phone, use touch input",
+      "gameURL": "https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ragdoll-soccer",
+      "genres": [
+        "action",
+        "sports",
+        "two-player",
+        "penalty",
+        "henry-stickmin",
+        "unity",
+        "stickman"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "family-games",
+        "controller-compatible-games",
+        "pixel-games",
+        "borwser-games",
+        "2-player-soccer",
+        "2-player-sports",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aad5362e-36ed-4c47-4c6d-a6e1da2db100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/859018fb-3e5a-4e4c-4e17-3d3b06290b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6dcb5bacbd7941cfbe9ba84680910aa9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86304",
+      "slug": "penalty-challenge-64c5-1",
+      "title": "Penalty Challenge",
+      "description": "Penalty Challenge is a thrilling online sports game that allows you to play as a striker or goalkeeper. Compete for free against AI or global players, earn points, and rise in rankings. Choose from top European clubs or national teams, showcasing your talent in an electrifying atmosphere.",
+      "howToPlayText": "Penalty Kicks: Striker or Goalkeeper?\nChallenge the AI or players from around the world to earn experience points and climb the global leaderboard!\n\nChoose a team from among the strongest clubs in Europe and European national teams to enter a high-level competition and show your talent!\n\nYou can play with your footballer, either male or female, as a striker or a goalkeeper: put your skills to the test amid the stadium smoke and the cheering crowd!",
+      "gameURL": "https://playgama.com/export/game/penalty-challenge-64c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/penalty-challenge-64c5-1",
+      "genres": [
+        "sports",
+        "app-store",
+        "pve",
+        "penalty",
+        "soccer"
+      ],
+      "tags": [
+        "competitive-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/497b8e67-579a-4ec5-84a4-30cac14e5100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7a8074b7-4aea-4c04-9343-11c47091bc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "13750c5d536e484f903098f985dd0b6d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/penalty-challenge-64c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

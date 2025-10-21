@@ -1,0 +1,240 @@
+{
+  "category": "bubble",
+  "count": 5,
+  "games": [
+    {
+      "id": "72",
+      "slug": "bubble-blast",
+      "title": "Bubble Blast",
+      "description": "Bubble Blast is an entertaining casual bubble shooter where you pop bubbles and take on exciting quests. It''s the classic game you''ll catch yourself and others playing on the way to work. Advance through levels, collect coins, and sharpen your skills. Use boosters to achieve three stars and come back for daily rewards!",
+      "howToPlayText": "Shoot at bubbles with the same color as the one loaded in your bubble blaster to pop them. You can switch the bubble with one of another color if the one currently loaded isn’t useful.",
+      "gameURL": "https://playgama.com/export/game/bubble-blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-blast",
+      "genres": [
+        "puzzle",
+        "bubble-shooter",
+        "matching",
+        "classic",
+        "color",
+        "bubble"
+      ],
+      "tags": [
+        "2d-games",
+        "brain-training-games",
+        "addictive-games",
+        "ballon-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/49ed731e-494d-462e-582c-64bf8a6a4400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/072b1672-c854-45fb-b387-a86bc0474500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cd3be2f04e1247ca95810887473489eb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95755",
+      "slug": "frogtastic-marble-adventure",
+      "title": "Frogtastic Marble Adventure",
+      "description": "Dive into the exciting realm of Frogtastic Marble Adventure, a free online puzzle game that tests your strategy and quick thinking. Stop colorful marbles from progressing along their paths by matching and clearing them. Play on any device for countless hours of fun!",
+      "howToPlayText": "Shoot colorful spheres and form groups of at least three spheres of the same color to make them explode.\n\nBe quick: the spheres move along an increasingly winding path, and you can't let them reach the final destination!",
+      "gameURL": "https://playgama.com/export/game/frogtastic-marble-adventure?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/frogtastic-marble-adventure",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "matching",
+        "classic",
+        "bubble"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/26d56d0e-a76c-4579-6448-8a22cd67c800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/df35e4e4-af1f-4e20-203e-013334f0d800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2c887f584d5147d2bb0e02cb72ef9108",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/frogtastic-marble-adventure?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63929",
+      "slug": "bubble-boom",
+      "title": "Bubble Boom",
+      "description": "Bubble Boom is a fun and engaging puzzle game where players burst bubbles by matching colors. It's accessible online for free on various devices, offering a vibrant experience for casual gamers. With simple gameplay and no sign-up needed, it's ideal for both short and extended gaming sessions.",
+      "howToPlayText": "To pop the bubbles, shoot groups of 3 or more bubbles of the same color. But you should hurry up! The level gradually descends and if it reaches the bottom line, then you will lose.\n\nIGB by Playgama",
+      "gameURL": "https://playgama.com/export/game/bubble-boom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-boom",
+      "genres": [
+        "puzzle",
+        "bubble-shooter",
+        "bubble"
+      ],
+      "tags": [
+        "2d-games",
+        "addictive-games",
+        "exciting-games",
+        "color-matching-games",
+        "desktop-games",
+        "1-player-games",
+        "simple-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f2ac2c30-003f-414d-1a18-7ff34cc46100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4463ecee-733d-4cb6-55bc-c8ae963e2b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f13c678f70eb498ca5da2e7730988b55",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-boom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86378",
+      "slug": "bubble-stars-boxes-shade-and-juju",
+      "title": "Bubble Stars Boxes: Shade and Juju",
+      "description": "In this addictive game, 88 different characters and 671 skins on these characters are waiting for you! Open the crates and old crates in which all these characters and skins are hidden! Take the challenge and try to complete all the events in the game! Win in battles and get cups, become the best in this game! And how far can you go?",
+      "howToPlayText": "The navigation in this game is very simple.\nJust use the mouse on desktop or your finger tap on android device.",
+      "gameURL": "https://playgama.com/export/game/bubble-stars-boxes-shade-and-juju?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-stars-boxes-shade-and-juju",
+      "genres": [
+        "action",
+        "funny",
+        "multiplayer",
+        "cool-games",
+        "battleship",
+        "mini",
+        "bubble"
+      ],
+      "tags": [
+        "games-for-pc",
+        "interactive-games",
+        "addictive-games",
+        "mind-games",
+        "desktop-games",
+        "collection-games",
+        "incremental-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e2b64033-55fd-46eb-25d2-b3965904e400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/36bb47da-d8fc-40e2-8a99-8dc26bf18000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e5b6769b73f34a7b86e75a53ed1bc4a7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-stars-boxes-shade-and-juju?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99571",
+      "slug": "pop-it-3d",
+      "title": "Pop It 3D",
+      "description": "Players take turns pressing down any number of bubbles in a single row and consecutively. The player who presses the last bubble loses the game.",
+      "howToPlayText": "Click or tap on the cells you want to pop",
+      "gameURL": "https://playgama.com/export/game/pop-it-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pop-it-3d",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "kids",
+        "3d",
+        "pop-it",
+        "easy",
+        "bubble",
+        "mobile"
+      ],
+      "tags": [
+        "iphone-games",
+        "casual-games",
+        "relaxing-games",
+        "touchscreen-games",
+        "asmr-games",
+        "desktop-games",
+        "simple-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/36ff48c4-6ceb-40d5-8249-15bb66036400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3409928e-f76c-44d7-4027-b13fac53ae00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "20788da7d90e4de1b421b6a28970ede1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pop-it-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

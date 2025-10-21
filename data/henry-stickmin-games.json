@@ -1,0 +1,105 @@
+{
+  "category": "henry-stickmin",
+  "count": 2,
+  "games": [
+    {
+      "id": "86412",
+      "slug": "ragdoll-soccer",
+      "title": "Ragdoll Soccer",
+      "description": "Enter the thrilling world of Ragdoll Soccer, where you command a stick figure footballer in exciting games. Aim to outscore rivals and become a champion, whether playing alone or with a friend, offering nonstop enjoyment on your phone or computer.",
+      "howToPlayText": "Play football with a stickman! A fun 2D sports game for one or two players!\nControl the stickman like a doll and hit the ball to score a goal against the opponent.\n\nFeatures of the game:\n - single player mode\n- local multiplayer for two players\n - Championship mode\n - The game has boosters and abilities!\n - penalty shootout mode\n\nTo play with a PC, you can use:\n- keyboard (WASD +QE)\n- mouse\n- gamepad\nTo play from your phone, use touch input",
+      "gameURL": "https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ragdoll-soccer",
+      "genres": [
+        "action",
+        "sports",
+        "two-player",
+        "penalty",
+        "henry-stickmin",
+        "unity",
+        "stickman"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "family-games",
+        "controller-compatible-games",
+        "pixel-games",
+        "borwser-games",
+        "2-player-soccer",
+        "2-player-sports",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aad5362e-36ed-4c47-4c6d-a6e1da2db100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/859018fb-3e5a-4e4c-4e17-3d3b06290b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6dcb5bacbd7941cfbe9ba84680910aa9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86408",
+      "slug": "stickman-jailbreak-story-playgama",
+      "title": "Stickman: Jailbreak Story",
+      "description": "Dive into the exciting world of \"Stickman: Jailbreak Story,\" where cleverness and agility lead to liberation. Play as an innocent stickman trapped in a jail, solving complex puzzles and avoiding clever guards and tricky obstacles. Enjoy an engaging gameplay experience on both mobile and desktop that tests your strategy and quick thinking.",
+      "howToPlayText": "Use your mouse or tap the screen to select items, interact with objects, and solve puzzles. Make quick decisions and choose the correct options to outsmart guards and navigate your way to freedom!",
+      "gameURL": "https://playgama.com/export/game/stickman-jailbreak-story-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-jailbreak-story-playgama",
+      "genres": [
+        "story",
+        "henry-stickmin",
+        "stickman"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "stealth-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/26866690-4b76-4bce-f554-8b9779285600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b7ead6f5-569f-4277-d29c-f64699785800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4981b9d5a8d44d299cda952df9e311a8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-jailbreak-story-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

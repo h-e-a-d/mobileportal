@@ -1,0 +1,182 @@
+{
+  "category": "bus",
+  "count": 4,
+  "games": [
+    {
+      "id": "86344",
+      "slug": "crazy-bus-station",
+      "title": "Crazy Bus Station!",
+      "description": "✨This is an exciting puzzle game in which you have to drive buses in brightly colored parking lots, solving complex problems and helping passengers find their cars.\n\n\n📕 Brief features of the game: 📘\n\n\n✅ Unique gameplay: Each level offers new and challenging challenges. 🎯\n\n✅ Variety of vehicles: Collect stylish and unique vehicles. 🚕 🚗 🚙🚌\n\n✅ For all ages: From easy to advanced levels. 👲👴\n\n✅ Colorful graphics: Immersive world with beautiful cars and characters. 💛\n\n\nEnjoy the game! 🎮",
+      "howToPlayText": "This is an exciting puzzle game in which you have to drive buses in brightly colored parking lots, solving complex problems and helping passengers find their cars.\n\nThe aim of the game is to match cars with passengers and clear the parking lot. \nThe car moves away in the direction of the arrow if you click on it. \nThe car's path must be free, otherwise it will not be able to leave the parking lot. \nIf there are difficulties you can always use the queue sorting and car shuffling boosters. ",
+      "gameURL": "https://playgama.com/export/game/crazy-bus-station?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/crazy-bus-station",
+      "genres": [
+        "puzzle",
+        "car",
+        "bus",
+        "logic"
+      ],
+      "tags": [
+        "creative-games",
+        "relaxing-games",
+        "interactive-games",
+        "addictive-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/89c5478a-2853-4676-0c9c-f2c391949100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/32c2cbf5-d4f9-47a1-543f-8173f6f75d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d1a1e49a8ba6480aafd7c42be84472cc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/crazy-bus-station?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110512",
+      "slug": "bus-color-jam",
+      "title": "Bus Color Jam",
+      "description": "Bus Color Jam – Fun Puzzle Adventure with Colorful Challenges!\n\nGet ready for Bus Jam, the ultimate bus game that’s all about matching passengers to their buses in this relaxing yet brain-teasing bus mania adventure. It's up to you to solve fun, colorful puzzles and clear the way to send each passenger on their dream vacation!\n\nIn this exciting puzzle game, you'll encounter progressively challenging levels as you advance. Your goal? Strategically match passengers with their correctly colored buses!\n",
+      "howToPlayText": "Tap a passenger to send them toward the bus. If the passenger’s color matches the bus, they board immediately. If not, they wait in the empty tile(s) provided.\nIf you run out of empty tiles and a mismatched passenger arrives, you'll fail the level.\nYou must board all passengers correctly to finish the level. Successful completion rewards you with coins.",
+      "gameURL": "https://playgama.com/export/game/bus-color-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bus-color-jam",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "cool-games",
+        "matching",
+        "bus",
+        "color",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f10c112f-e682-41ce-15dc-a03f9c272800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9c48cbbd-192e-4ea1-2089-aad291655b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "03fdc30c0b4c479f85b2b771401e2408",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bus-color-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99696",
+      "slug": "bus-jam-pick-up-them-all",
+      "title": "Bus Jam: Pick up them all!",
+      "description": "Bus Jam is an addictive traffic puzzle game where you navigate through a parking jam! Experience the rush of traffic mania as you strategically move cars out of the way to help your bus escape. Perfect for puzzle enthusiasts who love traffic escape challenges!",
+      "howToPlayText": "The goal of Bus Jam is to help the bus escape the parking jam. To do this, you need to move the other vehicles out of the way. The colorful buses will pick up the same color passengers. Let's help all bus pick up all passengers.\n\nDesktop Controls:\nClick: click on the bus select that bus in the slot to pick up passengers.\n\nMobile Controls:\nTap: tap on the bus select that bus in the slot to pick up passengers.",
+      "gameURL": "https://playgama.com/export/game/bus-jam-pick-up-them-all?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bus-jam-pick-up-them-all",
+      "genres": [
+        "simulation",
+        "management",
+        "bus",
+        "mobile"
+      ],
+      "tags": [
+        "vehicles-games",
+        "color-matching-games",
+        "collecting-games",
+        "traffic-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/76cbec7f-2dda-4312-8c52-b79a376a8700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e1228f88-8aa5-4af4-363d-81bb0a8bd300/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bus-jam-pick-up-them-all?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "35",
+      "slug": "busparking",
+      "title": "Bus Parking",
+      "description": "Bus Parking is a free online simulator that challenges your parking abilities. Tackle tough courses with obstacles and time limits while aiming for quick, precise parking. Ideal for all skill levels, this exciting game will put your driving skills to the test and help you claim the title of parking master.",
+      "howToPlayText": "- Bus control with \"WASD\"\n- Gear change with \"R\" key\n- Camera angle change with \"C\" key\n- Open auxiliary mode with \"H\" key\n- Open menu screen with \"Esc\" key\n\nFor mobile control, there are button and steering wheel controls.",
+      "gameURL": "https://playgama.com/export/game/busparking?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/busparking",
+      "genres": [
+        "puzzle",
+        "simulation",
+        "skill",
+        "3d",
+        "driving",
+        "bus",
+        "parking"
+      ],
+      "tags": [
+        "minigames",
+        "obstacle-games",
+        "addictive-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d34b6faf-70d3-42b0-831b-7ae4022f5e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/09ea9851-efd2-4e11-bd04-7b530d2d7b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "edceeef130914f8e934bbcda3774bd76",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/busparking?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

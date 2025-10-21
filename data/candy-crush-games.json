@@ -1,0 +1,235 @@
+{
+  "category": "candy-crush",
+  "count": 5,
+  "games": [
+    {
+      "id": "20",
+      "slug": "popping-candies",
+      "title": "Popping Candies",
+      "description": "Popping Candies is an exciting online puzzle game where you match and eliminate candies to meet targets. Enjoy vibrant graphics and strategic gameplay as you tackle levels filled with obstacles. Use limited moves wisely and leverage boosters to progress through various stages available on all devices.",
+      "howToPlayText": "Match candies to complete objectives within limited moves! Swap adjacent candies to create rows of 3+ to clear them. Use special candies like striped, wrapped, or color bombs to clear more candies. Each level has goals like reaching a score or clearing obstacles. Watch your moves and use boosters to help. Complete levels to progress and unlock new challenges!",
+      "gameURL": "https://playgama.com/export/game/popping-candies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/popping-candies",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "candy-crush",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "jewel-games",
+        "addictive-games",
+        "mind-games",
+        "color-matching-games",
+        "desktop-games",
+        "1-player-games",
+        "family-games",
+        "crush-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/17a4f606-b327-45ac-cc2f-e49123a8e900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0065209b-ecea-435d-9ac0-381317ca0e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "acdaf0cb86d6418a92c6d85595541510",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/popping-candies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110667",
+      "slug": "super-candy-jewels",
+      "title": "Super Candy Jewels",
+      "description": "Try this candy matching puzzle game. Enjoy the sweet adventure full of candies and try to finish all levels. Be rewarded with delicious candy combos.",
+      "howToPlayText": "Swap and match 3 candies of identical color to remove them. Match 3 or more candies in a row to create candy bombs and get more points. If you need help, try using the obtained boosters. Gather enough candies to win before you run out of moves or time. ",
+      "gameURL": "https://playgama.com/export/game/super-candy-jewels?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/super-candy-jewels",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "popular",
+        "candy-crush",
+        "mobile"
+      ],
+      "tags": [
+        "fruits-games",
+        "jewel-games",
+        "reward-games",
+        "color-matching-games",
+        "collecting-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/577a07e2-a3dd-4036-69f7-724b70bc8600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/71df7263-ca95-47fd-b1c4-773cf92f0f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bbcd5946ba694953bdc051756db11126",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/super-candy-jewels?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110347",
+      "slug": "sugar-blast-snowy-pop",
+      "title": "Sugar Blast: Snowy Pop",
+      "description": "Sugar Blast: Welcome to Snowy Pop! 🍫💥\nJoin 125 thrilling levels filled with colorful candies, plan your moves, and put your skills to the test. 🎯🧩\n\nBut be careful! ⚠️🍬 Some candies hide bombs that can cost you your life. Every move counts! ⏳❤️\n\nLevel up your abilities: boost your tapping power, increase your starting lives, and unleash powerful candy bombs to clear the screen in a single strike! 🍭🚀\n\nEach level gets tougher, keeping the fun fresh and intense. 🏆🔥\n\nUnlock 9 mysterious achievements, grow stronger, and prove your mastery! 🎖️🔮\n\nWith support for 8 languages (English, Russian, French, Turkish, Spanish, German, Italian, Portuguese), you can share the same excitement with players from all around the world. 🌍🗣️",
+      "howToPlayText": "Tap on matching groups of candies (horizontal, vertical, or diagonal) to blast them away! 🍫🍬💥\n\nEarn points with every blast, but watch out: some candies hide bombs that cost you 1 life! 💣❤️\n\nIf your lives drop to zero, it’s game over — so think strategically! 🧠⚡\n\nUse the upgrade menu to boost your tap rewards, increase your starting lives, or purchase powerful candy bombs! 🍫⬆️\n\nWhen you unleash a candy bomb, it clears all candies on the screen, gives you their points, and reduces the number of candies required to win the level! 🍭🔥\n\nIf you still haven’t cleared enough candies, new ones will drop, and the challenge continues until you claim victory! ⏳🍬\n\nBeat all 125 levels and push your limits as the difficulty rises! 🚀🎯",
+      "gameURL": "https://playgama.com/export/game/sugar-blast-snowy-pop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sugar-blast-snowy-pop",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "strategy",
+        "skill",
+        "candy-crush",
+        "winter",
+        "mobile"
+      ],
+      "tags": [
+        "challenging-games",
+        "bomb-games",
+        "mahjong-candy"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b2f17e03-73d5-4e28-38bf-002d2edd2200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fc557d10-30b1-4ae9-ff33-b40e4cf61300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "44a57a797bde473dbfaccc7b5d3db029",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sugar-blast-snowy-pop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109637",
+      "slug": "mega-sweet-fruits--popper",
+      "title": "Mega Sweet Fruits - Popper",
+      "description": "Welcome to Mega Sweet Fruits - Popper! 🍉💥\nTake on 125 exciting levels filled with colorful fruits, plan your moves, and test your skills. 🎯🧩\nBut be careful! ⚠️🍒 Some fruits hide bombs that can cost you a life. Every move matters! ⏳❤️\nUpgrade your abilities: increase your tap power, boost your starting lives, and use powerful pomegranates to clear the screen in one strike! 🍊🚀\nEach level gets more challenging, keeping the fun fresh and intense. 🏆🔥\nUnlock 9 mysterious achievements, grow stronger, and prove your mastery! 🎖️🔮\nWith 8 supported languages (English, Russian, French, Turkish, Spanish, German, Italian, Portuguese), you can share the same thrill with players worldwide. 🌍🗣️",
+      "howToPlayText": "Tap on groups of matching fruits (horizontal, vertical, or diagonal) to pop them! 🍇💥\n\nEarn points with every pop, but watch out: some fruits hide bombs that cost you 1 life! 💣❤️\n\nIf your lives drop to zero, it’s game over—so think strategically! 🧠⚡\n\nUse the upgrade menu to boost your tap earnings, increase starting lives, or buy powerful pomegranates! 🍎⬆️\n\nWhen used, a pomegranate clears all fruits on screen, gives you their points, and reduces the required fruit count to win the level! 🍊🔥\n\nIf you still haven’t cleared enough fruits, new ones will drop, and the challenge continues until victory! ⏳🍓\n\nConquer all 125 levels and push your limits as the difficulty rises! 🚀🎯",
+      "gameURL": "https://playgama.com/export/game/mega-sweet-fruits--popper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mega-sweet-fruits--popper",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "bubble-shooter",
+        "popular",
+        "candy-crush",
+        "matching",
+        "mobile"
+      ],
+      "tags": [
+        "fruits-games",
+        "challenging-games",
+        "bomb-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2d43a766-6032-4ca0-5cf6-f44dec701300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e3870385-bfc3-4557-b64f-87d93ba2ab00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "db9fb6d8f7524792b6d452aab85eadc2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mega-sweet-fruits--popper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "93116",
+      "slug": "happy-jelly",
+      "title": "Happy jelly",
+      "description": "Dive into a delightful realm of sugary fun with Happy Jelly, a captivating online puzzle game. Align jelly candies to score points and relieve stress, all while enjoying vibrant visuals and lively tunes. It’s an engaging experience for everyone, available on both smartphones and computers. Enjoy the sweetness!",
+      "howToPlayText": "In the game you need to move candies so that they build a row of three or more candies and thereby they will be destroyed, destroy as many candies as possible!",
+      "gameURL": "https://playgama.com/export/game/happy-jelly?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/happy-jelly",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "candy-crush",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "relaxing-games",
+        "addictive-games",
+        "desktop-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/07c04584-2992-4373-adfc-de4d1dd42800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/90a985f1-ada1-466b-3261-d74996855100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "96398c6605db4ddf8f39b4bd585f2a89",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/happy-jelly?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

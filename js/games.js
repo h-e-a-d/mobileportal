@@ -11,13 +11,139 @@ class GamesManager {
         this.gamesPerPage = 48;
         this.currentPage = 1;
         this.categories = new Set(['all']);
+
+        // New: Category chunk caching
+        this.categoryCache = new Map();
+        this.categoriesIndex = null;
+        this.useChunkedData = true; // Try chunked data first, fallback to games.json
+        this.featuredGames = [];
     }
 
     /**
-     * Load games from JSON file
+     * Load categories index
+     */
+    async loadCategoriesIndex() {
+        try {
+            const response = await fetch('/data/categories-index.json');
+            if (!response.ok) {
+                throw new Error('Categories index not found');
+            }
+
+            this.categoriesIndex = await response.json();
+
+            // Extract category names
+            this.categories = new Set(['all']);
+            this.categoriesIndex.categories.forEach(cat => {
+                this.categories.add(cat.slug);
+            });
+
+            if (window.logger) {
+                window.logger.info('[Games] Loaded categories index:', this.categoriesIndex.totalCategories, 'categories');
+            }
+
+            return this.categoriesIndex;
+        } catch (error) {
+            if (window.logger) {
+                window.logger.warn('[Games] Categories index not found, will use fallback');
+            }
+            return null;
+        }
+    }
+
+    /**
+     * Load category games from chunk
+     */
+    async loadCategoryChunk(category) {
+        // Check cache first
+        if (this.categoryCache.has(category)) {
+            if (window.logger) {
+                window.logger.debug('[Games] Using cached category:', category);
+            }
+            return this.categoryCache.get(category);
+        }
+
+        try {
+            const filename = category === 'featured'
+                ? '/data/featured-games.json'
+                : `/data/${category}-games.json`;
+
+            const response = await fetch(filename);
+            if (!response.ok) {
+                throw new Error(`Category chunk not found: ${category}`);
+            }
+
+            const data = await response.json();
+            const games = data.games || [];
+
+            // Cache the category
+            this.categoryCache.set(category, games);
+
+            if (window.logger) {
+                window.logger.info('[Games] Loaded category chunk:', category, '-', games.length, 'games');
+            }
+
+            return games;
+        } catch (error) {
+            if (window.logger) {
+                window.logger.error('[Games] Error loading category chunk:', category, error);
+            }
+
+            // Track error in analytics
+            if (window.Analytics) {
+                window.Analytics.trackError('category_load_error', error.message, {
+                    category: category
+                });
+            }
+
+            return [];
+        }
+    }
+
+    /**
+     * Load games - tries chunked data first, falls back to games.json
      */
     async loadGames() {
         try {
+            // Try to load categories index
+            const index = await this.loadCategoriesIndex();
+
+            if (index) {
+                // Chunked data available - load featured games for initial display
+                this.useChunkedData = true;
+                this.featuredGames = await this.loadCategoryChunk('featured');
+                this.allGames = [...this.featuredGames];
+                this.filteredGames = [...this.allGames];
+
+                if (window.logger) {
+                    window.logger.info('[Games] Using chunked data mode');
+                }
+
+                return this.allGames;
+            } else {
+                // Fallback to original games.json
+                return await this.loadGamesFromMonolith();
+            }
+        } catch (error) {
+            if (window.logger) {
+                window.logger.error('[Games] Error in loadGames, trying fallback:', error);
+            }
+
+            // Fallback to original method
+            return await this.loadGamesFromMonolith();
+        }
+    }
+
+    /**
+     * Fallback: Load all games from original games.json (compatibility mode)
+     */
+    async loadGamesFromMonolith() {
+        try {
+            if (window.logger) {
+                window.logger.info('[Games] Loading from games.json (fallback mode)');
+            }
+
+            this.useChunkedData = false;
+
             const response = await fetch('games.json');
             if (!response.ok) {
                 throw new Error('Failed to load games');
@@ -40,7 +166,9 @@ class GamesManager {
 
             return this.allGames;
         } catch (error) {
-            console.error('Error loading games:', error);
+            if (window.logger) {
+                window.logger.error('[Games] Error loading games.json:', error);
+            }
 
             // Track error in analytics
             if (window.Analytics) {
@@ -76,13 +204,39 @@ class GamesManager {
     }
 
     /**
-     * Filter games by category
+     * Filter games by category (with on-demand chunk loading)
      */
-    filterByCategory(category) {
+    async filterByCategory(category) {
         this.currentCategory = category.toLowerCase();
         this.currentPage = 1;
-        this.applyFilters();
-        return this.getPaginatedGames();
+
+        // If using chunked data, load the category chunk
+        if (this.useChunkedData && this.currentCategory !== 'all') {
+            try {
+                const categoryGames = await this.loadCategoryChunk(this.currentCategory);
+
+                // For category view, use only that category's games
+                this.filteredGames = categoryGames;
+
+                if (window.logger) {
+                    window.logger.info('[Games] Filtered to category:', this.currentCategory, '-', categoryGames.length, 'games');
+                }
+
+                return this.getPaginatedGames();
+            } catch (error) {
+                if (window.logger) {
+                    window.logger.error('[Games] Error loading category, using fallback filter:', error);
+                }
+
+                // Fallback to filtering allGames
+                this.applyFilters();
+                return this.getPaginatedGames();
+            }
+        } else {
+            // Use traditional filtering (for 'all' category or fallback mode)
+            this.applyFilters();
+            return this.getPaginatedGames();
+        }
     }
 
     /**

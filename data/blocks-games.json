@@ -1,0 +1,1841 @@
+{
+  "category": "blocks",
+  "count": 40,
+  "games": [
+    {
+      "id": "112300",
+      "slug": "cube-drop-puzzle",
+      "title": "Cube Drop Puzzle",
+      "description": "Join the ultimate puzzle challenge in Cube Drop Puzzle\n\nTest your strategic thinking in this addictive game where you must drag and drop furniture-shaped blocks to match colors with their corresponding stick figures. Plan your moves carefully as you navigate limited space and increasingly complex levels. With its vibrant visuals and easy-to-learn mechanics, Cube Drop offers endless hours of brain-teasing fun!\n\nKey Features:\n\nUnique Puzzle Mechanics: Combine the best of block puzzles and color-matching games.\nChallenging Levels: Navigate tricky layouts and test your problem-solving skills.\nIntuitive Controls: Simply drag and drop to play!\nVibrant Visuals: Enjoy colorful graphics that bring each puzzle to life.\nProgressive Difficulty: Start easy and work your way up to more challenging levels.\nReady to drop into the fun? Download Cube Drop Puzzle and start solving today!",
+      "howToPlayText": "🧩 How to Play\n- Drag and move the holes across the board\n- Match each cube to its correct color block hole\n- Let the glasses drop smoothly into the hole\n- Solve each puzzle step by step, using logic and strategy\n- Complete the level when all coffee cups fall into the right place",
+      "gameURL": "https://playgama.com/export/game/cube-drop-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cube-drop-puzzle",
+      "genres": [
+        "puzzle",
+        "skill",
+        "brain",
+        "classic",
+        "logic",
+        "color",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "cube-games",
+        "casual-games",
+        "brain-training-games",
+        "addictive-games",
+        "challenging-games",
+        "color-matching-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/710d9534-b966-4461-468d-27fffe82f000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/abcc90cf-e197-468a-2bcc-15ac08f42a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d1070d01a4fc9849647dbec201255bbb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cube-drop-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109579",
+      "slug": "wood-blocks-jam",
+      "title": "Wood Blocks Jam",
+      "description": "Wood Blocks Jam is a relaxing logic puzzle game with colorful wooden blocks. Your goal is to drag each block into a gate of the same color. No time limits — just calm, thoughtful gameplay.\n\nEnjoy thousands of handcrafted levels with increasing difficulty and new mechanics to discover. Use powerful boosters to help you solve tough puzzles:\n🔧 Saw – cuts through annoying blocks,\n🔨 Hammer – smashes any single block,\n✨ Magic – removes 3 random blocks.\n\nPerfect for players of all ages, Wood Blocks Jam combines strategy, color-matching, and satisfying visuals in one cozy package.",
+      "howToPlayText": "Wood Blocks Jam is easy to learn and fun to master:\n\n📱 On mobile: Drag blocks with your finger and drop them into the matching color gates.\n\n🖱️ On desktop: Click and hold the left mouse button to grab a block, then drag it to the correct gate.\n\nYour goal is to clear the board by matching each colored block with its corresponding gate. As you progress, the puzzles get trickier — introducing new mechanics, obstacles, and challenges. Think ahead, plan your moves carefully, and don’t forget to use boosters if you’re stuck!",
+      "gameURL": "https://playgama.com/export/game/wood-blocks-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/wood-blocks-jam",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "matching",
+        "brain",
+        "classic",
+        "logic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "brain-training-games",
+        "addictive-games",
+        "sliding-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9280e7c0-1fd4-484a-dd8e-b4fc05f8ec00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/083ee17a-8361-4e67-1bc1-914906934200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "16508e2d5cf1435f95c4705f5e4f927c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/wood-blocks-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112616",
+      "slug": "block-blast-jewel-puzzle",
+      "title": "Block Blast jewel puzzle",
+      "description": "Block Blast: Jewel Puzzle - Think Fast. Stack Smart. Rule the Leaderboard! Dive into Block Blast: Jewel Puzzle, the ultimate block puzzle game that mixes calm strategy with thrilling competition. Easy to play, hard to master - and impossible to stop playing! \nGame Features: \nClassic Mode: Relax and clear blocks endlessly at your own pace. \nTimer Mode: Race against time — think fast before the clock runs out! \nLevel Mode: Conquer challenging stages that test your logic and precision. Smooth & Colorful Gameplay: Drag, drop, and fit blocks with satisfying visuals. \nGlobal Leaderboard: Compete with players worldwide — climb the ranks and prove your puzzle skills! \n Perfect for All Ages: Simple mechanics, deep strategy — pure fun for everyone. If you love Tetris, Block Blast, or brain-training puzzle games, this one’s for you. Start stacking, clearing, and claiming your spot at the top today!",
+      "howToPlayText": "Desktop / PC: Mouse or Touchpad: Drag and drop blocks into the grid.\nMobile / Touchscreen: Tap & Drag: Move blocks into place with your finger.",
+      "gameURL": "https://playgama.com/export/game/block-blast-jewel-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-blast-jewel-puzzle",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "blocky-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5b9b2962-1677-4985-dfe6-3374d2ee3400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f884a9ce-da74-4c66-422d-a018cf3e1700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d0997abcb7f61ff183cd2567ba7f867c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-blast-jewel-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112517",
+      "slug": "stack-master",
+      "title": "Stack Master",
+      "description": "Stack master is a minimalistic, endless stacking game where your goal is to build the tower as high as possible by perfectly aligning moving blocks.\nThe graphics are simple and clean, focusing on smooth gameplay without distractions.\nYou compete globally for the highest score (tower height) on leaderboards.",
+      "howToPlayText": "When you start, a block (or “slice”) begins sliding horizontally across the screen at some height.\nYou tap the screen (or tap a control) to drop the moving block onto the block beneath it.\nThe better the alignment with the block below, the more of the block remains. If part of the block overhangs, the overhanging part is cut off.\nIf you drop with a slight misalignment, the excess portion is cut away and removed, making your next block smaller.\nIf your misalignment is very poor (i.e. almost no overlap), you might lose the block entirely, ending the game.\nEach successful drop continues the tower upward. The goal is to stack as many as possible, reaching the highest possible height (score).\nAs the tower gets higher, it becomes more challenging. The blocks may move faster or require more precision. (This is common in stacking games of this type.)",
+      "gameURL": "https://playgama.com/export/game/stack-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stack-master",
+      "genres": [
+        "arcade",
+        "skill",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "casual-games",
+        "hyper-casual-games",
+        "endless-games",
+        "agility-games",
+        "1-player-games",
+        "simple-games",
+        "stacking-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/79614165-c17b-4831-487b-f0bddfe29200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5b44a550-286d-4a44-7cdf-244eef26d800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "361341cf1f413cb6748ae7e9e09aaf21",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stack-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112128",
+      "slug": "hexa-block-puzzle",
+      "title": "Hexa Block Puzzle",
+      "description": "Try our highly addictive unique hexagonal pieces puzzle game!\nUse your puzzle skill and put blocks into board.\nHexa BlockPuzzle will improve your logical skills and mind power.\nDifficulty level will be increase as much as you play.",
+      "howToPlayText": "Arrange the hexagon blocks to fit in the board / grid.\nYou can’t rotate the block.\nOne’s you put into grid you will rearrange too.\nNo time limits!\nGetting stuck! Don’t worry use hint.",
+      "gameURL": "https://playgama.com/export/game/hexa-block-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hexa-block-puzzle",
+      "genres": [
+        "puzzle",
+        "matching",
+        "brain",
+        "mini",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "addictive-games",
+        "sorting-games",
+        "brain-out-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8428b682-dbe4-4113-0341-f0fe7e25ce00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8240eff5-16e0-4944-72fb-178d82368700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d828d4982dc81b48d36a50af8088658f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hexa-block-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109070",
+      "slug": "slide-block-jam",
+      "title": "Slide Block Jam",
+      "description": "Slide Block Jam: The Ultimate Puzzle Adventure\n\nUnleash your puzzle-solving skills in Slide Block Jam, the ultimate block puzzle game that will challenge your mind and keep you hooked for hours! In this captivating and strategically engaging game, your goal is simple: move colorful blocks to their matching colored doors to clear the way. However, each level introduces new obstacles and challenges, requiring you to think carefully and plan your moves to master every puzzle.\n\nEndless Puzzles, Limitless Fun\nPrepare yourself for puzzles designed to test both your logic and strategic thinking. As you progress, the levels become increasingly intricate and creative, keeping you engaged with new challenges at every turn. Whether you're sliding blocks to clear space or navigating through tough barriers, the thrill of solving each puzzle intensifies.",
+      "howToPlayText": "How to Play:\n* Slide the blocks: Move the colorful blocks to their matching colored doors.\n* Solve each puzzle: Plan your moves carefully to clear the path and complete the puzzle.\n*Think strategically: Every level presents a new challenge, so use your wits to find the most efficient way to clear the blocks.\n* Unlock new challenges: With each level you complete, new and more difficult obstacles open up, keeping the excitement going!",
+      "gameURL": "https://playgama.com/export/game/slide-block-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/slide-block-jam",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "matching",
+        "brain",
+        "classic",
+        "color",
+        "intelligence",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "games-for-pc",
+        "iphone-games",
+        "attention-games",
+        "brain-training-games",
+        "addictive-games",
+        "blocky-games",
+        "endless-games",
+        "slide-games",
+        "challenging-games",
+        "sliding-games",
+        "mind-games",
+        "1-player-games",
+        "timing-games",
+        "borwser-games",
+        "android-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/50ec0fd5-60d8-4b12-bdfc-40a91f767e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/be2d1cfa-43a4-413a-45f9-42e247b69600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3d39572d44d34f0988e203c5c9672d1e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/slide-block-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63942",
+      "slug": "nubik-in-the-monster-world",
+      "title": "Nubik in the Monster World!",
+      "description": "Nubik saved the kittens and defeated all the monsters! But it wasn’t over yet - the monsters came back!\nThe evil Huggy has kidnapped all the kittens again!\n\nBut this time, Nubik got himself a whole arsenal of new weapons! In the game, you'll find an AK-47, an M16 rifle, a grenade launcher, a machine gun, and two powerful shotguns!\n\nHelp Nubik find the kittens to earn a million coins! Search for and open loot chests. Upgrade your character and blow up TNT blocks! Also, Nubik’s friend often gets captured by monsters and thrown behind bars. Help Nubik escape from prison!",
+      "howToPlayText": "In the settings menu, you can enable the auto-shoot feature — it's especially convenient when playing on a phone. You can also adjust mouse sensitivity for PC or swipe sensitivity for mobile in the main menu. The radar will help you easily navigate through the level!\nControls:\nFor PC:\nMouse – rotate the camera\nTab or Esc – pause\nWASD – move\nLeft mouse button – shoot\nF or E – interact\n\nFor mobile:\nSwipe on the screen to rotate the camera\nJoystick – move\nTap quickly on the screen – shoot",
+      "gameURL": "https://playgama.com/export/game/nubik-in-the-monster-world?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/nubik-in-the-monster-world",
+      "genres": [
+        "action",
+        "arcade",
+        "shooting",
+        "gun",
+        "scary",
+        "blocks"
+      ],
+      "tags": [
+        "noob-games",
+        "rescue-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c13106f2-fd98-4df7-3d40-88a1a5c5f200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fdb9b702-e100-4818-d1a2-65450092c900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "53e4842c3af54724b0be9b38bcbe2c78",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "95dc049fd6ac4fbbbb0707500c69f1a1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/nubik-in-the-monster-world?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97941",
+      "slug": "money-ping-pong-fe04-1",
+      "title": "Money Ping Pong",
+      "description": "Join the exciting journey of Money Ping Pong, an engaging idle game where you manage money blocks to influence bouncing balls and boost profits. Explore diverse maps, unlock new blocks, and enjoy a mix of strategy and chill gameplay on your device as you create your virtual wealth!",
+      "howToPlayText": "Money ping pong - casual logical arcade game for all ages, where players place blocks on the game board to earn in-game currency and progress through levels. Use skills to grow progress faster",
+      "gameURL": "https://playgama.com/export/game/money-ping-pong-fe04-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/money-ping-pong-fe04-1",
+      "genres": [
+        "mouse",
+        "idle",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/df6cf82b-a480-4c66-355a-df062def5f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9ceb6543-f33b-43b1-3235-bf3a1574f000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2a24f267cd57466ea5a7bcf6c7e7ff24",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/money-ping-pong-fe04-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "108864",
+      "slug": "constructor-bricks",
+      "title": "Constructor Bricks",
+      "description": "An exciting building game awaits you, where you can immerse yourself in the world of creative design. The game offers many levels with a variety of models, from simple objects to complex architectural masterpieces. Each project includes step-by-step instructions, making it easy for players to follow and assemble unique structures.\n\nThis is a great way to develop spatial thinking skills, attentiveness, and patience. During the assembly process, you will not only have fun but also learn about different design approaches and architectural styles. Participate in exciting challenges, compete with friends, and share your successes.\n\nJoin the community and discover an amazing world where your imagination becomes reality, even if you follow clear instructions!",
+      "howToPlayText": "The construction set is assembled by clicking on the blocks specified in the instructions.\n\nTo drag blocks, hold the cursor or finger on the desired block",
+      "gameURL": "https://playgama.com/export/game/constructor-bricks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/constructor-bricks",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "simulation",
+        "construction",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "bricks-games",
+        "learning-games",
+        "challenge-games",
+        "level-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cb4c0b78-c727-4e1c-9ac0-152c30de4d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3e17f7df-ae54-476b-38e3-6e99b32a6500/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/constructor-bricks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99739",
+      "slug": "space-rovers",
+      "title": "Space Rovers",
+      "description": "Strap in and get ready to conquer the Red Planet in Space Rovers — a physics-based rover builder and cargo delivery game where your engineering skills are the key to survival. Design unique vehicles, transport goods across unforgiving Martian landscapes, and experience the thrill of interplanetary logistics like never before.",
+      "howToPlayText": "Assemble rovers from a wide selection of wheels and blocks. No two vehicles are the same — each build reflects your creativity and problem-solving skills. Whether you favor compact designs or massive cargo haulers, the possibilities are endless.\n\nDesktop Controls:\n↑ (Up Arrow) / → (Right Arrow): Move forward.\n↓ (Down Arrow) / ← (Left Arrow): Move backwards.\n\nMobile Controls:\nLeft Pedal: Move forward.\nRight Pedal: Move backwards.",
+      "gameURL": "https://playgama.com/export/game/space-rovers?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/space-rovers",
+      "genres": [
+        "adventure",
+        "physics",
+        "space",
+        "construction",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "customization-games",
+        "creativity-games",
+        "building-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dcb04c09-c1bb-40fc-d207-c11914922000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c6d2ce3c-4091-463b-dcea-a1456281a600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7a934a651e334aa8b6cfa2c82b7e0358",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/space-rovers?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99728",
+      "slug": "block-puzzle-tropical-story",
+      "title": "Block Puzzle Tropical Story",
+      "description": "Block Puzzle Tropical Story is a vibrant puzzle game that blends relaxing gameplay with a sense of island adventure. You’ll connect blocks, solve clever challenges, and unlock stunning tropical locations. As you explore lush jungles and serene beaches, each level rewards you with stars and new areas, turning every puzzle into a step deeper into paradise.\n\nThe booster system will help you in difficult situations, and the well-thought-out mechanics allow both beginners and experienced players to enjoy the game.\n\nImmerse yourself in the atmosphere of a tropical paradise with beautiful graphics, relaxing music, and fascinating gameplay! Each successfully completed challenge brings you closer to discovering new horizons, and accumulated stars become the key to the next chapters of this exciting journey.\n\nA relaxing puzzle game where you connect blocks while traveling through picturesque tropical islands. Collect stars, unlock new locations, and immerse yourself in the resort atmosphere!",
+      "howToPlayText": "Complete tasks in levels and open new locations. Hold and drag the left mouse button to drag and drop the blocks.",
+      "gameURL": "https://playgama.com/export/game/block-puzzle-tropical-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-puzzle-tropical-story",
+      "genres": [
+        "puzzle",
+        "skill",
+        "mouse",
+        "story",
+        "brain",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games",
+        "blocky-games",
+        "touchscreen-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aa9e5045-d577-49d1-fd0f-ea36e548bf00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fce634af-6259-4851-1ebd-eb0c83183e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "78c6688651964bedad0bee6ed40a7f2e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/block-puzzle-tropical-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110479",
+      "slug": "bricks-buster",
+      "title": "Bricks Buster",
+      "description": "Bricks Buster is a fun and addictive arcade game! Aim, shoot, and break bricks to clear levels. Use power-ups, plan your shots, and enjoy endless brick-breaking action!",
+      "howToPlayText": "Swipe to aim and release to shoot the balls. Break all the bricks before they reach the bottom. Each brick shows the number of hits needed to destroy it. Use power-ups to clear tough levels faster. Bounce shots off walls to hit more bricks and create combos. The level ends when all bricks are cleared or reach the bottom. Keep aiming smart and breaking bricks to achieve high scores!",
+      "gameURL": "https://playgama.com/export/game/bricks-buster?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bricks-buster",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "endless-games",
+        "breaking-games",
+        "bricks-games",
+        "challenge-games",
+        "agility-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8f36e15f-36ea-4cf7-db5b-874ef700c500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea8ca366-c209-4b6c-0018-50f6ff115c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f5b1e66088ba46db85d7a47f33888077",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bricks-buster?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110340",
+      "slug": "unstack-tower",
+      "title": "Unstack Tower",
+      "description": "Unstack Tower is an addictive puzzle game that challenges players to dismantle a tower of colored cubes in a specific sequence. This game combines the mechanics of a traditional board game with modern gameplay, providing hours of fun. Players must carefully unstack the cubes without causing the tower to collapse, which requires strategy and quick reflexes. The game features various materials, including glass and wood, adding an extra layer of complexity to each level.",
+      "howToPlayText": "Use clicks or taps to place or drop blocks.\nYou may be able to rotate or position pieces for optimal placement.\nWhen blocks of the same color group together (usually in clusters of 3 or more), they vanish, freeing up space and earning points.\nIf blocks are placed unevenly or stacked too loosely, the tower may collapse, leading to game over.",
+      "gameURL": "https://playgama.com/export/game/unstack-tower?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/unstack-tower",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "brain",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "challenging-games",
+        "bricks-games",
+        "color-matching-games",
+        "balance-games",
+        "stacking-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e958f75d-5f57-4f7c-04d1-680ad455c600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1d7b54c2-c91e-4890-a3e1-a1f94ab23a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f0b1fc75b03843d8a06bd5ca58e05884",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/unstack-tower?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109640",
+      "slug": "pop-puzzle",
+      "title": "Pop Puzzle",
+      "description": "Welcome to the colorful world of Pop Puzzle!\nPop Puzzle is here to test your skills with challenging levels.\n\nPop Puzzle is a block matching puzzle game with colorful visuals and simple gameplay. Its key appeal is in how easily you can pick it up and play but with increasingly challenging levels that test your pattern-spotting skills.",
+      "howToPlayText": "Tap on groups of two or more blocks that are the same color.\nMatch the blocks to make them pop. \nYour mission: clear all the blocks on the screen to finish the level.\n",
+      "gameURL": "https://playgama.com/export/game/pop-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pop-puzzle",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "blocks"
+      ],
+      "tags": [
+        "brain-training-games",
+        "addictive-games",
+        "blocky-games",
+        "bricks-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/99a79728-fac5-4080-21c2-c4bc67770100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/92a1d60b-c615-4815-73e4-165f35baf400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d0736bf2e7f94715a2f15b61b06d5712",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pop-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99600",
+      "slug": "block-sort-puzzle",
+      "title": "Block Sort Puzzle",
+      "description": "Block Sort Puzzle is an exciting multi-colored block sorting puzzle that will test your logic and attentiveness! Sort as fast as possible to collect the highest tower, as well as to multiply your points! Nice animation of moving tiles.",
+      "howToPlayText": "How to play:\n- Drag the blocks onto the desired tile.\n- Put the same colors side by side to combine and score points.\n- When combining blocks, the multiplier of the current points increases.",
+      "gameURL": "https://playgama.com/export/game/block-sort-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-sort-puzzle",
+      "genres": [
+        "matching",
+        "color",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "color-matching-games",
+        "touchscreen-games",
+        "desktop-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/eead1cea-2354-4cbd-83e6-65ff4878c600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8110f118-337c-4d69-bbf2-6264a992f300/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-sort-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99495",
+      "slug": "block-blast-mania",
+      "title": "Block Blast Mania",
+      "description": "In Block Blast Mania , your mission is simple: try to place colorful blocks of various shapes on the game board in such a way that complete rows are formed. A fully filled row or column without any gaps will disappear from the board, making room for new blocks. The more rows you destroy at once, the more points you'll earn.\nThere are two game modes. In the classic mode, the game will continue until there’s no space left on the board to place one of the three shapes. In the level-based mode, you need to complete objectives such as collecting pigs.\nBoosters help you get through the levels. ",
+      "howToPlayText": "Drag the block from the bottom to the grid to place it. You can't rotate the blocks, but you can place them in any place or order that you want. Fill the colums or rows to destroy them and get points",
+      "gameURL": "https://playgama.com/export/game/block-blast-mania?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-blast-mania",
+      "genres": [
+        "puzzle",
+        "skill",
+        "mouse",
+        "brain",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "blocky-games",
+        "brain-out-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2419d039-421e-422d-7874-15e7b56da600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1cc7e9bd-f5cf-4c17-95d0-1326e240b700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "20afb26715b64f46a9c8f226a1389967",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-blast-mania?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99475",
+      "slug": "block-blast-e170-1",
+      "title": "Block Blast",
+      "description": "Dive into this popular and free puzzle game designed to stretch your brain and entertain you during your free time. Your mission is simple yet thrilling: match and remove as many blocks as possible from the board.",
+      "howToPlayText": "Use your mouse or finger (on touch devices) to move and place the blocks on the board. Arrange them to form complete lines horizontally or vertically. When a line is completed, it will disappear, giving you more space to keep playing. Try to clear as many lines as possible without running out of space. The more lines you remove, the higher your score!",
+      "gameURL": "https://playgama.com/export/game/block-blast-e170-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-blast-e170-1",
+      "genres": [
+        "puzzle",
+        "brain",
+        "logic",
+        "blocks"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/71e9c4be-0057-4f0b-a9bb-4991f367e400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/73dcabb5-4e7e-4c70-54ee-381d8d5f1b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1dbc7f36456b4f7486f8effc1f1ee906",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "0e0f2041924245e48b5bc2e456a631a1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-blast-e170-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95857",
+      "slug": "stack-the-blocks-e0b3-1",
+      "title": "Stack the Blocks",
+      "description": "Dive into the captivating world of <strong>Stack the Blocks</strong>, a strategic online puzzle game on a 10x10 grid. Challenge your logic by placing blocks to clear lines and earn points. Accessible yet complex, it guarantees addictive entertainment on both mobile and desktop platforms.",
+      "howToPlayText": "The 10×10 game board is your canvas for creativity and strategy. Place the offered blocks to form solid horizontal or vertical lines. Once a line is complete, it disappears, making room for new pieces.",
+      "gameURL": "https://playgama.com/export/game/stack-the-blocks-e0b3-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stack-the-blocks-e0b3-1",
+      "genres": [
+        "puzzle",
+        "brain",
+        "classic",
+        "logic",
+        "difficult",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "hyper-casual-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ab451194-8a0a-4800-c816-e23332909100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/afcbc914-1980-4abe-cdbd-d49419b7ed00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0513d69ba17d4b8cb7fc8fa392aff4aa",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stack-the-blocks-e0b3-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86360",
+      "slug": "merge-combo",
+      "title": "Merge Combo",
+      "description": "Merge Combo is a captivating puzzle game that allows you to merge similar blocks for points and combos. Playable online for free, it offers a mix of relaxation and challenge as you stack cubes to achieve higher scores, appealing to logic puzzle enthusiasts across all devices.",
+      "howToPlayText": "Simple, yet addictive Match 2/Merge Puzzle game.\n\nDrag and merge identical blocks enjoying awesome combos!\nHow large a number can you get?",
+      "gameURL": "https://playgama.com/export/game/merge-combo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/merge-combo",
+      "genres": [
+        "puzzle",
+        "skill",
+        "merge",
+        "brain",
+        "blocks"
+      ],
+      "tags": [
+        "2d-games",
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games",
+        "challenging-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "incremental-games",
+        "borwser-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c0e9ac8-6765-4542-3a11-47e405f20100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dc323b89-fd25-4d88-11ad-8284da6a6500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1ad3523373d84d24be5b8470a94ef37b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/merge-combo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86272",
+      "slug": "arkanoid-for-painters-08c5-1",
+      "title": "Arkanoid For Painters",
+      "description": "Arkanoid For Painters is a thrilling online game where players create barriers to control a ball, clearing blocks and foes. It blends classic gameplay with artistic elements, catering to creative strategists. Available on iOS, Android, and desktop, it guarantees entertaining challenges on the go.",
+      "howToPlayText": "In this game you draw an obstacle for a ball instead of controlling a boring board.\n\nAlso plenty of interesting upgrades are waiting for you. \n\nDraw with left mouse button or your finger.",
+      "gameURL": "https://playgama.com/export/game/arkanoid-for-painters-08c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/arkanoid-for-painters-08c5-1",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "cool-games",
+        "drawing",
+        "blocks"
+      ],
+      "tags": [
+        "2d-games",
+        "creative-games",
+        "interactive-games",
+        "addictive-games",
+        "painting-games",
+        "art-games",
+        "desktop-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ab96bbb3-0f3a-41b1-3ad4-563a8c3bd300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ecca247e-2a93-43ee-d77b-014c26d30e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e9a48526e24a4a569dd9713209961b02",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/arkanoid-for-painters-08c5-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95758",
+      "slug": "tap-3d-wood-block-away",
+      "title": "Tap 3D Wood Block Away",
+      "description": "Discover the captivating world of Tap 3D Wood Block Away, a free online puzzle game that combines creativity and logic. Rotate and tap wooden blocks to reveal intricate 3D designs. Enjoy challenging levels that stimulate your mind, whether you play on your phone or computer.",
+      "howToPlayText": "Tap 3D Wood Block Away is a challenging and addictive puzzle game where you rotate and tap to clear blocks, unlocking complex 3D structures. With intuitive controls, simply swipe to rotate and tap to remove cubes in the correct order. Progress through increasingly tricky levels, sharpen your spatial thinking, and enjoy a satisfying puzzle experience at your own pace!",
+      "gameURL": "https://playgama.com/export/game/tap-3d-wood-block-away?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tap-3d-wood-block-away",
+      "genres": [
+        "puzzle",
+        "skill",
+        "3d",
+        "brain",
+        "logic",
+        "blocks"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/831b25b8-10f1-481b-0c6b-c6a85e311400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6e604a91-8bbd-4e05-dec4-32bb0cead200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "dd0faafce1014fc49756741a5ab18cd6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tap-3d-wood-block-away?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109353",
+      "slug": "hexasort",
+      "title": "HexaSort",
+      "description": "Отличная головоломка с сортировкой\nСортируй гексы по цветам\nВыкладывай их так, чтобы плитки одного цвета оказались рядом. \nТогда стопка исчезнет!",
+      "howToPlayText": "Выкладывай плитки на игровой стол.\nСтарайся расположить плитки одного цвета рядом, тогда столбики сольются и исчезнут!\nИспользуй подсказки 🙂",
+      "gameURL": "https://playgama.com/export/game/hexasort?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hexasort",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "merge",
+        "matching",
+        "brain",
+        "color",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fe46e9a8-295d-48d7-2712-676816563e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8d20dac4-4857-4aad-3237-72d9a8c7ac00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6a2e4b79b3fe42449d3b5ef5dc1c6b3d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/hexasort?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98767",
+      "slug": "tetradicemerge--blast-blocks",
+      "title": "TetraDice–Merge & Blast Blocks",
+      "description": "Play TetraDice – Match & Build Blocks, a free puzzle game blending Tetris and dice mechanics! Strategically place dice-based shapes, clear lines, and challenge your logic. Enjoy Normal & Endless Modes, unique levels, and addictive gameplay. Start playing now!",
+      "howToPlayText": "- Your goal is to create combinations using the provided figures.\n- You get points for successfully collected combinations and perform special tasks.\n- The more matches - the more points.\n- In adventure mode, you need to complete levels by completing assigned tasks.\n- In classic mode, your goal is to score the maximum number of points before the game ends.\n\nControls\n\nPC\nLMB (left mouse button) - selects, rotates and moves figures.\n\nMobile\nTouch (tap) - rotates the figure.\nDragging with your finger - moves the figure on the playing field.",
+      "gameURL": "https://playgama.com/export/game/tetradicemerge--blast-blocks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tetradicemerge--blast-blocks",
+      "genres": [
+        "puzzle",
+        "merge",
+        "brain",
+        "classic",
+        "logic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "brain-out-games",
+        "bricks-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/935de768-9c99-4919-8c92-62ab8af28800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c7a5ce8f-d975-4e30-cae7-1df87b935000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "00bc4d88de3b49d7b3a37dacec7f1437",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tetradicemerge--blast-blocks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109824",
+      "slug": "dice-puzzle",
+      "title": "Dice Puzzle",
+      "description": "Dice Puzzle is a puzzle game where your task is to strategically place numbered cubes on the board, aiming to merge three adjacent cubes with the same number. As they combine, their value increases. Carefully select cubes with different points, considering their placement to match with others effectively. Be mindful, as cubes may appear individually or in pairs. Merge three or more dice horizontally or vertically to create higher-valued cubes. Utilize the storage space wisely to save cubes for later use. Test your puzzle-solving skills in this engaging dice-merging game!",
+      "howToPlayText": "Select a die (or a pair) from your tray and drag it onto the grid where it fits.\nTap the dice in the tray to rotate them before placing, especially helpful for pairs\nWhen three or more dice of the same face touch, whether horizontally or vertically (even diagonally adjacently), they automatically merge into one higher-value die",
+      "gameURL": "https://playgama.com/export/game/dice-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dice-puzzle",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "skill",
+        "merge",
+        "brain",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "cube-games",
+        "addictive-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e932e547-4434-40cd-0ffe-f6da4ed37400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fa8c8fc8-d6e7-481b-392b-27bb6c9f9900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3bad10764bca4e458ee1662445adb166",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dice-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96488",
+      "slug": "jewel-blocks",
+      "title": "Jewel Blocks",
+      "description": "Enter the dazzling world of <strong>Jewel Blocks</strong>, a captivating <strong>free</strong> online game designed to sharpen your mind and elevate your gaming experience. In this logic-infused arcade challenge, players are tasked with <strong>strategizing</strong> the perfect placement of classic block shapes to smash high scores and unlock a treasure trove of rewards. With its easy-to-learn mechanics and a vast array of customizable skins, Jewel Blocks promises endless hours of entertainment on both <strong>computer</strong> and <strong>mobile devices</strong>. Are you ready to take on this glittering challenge?\n ",
+      "howToPlayText": "Slide the block shapes into the grid and create rows or columns to remove them.\nAfter 10 successful moves, your undo feature charges up.\n\n",
+      "gameURL": "https://playgama.com/export/game/jewel-blocks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/jewel-blocks",
+      "genres": [
+        "puzzle",
+        "classic",
+        "logic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "jewel-games",
+        "addictive-games",
+        "blocky-games",
+        "endless-games",
+        "highscore-games",
+        "bricks-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c0fac560-33d4-43ef-b7b5-9bbc40d50f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/40cf16bd-5fe1-47a9-9fc6-d08b50134800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2031660ffb554d1d98e7b3cbd985a6ea",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/jewel-blocks?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110513",
+      "slug": "a-block-too-many",
+      "title": "A Block Too Many",
+      "description": "\nBuild a tower, reach the stars! In this challenging and addictive block-stacking game, you play as an alien trying to escape a mysterious planet. Strategic stacking is key: each block has unique properties, and one mistake can make your tower collapse. Unlock new levels, blocks and customizations as you play. Choose between a challange mode to unlock levels Or compete for the largest tower in endless mode. Wana chillout there is even a sandbox mode to build into the stars.",
+      "howToPlayText": "Either with the onscreen controle for mobile, or the keyboard on PC, you controle your ship to decide where to stack blocks.  You need to get to a sertain hight to escape the planet. \n\nGet stars as rewards. Then use those stars to buy skins or temporary updates like see what the next block will be or more ship speed.",
+      "gameURL": "https://playgama.com/export/game/a-block-too-many?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/a-block-too-many",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "platform",
+        "escape",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "stacking-games",
+        "space-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b2ffd657-3a3c-49ca-754f-9dedfb03bf00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/92e7ccf8-05e9-4d12-2626-4329bcda1000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "67bf5486161841a9af55b2704738e893",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/a-block-too-many?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110040",
+      "slug": "tile-stack",
+      "title": "Tile Stack",
+      "description": "This game is perfect for players who enjoy puzzle and strategy games. Its simple mechanics and increasing difficulty levels make it both accessible and addictive.\nYou will not realize how time passes by playing fun levels by putting tiles together",
+      "howToPlayText": "Tiles fall from the top of the screen.\nClick or tap on a tile to select it.\nMove the selected tile to another tile based on the arrow that shows directions to stack them together.\nWhen tiles are stacked, they disappear, earning you points.",
+      "gameURL": "https://playgama.com/export/game/tile-stack?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tile-stack",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "mouse",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "casual-games",
+        "challenging-games",
+        "tiles-games",
+        "stacking-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6aded6c0-3293-4b91-ad5d-5bada765f700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f0a2b4f2-51fb-4b05-da99-bf456d605a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1ff7012e8d1c4974926d2abd09502a4b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tile-stack?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110611",
+      "slug": "tower-colour-crash",
+      "title": "Tower Colour Crash",
+      "description": "Crash the Tower! Only the best crashers will be able to destroy all\ntowers in this 3D physics game. Try to let all towers collapse with\nthe amount of given balls. But you will only destroy the shapes\nwith the same colour as you ball. Use the powerful earthquake or\nshotgun power ups, to create huge chain reactions, which will\nlead into the towers destruction. Beautiful designed levels and\nshapes will await you, so don’t waste any second and become\nthe greatest tower crasher of ‘em all!",
+      "howToPlayText": "- Start each level by choosing the right angle to hit the tower, swipe right or left.\n- Throw the Ball on Blocks of the matching colour to destroy it!\n- Make the Tower collapse!",
+      "gameURL": "https://playgama.com/export/game/tower-colour-crash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tower-colour-crash",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "ball",
+        "color",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "destruction-games",
+        "destroy-games",
+        "hyper-casual-games",
+        "crash-games",
+        "color-matching-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/765e3302-862a-42fb-cdcc-0dc6b914c900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d18e7fcf-3cff-47f0-8623-dfa38a14a700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8bba334181194d3ca648426f7366fdd3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tower-colour-crash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109905",
+      "slug": "tower-tap",
+      "title": "Tower Tap",
+      "description": "Where every tap brings you closer to victory! In this fun and addictive puzzle game, your mission is to clear layers of colorful cubes to reach the treasure chest at the bottom. The fewer taps you use, the bigger the reward!\nEach tower is made up of layers filled with cubes of different colors. When you tap a cube, all connected blocks of the same color pop and disappear. But be careful! You'll need to think ahead to plan your moves and clear the tower efficiently. Every tap counts!",
+      "howToPlayText": "Tap Same-Colored Cubes – Touch groups of cubes with the same color to break them. The more cubes in a group, the better.\nClear Tower Layers – Keep popping cubes to go down each layer of the tower.\nReach the Treasure Chest – Your goal is to open the chest at the bottom by clearing all the layers above it.",
+      "gameURL": "https://playgama.com/export/game/tower-tap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tower-tap",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "cube-games",
+        "addictive-games",
+        "challenging-games",
+        "reward-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d28a7dcd-b051-4a9e-587b-13947916eb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6b055fe6-7a69-4b79-e5c2-b301e926ab00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9b72eacac02b4d3f984228651a8b8453",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tower-tap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109904",
+      "slug": "wood-color-block",
+      "title": "Wood Color Block",
+      "description": "Wood Color Block is a new free puzzle game that combines fun, relaxing and brain-teasing challenges! \nStep into a world of colorful wooden blocks, where your goal is to crush all color blocks by move them to their perfect color crushers – the more you smash, the more fun it gets! \nEvery level brings a new set of challenges, with increasing difficulty and clever block arrangements that will keep you on your toes.",
+      "howToPlayText": "Slide the color blocks: Find the way to get the color blocks into the same color crushers to break them. Whether you're sliding, moving, or aligning the blocks, each action you take requires careful thought and planning.\nClear your path before time runs out: With exciting puzzles and unique block mechanics, you'll need to think strategically to break all the blocks and escape before time runs out.\nBoosters: As you progress, you'll unlock new tools and power-ups to help you overcome even the toughest puzzles\n",
+      "gameURL": "https://playgama.com/export/game/wood-color-block?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/wood-color-block",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "brain",
+        "logic",
+        "color",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "brain-training-games",
+        "blocky-games",
+        "color-matching-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/99f32bff-0749-40bd-2387-a9912c8ab100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/150b40b7-1ef4-40f2-5992-12ec0c879c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9d2e775641df448d86f8a501e2ecf335",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/wood-color-block?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99484",
+      "slug": "stack-ball-3d",
+      "title": "Stack Ball 3D",
+      "description": "Break through countless platforms with the ball, but avoid hitting black spots or you'll lose. Try to hit as many platforms as you can to gain speedboost and become unstoppable",
+      "howToPlayText": "Controls: tap the phone screen, or press the left mouse button to make the ball start advancing downwards.",
+      "gameURL": "https://playgama.com/export/game/stack-ball-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stack-ball-3d",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "3d",
+        "popular",
+        "ball",
+        "easy",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "avoid-games",
+        "endless-games",
+        "breaking-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c7693cf-470b-4871-4900-5671defb0000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd90749f-0455-4e2d-5de9-d6c87149d700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2a4b5e19901945db96650c6e43527b96",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stack-ball-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99566",
+      "slug": "block-blast-master",
+      "title": "Block Blast Master",
+      "description": "Step into the world of strategy and precision in this addictive block puzzle game! Start by selecting a block from the set and simply drag and drop it onto the board. Choose each position wisely—every move can shape the outcome of your game.\n\nCreate complete horizontal or vertical lines to clear them from the board and earn valuable points. The more lines you complete, the more space you free up for new blocks!\n\nThink ahead and plan your moves carefully. Anticipate which shapes might come next and leave room for future placements—smart planning is key to mastering the game.\n\nThe game ends when there’s no space left to place a new block. How long can you keep playing? Challenge yourself to score as high as possible!\n\n",
+      "howToPlayText": "Select a block from the available blocks, then drag that block onto the playing field.\nIf blocks form complete horizontal or vertical lines, they will disappear - you will earn points.\nPlan ahead. \n",
+      "gameURL": "https://playgama.com/export/game/block-blast-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-blast-master",
+      "genres": [
+        "puzzle",
+        "matching",
+        "brain",
+        "classic",
+        "logic",
+        "blocks"
+      ],
+      "tags": [
+        "addictive-games",
+        "blocky-games",
+        "lines-games",
+        "mind-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7276cce0-625e-4479-0bae-7612a4ae0c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3186cda7-4f16-4dc5-7d89-87c17aefdd00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6fd6c61708364189a1814d87b8f4cbf8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-blast-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110338",
+      "slug": "block-builder-jam",
+      "title": "Block Builder Jam",
+      "description": "Block Builder Jam is a new puzzle game that will test your logical thinking and creativity! \nThis game will captivate you with its unique gameplay, which makes full use of physics simulation.",
+      "howToPlayText": "Tap a floating block on the screen to drop it.\nComplete the specified shape using the dropped blocks.\nClear stages and try new challenges!",
+      "gameURL": "https://playgama.com/export/game/block-builder-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-builder-jam",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "brain",
+        "construction",
+        "blocks"
+      ],
+      "tags": [
+        "creative-games",
+        "casual-games",
+        "blocky-games",
+        "bricks-games",
+        "1-player-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4b3ac52a-6e74-47fe-6c62-e83c656d3e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/44cc7590-4945-4ef5-5318-e6a577ebb800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "62afd46a669a4576a4ab2ee54c5f76fd",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-builder-jam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64036",
+      "slug": "block-mine-fuse-tnt",
+      "title": "Block Mine Fuse TNT",
+      "description": "Block Mine Fuse TNT is an exhilarating adventure game where players take on the mission to liberate the world from the ominous presence of Herobrine and its eerie constructions. Step into this action-packed universe and unleash your full potential by upgrading and deploying TNT, rockets, and a myriad of explosive powers upon cubic settlements. Play online for free without the hassle of downloading, and dive into a world where destruction meets strategy, all within the comfort of your browser. With its seamless integration across platforms such as iOS, Android, and desktop, Block Mine Fuse TNT offers a dynamic experience for gamers on the go or at home.",
+      "howToPlayText": "Block Mine Fuse TNT  this is a story game set in a cubic world, a wonderful world captured by Herobrine. Help Nubik the fuse defeat Herobrine with TNT on a parachute and other arsenal. Pump up and drop TNT on Herobrine.\n\nFree the world from Herobrine and its creepy buildings.\nUpgrade and drop TNT, rockets and all your power on cubic settlements.\nIn the game you will find:\n- 31 exciting unique levels;\n- - storyline with a cube and a Herobrine;\n- various types of TNT;\n- Unique Survival mode, create your bases and repel attacks as much as you can;\n- Desiccant, Ifrit, Gast, Vardan, Creeper and other bosses;\n- New game +, after completing the game (all pumping remains from the last game);\n",
+      "gameURL": "https://playgama.com/export/game/block-mine-fuse-tnt?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/block-mine-fuse-tnt",
+      "genres": [
+        "action",
+        "adventure",
+        "3d",
+        "cool-games",
+        "minecraft",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "destruction-games",
+        "tnt-games",
+        "desktop-games",
+        "sandbox-games",
+        "building-games",
+        "mining-games",
+        "pixel-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f63a9cc8-fd71-4a73-b61d-f8cef2500c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f2caa236-7ca7-43da-159e-d5fc9b607d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bb6dc2f987af450db189f8f1892b7a2a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/block-mine-fuse-tnt?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109413",
+      "slug": "steve-parkour-in-mine",
+      "title": "Steve parkour in mine",
+      "description": "Jump, run, and don’t fall! Help Steve navigate dangerous levels filled with traps, chasms, and true cubic madness.\n\nThe levels keep getting harder, and your reaction speed and jumping precision are your only hope.\n\nThis game is perfect for both beginners and those who consider themselves masters of parkour in virtual worlds.\n\nAre you ready to show what Steve is capable of in the world of parkour?",
+      "howToPlayText": "Use the WASD keys to control the character. Press the spacebar to jump. Use the mouse to control the camera.",
+      "gameURL": "https://playgama.com/export/game/steve-parkour-in-mine?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/steve-parkour-in-mine",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "running",
+        "platform",
+        "minecraft",
+        "parkour",
+        "blocks"
+      ],
+      "tags": [
+        "reaction-games",
+        "obstacle-games",
+        "blocky-games",
+        "jumping-games",
+        "challenge-games",
+        "agility-games",
+        "1-player-games",
+        "mine-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fe08a564-e746-443f-de9e-25624a291000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/60d05203-4ec5-469c-d399-409e382f5200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5db0e18fc83a42cc8ffc4b7e142a77a6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/steve-parkour-in-mine?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99615",
+      "slug": "blocklands-io",
+      "title": "Blockadventure io",
+      "description": "🌍 Welcome to BlockAdventure!\n\nDive into the thrilling world of BlockAdventure, a Minecraft-inspired online multiplayer experience packed with parkour challenges, obby adventures, and endless fun! Explore blocky worlds, compete with other players, and push your skills to the limit. Whether you’re jumping across floating platforms or racing through tricky maps, there’s always something exciting to do.\n\nCustomize your style in the Skin Menu — choose your favorite look and stand out from the crowd as you conquer each obstacle!\n\nAnd the best part? This is just the beginning.\nNew game modes and adventures are already on the way!\n\n🚀 Coming Soon Features\n\t•\t🎮 Mini-Games Hub – Unlock and play various mini-games with friends\n\t•\t🧩 Puzzle-Based Maps – Solve environmental puzzles to progress\n\t•\t👥 Custom Avatars & Skins – Personalize your character even more\n\t•\t🏆 Leaderboard System – Climb the global ranks and show off your skills\n\t•\t🛠️ Level Editor – Build and share your own parkour or obby maps\n\t•\t🌎 New Game Worlds – Unique themes and environments to explore\n\n⸻\n\n🕹️ Controls\n\nDesktop Controls:\n\t•\tW / A / S / D or Arrow Keys: Move\n\t•\tSpacebar: Jump\n\t•\tC: Change camera view\n\t•\tF: Step back (return to checkpoint or previous step)\n\nMobile Controls:\n\t•\tOn-Screen Joystick: Move freely\n\t•\tJump Button: Tap to jump\n\t•\tCamera Button: Toggle camera view\n\t•\tBack Button: Go back to previous checkpoint",
+      "howToPlayText": "🕹️ Controls\n\nDesktop Controls:\n\t•\tW / A / S / D or Arrow Keys: Move\n\t•\tSpacebar: Jump\n\t•\tC: Change camera view\n\t•\tF: Step back (return to checkpoint or previous step)\n\nMobile Controls:\n\t•\tOn-Screen Joystick: Move freely\n\t•\tJump Button: Tap to jump\n\t•\tCamera Button: Toggle camera view\n\t•\tBack Button: Go back to previous checkpoint ",
+      "gameURL": "https://playgama.com/export/game/blocklands-io?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/blocklands-io",
+      "genres": [
+        "adventure",
+        "multiplayer",
+        "construction",
+        "blocks"
+      ],
+      "tags": [
+        "minigames",
+        "customization-games",
+        "voxel-games",
+        "obstacle-games",
+        "blocky-games",
+        "competitive-games",
+        "jumping-games",
+        "sandbox-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ec30b8e5-3cd9-4461-add2-e962f499f800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6e2c4897-a84c-4a27-0721-b137815bd600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "344adb6e03274d29bd6cebfe6fac8f95",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/blocklands-io?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111287",
+      "slug": "cats-block-puzzle",
+      "title": "Cats Block Puzzle",
+      "description": "Just drag and drop cats onto the puzzle board and see if you can make them all fit perfectly! 🧩 Each puzzle has its own unique shape and gets more challenging as you play, which will make your brain think differently. With every puzzle you solve, it gets more challenging. Will you be able to fit all the kitties? 😼\n\nAs you master each puzzle, you can collect adorable new cats to personalize your gameplay!\n\nPUZZLE CATS FEATURES:\n\n  PLAY WITH CUTE CATS\n- Enjoy a variety of adorable cats like cute cats, fat cats, and even some angry cats! 😺\n- Try to fit all the cats in the puzzle without upsetting them!\n\nFUN BLOCK PUZZLES\n- Challenge yourself with engaging block puzzles, but now with cute cats instead of regular blocks! 🐾\n- Arrange the blocks to fit the board and move to the next level!\n\nCOLLECT NEW CATS\n- Solve puzzles and level up 🎉\n- Collect new cats as you progress in levels!\n- Dress up your cats with cute costumes!\n\nTRAIN YOUR BRAIN\n- Improve your thinking and spatial reasoning with these shape-based puzzles 🧠\n- Puzzles become tougher as you advance, keeping the challenge fresh!",
+      "howToPlayText": "Just drag and drop cats onto the puzzle board and see if you can make them all fit perfectly! \nEach puzzle has its own unique shape and gets more challenging as you play, which will make your brain think differently. With every puzzle you solve, it gets more challenging. Will you be able to fit all the kitties? 😼",
+      "gameURL": "https://playgama.com/export/game/cats-block-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cats-block-puzzle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "kids",
+        "cats",
+        "brain",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "shapes-games",
+        "brain-training-games",
+        "blocky-games",
+        "cute-games",
+        "mind-games",
+        "kitty-games",
+        "family-games",
+        "level-games",
+        "children-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fdc3f421-38e6-4f7c-f024-a95f9c064500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e2c28270-b6cd-4633-fc2b-47411a65de00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "007ccdbd0695444b9c5e21b546cbb32d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cats-block-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111459",
+      "slug": "balls-ricochet",
+      "title": "Balls: Ricochet!",
+      "description": "Balls: Ricochet! - an arcade shooting game. The project pays tribute to the memory of old retro gaming. If you consider yourself a true connoisseur of games, you should play this game and immerse yourself in nostalgia. The game will delight you:\n-Authentic gameplay\n-Correct ball physics\n-Good visual design\nThe exciting, addictive gameplay will immerse you in the pursuit of the best score for a long time. The concept, developed in the early 80s, still works perfectly. Start playing and beat your friend's score! \nAlso pay attention to the following parts of the \"Balls\", have a nice game!",
+      "howToPlayText": "Your task in the game is to set the direction of the ball. The ball destroys blocks using the environment of the level, you can set the direction of the ball so that it ricochets off the walls and blocks, so in one shot you can knock out several blocks at once.",
+      "gameURL": "https://playgama.com/export/game/balls-ricochet?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/balls-ricochet",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "ball",
+        "physics",
+        "classic",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "destroy-games",
+        "challenging-games",
+        "bricks-games",
+        "1-player-games",
+        "target-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f431cead-09df-48e2-e3df-eedf3c7ceb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cd93344c-b190-4038-7247-11df68a72300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d616151f479e4458811ce65e78083f84",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/balls-ricochet?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111850",
+      "slug": "stack-up",
+      "title": "Stack Up",
+      "description": "Stack Em Up! is a casual single-player puzzle game where your goal is to connect stacks of the same color to combine them. By chaining same-colored stacks, you build longer stacks; you try to reach stacks of length 10 or more.\nIt’s stylised and simple in controls.\nThere are many levels that get progressively more challenging.",
+      "howToPlayText": "Tap on a stack: You select a stack by tapping it.\nConnect with other stacks of the same color: Once you select a stack, you try to link it to other stacks of the same color to form a longer chain.\nForm stacks / chains of 10 or more: One of the objectives is to make long stacks (length ≥ 10). Bigger stacks give more “score” / help you meet level-goals.\nWatch your moves: You have limited moves or constraints per level; you must achieve the objective before you run out of moves, or before you run out of opportunity. \nProgress through levels: Levels get harder as you go, likely adding complications (more colors, tricky board layouts, etc.).",
+      "gameURL": "https://playgama.com/export/game/stack-up?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stack-up",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "color",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "challenging-games",
+        "color-matching-games",
+        "1-player-games",
+        "level-games",
+        "stacking-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/32ec3ac3-56ad-414c-2fff-aff571e1b800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8acdd0af-9812-483c-5920-a3614ea38800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "69fd35714dc28f32800b1648be68e914",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stack-up?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111350",
+      "slug": "fill-the-lines",
+      "title": "Fill The Lines",
+      "description": "Lines to Fill is a thinking game where you draw lines to complete the given puzzle shape. Simply drag one of the colorful blocks using your finger or the left mouse button, and make sure there are no blank spots left. Since the game has no time limits and no way to lose, you can enjoy this stress-free experience complete with hundreds of unique levels on your computer or mobile device. Can you block out some time and finish every level?",
+      "howToPlayText": "You see a puzzle “shape” made up of empty (blank) spots.\nAt the bottom (or somewhere), there are colorful blocks (pieces), each made of line-segments or shapes.\nYou drag a block using your finger (touch screen) or with mouse (click & drag)\nYou place it into the puzzle shape so that it fits — you want to fill all blank spots, leaving no gaps.\nThere is no time limit, and there’s no losing condition — you just progress by completing levels.",
+      "gameURL": "https://playgama.com/export/game/fill-the-lines?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fill-the-lines",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "brain",
+        "blocks"
+      ],
+      "tags": [
+        "relaxing-games",
+        "lines-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/54c2e3b8-15ad-4e4d-d7f2-ad9239b78c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7dfebd09-f76c-48bc-a5cf-457d67928c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "42161c122a772a5ac52698c82bff00a5",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fill-the-lines?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

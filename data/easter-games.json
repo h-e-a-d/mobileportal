@@ -1,0 +1,79 @@
+{
+  "category": "easter",
+  "count": 2,
+  "games": [
+    {
+      "id": "99479",
+      "slug": "easter-funny-makeup-bc23-1",
+      "title": "Easter Funny Makeup",
+      "description": "Eliza and her niece are getting ready for Easter in the most creative way—by designing festive face art! Use cheerful symbols of the season like Easter eggs, bunnies, flowers, butterflies, and rainbows to craft a bright and joyful spring look.",
+      "howToPlayText": "Choose your favorite decorations and apply them to the character’s face. Mix and match symbols to create a unique design. When you’re done, save your artwork as a PNG image!",
+      "gameURL": "https://playgama.com/export/game/easter-funny-makeup-bc23-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/easter-funny-makeup-bc23-1",
+      "genres": [
+        "girls",
+        "funny",
+        "make-up",
+        "easter"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c4e7cc61-8502-4e89-cb23-20dd53bffe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b18042fb-cf25-417a-a69b-13a4b6927300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f7c288f99ef94a5e8e7603a308a45c74",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/easter-funny-makeup-bc23-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99480",
+      "slug": "easter-rabbit-style-30ab-1",
+      "title": "Easter Rabbit Style",
+      "description": "Celebrate the Easter season with style! Join adorable girls in a fun-filled egg hunt and dress-up adventure. Find hidden eggs, style cute spring outfits, and top off the look with playful accessories like bunny ears. Dive into the festive spirit with Easter Rabbit Style!",
+      "howToPlayText": "Search for hidden Easter eggs, then dress up the girls in festive outfits with fun accessories like bunny ears to complete their perfect holiday look!",
+      "gameURL": "https://playgama.com/export/game/easter-rabbit-style-30ab-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/easter-rabbit-style-30ab-1",
+      "genres": [
+        "kids",
+        "funny",
+        "animals",
+        "easter"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a5a9bb77-395b-446b-f2ce-299c85010400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1d7d4c3f-d5e1-4fca-84c3-3f80fced0b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "909a7a187cfd44de99df9e5bea94709e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/easter-rabbit-style-30ab-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

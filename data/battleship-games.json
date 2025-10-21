@@ -1,0 +1,382 @@
+{
+  "category": "battleship",
+  "count": 8,
+  "games": [
+    {
+      "id": "64025",
+      "slug": "swat-and-greens-vs-zombies",
+      "title": "SWAT and GREENS vs Zombies",
+      "description": "Engage in SWAT and GREENS vs Zombies, a thrilling strategy game where you defend humanity from a zombie apocalypse. Enjoy online gameplay without downloads, equip over 50 unique weapons, and face endless undead waves. Test your skills in various modes and strive for victory in PvP battles.",
+      "howToPlayText": "\"SWAT & GREENS vs Zombies\" is an engaging tower defense strategy game where you can upgrade and unlock new members of the SWAT squad as well as plants. Together, they will stand against waves of advancing zombies.\n\n Upgrade SWAT members and plants to create a stronger squad.\n- Each member of the special forces squad comes equipped with unique weaponry, strategically position them on the battlefield.\n- Every plant has a cooldown period; use their powers wisely in combat.\n- Strive to minimize losses in battle to maximize the level completion reward.\n\nBattle Controls:\nDrag SWAT members and plants onto the field by holding down the left mouse button/touchscreen.",
+      "gameURL": "https://playgama.com/export/game/swat-and-greens-vs-zombies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/swat-and-greens-vs-zombies",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "zombie",
+        "pve",
+        "battleship",
+        "halloween",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "iphone-games",
+        "addictive-games",
+        "combat-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ab9b214d-0e0e-4213-daeb-f91317947700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f8d79da8-e8ef-4a87-6e05-d5782efb9600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5be099820af44eefb0a3b09edc7edbc1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/swat-and-greens-vs-zombies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "23",
+      "slug": "space-strike",
+      "title": "Space Strike: Galaxy Shooter",
+      "description": "Space Strike: Galaxy Shooter is an action-packed arcade game that immerses players in intense space combat. Become a skilled pilot and protect planets from alien threats. Enjoy thrilling battles for free online, with no need for registration or downloads. Join the cosmic adventure and unleash your skills!",
+      "howToPlayText": "PC:\nMove: Arrows.\nGas: Up arrow.\nShot: Alt\nUltimate: Shift.\nPause: Esc.\nMobile: \nMove: arrow buttons on screen.\nGas: up arrow button on screen.\nShot: shot button on screen.\nUltimate: ultimate button on screen.",
+      "gameURL": "https://playgama.com/export/game/space-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/space-strike",
+      "genres": [
+        "action",
+        "shooting",
+        "cool-games",
+        "pve",
+        "battleship",
+        "space"
+      ],
+      "tags": [
+        "mission-games",
+        "fast-paced-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "sci-fi-games",
+        "shoot-em-up-games",
+        "borwser-games",
+        "unity-games-online",
+        "2d-shooter",
+        "space-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ad14e040-39d2-4ae6-17c6-51bd2f09cc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a920761c-c788-4f2b-f436-73258d30d800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "971075cf64a34143a44851cf9ef563e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/space-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86428",
+      "slug": "fortress-of-the-sinister",
+      "title": "Fortress of the Sinister",
+      "description": "Dive into the thrilling world of *Fortress of the Sinister*, a 3D strategy game filled with tactical gameplay and challenges. Lead a diverse team through intricate fortresses, face enemies in turn-based combat, gather resources, enhance abilities, and uncover secrets in this engaging online adventure for mobile and PC.",
+      "howToPlayText": "Fortress of Sinister is a groundbreaking 3D strategy game that masterfully blends tactical depth with pulse-pounding challenges. Lead your team of powerful characters through four formidable fortresses, each brimming with unique enemies and obstacles. Outwit your foes in dynamic, turn-based battles set on grid-based arenas, and uncover the secrets lurking within the shadows.\n\nGame Objectives\n- Short-term: Win battles with clever tactics and minimal losses.\n- Mid-term: Build an elite team to conquer 10 floors in each fortress.\n- Long-term: Strengthen your characters to face endless challenges in ultimate survival mode.\n\nFeatures\n- Turn-Based Combat: Engage in tactical battles on arenas of varying sizes, from 3x3 skirmishes to epic 7x7 confrontations.\n- Diverse Characters: Recruit unique units like the “Mushroom Priest,” “Stone Golem,” and “Night Hunter,” each with distinct abilities to amplify your strategy.\n- Loot & Progression: Collect treasures, trinkets, and currency after each floor to purchase items and upgrade your team’s skills.\n- Meta-Progression: Unlock new characters and upgrades, ensuring your team is ready for escalating challenges.\n\n\n- Keyboard\nUse the mouse to play the game.\nall movement takes place at the expense of the mouse.\nYou won't need any buttons.\nComplete the training at the beginning of the game to figure out exactly how it works.\n",
+      "gameURL": "https://playgama.com/export/game/fortress-of-the-sinister?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fortress-of-the-sinister",
+      "genres": [
+        "adventure",
+        "strategy",
+        "3d",
+        "pve",
+        "survival",
+        "battleship"
+      ],
+      "tags": [
+        "turnbased-games",
+        "fantasy-games",
+        "desktop-games",
+        "indie-games",
+        "tactical-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f71db7a9-69b4-4c4f-a323-ed82d50f6b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/88101b15-bdd9-49fe-5a37-79bb8962d700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b505d38b9f4d425f8b59d960314a44d3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fortress-of-the-sinister?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "924",
+      "slug": "defender-tanks-merge",
+      "title": "Defender: Tanks Merge",
+      "description": "Defender: Tanks Merge is a thrilling online strategy game where you create a powerful army by merging unique tanks with abilities. Face increasing waves of enemies, using auto-merge, bombs, and mines to strengthen your tactics. Play for free on desktop or mobile and enjoy hours of strategic fun!",
+      "howToPlayText": "Controls:\n- Drag tanks together to merge\n- Drag unwanted tanks to the trash can\n- Tap ability buttons to use and select the target area\n- Cancel abilities by tapping any ability button or base area\n- Mines can't be placed near tanks—plan ahead",
+      "gameURL": "https://playgama.com/export/game/defender-tanks-merge?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/defender-tanks-merge",
+      "genres": [
+        "strategy",
+        "cool-games",
+        "pve",
+        "survival",
+        "battleship",
+        "tanks"
+      ],
+      "tags": [
+        "2d-games",
+        "addictive-games",
+        "defense-games",
+        "desktop-games",
+        "1-player-games",
+        "resource-management-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ca031858-c3d3-4d3d-2b0a-589748da6600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a23d36c1-39c9-40f4-54f8-f1ad5599ae00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "05fe5da514a8484aa68e0fb2a445b297",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/defender-tanks-merge?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6224",
+      "slug": "stickman-miners-wars-playgama",
+      "title": "Stickman Miners Wars",
+      "description": "Lead your stickman king to victory in Stickman Miners Wars, where strategic decision-making is key. Command an army of miners and warriors to build your forces and triumph over opponents. Upgrade your units and yourself as you gain experience, and strategically attack enemy castles while defending your own. Will your strategy lead you to dominance? Play Stickman Miners Wars now!",
+      "howToPlayText": "First, you need to choose the first region you want to reclaim on the global map and press the PLAY button.\n\nAfter this, you will enter the level and can play as the Stickman King. To move, use the keyboard keys (arrow keys or WASD) or a joystick or mouse.\n\nTo start, go to the miner purchase zone and buy a few miners. They will begin mining gold for you, and you can mine gold alongside them. Once you have accumulated enough gold, go to the warrior purchase zone to build your army.\n\nTo send your army into attack, click the sword icon on the right or press the E key. Your goal is to first destroy the opponent’s towers and then their castle.\n\nBut be careful, as the opponent aims to do the same to your castle.\n\nControls:\n\nWASD / arrow keys / drag left-click = move\nLeft-click = interact with the in-game buttons",
+      "gameURL": "https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-miners-wars-playgama",
+      "genres": [
+        "action",
+        "two-player",
+        "pve",
+        "battleship",
+        "war",
+        "stickman"
+      ],
+      "tags": [
+        "interactive-games",
+        "1-player-games",
+        "mine-games",
+        "incremental-games",
+        "building-games",
+        "tactical-games",
+        "king-games",
+        "mining-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c6958da-36e3-475a-5751-27b68d7f9800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8a219fbe-bd6b-4304-66bb-ee5bee3aad00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d65db999ae2a432393218cee2791cbb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "53",
+      "slug": "gun-clone-playgama",
+      "title": "Gun Clone",
+      "description": "Gun Clone is a thrilling arcade runner where players can upgrade and duplicate powerful weapons. This free online game promises fast-paced action, featuring both genders. Navigate through various levels, defeat foes, and customize your arsenal for a captivating gaming experience perfect for short or long play sessions.",
+      "howToPlayText": "Moving is done using your finger or mouse cursor. Shooting occurs automatically. Upgrading weapons occurs at the level or in the main menu.",
+      "gameURL": "https://playgama.com/export/game/gun-clone-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/gun-clone-playgama",
+      "genres": [
+        "action",
+        "battleship"
+      ],
+      "tags": [
+        "destroy-games",
+        "endless-games",
+        "combat-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "shoot-em-up-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/34682094-1d89-4a96-7516-004146254600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1698e8e7-d39b-4da8-be33-388e98c5fd00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4141cc6f027e489e8e115d5159c92000",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/gun-clone-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63926",
+      "slug": "little-big-fighters",
+      "title": "Little Big Fighters",
+      "description": "Little Big Fighters is an exciting action game set in a lively survival arena where players must showcase their combat skills to rise through the ranks. Accessible via browsers on desktop and mobile, it offers a seamless experience without downloads or registration, focusing on battles and strategic growth.",
+      "howToPlayText": "Left Mouse Button = Move\nClick = Fight a boss\nL = Unlock the mouse",
+      "gameURL": "https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/little-big-fighters",
+      "genres": [
+        "io",
+        "action",
+        "multiplayer",
+        "survival",
+        "battleship",
+        "wrestling"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "arena-games",
+        "combat-games",
+        "desktop-games",
+        "indie-games",
+        "borwser-games",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c1e92c7-492a-403f-7281-e49555bfe300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b77c5ed4-3ac5-4279-0dfa-25b612d86900/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86378",
+      "slug": "bubble-stars-boxes-shade-and-juju",
+      "title": "Bubble Stars Boxes: Shade and Juju",
+      "description": "In this addictive game, 88 different characters and 671 skins on these characters are waiting for you! Open the crates and old crates in which all these characters and skins are hidden! Take the challenge and try to complete all the events in the game! Win in battles and get cups, become the best in this game! And how far can you go?",
+      "howToPlayText": "The navigation in this game is very simple.\nJust use the mouse on desktop or your finger tap on android device.",
+      "gameURL": "https://playgama.com/export/game/bubble-stars-boxes-shade-and-juju?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-stars-boxes-shade-and-juju",
+      "genres": [
+        "action",
+        "funny",
+        "multiplayer",
+        "cool-games",
+        "battleship",
+        "mini",
+        "bubble"
+      ],
+      "tags": [
+        "games-for-pc",
+        "interactive-games",
+        "addictive-games",
+        "mind-games",
+        "desktop-games",
+        "collection-games",
+        "incremental-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e2b64033-55fd-46eb-25d2-b3965904e400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/36bb47da-d8fc-40e2-8a99-8dc26bf18000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e5b6769b73f34a7b86e75a53ed1bc4a7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-stars-boxes-shade-and-juju?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

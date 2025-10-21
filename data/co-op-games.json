@@ -1,0 +1,151 @@
+{
+  "category": "co-op",
+  "count": 3,
+  "games": [
+    {
+      "id": "99711",
+      "slug": "your-obby-size",
+      "title": "Your Obby Size",
+      "description": "Parkour and size control with secrets and surprises! Jump, run, and reach new heights in this thrilling game! Avoid lava and conquer challenges from easy to extreme!\nCollect enough trophies to unlock secret paths, access new locations, and get unique character skins!\nBeware of monsters guarding certain areas!\nFind shortcuts to the top! Show everyone you're a true parkour master!",
+      "howToPlayText": "Цель: пройти до конца.\n\nУправление:\nQE - менять размер.\nWASD - передвижение.\nПробел - прыжок.\nTAB - пауза.\nShift - курсор.\nКолесико мыши - приблизить/отдалить камеру.\nЗажмите ПКМ, чтобы вращать камерой (при видимом курсоре).\n\nНа телефоне:\nИспользуйте интерфейс игры.",
+      "gameURL": "https://playgama.com/export/game/your-obby-size?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/your-obby-size",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "skill",
+        "platform",
+        "co-op",
+        "cool-games",
+        "obby",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fbdbd06d-aad7-49ff-7b01-27f1dac23a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/98abed1e-72a5-4946-015f-2578b3c8d300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "178ba2a10c1eb0fb6fc4d2c3d611c4f2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/your-obby-size?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63967",
+      "slug": "zombie-space-episode-ii",
+      "title": "Zombie Space Episode II",
+      "description": "NEW ISSUE OF GALACTIC NEWS\n\nZOMBIE APOCALYPSE ON THE RED PLANET...\n- Zombie virus has spread among civilians.\n- Rescuers found survivors among the zombies.\n- The galactic government has urgently gone on vacation.\n\n★★★\nA zombie virus outbreak has occurred on the space station. The first group of mercenaries disappeared. Your task is to find survivors among the zombies and find out the cause of the zombie apocalypse. You have to fight a horde of zombies using various types of weapons. Look for hidden weapons in chests. Upgrade characters and weapons! Use the abilities of the characters in hot battles against zombies. Play with a friend on the same device or solo!\n★★★",
+      "howToPlayText": "The goal of the game is to destroy all zombies and monsters.\nFind new weapons in the boxes.\nUpgrade characters and weapons to defeat strong enemies.\n\nQ (K) - change weapons;\nW, A, S, D (arrows) - move;\nE (M) - apply / activate;\nF (J) - super weapon.\nX, Space (L, KeyPad 0) - shooting;\nMouse - look / shoot;\nFor mobile devices, use touch input.",
+      "gameURL": "https://playgama.com/export/game/zombie-space-episode-ii?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-space-episode-ii",
+      "genres": [
+        "action",
+        "adventure",
+        "two-player",
+        "shooting",
+        "co-op",
+        "zombie",
+        "survival",
+        "scary",
+        "halloween"
+      ],
+      "tags": [
+        "2d-games",
+        "survivors-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "horde-survival-games",
+        "borwser-games",
+        "unity-games-online",
+        "2-player-zombie"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9862abb4-8bba-4d39-2dbc-d8f8c6565800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/062d807f-79fd-4fe1-1141-9ae46a6e4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8a118c8dda5a4f19b040cae184b8d512",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-space-episode-ii?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86270",
+      "slug": "angry-checkers-11c2-1",
+      "title": "Angry Checkers",
+      "description": "Angry Checkers is a thrilling take on the traditional board game, where players try to eliminate opponents’ checkers. Available on multiple platforms, it features various play modes including multiplayer and single-player. This action-packed game delivers engaging and strategic fun for everyone without requiring downloads or sign-ups.",
+      "howToPlayText": "Physics based action game, where your goal is to knock off all enemy checkers from the board. \n\nTap or click one of your checkers and drag it to the direction you want the checker to go. \n\nYou are in full control of the direction and power of your checker move.",
+      "gameURL": "https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/angry-checkers-11c2-1",
+      "genres": [
+        "multiplayer",
+        "co-op",
+        "pvp",
+        "checkers",
+        "physics",
+        "board"
+      ],
+      "tags": [
+        "games-for-pc",
+        "turnbased-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "chekers-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/83994f74-c1a6-45df-ade8-6b2300ee3b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/769b035c-ef39-4cff-e318-ecd735609700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "09acd9d843744bb39288857be8236236",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/angry-checkers-11c2-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

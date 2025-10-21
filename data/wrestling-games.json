@@ -1,0 +1,91 @@
+{
+  "category": "wrestling",
+  "count": 2,
+  "games": [
+    {
+      "id": "97964",
+      "slug": "sumo-fury",
+      "title": "Sumo Fury",
+      "description": "Dive into the thrilling world of Sumo Fury, where you can acquire powerful wrestlers with superior stats and challenge rivals globally. Show your mastery in combat, earn in-game currency through victories, and unlock stronger fighters to dominate the arena. Achieve glory and wealth with each victory, the excitement of Sumo Fury is sure to captivate you!",
+      "howToPlayText": "Keyboard Controls:  \n    Movement:  Arrow keys (← ↑ → ↓)  \n    Punch:  Z  \n    Kick:  X  \n    Defend:  C  \n    Jump:  Spacebar\n\nMobile Controls:  \n    Movement:  Virtual Joystick [Joystick Image]  \n    Actions:  Tap corresponding buttons",
+      "gameURL": "https://playgama.com/export/game/sumo-fury?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sumo-fury",
+      "genres": [
+        "action",
+        "fighting",
+        "wrestling"
+      ],
+      "tags": [
+        "iphone-games",
+        "arena-games",
+        "combat-games",
+        "android-games",
+        "unity-games-online",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c6dbd912-8380-483f-01e7-864b7cd26600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4ddac4d8-3c55-4dd7-8bda-ed54581d1400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e8fb740b38b847f688f8a0524409fdff",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sumo-fury?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63926",
+      "slug": "little-big-fighters",
+      "title": "Little Big Fighters",
+      "description": "Little Big Fighters is an exciting action game set in a lively survival arena where players must showcase their combat skills to rise through the ranks. Accessible via browsers on desktop and mobile, it offers a seamless experience without downloads or registration, focusing on battles and strategic growth.",
+      "howToPlayText": "Left Mouse Button = Move\nClick = Fight a boss\nL = Unlock the mouse",
+      "gameURL": "https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/little-big-fighters",
+      "genres": [
+        "io",
+        "action",
+        "multiplayer",
+        "survival",
+        "battleship",
+        "wrestling"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "arena-games",
+        "combat-games",
+        "desktop-games",
+        "indie-games",
+        "borwser-games",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c1e92c7-492a-403f-7281-e49555bfe300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b77c5ed4-3ac5-4279-0dfa-25b612d86900/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

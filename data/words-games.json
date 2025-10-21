@@ -1,0 +1,414 @@
+{
+  "category": "words",
+  "count": 9,
+  "games": [
+    {
+      "id": "111993",
+      "slug": "word-string",
+      "title": "Word String",
+      "description": "🧠 Challenge Your Mind with Word Chains! 🧠\nDo you love word games, brain teasers, and puzzle challenges? Get ready for a unique twist on wordplay with Word String Puzzle! Use the first given word, then uncover the next word, which either forms a compound word or completes a famous phrase. Keep guessing and linking words to create an exciting word chain that will test your vocabulary, logic, and creativity!",
+      "howToPlayText": "🔡 How to Play? 🔡\n✔️ Start with the first word.\n✔️ The next word must either:\n🔹 Form a compound word with the previous word (e.g., “Sun” → “Flower” → “Pot”)\n🔹 Complete a well-known phrase (e.g., Orange → Juice (\"Orange Juice\")\n✔️ Keep linking words until you complete the full chain!",
+      "gameURL": "https://playgama.com/export/game/word-string?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/word-string",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "words",
+        "educational",
+        "brain"
+      ],
+      "tags": [
+        "brain-training-games",
+        "crossword-puzzles-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4cabb5be-03a8-4fc1-da97-82079d779400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/10d79584-3a33-46f6-66a8-64b2ed93f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f4cfacb759e6111fc5548a91679a8b4e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/word-string?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109581",
+      "slug": "simple-words",
+      "title": "Simple Words",
+      "description": "Simple word game where match 3 falling mechanics meet word game.\nGame is a Puzzle word game.\nSelect letter make words and see the falling block.",
+      "howToPlayText": "Play at your own pace in this relaxing word game that’s as beautiful as it is brainy.\n\nRules are simple -\n• Tap/Click any letters to make a word\n• Used letters go dark\n• Clear a row when all its letters are used\n\nSimple rules — satisfying strategy.\n\nTry different modes:\n🌞 Daily Challenge - Can you reach to the top?\n🔁 Round Mode - Play at your own pace, as many rounds as you like.\n🔢 Moves Mode - See how far you can go in just a few moves.\n🤖 VS AI - Challenge a clever computer opponent!\n",
+      "gameURL": "https://playgama.com/export/game/simple-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/simple-words",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "quiz",
+        "words",
+        "educational",
+        "brain",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenging-games",
+        "crossword-puzzles-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/85fcff7e-ea1f-456e-8abc-aedea653f800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c16af434-a187-46b3-f595-39baecd40a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "416348c9009141328c8f7cac56c8b1a0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/simple-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111290",
+      "slug": "word-search-hidden-words",
+      "title": "Word Search Hidden Words",
+      "description": "Ready to search for Hidden Words?\nDive into the best Word Search Game Puzzle which will keep you searching for hours on end!\n\nEach level contains endless themed word search categories, covering a mix of both fun and educational topics! Add even more excitement by finding secret Hidden Words! Word Search : Hidden Words! is a simple, classic word search game that you can enjoy with friends!\n\nIf you like trivia, crossword puzzles or popular word games like Scrabble, Wordscapes and Word Cookies, you'll be addicted to Word Search : Hidden Words!\n",
+      "howToPlayText": "• Swipe up, down, left, right or diagonally to search for given words\n• Uncover Hidden Words with hints from other swiped words!\n• Collect 6 Hidden Words and earn bonus coins!\n",
+      "gameURL": "https://playgama.com/export/game/word-search-hidden-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/word-search-hidden-words",
+      "genres": [
+        "puzzle",
+        "words",
+        "hidden-object",
+        "educational",
+        "brain"
+      ],
+      "tags": [
+        "brain-training-games",
+        "crossword-puzzles-games",
+        "search-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/772ab21e-e04a-45e8-09ee-c91c88da7600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3b6f7d2c-3976-433a-bec4-1d4f40c65b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "33191706aff7438287597552bed2edac",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/word-search-hidden-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111039",
+      "slug": "emoji-guess",
+      "title": "Emoji Guess",
+      "description": "\nShow off your skills as an emoji interpreter in this supremely fun and frenetic puzzle game where you have to pick the right set of emojis to express the phrase, saying or movie title that’s written or illustrated above. Solve endless emoji puzzles by matching the right emojis in the right order and sharpen your logic, word association and visual perception skills with hundreds of short, colorful and often hilarious levels of brain-teasing entertainment. Emoji Guess Puzzle is a simple-in-concept but endlessly challenging and amusing puzzle game for smart players of all ages.",
+      "howToPlayText": "Your goal is to pick the correct sequence of emojis that represent the phrase, saying, or movie title shown above the puzzle. Think of it as translating text or ideas into emoji form in the right order.\nEach level presents a prompt (text-based or illustrated) and a jumble of emojis.\nYou select emojis in the precise order needed to match the intended phrase.\nIf you're correct on the first try, you earn all the stars for that level. Otherwise, you’ll get additional attempts with guidance.\nStuck on a puzzle? The game offers helpful hints that can nudge you in the right direction without giving the full answer away.",
+      "gameURL": "https://playgama.com/export/game/emoji-guess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emoji-guess",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "words",
+        "trivia",
+        "educational"
+      ],
+      "tags": [
+        "guessing-games",
+        "relaxing-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6f77ced1-7e12-4215-aae5-f23d232f9f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8e9b581e-65f8-4421-a2f8-60a1cba4ff00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bc0a8aefb57647a59af5ab5ea70927b7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emoji-guess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109414",
+      "slug": "word-puzzle-connect-words-and-letters",
+      "title": "Word Puzzle Connect Words and Letters",
+      "description": "Word Puzzle Connect Words and Letters  is a fun word game where you connect letter bubbles to form words on various themes. Improve vocabulary, brain training!\n\nWord Puzzle Connect Words and Letters  is an engaging and addictive word game designed for players of all ages. Connect colorful letter bubbles to form words based on diverse themes, from nature to technology. Perfect for vocabulary building, brain training, and improving spelling skills, this game offers endless fun and challenges. \nWhether you’re looking to pass the time or boost your word knowledge, Word Puzzle provides an exciting experience with intuitive gameplay and progressively harder levels. Enjoy hours of word search, discover new words, and sharpen your mind. \nPlay Word Puzzle Connect Words and Letters  anytime, anywhere — perfect for quick brain workouts or long relaxing sessions!",
+      "howToPlayText": "Connect adjacent letter bubbles to form words matching the theme. Tap and drag over letters to create a word. Submit the word to earn points and clear the bubbles. Use hints if stuck. Complete levels by finding all theme words. Enjoy the challenge and improve your vocabulary!",
+      "gameURL": "https://playgama.com/export/game/word-puzzle-connect-words-and-letters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/word-puzzle-connect-words-and-letters",
+      "genres": [
+        "puzzle",
+        "skill",
+        "kids",
+        "words",
+        "matching",
+        "educational",
+        "brain",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games",
+        "challenging-games",
+        "connect-games",
+        "crossword-puzzles-games",
+        "learning-games",
+        "mind-games",
+        "challenge-games",
+        "search-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9a9e7da4-6acf-427a-276c-a76306bd8e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0dfeeb84-c4fa-4ba9-ba3b-569276ea5600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b0fbf74f6bde4a0b97dd25e0225c6a1f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/word-puzzle-connect-words-and-letters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99572",
+      "slug": "cooking-letters--word-search",
+      "title": "Cooking Letters - Word Search",
+      "description": "- Start Your Culinary Adventure. When you enter the kitchen you will see a variety of tasty letters scattered across the game board. Each letter is an ingredient for creating words.  \n- Find All the Hidden Words. Your goal is to find all the words from the list hidden on the game board. The faster you complete the task the more points you earn.  \n- Unlock New Levels. As you progress you will unlock new levels where the words get longer and the challenges become more exciting. Cook up increasingly complex dishes made of letters.  \n- Earn Rewards. For every word you find you earn points. Use them to unlock additional bonuses or new kitchen themes.  \n- Train Your Brain. This game is not only fun but also helps improve focus vocabulary and quick thinking.\n     ",
+      "howToPlayText": "\n- Collect Words. Swipe your finger or use your cursor to connect the letters and form words. You can connect letters in any direction horizontally vertically diagonally or even zigzag.  ",
+      "gameURL": "https://playgama.com/export/game/cooking-letters--word-search?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cooking-letters--word-search",
+      "genres": [
+        "puzzle",
+        "skill",
+        "kids",
+        "food",
+        "words",
+        "educational",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "connect-games",
+        "swipe-games",
+        "search-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d48160a-913a-425a-7c81-de9a7338e300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/35a766ff-af25-4ab1-6ce6-d3de70fea800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f0dcedda2ee14b5f8d5e60de634abd68",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cooking-letters--word-search?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86489",
+      "slug": "words-with-prof-wisely",
+      "title": "Words with Prof. Wisely",
+      "description": "Join \"Words with Prof. Wisely,\" an exciting online game that tests your vocabulary skills. Playable on both mobile and desktop, this free game combines learning and fun, offering fresh challenges and rewards at every level. Discover your passion for words and start your adventure today!",
+      "howToPlayText": "Fin words by connecting letters. Improve your attentiveness, train your brain!\n\nKeep in mind - some crosswords will be difficult to solve.\n\nThe game \"Words with Prof. Wisely\" invites you to an exciting journey through the world of words and riddles absolutely free! It will not only test your vocabulary, but also offer a real challenge at each level. Your task is to find words and make them from the suggested letters without lifting your finger from the screen. Get ready for exciting levels and unexpected discoveries!\n\n- This is not just a word game, but an exciting adventure in a colorful world.\n- The difficulty increases with each level, but you will definitely not get bored!\n- This is not only entertainment, but also an excellent trainer for your brain.\n- Improve your vocabulary skills, devoting only 10 minutes a day to the game!\n- The game combines educational and entertaining elements.\n- You are waiting for bright game locations with hundreds of exciting levels.\n- Find words from the available letters and expand your knowledge.\n- For each guessed bonus word you will receive additional coins.\n\nThe goal of the game is to find the hidden words on the playing field and complete as many levels as possible to increase your rating. You need to make a word from the suggested letters, connecting them with a line. If the word is guessed correctly, it will fill the empty cells. As soon as the field is completely filled, the level is considered completed!\nIf you find a word not specified in the tasks, it will be added to the bonuses, for which you will receive additional rubies! The game\nprovides hints that can be used on difficult levels for rubies or by watching ads.\nPlay and develop your mind every day! Good luck!",
+      "gameURL": "https://playgama.com/export/game/words-with-prof-wisely?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/words-with-prof-wisely",
+      "genres": [
+        "puzzle",
+        "words"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "brain-training-games",
+        "crossword-puzzles-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/31fc350d-28b6-409c-0995-35fad18c9c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d3179518-c7aa-454d-9074-4bcd51d55000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c8e83942c5f64dcabefb233f28eebfd1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/words-with-prof-wisely?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "14",
+      "slug": "alpha-balls",
+      "title": "Alpha Balls",
+      "description": "Alpha Balls is a stimulating word puzzle game that sharpens your mind and vocabulary. Enjoy it online for free on any device. Solve puzzles to earn coins for hints, making it an entertaining and educational challenge for all.",
+      "howToPlayText": "Make words from letters. The hint can show you the first letters of an answer. If you press the bin, the additional letters that mislead you will be removed. Press the ball with a tick to confirm your answer and earn coins. You can spend coins for hints.",
+      "gameURL": "https://playgama.com/export/game/alpha-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/alpha-balls",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "words",
+        "scrabble",
+        "brain",
+        "unity"
+      ],
+      "tags": [
+        "iphone-games",
+        "brain-training-games",
+        "interactive-games",
+        "memory-games",
+        "learning-games",
+        "mind-games",
+        "1-player-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74344f8a-a7e3-4c2e-632c-e7ee89dd1e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8bfd6144-1cb2-4858-c1ba-562ce0d11600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "051d765f808343a9a8d4d6f762257088",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/alpha-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110013",
+      "slug": "mindblow",
+      "title": "Mindblow",
+      "description": "Welcome to Mindblow: Guess the Word! Experience a word-guessing game like no other, where every image cleverly hides a word. Unlike other games, this game isn’t just a mix of stock images, but we've carefully created each level’s image to challenge your brain! Discover the word through a concept creatively depicted in each picture.\n\nA New Kind of Puzzle: Forget what you know about word quiz games. In Mindblow: Guess the Word, each image has a special word for you to guess. It’s not just about looking at the picture, but understanding the clever idea behind it.",
+      "howToPlayText": "From easy peasy to brain-busters, we’ve got levels for every player. Earn coins for right guesses and use them for hints when stuck.\nGuess the Word handy on your device. New levels are added to Mindblow every month, so there’s always something fresh to enjoy.\nGuess the Word, start your journey of amazing pictures and satisfying word discoveries. Are you up for the challenge?",
+      "gameURL": "https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mindblow",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "words",
+        "educational",
+        "brain",
+        "classic",
+        "easy"
+      ],
+      "tags": [
+        "guessing-games",
+        "brain-training-games",
+        "visual-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2aff62bd-7bb5-4e83-dd23-45d73f684a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0c7df405-1770-4171-7a7c-d2a671f5de00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "272c8b8e2e7e4f66bb4fb69053b3601c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

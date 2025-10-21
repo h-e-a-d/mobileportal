@@ -1,0 +1,87 @@
+{
+  "category": "sudoku",
+  "count": 2,
+  "games": [
+    {
+      "id": "106362",
+      "slug": "queens-royal-sudoku-puzzle",
+      "title": "Queens Royal: Sudoku Puzzle",
+      "description": "Rule the Grid with Royal Precision!\n\nQueens Royal reimagines the classic eight queens logic puzzle into a modern masterpiece, where elegance meets relentless brain-teasing challenges. Place your queens wisely, strategize every move, and conquer 5,000+ levels of mind-bending puzzles designed to test your intellect and crown you the ultimate ruler of logic!\n\nWhy Queen Royal Will Captivate You\n- Brain-Training Excellence: Sharpen logic, strategy, and problem-solving skills with puzzles that evolve in complexity.\n- Sleek & Serene Design: Minimalistic visuals and soothing colors keep your focus on the challenge, not clutter.\n- Daily Reign Challenges: Fresh puzzles and timed events with endless variety.\n\nFeatures Fit for a Monarch\n- 5,000+ Levels: From gentle warm-ups to expert-tier enigmas, every puzzle is a new conquest.\n- Smart Hints: Stuck? Use hints to nudge your strategy without spoiling the thrill.\n- Endless Mode: Infinite levels mode lets you relax and strategize stress-free.\n- Elegant Tutorials: Learn the rules in seconds—mastery takes a lifetime.\n\nA Puzzle Game That Earns Your Crown\nEasy to learn, impossible to put down. Queen Royal is the perfect blend of simplicity and obsession. Whether you’re a chess pro, a sudoku savant, or a casual gamer seeking a mental spark, Queen Royal offers a regal challenge that grows with you. Outthink the grid, outmaneuver the rules, and reign supreme in a world where every victory feels legendary.",
+      "howToPlayText": "Rule the Grid with Royal Precision! In this elegant brain-teaser, your logic and strategy will be tested as you place your queens to conquer the board. With thousands of mind-bending puzzles, each move counts on your path to becoming the ultimate ruler of logic!\n\nGame Objective:\n - The goal is to place one queen in every row, column, and color-designated zone on the grid.\n\nRules:\n - One Queen Per Realm: You must place exactly one queen in each row, column, and color zone.\n - No Touching Crowns: Queens cannot be placed in squares that touch each other, including diagonally.\n - Unique Solution: Every level is designed to have only one correct solution, so no guessing is required!",
+      "gameURL": "https://playgama.com/export/game/queens-royal-sudoku-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/queens-royal-sudoku-puzzle",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "sudoku",
+        "brain",
+        "classic",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/48245d90-287c-4327-2921-b14b48da4d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ff5f3e5b-537a-47b7-0c32-d9e169439e00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/queens-royal-sudoku-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99500",
+      "slug": "sudoku-number-games",
+      "title": "Sudoku - Number Games",
+      "description": "Увлекательная логическая игра-головоломка с числами! Тренируйте внимание, развивайте память и логику, да и просто получайте удовольствие!\n\nПо мере повышения уровня игра усложняется, но всегда можно вернутся к прошлым уровням и играть на более легком уровне сложности.",
+      "howToPlayText": "Rules of Sudoku - Number Games is simple:\nInside the playing field there are 9 squares consisting of 3 x 3 cells. Each horizontal row, vertical column and square (9 cells each) must be filled with numbers from 1 to 9, without repeating any numbers in the row, column or square.\n",
+      "gameURL": "https://playgama.com/export/game/sudoku-number-games?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sudoku-number-games",
+      "genres": [
+        "puzzle",
+        "number",
+        "sudoku",
+        "brain",
+        "classic"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games",
+        "mind-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/92c91c2c-8720-4042-5f5a-457925daf100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/17697b71-b3d3-4e15-a049-b10ed06e8e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "91cab3ce66de481281727fb7598850a7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sudoku-number-games?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

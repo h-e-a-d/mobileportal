@@ -1,0 +1,624 @@
+{
+  "category": "first-person-shooter",
+  "count": 13,
+  "games": [
+    {
+      "id": "110265",
+      "slug": "hazmob-fps-online-shooter",
+      "title": "Hazmob FPS: Online Shooter",
+      "description": "Hazmob FPS is a multiplayer shooting FPS game where every second counts! Play against other players across multiple game modes in non-stop combat. This first-person shooter game is ideal for those seeking a bit of thrill.\n\nSkilled FPS players will love Hazmob FPS. The game features excellent, clean 3D graphics with a fluid and intuitive control system that allows you to maneuver quickly and tactically. The maps are designed for fast-paced battles in a close-quarters setting, leaving it down to pure reflex and skill to get the job done.\n\nPlay various game modes\n\nTeam Deathmatch\nSearch and Destroy\nCapture the flag\nDomination\nFree for all\nElimination\nGun race\n",
+      "howToPlayText": "Controls\n\nWASD = move\nSpace = jump\nLeft mouse = shoot\nRight mouse / V = aim\nP = leaderboard, pause, and settings\nG = pick up the gun\nC = crouch\nShift = run\n1, 2, 3 = switch weapons\n4, 5, 6 = skills\nE = alternative skills\nQ = alternative skills",
+      "gameURL": "https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hazmob-fps-online-shooter",
+      "genres": [
+        "action",
+        "arcade",
+        "strategy",
+        "skill",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "fighting",
+        "popular",
+        "first-person-shooter",
+        "sniper",
+        "train",
+        "battle-royale"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "reaction-games",
+        "multiple-players-games",
+        "exciting-games",
+        "accuracy-games",
+        "competitive-games",
+        "military-games",
+        "combat-games",
+        "teams-games",
+        "sniper-shooter",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1f0c7c3-3611-4f93-49ae-3b779e216c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a2e46182-077e-4ec8-d0aa-3435536eb800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8a7a62bfcec943b6a64d1188c8baf31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96846",
+      "slug": "escape-from-squid-island",
+      "title": "Escape From Squid Island",
+      "description": "Dive into this thrilling 3D shooter, \"Escape from Squid Island,\" where you must flee a dangerous island filled with enemies. Enjoy intense battles, varied environments, and an engaging plot on your device. Prepare for an exhilarating experience as you fight for your freedom!",
+      "howToPlayText": "- Use WASD to control your character\n- Rotate the mouse to control the camera\n- Click the left mouse button to shoot\n- Click the right mouse button to aim\n- Press R to recharge",
+      "gameURL": "https://playgama.com/export/game/escape-from-squid-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/escape-from-squid-island",
+      "genres": [
+        "action",
+        "adventure",
+        "3d",
+        "shooting",
+        "story",
+        "survival",
+        "escape",
+        "first-person-shooter",
+        "mobile"
+      ],
+      "tags": [
+        "mission-games",
+        "3rd-person-shooter-games",
+        "exciting-games",
+        "kill-games",
+        "combat-games",
+        "tactical-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0f33f28d-6bc6-4864-8ba6-c14fc0958d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b1268fe5-a5f4-450d-1620-1040b0adae00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f2d280b302c349ea9d46ac1d47b4920a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/escape-from-squid-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99682",
+      "slug": "war-v-path-of-the-survivor",
+      "title": "War V: Path of the Survivor!",
+      "description": "War Z: Path of the Survivor! - Story-driven first-person shooter. Go through the story, buy weapons, install various modules on them.\n\nA first-person action shooter.\n\nAs a result of the man-made disaster, most of humanity was infected with a dangerous virus... which turns people into zombies\n\nThe survivors were forced to form paramilitary groups...\n\nWho knows, maybe it's up to you to find the antidote to the virus and save humanity...\n\n- The world of the zombie apocalypse.\n- An exciting storyline.\n- Hordes of zombies from the simplest to the mutated.\n- A variety of weapons from the real world.\n- Various weapon modules and a leveling system.",
+      "howToPlayText": "Control:\n- WASD - movement,\n- LSHIFT - switch to running,\n- SPACEBAR - jump.\n- LEFT MOUSE BUTTON - shoot,\n- RIGHT MOUSE BUTTON - aim,\n- T - inspect the weapons.\n- R - reload.",
+      "gameURL": "https://playgama.com/export/game/war-v-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/war-v-path-of-the-survivor",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "shooting",
+        "story",
+        "zombie",
+        "survival",
+        "first-person-shooter",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online",
+        "fps-horror",
+        "single-player-horror",
+        "3d-horror"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/49607e8f-d794-462a-2dde-1776efc17a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/896d9c2c-a01d-4bf5-5991-79b45d3cf200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "42dd892564fc46bf806f5fed4d137dc2",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "6321a13f8d3349398f3aefb5106284ad",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/war-v-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98052",
+      "slug": "same-room-same-day",
+      "title": "Same Room Same Day",
+      "description": "Experience the thrilling psychological horror of \"Same Room Same Day.\" As Rosaline, explore a terrifying building filled with monstrous beings. Face intense challenges, collect crucial supplies, and confront your deepest fears to uncover secrets and seek tranquility in a frightening digital landscape.",
+      "howToPlayText": "Full Gamepad support required \n\nControls: \nMove: WASD\nLook Around: Mouse\nShoot: Left Click\nAim: Right Click\nReload: R\nFlashlight: F\nJump: Space\nInteract: E\nSprint: Shift",
+      "gameURL": "https://playgama.com/export/game/same-room-same-day?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/same-room-same-day",
+      "genres": [
+        "horror",
+        "pve",
+        "survival",
+        "ghost",
+        "scary",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "iphone-games",
+        "mystery-games",
+        "room-games",
+        "combat-games",
+        "controller-compatible-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/475d1bd5-2a0a-46fc-9f53-43aad7cb2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/71b40699-ef3d-4c05-7286-26bdb1997500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0e6200911e3e4dd690c91a04e9fa5f29",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/same-room-same-day?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106384",
+      "slug": "assault-on-squid-island",
+      "title": "Assault on Squid Island",
+      "description": "Government troops are storming the island!\n\nAssault on Squid Island is an action-packed action game in which you have to survive a deadly battle on a mysterious island. Your main goal is to destroy all the enemies and find a way to escape from this sinister place.\n\nWhat makes the game special:\n\nThrilling battles with realistic combat system\n\nUnique locations with a unique atmosphere\n\nA fascinating story that will keep you in suspense until the very end.\n\nImmerse yourself in a world where every step can be lost, and every decision is crucial in the struggle for survival.",
+      "howToPlayText": "Control\nComputer:\n- WASD - movement,\n- LSHIFT - switch to running,\n- SPACE - jump.\n- LEFT MOUSE BUTTON - shoot,\n- RIGHT MOUSE BUTTON - aim,\n- T- inspect the weapon.\n- R - reload.\n- P - pause.\n\nOn the phone, control is carried out using mobile control functions.",
+      "gameURL": "https://playgama.com/export/game/assault-on-squid-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/assault-on-squid-island",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "3d",
+        "shooting",
+        "gun",
+        "first-person-shooter",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "mission-games",
+        "survivors-games",
+        "exciting-games",
+        "military-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4d3b5b6c-69ed-4a76-fd4c-033015d60500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dace01dc-462c-40c6-f461-c9aeae974400/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/assault-on-squid-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111334",
+      "slug": "camel-destroyer",
+      "title": "Camel Destroyer",
+      "description": "A camel has appeared in the city and is looking for adventures! In the game, you will have to help the camel find animals, chat with people, and explore the city. \nLook for hidden machines, guns, cannons, and grenades to destroy buildings and create chaos. Drive cars, operate a helicopter, and even saddle a turtle or a cow for unforgettable adventures. \nReady for crazy antics and unpredictable situations? Then join the camel on its exciting journey around the city!",
+      "howToPlayText": "Desktop\nMove: WASD\nJump: Space bar\nAttack: F\nShoot a weapon: F\nAcceleration: Shift\nPick up an item: E\n\nMobile\nJoystick + pop-up buttons",
+      "gameURL": "https://playgama.com/export/game/camel-destroyer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/camel-destroyer",
+      "genres": [
+        "action",
+        "strategy",
+        "shooting",
+        "first-person-shooter",
+        "mobile"
+      ],
+      "tags": [
+        "wtf-games",
+        "vehicles-games",
+        "helicopter-games",
+        "sandbox-games",
+        "weird-games",
+        "open-world-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b1f71a9f-81b1-4ea5-6924-9985182e8900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/725d8a6f-dcb2-44f5-a0ad-bb1027bba200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "133fd1c9bced4967b0e7d7e7324227f5",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/camel-destroyer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64025",
+      "slug": "swat-and-greens-vs-zombies",
+      "title": "SWAT and GREENS vs Zombies",
+      "description": "Engage in SWAT and GREENS vs Zombies, a thrilling strategy game where you defend humanity from a zombie apocalypse. Enjoy online gameplay without downloads, equip over 50 unique weapons, and face endless undead waves. Test your skills in various modes and strive for victory in PvP battles.",
+      "howToPlayText": "\"SWAT & GREENS vs Zombies\" is an engaging tower defense strategy game where you can upgrade and unlock new members of the SWAT squad as well as plants. Together, they will stand against waves of advancing zombies.\n\n Upgrade SWAT members and plants to create a stronger squad.\n- Each member of the special forces squad comes equipped with unique weaponry, strategically position them on the battlefield.\n- Every plant has a cooldown period; use their powers wisely in combat.\n- Strive to minimize losses in battle to maximize the level completion reward.\n\nBattle Controls:\nDrag SWAT members and plants onto the field by holding down the left mouse button/touchscreen.",
+      "gameURL": "https://playgama.com/export/game/swat-and-greens-vs-zombies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/swat-and-greens-vs-zombies",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "zombie",
+        "pve",
+        "battleship",
+        "halloween",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "iphone-games",
+        "addictive-games",
+        "combat-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ab9b214d-0e0e-4213-daeb-f91317947700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f8d79da8-e8ef-4a87-6e05-d5782efb9600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5be099820af44eefb0a3b09edc7edbc1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/swat-and-greens-vs-zombies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86323",
+      "slug": "rift-of-hell--demons-war-44e4-1",
+      "title": "Rift of Hell - Demons War",
+      "description": "Rift of Hell - Demons War is a fast-paced action game where players face off against waves of demons in a hellish setting. Equip powerful weapons and upgrade your abilities while collecting gold to survive intense battles. Play online for free and conquer the darkness!",
+      "howToPlayText": "Rift of Hell - Demons War is a fast-paced action game where players face off against waves of demons in a hellish setting. Equip powerful weapons and upgrade your abilities while collecting gold to survive intense battles. Play online for free and conquer the darkness!",
+      "gameURL": "https://playgama.com/export/game/rift-of-hell--demons-war-44e4-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rift-of-hell--demons-war-44e4-1",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "3d",
+        "shooting",
+        "popular",
+        "survival",
+        "first-person-shooter",
+        "war"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "fast-paced-games",
+        "kill-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/482e4157-d8ba-486a-922b-7a30d90fad00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/04014821-5da2-41f6-45cb-7d6622562800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d2430bee9dba4f82999f2fe06a334be0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rift-of-hell--demons-war-44e4-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99567",
+      "slug": "stalker-2033-the-path-of-the-survivor",
+      "title": "Stalker 2033: The Path of the Survivor",
+      "description": "Stalker 2033: The Path of the Survivor – A 3D action shooter set in a post-apocalyptic world. Battle the undead, explore vast locations, uncover dark secrets, and fight to survive in a mysterious, deadly new reality.",
+      "howToPlayText": "Stalker 2033: The Path of the Survivor  - is an 3D action shooter set in a post-apocalyptic world.. Collect an arsenal of deadly weapons and fight for survival!\n\n\nA huge location populated by a wide variety of inhabitants!\n\nThe quiet life of the middle lane is disrupted by a mysterious catastrophe – an unknown phenomenon turns people into the living dead. The main character finds himself in the epicenter of the tragedy by accident: being away from the city, he learns about the beginning of the apocalypse just two weeks after it began.\n\nNow he has to not only fight for survival in a new, cruel world, but also reveal its secrets. Collecting information bit by bit, he tries to understand the nature of the disaster and its impact on people..\n\nGameplay Features:\n\n• Exploring a post-apocalyptic world \n• Interacting with the few survivors\n• Search for resources and create equipment\n• * Battles with different opponents\n• Thrilling zombie apocalypse storyline\n• Realistic arsenal of weapons\n\nImmerse yourself in the exciting world of the post-apocalypse! Collect an arsenal of deadly weapons and fight for survival!\n\nControl:\n- WASD - movement,\n- LSHIFT - switch to running,\n- SPACE - jump.\n- LEFT MOUSE BUTTON - shoot,\n- RIGHT MOUSE BUTTON - aim,\n- MOUSE WHEEL, Q - change weapons.\n- T - inspect the weapons.\n- R - reload.\n- M - map.",
+      "gameURL": "https://playgama.com/export/game/stalker-2033-the-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stalker-2033-the-path-of-the-survivor",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "3d",
+        "shooting",
+        "story",
+        "zombie",
+        "survival",
+        "halloween",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "unity-games-online",
+        "fps-horror",
+        "single-player-horror",
+        "3d-horror"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd286d70-d90e-43ae-f16f-ec4dd1c22300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8e68462f-6960-4b99-e81e-e3398e60e300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2fc848b4b17847fe8710d43b93b8667b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stalker-2033-the-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90505",
+      "slug": "agent-sniper-city",
+      "title": "Agent Sniper City",
+      "description": "Agent Sniper City is a high-stakes sniper game where you step into the role of an elite sharpshooter. Perched atop towering buildings, your mission is to eliminate dangerous criminals with precision shots. Use your skills to aim, scope, and execute targets while scanning the city for new threats. Stay focused—the fate of the city rests in your hands!",
+      "howToPlayText": "Keyboard\nScope: Right mouse button\nZoom In/Out: Mouse scroll wheel\nShoot: Left mouse button\nLook Around: Drag mouse",
+      "gameURL": "https://playgama.com/export/game/agent-sniper-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/agent-sniper-city",
+      "genres": [
+        "action",
+        "simulation",
+        "skill",
+        "shooting",
+        "mouse",
+        "popular",
+        "first-person-shooter",
+        "sniper",
+        "mobile"
+      ],
+      "tags": [
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/47d98964-bd5b-4961-3dea-835c78056200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/30757515-52b1-45d1-52fa-8b5a94d94c00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/agent-sniper-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "55",
+      "slug": "left-4-die",
+      "title": "Left 4 Die",
+      "description": "Left 4 Die is an intense survival shooter set in a post-apocalyptic environment. Utilize strategy to face endless enemies in this web-based game with stunning graphics and responsive controls. Experience the excitement across various devices as you navigate dangers, wield formidable weapons, and adapt to survive.",
+      "howToPlayText": "WASD - move Left Mouse button - attack R - reload SPACE - jump 1 - 4 - select weapons. Approach the weapons dealer to buy weapons, the armor dealer - to buy armor, the barber - to change your appearance, the commander - to receive a new mission. Complete missions and kill zombies to earn money and experience. The higher your level, the more powerful equipment and higher rewards for missions you can obtain, but you will also face more numerous hordes of zombies chasing you.",
+      "gameURL": "https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/left-4-die",
+      "genres": [
+        "action",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "cool-games",
+        "zombie",
+        "pve",
+        "survival",
+        "wolf",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "fast-paced-games",
+        "addictive-games",
+        "arena-games",
+        "webgl-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "building-games",
+        "horde-survival-games",
+        "borwser-games",
+        "virtual-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/65c4ee1c-517f-4e10-c93a-10d04aa4fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fe7362d-e8da-414f-b8fb-9b69c90db100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5cbf6816fc7d4a3c90282ecc9d451ed2",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "b0c3f523da054f49922d56bdaa76bce1",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "ee3e3ad4267947e7a4d42dc2429fd370",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "e9323ad585a4491daf38ea69ac82bf56",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99549",
+      "slug": "edgefire",
+      "title": "EdgeFire",
+      "description": "EdgeFire is a fast-paced online shooter that throws you into thrilling battles against real players from around the world. Whether you're flying solo or teaming up with friends, every match is a chance to prove your dominance on the battlefield.\n\nSharpen your aim and unleash lightning-fast reflexes, earn rewards, and become the top player in each round. Outsmart your opponents with clever tactics and strategic plays that turn the tide of battle in your favor.\n\nDive into action-packed gameplay with a variety of stunning skins that enhance your experience and appeal to both seasoned shooter veterans and newcomers alike. Each battle is a fresh challenge, packed with intensity and adrenaline.\n\nStep into the arena, test your skills, and rise to glory. Are you ready to dominate the fight?",
+      "howToPlayText": "WASD - move\nR - reload\nLeft mouse button - shoot\nEsc - pause menu",
+      "gameURL": "https://playgama.com/export/game/edgefire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/edgefire",
+      "genres": [
+        "action",
+        "skill",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "pvp",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "multiple-players-games",
+        "competitive-games",
+        "arena-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a93dba25-48f2-4252-2fc5-181a561acf00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/990529ee-db5e-4759-df7a-bf390ce9fe00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/edgefire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94828",
+      "slug": "gunner-pursuit",
+      "title": "Gunner Pursuit",
+      "description": "Dive into the thrilling universe of Gunner Pursuit, where fast-paced action and weaponry collide. Experience intense pursuits and shoot from your fast-moving vehicle while navigating enemies. Enhance your gear for survival and triumph in every challenging stage. Enjoy this free game on your phone or computer for continuous excitement.",
+      "howToPlayText": "Keyboard\nLook around - Mouse movement\nShoot - Left-click\nLock/Unlock Cursor - L",
+      "gameURL": "https://playgama.com/export/game/gunner-pursuit?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/gunner-pursuit",
+      "genres": [
+        "action",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/39e3a2d1-ab83-4d79-9700-4e0a31cab400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f772d494-5ca5-4aca-9eb8-46439a61b600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c4eb85437fce44f390caf2580a4bfa5e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/gunner-pursuit?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

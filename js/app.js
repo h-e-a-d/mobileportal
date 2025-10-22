@@ -561,7 +561,17 @@ class KloopikApp {
         row.className = 'category-row';
         row.dataset.category = category;
 
-        const categoryName = category === 'all' ? 'All Games' : this.formatCategoryName(category);
+        // Handle special categories (favorites, recent) with proper names
+        let categoryName;
+        if (category === 'all') {
+            categoryName = 'All Games';
+        } else if (category === 'favorites') {
+            categoryName = 'My Favorites';
+        } else if (category === 'recent') {
+            categoryName = 'Recently Played';
+        } else {
+            categoryName = this.formatCategoryName(category);
+        }
 
         // Create header (safe)
         const header = document.createElement('div');
@@ -633,9 +643,10 @@ class KloopikApp {
         // Setup carousel navigation
         this.setupCarousel(row);
 
-        // Click title to filter by category
+        // Click title to filter by category (disabled for special pages)
         title.addEventListener('click', () => {
-            if (category !== 'all') {
+            // Don't filter on special pages (favorites, recent)
+            if (category !== 'all' && category !== 'favorites' && category !== 'recent') {
                 this.handleCategoryClick(category);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }

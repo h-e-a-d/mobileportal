@@ -167,10 +167,10 @@ class KloopikApp {
             // Icon based on category
             const icon = this.getCategoryIcon(category);
 
-            // Create icon div (XSS-safe)
+            // Create icon div (XSS-safe - icons are hardcoded, not user input)
             const iconDiv = document.createElement('div');
             iconDiv.className = 'sidebar-item-icon';
-            iconDiv.textContent = icon; // Safe from XSS
+            iconDiv.innerHTML = icon; // Safe - icons are hardcoded in getCategoryIcon()
 
             // Create text span (XSS-safe)
             const textSpan = document.createElement('span');

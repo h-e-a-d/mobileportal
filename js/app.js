@@ -295,7 +295,79 @@ class KloopikApp {
             'cozy': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9z"/><path d="M9 22V12h6v10"/></svg>',
             'cool-games': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M16 12h-4l-2 4M8 10h.01M16 10h.01"/></svg>',
             'crazy-games': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M8 14h8M7 9l3 1M14 9l3 1M2 12c2 0 4-1 6-3M16 9c2-2 4-3 6-3"/></svg>',
-            'hypercasual': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>'
+            'hypercasual': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>',
+
+            // Additional categories
+            'airplane': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L3 13h7v9l9-11h-7V2z"/><path d="M17 8l4-2M7 16l-4 2"/></svg>',
+            'anime': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="9" r="7"/><circle cx="9" cy="9" r="3"/><path d="M14 14l7 7M9 2v4M2 9h4"/></svg>',
+            'app-store': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 12h10M12 7v10"/></svg>',
+            'archery': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/><path d="M2 12L8 12M22 12L16 12"/></svg>',
+            'backgammon': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="1"/><path d="M3 12h18M12 3v18"/><circle cx="8" cy="8" r="2"/><circle cx="16" cy="16" r="2"/></svg>',
+            'basketball': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2v20M2 12h20"/><path d="M6 6c2 2 2 10 0 12M18 6c-2 2-2 10 0 12"/></svg>',
+            'battleship': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 15l6-3V6h6v6l6 3v5H3v-5z"/><rect x="9" y="2" width="6" height="4"/></svg>',
+            'blocks': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>',
+            'boat': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 18l3-3 6 3 6-3 3 3"/><path d="M12 2v12M12 2L8 6M12 2l4 4"/></svg>',
+            'bubble': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="4"/></svg>',
+            'bubble-shooter': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="8" cy="6" r="3"/><circle cx="16" cy="6" r="3"/><circle cx="12" cy="12" r="3"/><path d="M12 15v7M12 22l-3-3M12 22l3-3"/></svg>',
+            'bus': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="14" rx="2"/><path d="M4 10h16M8 18v2M16 18v2"/><circle cx="8" cy="18" r="1"/><circle cx="16" cy="18" r="1"/></svg>',
+            'candy-crush': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="8" cy="8" r="3"/><circle cx="16" cy="8" r="3"/><circle cx="8" cy="16" r="3"/><circle cx="16" cy="16" r="3"/></svg>',
+            'cards': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="12" height="16" rx="2"/><path d="M8 8h4M8 12h4"/><rect x="8" y="6" width="12" height="16" rx="2"/></svg>',
+            'cats': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L8 6h8l-4-4z"/><circle cx="12" cy="12" r="6"/><circle cx="10" cy="11" r="1"/><circle cx="14" cy="11" r="1"/><path d="M10 14c.5.5 1.5 1 2 1s1.5-.5 2-1"/></svg>',
+            'checkers': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="1"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/><circle cx="6" cy="6" r="1.5"/><circle cx="18" cy="18" r="1.5"/></svg>',
+            'christmas': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l-8 8h6l-6 8h6l-4 4h16l-4-4h6l-6-8h6l-8-8z"/></svg>',
+            'construction': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 7l-5 5M19 12l-5 5"/><rect x="3" y="3" width="7" height="7" rx="1"/><circle cx="17" cy="17" r="3"/></svg>',
+            'difficult': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2 7h7l-5.5 4 2 7L12 16l-5.5 4 2-7L3 9h7l2-7z"/></svg>',
+            'dog': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="10" r="6"/><path d="M8 4l-2 4M16 4l2 4"/><circle cx="10" cy="9" r="1"/><circle cx="14" cy="9" r="1"/><path d="M9 13h6"/></svg>',
+            'dragon': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l-2 4 2 2 2-2-2-4z"/><path d="M12 9c-4 0-7 2-7 5v5h14v-5c0-3-3-5-7-5z"/><path d="M5 14l-3 2M19 14l3 2"/></svg>',
+            'easter': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="13" rx="6" ry="9"/><path d="M8 10l2 2M16 10l-2 2M10 16h4"/></svg>',
+            'easy': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2M9 9h.01M15 9h.01"/></svg>',
+            'farm': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 20h18"/><path d="M5 20V10l7-7 7 7v10"/><path d="M9 20v-6h6v6"/></svg>',
+            'fishing': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2v8c0 2 2 3 4 3M6 10L2 14"/><circle cx="18" cy="16" r="3"/><path d="M10 13l5 3"/></svg>',
+            'flash': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>',
+            'flying': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v8M3 10l9 2 9-2"/><path d="M12 10v10M6 18l6 2 6-2"/></svg>',
+            'food': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8h1a4 4 0 0 1 0 8h-1M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/></svg>',
+            'geography': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>',
+            'ghost': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2C8 2 4 5 4 9v11l2-2 2 2 2-2 2 2 2-2 2 2 2-2 2 2V9c0-4-4-7-8-7z"/><circle cx="9" cy="10" r="1"/><circle cx="15" cy="10" r="1"/></svg>',
+            'gta': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 17h14v-3l-3-4H8l-3 4v3z"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/><path d="M12 2l2 4M8 6l4-4 4 4"/></svg>',
+            'hair': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2c-3 0-5 2-5 5v4c0 2 1 3 3 3h4c2 0 3-1 3-3V7c0-3-2-5-5-5z"/><path d="M8 14v6M12 14v8M16 14v6"/></svg>',
+            'hangman': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 20h12M6 4h8M14 4v4"/><circle cx="14" cy="8" r="2"/><path d="M14 10v6M12 14l2-2M16 14l-2-2M14 16l-2 4M14 16l2 4"/></svg>',
+            'henry-stickmin': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="5" r="2"/><line x1="12" y1="7" x2="12" y2="13"/><line x1="12" y1="13" x2="8" y2="18"/><line x1="12" y1="13" x2="16" y2="18"/><line x1="12" y1="9" x2="8" y2="12"/><line x1="12" y1="9" x2="16" y2="12"/></svg>',
+            'horse': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l-2 4v4h4V6l-2-4z"/><rect x="8" y="6" width="8" height="10"/><path d="M8 16v4M16 16v4"/><circle cx="10" cy="9" r="1"/></svg>',
+            'magic': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21l9-9M15 6l6-3-3 6M9 18l3-3M18 3l-3 3"/><path d="M12 12l-4 4M15 9l-3 3"/></svg>',
+            'mahjong': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="10" rx="1"/><rect x="14" y="3" width="7" height="10" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><circle cx="6.5" cy="7" r="1"/><circle cx="17.5" cy="7" r="1"/></svg>',
+            'match-3': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="7" cy="7" r="3"/><circle cx="17" cy="7" r="3"/><circle cx="12" cy="17" r="3"/></svg>',
+            'math': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M6 8l12 8M6 16l12-8"/></svg>',
+            'megaspel': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M8 8l8 8M16 8l-8 8"/></svg>',
+            'minecraft': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>',
+            'mini-golf': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 20l2-16 10 4-10 2"/><circle cx="6" cy="20" r="2"/></svg>',
+            'ninja': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M8 8v2h8V8M6 12l2 8h8l2-8"/></svg>',
+            'nitrome': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8 8h8v8H8z"/></svg>',
+            'parking': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M8 8h4a4 4 0 0 1 0 8H8V8z"/></svg>',
+            'party': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3l2 18M18 3l-2 18M12 3v18"/><path d="M3 9h18M3 15h18"/></svg>',
+            'penalty': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="16" r="3"/><rect x="4" y="2" width="16" height="12" rx="1"/><path d="M12 8v4"/></svg>',
+            'pirates': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 15l6-3V6h6v6l6 3v6H3v-6z"/><path d="M12 2v4"/><circle cx="9" cy="9" r="1"/><circle cx="15" cy="9" r="1"/></svg>',
+            'pizza': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 22l10-5 10 5L12 2z"/><circle cx="12" cy="10" r="1"/><circle cx="10" cy="14" r="1"/><circle cx="14" cy="14" r="1"/></svg>',
+            'pool': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="1"/></svg>',
+            'pop-it': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="7" cy="7" r="2"/><circle cx="17" cy="7" r="2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/><circle cx="12" cy="12" r="2"/></svg>',
+            'princess': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l2-4 4 4 4-4 2 4"/><path d="M4 6h16v4H4z"/><path d="M6 10v6a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-6"/></svg>',
+            'quiz': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>',
+            'retro': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="8" y="8" width="3" height="3"/><rect x="13" y="8" width="3" height="3"/><rect x="8" y="13" width="8" height="3"/></svg>',
+            'scrabble': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/><path d="M7 7h.01M18 7h.01M7 18h.01"/></svg>',
+            'shopping': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>',
+            'slime': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 15c0-3 2-5 6-5s6 2 6 5v4H6v-4z"/><circle cx="9" cy="14" r="1"/><circle cx="15" cy="14" r="1"/></svg>',
+            'soccer': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2l2 6-5 4h6l-5 4 2 6"/></svg>',
+            'solitaire': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="6" y="4" width="6" height="8" rx="1"/><rect x="12" y="6" width="6" height="8" rx="1"/><rect x="9" y="12" width="6" height="8" rx="1"/></svg>',
+            'space': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>',
+            'sudoku': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="1"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg>',
+            'trivia': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3M12 17h.01"/></svg>',
+            'tycoon': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7v10l10 5 10-5V7L12 2z"/><circle cx="12" cy="12" r="3"/><path d="M12 9V2M12 22v-7"/></svg>',
+            'war': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l-8 8h6v10h4V10h6l-8-8z"/></svg>',
+            'watermelon': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22C6.5 22 2 17.5 2 12S6.5 2 12 2"/><circle cx="8" cy="12" r="1"/><circle cx="12" cy="10" r="1"/><circle cx="12" cy="14" r="1"/></svg>',
+            'winter': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M6 6l12 12M18 6L6 18M2 12h20M6 18l12-12M18 18L6 6"/></svg>',
+            'wolf': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L8 6l4 2 4-2-4-4z"/><circle cx="12" cy="10" r="5"/><circle cx="10" cy="9" r="1"/><circle cx="14" cy="9" r="1"/><path d="M9 13h6"/></svg>',
+            'words': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h10"/></svg>',
+            'world-cup': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10M12 2a15.3 15.3 0 0 0-4 10 15.3 15.3 0 0 0 4 10"/></svg>',
+            'wrestling': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="7" r="3"/><circle cx="15" cy="7" r="3"/><path d="M6 14l3-3 3 3M15 14l3-3 3 3M9 17v5M15 17v5"/></svg>'
         };
 
         return icons[category] || '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="8" y1="12" x2="16" y2="12"/><line x1="12" y1="8" x2="12" y2="16"/></svg>';
@@ -1136,11 +1208,19 @@ class KloopikApp {
         const favoriteIds = storageManager.getFavorites();
         const favoriteGames = gamesManager.getGamesByIds(favoriteIds);
 
-        // Manually set filtered games
+        // Reset category filter and set filtered games
+        gamesManager.currentCategory = 'favorites';
         gamesManager.filteredGames = favoriteGames;
         gamesManager.currentPage = 1;
+        gamesManager.searchQuery = '';
 
         this.elements.sectionTitle.textContent = 'My Favorites';
+
+        // Clear sidebar active state BEFORE displayGames
+        document.querySelectorAll('.sidebar-item').forEach(item => {
+            item.classList.remove('active');
+        });
+
         this.displayGames();
 
         // Track favorites page view
@@ -1150,11 +1230,6 @@ class KloopikApp {
 
         // Update nav active state
         this.updateNavActiveState('favorites');
-
-        // Clear sidebar active state
-        document.querySelectorAll('.sidebar-item').forEach(item => {
-            item.classList.remove('active');
-        });
     }
 
     handleRecentRoute() {
@@ -1163,11 +1238,19 @@ class KloopikApp {
         const recentIds = storageManager.getRecentlyPlayed();
         const recentGames = gamesManager.getGamesByIds(recentIds);
 
-        // Manually set filtered games
+        // Reset category filter and set filtered games
+        gamesManager.currentCategory = 'recent';
         gamesManager.filteredGames = recentGames;
         gamesManager.currentPage = 1;
+        gamesManager.searchQuery = '';
 
         this.elements.sectionTitle.textContent = 'Recently Played';
+
+        // Clear sidebar active state BEFORE displayGames
+        document.querySelectorAll('.sidebar-item').forEach(item => {
+            item.classList.remove('active');
+        });
+
         this.displayGames();
 
         // Track recent page view
@@ -1177,11 +1260,6 @@ class KloopikApp {
 
         // Update nav active state
         this.updateNavActiveState('recent');
-
-        // Clear sidebar active state
-        document.querySelectorAll('.sidebar-item').forEach(item => {
-            item.classList.remove('active');
-        });
     }
 
     handleCategoryRoute(detail) {

@@ -17,6 +17,14 @@ class GamesManager {
         this.categoriesIndex = null;
         this.useChunkedData = true; // Try chunked data first, fallback to games.json
         this.featuredGames = [];
+
+        // Enhanced filtering and sorting
+        this.currentSort = 'default'; // default, name-asc, name-desc, rating, recent, popular
+        this.activeFilters = {
+            mobileReady: false,
+            categories: [],
+            minRating: 0
+        };
     }
 
     /**
@@ -431,8 +439,325 @@ class GamesManager {
             search: this.searchQuery,
             page: this.currentPage,
             totalGames: this.filteredGames.length,
-            displayedGames: this.currentPage * this.gamesPerPage
+            displayedGames: this.currentPage * this.gamesPerPage,
+            sort: this.currentSort,
+            filters: this.activeFilters
         };
+    }
+
+    /**
+     * Set sort order
+     */
+    setSortOrder(sortType) {
+        this.currentSort = sortType;
+        this.currentPage = 1;
+        this.applySorting();
+        return this.getPaginatedGames();
+    }
+
+    /**
+     * Apply sorting to filtered games
+     */
+    applySorting() {
+        switch (this.currentSort) {
+            case 'name-asc':
+                this.filteredGames.sort((a, b) =>
+                    (a.title || '').localeCompare(b.title || '')
+                );
+                break;
+
+            case 'name-desc':
+                this.filteredGames.sort((a, b) =>
+                    (b.title || '').localeCompare(a.title || '')
+                );
+                break;
+
+            case 'rating':
+                this.filteredGames.sort((a, b) => {
+                    if (!window.ratingsManager) return 0;
+                    const ratingA = parseFloat(window.ratingsManager.getAverageRating(a.id)) || 0;
+                    const ratingB = parseFloat(window.ratingsManager.getAverageRating(b.id)) || 0;
+                    return ratingB - ratingA;
+                });
+                break;
+
+            case 'most-played':
+                this.filteredGames.sort((a, b) => {
+                    if (!window.gameSessionManager) return 0;
+                    const playsA = window.gameSessionManager.getGameStats(a.id).totalPlays || 0;
+                    const playsB = window.gameSessionManager.getGameStats(b.id).totalPlays || 0;
+                    return playsB - playsA;
+                });
+                break;
+
+            case 'recent':
+                // Sort by when game was last played
+                this.filteredGames.sort((a, b) => {
+                    if (!window.gameSessionManager) return 0;
+                    const lastA = window.gameSessionManager.getGameStats(a.id).lastPlayed || 0;
+                    const lastB = window.gameSessionManager.getGameStats(b.id).lastPlayed || 0;
+                    return lastB - lastA;
+                });
+                break;
+
+            case 'random':
+                // Fisher-Yates shuffle
+                for (let i = this.filteredGames.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [this.filteredGames[i], this.filteredGames[j]] = [this.filteredGames[j], this.filteredGames[i]];
+                }
+                break;
+
+            case 'default':
+            default:
+                // Keep original order
+                break;
+        }
+    }
+
+    /**
+     * Set advanced filter
+     */
+    setFilter(filterName, value) {
+        this.activeFilters[filterName] = value;
+        this.currentPage = 1;
+        this.applyFilters();
+        return this.getPaginatedGames();
+    }
+
+    /**
+     * Set multiple categories filter
+     */
+    setMultipleCategoriesFilter(categories, matchAny = true) {
+        this.activeFilters.categories = categories;
+        this.activeFilters.categoryMatchAny = matchAny;
+        this.currentPage = 1;
+        this.applyFilters();
+        return this.getPaginatedGames();
+    }
+
+    /**
+     * Apply all active filters (enhanced)
+     */
+    applyFiltersEnhanced() {
+        let results = [...this.allGames];
+
+        // Filter by category (single)
+        if (this.currentCategory !== 'all') {
+            results = results.filter(game => {
+                if (!game.genres) return false;
+                return game.genres.some(genre =>
+                    genre.toLowerCase() === this.currentCategory
+                );
+            });
+        }
+
+        // Filter by multiple categories
+        if (this.activeFilters.categories && this.activeFilters.categories.length > 0) {
+            results = results.filter(game => {
+                if (!game.genres) return false;
+
+                if (this.activeFilters.categoryMatchAny) {
+                    // Match ANY of the selected categories
+                    return game.genres.some(genre =>
+                        this.activeFilters.categories.includes(genre.toLowerCase())
+                    );
+                } else {
+                    // Match ALL of the selected categories
+                    return this.activeFilters.categories.every(cat =>
+                        game.genres.some(genre => genre.toLowerCase() === cat.toLowerCase())
+                    );
+                }
+            });
+        }
+
+        // Filter by mobile ready
+        if (this.activeFilters.mobileReady) {
+            results = results.filter(game => {
+                return game.mobileReady && game.mobileReady.length > 0;
+            });
+        }
+
+        // Filter by minimum rating
+        if (this.activeFilters.minRating > 0 && window.ratingsManager) {
+            results = results.filter(game => {
+                const avgRating = parseFloat(window.ratingsManager.getAverageRating(game.id)) || 0;
+                return avgRating >= this.activeFilters.minRating;
+            });
+        }
+
+        // Filter by search query
+        if (this.searchQuery) {
+            results = results.filter(game => {
+                const searchFields = [
+                    game.title || '',
+                    game.description || '',
+                    ...(game.genres || []),
+                    ...(game.tags || [])
+                ].map(field => String(field).toLowerCase());
+
+                return searchFields.some(field =>
+                    field.includes(this.searchQuery)
+                );
+            });
+        }
+
+        this.filteredGames = results;
+        this.applySorting();
+    }
+
+    /**
+     * Clear all filters
+     */
+    clearAllFilters() {
+        this.currentCategory = 'all';
+        this.searchQuery = '';
+        this.currentPage = 1;
+        this.currentSort = 'default';
+        this.activeFilters = {
+            mobileReady: false,
+            categories: [],
+            minRating: 0
+        };
+        this.filteredGames = [...this.allGames];
+        return this.getPaginatedGames();
+    }
+
+    /**
+     * Get available sort options
+     */
+    getSortOptions() {
+        return [
+            { value: 'default', label: 'Default' },
+            { value: 'name-asc', label: 'Name (A-Z)' },
+            { value: 'name-desc', label: 'Name (Z-A)' },
+            { value: 'rating', label: 'Highest Rated' },
+            { value: 'most-played', label: 'Most Played' },
+            { value: 'recent', label: 'Recently Played' },
+            { value: 'random', label: 'Random' }
+        ];
+    }
+
+    /**
+     * Get games added recently (requires dateAdded field)
+     */
+    getRecentlyAddedGames(days = 7, limit = 20) {
+        const cutoffDate = Date.now() - (days * 24 * 60 * 60 * 1000);
+
+        return this.allGames
+            .filter(game => game.dateAdded && game.dateAdded > cutoffDate)
+            .sort((a, b) => (b.dateAdded || 0) - (a.dateAdded || 0))
+            .slice(0, limit);
+    }
+
+    /**
+     * Get new games count
+     */
+    getNewGamesCount(days = 7) {
+        const cutoffDate = Date.now() - (days * 24 * 60 * 60 * 1000);
+        return this.allGames.filter(game => game.dateAdded && game.dateAdded > cutoffDate).length;
+    }
+
+    /**
+     * Check if game is new
+     */
+    isNewGame(gameId, days = 7) {
+        const game = this.getGameById(gameId);
+        if (!game || !game.dateAdded) return false;
+
+        const cutoffDate = Date.now() - (days * 24 * 60 * 60 * 1000);
+        return game.dateAdded > cutoffDate;
+    }
+
+    /**
+     * Get mobile-ready games
+     */
+    getMobileReadyGames(limit = 50) {
+        return this.allGames
+            .filter(game => game.mobileReady && game.mobileReady.length > 0)
+            .slice(0, limit);
+    }
+
+    /**
+     * Get related games (improved algorithm)
+     */
+    getRelatedGames(gameId, limit = 10) {
+        const game = this.getGameById(gameId);
+        if (!game) return [];
+
+        const gameGenres = (game.genres || []).map(g => g.toLowerCase());
+        const gameTags = (game.tags || []).map(t => t.toLowerCase());
+
+        // Score each game based on similarity
+        const scored = this.allGames
+            .filter(g => g.id !== gameId)
+            .map(g => {
+                let score = 0;
+                const otherGenres = (g.genres || []).map(gen => gen.toLowerCase());
+                const otherTags = (g.tags || []).map(t => t.toLowerCase());
+
+                // Genre matches (higher weight)
+                const genreMatches = gameGenres.filter(genre => otherGenres.includes(genre)).length;
+                score += genreMatches * 3;
+
+                // Tag matches
+                const tagMatches = gameTags.filter(tag => otherTags.includes(tag)).length;
+                score += tagMatches * 2;
+
+                // Bonus if highly rated
+                if (window.ratingsManager) {
+                    const rating = parseFloat(window.ratingsManager.getAverageRating(g.id)) || 0;
+                    if (rating >= 4) score += 1;
+                }
+
+                return { game: g, score };
+            })
+            .filter(item => item.score > 0)
+            .sort((a, b) => b.score - a.score)
+            .slice(0, limit)
+            .map(item => item.game);
+
+        return scored;
+    }
+
+    /**
+     * Search with suggestions
+     */
+    getSearchSuggestions(query, limit = 5) {
+        if (!query || query.length < 2) return [];
+
+        const lowerQuery = query.toLowerCase();
+        const suggestions = [];
+
+        // Title matches (highest priority)
+        this.allGames.forEach(game => {
+            if (game.title && game.title.toLowerCase().includes(lowerQuery)) {
+                suggestions.push({
+                    type: 'game',
+                    text: game.title,
+                    gameId: game.id,
+                    slug: game.slug
+                });
+            }
+        });
+
+        // Genre matches
+        this.categories.forEach(category => {
+            if (category !== 'all' && category.includes(lowerQuery)) {
+                suggestions.push({
+                    type: 'category',
+                    text: category,
+                    category: category
+                });
+            }
+        });
+
+        // Remove duplicates and limit
+        const unique = suggestions.filter((item, index, self) =>
+            index === self.findIndex(t => t.text === item.text)
+        );
+
+        return unique.slice(0, limit);
     }
 }
 

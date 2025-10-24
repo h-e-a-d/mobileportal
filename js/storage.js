@@ -7,7 +7,15 @@ class StorageManager {
         this.FAVORITES_KEY = 'kloopik_favorites';
         this.RECENT_KEY = 'kloopik_recent';
         this.CHECKSUM_KEY = 'kloopik_checksum';
-        this.MAX_RECENT = 20; // Maximum number of recent games to store
+        this.NOTES_KEY = 'kloopik_game_notes';
+        this.TAGS_KEY = 'kloopik_user_tags';
+        this.HISTORY_KEY = 'kloopik_play_history';
+        this.MAX_RECENT = 50; // Increased from 20
+        this.MAX_FAVORITES = 200; // Increased from 100
+        this.MAX_HISTORY = 200;
+        this.notes = {};
+        this.userTags = {};
+        this.playHistory = [];
     }
 
     /**
@@ -330,14 +338,328 @@ class StorageManager {
     }
 
     /**
-     * Get storage statistics
+     * Load notes from localStorage
+     */
+    _loadNotes() {
+        try {
+            const data = localStorage.getItem(this.NOTES_KEY);
+            return data ? JSON.parse(data) : {};
+        } catch (error) {
+            console.error('[Storage] Error loading notes:', error);
+            return {};
+        }
+    }
+
+    /**
+     * Load user tags from localStorage
+     */
+    _loadUserTags() {
+        try {
+            const data = localStorage.getItem(this.TAGS_KEY);
+            return data ? JSON.parse(data) : {};
+        } catch (error) {
+            console.error('[Storage] Error loading tags:', error);
+            return {};
+        }
+    }
+
+    /**
+     * Load play history from localStorage
+     */
+    _loadPlayHistory() {
+        try {
+            const data = localStorage.getItem(this.HISTORY_KEY);
+            return data ? JSON.parse(data) : [];
+        } catch (error) {
+            console.error('[Storage] Error loading history:', error);
+            return [];
+        }
+    }
+
+    /**
+     * Initialize enhanced features
+     */
+    initEnhanced() {
+        this.notes = this._loadNotes();
+        this.userTags = this._loadUserTags();
+        this.playHistory = this._loadPlayHistory();
+    }
+
+    /**
+     * Add note to game
+     */
+    addNote(gameId, noteText) {
+        const validId = this._validateGameId(gameId);
+        if (!validId || !noteText) return false;
+
+        this.notes[validId] = {
+            text: noteText.substring(0, 500),
+            updated: Date.now()
+        };
+
+        try {
+            localStorage.setItem(this.NOTES_KEY, JSON.stringify(this.notes));
+            return true;
+        } catch (error) {
+            console.error('[Storage] Error saving note:', error);
+            return false;
+        }
+    }
+
+    /**
+     * Get note for game
+     */
+    getNote(gameId) {
+        const validId = this._validateGameId(gameId);
+        return this.notes[validId]?.text || '';
+    }
+
+    /**
+     * Delete note for game
+     */
+    deleteNote(gameId) {
+        const validId = this._validateGameId(gameId);
+        if (!validId) return false;
+
+        delete this.notes[validId];
+
+        try {
+            localStorage.setItem(this.NOTES_KEY, JSON.stringify(this.notes));
+            return true;
+        } catch (error) {
+            console.error('[Storage] Error deleting note:', error);
+            return false;
+        }
+    }
+
+    /**
+     * Add custom tag to game
+     */
+    addUserTag(gameId, tag) {
+        const validId = this._validateGameId(gameId);
+        if (!validId || !tag) return false;
+
+        if (!this.userTags[validId]) {
+            this.userTags[validId] = [];
+        }
+
+        const cleanTag = tag.trim().toLowerCase().substring(0, 20);
+        if (!this.userTags[validId].includes(cleanTag)) {
+            this.userTags[validId].push(cleanTag);
+
+            try {
+                localStorage.setItem(this.TAGS_KEY, JSON.stringify(this.userTags));
+                return true;
+            } catch (error) {
+                console.error('[Storage] Error saving tag:', error);
+                return false;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Get user tags for game
+     */
+    getUserTags(gameId) {
+        const validId = this._validateGameId(gameId);
+        return this.userTags[validId] || [];
+    }
+
+    /**
+     * Remove user tag from game
+     */
+    removeUserTag(gameId, tag) {
+        const validId = this._validateGameId(gameId);
+        if (!validId || !tag) return false;
+
+        const tags = this.userTags[validId];
+        if (!tags) return false;
+
+        const index = tags.indexOf(tag.toLowerCase());
+        if (index > -1) {
+            tags.splice(index, 1);
+
+            if (tags.length === 0) {
+                delete this.userTags[validId];
+            }
+
+            try {
+                localStorage.setItem(this.TAGS_KEY, JSON.stringify(this.userTags));
+                return true;
+            } catch (error) {
+                console.error('[Storage] Error removing tag:', error);
+                return false;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Add to play history with timestamp
+     */
+    addToHistory(gameId, gameTitle = '') {
+        const validId = this._validateGameId(gameId);
+        if (!validId) return false;
+
+        const entry = {
+            gameId: validId,
+            gameTitle: gameTitle,
+            timestamp: Date.now()
+        };
+
+        // Remove duplicates
+        this.playHistory = this.playHistory.filter(h => h.gameId !== validId);
+
+        // Add to beginning
+        this.playHistory.unshift(entry);
+
+        // Limit size
+        if (this.playHistory.length > this.MAX_HISTORY) {
+            this.playHistory = this.playHistory.slice(0, this.MAX_HISTORY);
+        }
+
+        try {
+            localStorage.setItem(this.HISTORY_KEY, JSON.stringify(this.playHistory));
+            return true;
+        } catch (error) {
+            console.error('[Storage] Error saving history:', error);
+            return false;
+        }
+    }
+
+    /**
+     * Get play history
+     */
+    getPlayHistory(limit = 50) {
+        return this.playHistory.slice(0, limit);
+    }
+
+    /**
+     * Clear play history
+     */
+    clearHistory() {
+        this.playHistory = [];
+        localStorage.removeItem(this.HISTORY_KEY);
+        return true;
+    }
+
+    /**
+     * Export all user data (enhanced)
+     */
+    exportAllData() {
+        return {
+            favorites: this.getFavorites(),
+            recentlyPlayed: this.getRecentlyPlayed(),
+            notes: this.notes,
+            userTags: this.userTags,
+            playHistory: this.playHistory,
+            ratings: window.ratingsManager ? window.ratingsManager.exportData() : null,
+            collections: window.collectionsManager ? window.collectionsManager.exportData() : null,
+            sessions: window.gameSessionManager ? window.gameSessionManager.exportData() : null,
+            exportDate: new Date().toISOString(),
+            version: '2.0'
+        };
+    }
+
+    /**
+     * Import all user data (enhanced)
+     */
+    importAllData(data) {
+        try {
+            if (data.favorites) {
+                localStorage.setItem(this.FAVORITES_KEY, JSON.stringify(data.favorites));
+            }
+            if (data.recentlyPlayed) {
+                localStorage.setItem(this.RECENT_KEY, JSON.stringify(data.recentlyPlayed));
+            }
+            if (data.notes) {
+                this.notes = data.notes;
+                localStorage.setItem(this.NOTES_KEY, JSON.stringify(this.notes));
+            }
+            if (data.userTags) {
+                this.userTags = data.userTags;
+                localStorage.setItem(this.TAGS_KEY, JSON.stringify(this.userTags));
+            }
+            if (data.playHistory) {
+                this.playHistory = data.playHistory;
+                localStorage.setItem(this.HISTORY_KEY, JSON.stringify(this.playHistory));
+            }
+
+            // Import related data
+            if (data.ratings && window.ratingsManager) {
+                window.ratingsManager.importData(data.ratings);
+            }
+            if (data.collections && window.collectionsManager) {
+                window.collectionsManager.importData(data.collections);
+            }
+            if (data.sessions && window.gameSessionManager) {
+                window.gameSessionManager.importData(data.sessions);
+            }
+
+            return true;
+        } catch (error) {
+            console.error('[Storage] Error importing data:', error);
+            return false;
+        }
+    }
+
+    /**
+     * Clear all user data
+     */
+    clearAllData() {
+        this.clearFavorites();
+        this.clearRecentlyPlayed();
+        this.clearHistory();
+        this.notes = {};
+        this.userTags = {};
+        localStorage.removeItem(this.NOTES_KEY);
+        localStorage.removeItem(this.TAGS_KEY);
+
+        // Clear related data
+        if (window.ratingsManager) {
+            window.ratingsManager.clearAllData();
+        }
+        if (window.collectionsManager) {
+            window.collectionsManager.clearAllCollections();
+        }
+        if (window.gameSessionManager) {
+            window.gameSessionManager.clearAllData();
+        }
+
+        return true;
+    }
+
+    /**
+     * Get storage statistics (enhanced)
      */
     getStats() {
         return {
             favoritesCount: this.getFavoritesCount(),
             recentCount: this.getRecentlyPlayedCount(),
-            storageAvailable: this.isStorageAvailable()
+            notesCount: Object.keys(this.notes).length,
+            taggedGamesCount: Object.keys(this.userTags).length,
+            historyCount: this.playHistory.length,
+            storageAvailable: this.isStorageAvailable(),
+            totalItems: this.getFavoritesCount() + this.getRecentlyPlayedCount() + Object.keys(this.notes).length
         };
+    }
+}
+
+// Initialize enhanced features on load
+if (typeof window !== 'undefined') {
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => {
+            if (window.storageManager) {
+                window.storageManager.initEnhanced();
+            }
+        });
+    } else {
+        if (window.storageManager) {
+            window.storageManager.initEnhanced();
+        }
     }
 }
 

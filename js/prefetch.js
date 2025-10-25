@@ -113,7 +113,7 @@ class PrefetchManager {
 
         // Track analytics
         if (window.Analytics) {
-            window.Analytics.trackEvent('game_prefetch_hover', {
+            window.Analytics.trackCustomEvent('game_prefetch_hover', {
                 gameSlug: gameSlug
             });
         }

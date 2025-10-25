@@ -55,6 +55,7 @@
     <!-- PWA Manifest -->
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#6366f1">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
@@ -236,10 +237,8 @@
                 <div class="game-iframe-container" id="gameIframeContainer">
                     <iframe
                         id="gameIframe"
-                        sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-pointer-lock"
-                        allow="accelerometer; gyroscope; autoplay; encrypted-media; fullscreen"
+                        allow="accelerometer; gyroscope; autoplay; encrypted-media; fullscreen; camera; clipboard-read; clipboard-write; geolocation; microphone; payment; picture-in-picture"
                         referrerpolicy="no-referrer"
-                        allowfullscreen
                         frameborder="0"
                     ></iframe>
                 </div>

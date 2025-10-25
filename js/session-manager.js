@@ -101,9 +101,17 @@ class GameSessionManager {
 
         // Start timer to update duration
         this.sessionTimer = setInterval(() => {
-            if (this.currentSession) {
-                this.currentSession.duration = Math.floor((Date.now() - this.sessionStartTime) / 1000);
+            // Check if session still exists, clear timer if not
+            if (!this.currentSession || !this.sessionStartTime) {
+                if (this.sessionTimer) {
+                    clearInterval(this.sessionTimer);
+                    this.sessionTimer = null;
+                }
+                return;
             }
+
+            // Update duration
+            this.currentSession.duration = Math.floor((Date.now() - this.sessionStartTime) / 1000);
         }, 1000);
 
         // Track analytics

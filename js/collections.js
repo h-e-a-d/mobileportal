@@ -6,8 +6,11 @@
 class CollectionsManager {
     constructor() {
         this.COLLECTIONS_KEY = 'kloopik_collections';
-        this.MAX_COLLECTIONS = 20;
-        this.MAX_GAMES_PER_COLLECTION = 100;
+
+        // Use config values with fallbacks
+        this.MAX_COLLECTIONS = (window.CONFIG && window.CONFIG.MAX_COLLECTIONS) || 20;
+        this.MAX_GAMES_PER_COLLECTION = (window.CONFIG && window.CONFIG.MAX_GAMES_PER_COLLECTION) || 100;
+
         this.collections = [];
     }
 
@@ -26,7 +29,9 @@ class CollectionsManager {
             const data = localStorage.getItem(this.COLLECTIONS_KEY);
             return data ? JSON.parse(data) : this._createDefaultCollections();
         } catch (error) {
-            console.error('[Collections] Error loading collections:', error);
+            if (window.logger) {
+                window.logger.error('[Collections] Error loading collections:', error);
+            }
             return this._createDefaultCollections();
         }
     }
@@ -46,7 +51,9 @@ class CollectionsManager {
             localStorage.setItem(this.COLLECTIONS_KEY, JSON.stringify(this.collections));
             return true;
         } catch (error) {
-            console.error('[Collections] Error saving collections:', error);
+            if (window.logger) {
+                window.logger.error('[Collections] Error saving collections:', error);
+            }
             return false;
         }
     }
@@ -63,12 +70,16 @@ class CollectionsManager {
      */
     createCollection(name, description = '', isPublic = false) {
         if (!name || name.trim().length === 0) {
-            console.error('[Collections] Collection name is required');
+            if (window.logger) {
+                window.logger.error('[Collections] Collection name is required');
+            }
             return null;
         }
 
         if (this.collections.length >= this.MAX_COLLECTIONS) {
-            console.error('[Collections] Maximum collections limit reached');
+            if (window.logger) {
+                window.logger.warn('[Collections] Maximum collections limit reached');
+            }
             return null;
         }
 
@@ -116,7 +127,9 @@ class CollectionsManager {
     updateCollection(collectionId, updates) {
         const collection = this.getCollection(collectionId);
         if (!collection) {
-            console.error('[Collections] Collection not found');
+            if (window.logger) {
+                window.logger.warn('[Collections] Collection not found');
+            }
             return false;
         }
 
@@ -142,7 +155,9 @@ class CollectionsManager {
     deleteCollection(collectionId) {
         const index = this.collections.findIndex(c => c.id === collectionId);
         if (index === -1) {
-            console.error('[Collections] Collection not found');
+            if (window.logger) {
+                window.logger.warn('[Collections] Collection not found');
+            }
             return false;
         }
 
@@ -165,7 +180,9 @@ class CollectionsManager {
     addGameToCollection(collectionId, gameId) {
         const collection = this.getCollection(collectionId);
         if (!collection) {
-            console.error('[Collections] Collection not found');
+            if (window.logger) {
+                window.logger.warn('[Collections] Collection not found');
+            }
             return false;
         }
 
@@ -173,13 +190,17 @@ class CollectionsManager {
 
         // Check if already in collection
         if (collection.gameIds.includes(validGameId)) {
-            console.log('[Collections] Game already in collection');
+            if (window.logger) {
+                window.logger.debug('[Collections] Game already in collection');
+            }
             return false;
         }
 
         // Check limit
         if (collection.gameIds.length >= this.MAX_GAMES_PER_COLLECTION) {
-            console.error('[Collections] Collection is full');
+            if (window.logger) {
+                window.logger.warn('[Collections] Collection is full');
+            }
             return false;
         }
 
@@ -204,7 +225,9 @@ class CollectionsManager {
     removeGameFromCollection(collectionId, gameId) {
         const collection = this.getCollection(collectionId);
         if (!collection) {
-            console.error('[Collections] Collection not found');
+            if (window.logger) {
+                window.logger.warn('[Collections] Collection not found');
+            }
             return false;
         }
 
@@ -212,7 +235,9 @@ class CollectionsManager {
         const index = collection.gameIds.indexOf(validGameId);
 
         if (index === -1) {
-            console.error('[Collections] Game not in collection');
+            if (window.logger) {
+                window.logger.warn('[Collections] Game not in collection');
+            }
             return false;
         }
 
@@ -272,12 +297,16 @@ class CollectionsManager {
     duplicateCollection(collectionId) {
         const original = this.getCollection(collectionId);
         if (!original) {
-            console.error('[Collections] Collection not found');
+            if (window.logger) {
+                window.logger.warn('[Collections] Collection not found');
+            }
             return null;
         }
 
         if (this.collections.length >= this.MAX_COLLECTIONS) {
-            console.error('[Collections] Maximum collections limit reached');
+            if (window.logger) {
+                window.logger.warn('[Collections] Maximum collections limit reached');
+            }
             return null;
         }
 
@@ -325,7 +354,9 @@ class CollectionsManager {
             const data = JSON.parse(atob(encodedData));
 
             if (!data.name || !Array.isArray(data.gameIds)) {
-                console.error('[Collections] Invalid collection data');
+                if (window.logger) {
+                    window.logger.warn('[Collections] Invalid collection data');
+                }
                 return null;
             }
 
@@ -335,7 +366,9 @@ class CollectionsManager {
                 false
             );
         } catch (error) {
-            console.error('[Collections] Error importing collection:', error);
+            if (window.logger) {
+                window.logger.error('[Collections] Error importing collection:', error);
+            }
             return null;
         }
     }
@@ -369,7 +402,9 @@ class CollectionsManager {
             }
             return false;
         } catch (error) {
-            console.error('[Collections] Error importing data:', error);
+            if (window.logger) {
+                window.logger.error('[Collections] Error importing data:', error);
+            }
             return false;
         }
     }

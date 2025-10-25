@@ -14,6 +14,9 @@ class KloopikApp {
         // Debounce timer for search
         this.searchDebounceTimer = null;
 
+        // AbortController for event listener cleanup
+        this.abortController = new AbortController();
+
         // Initialize app
         this.init();
     }
@@ -81,55 +84,58 @@ class KloopikApp {
      * Setup event listeners
      */
     setupEventListeners() {
+        // Get signal for event listener cleanup
+        const signal = this.abortController.signal;
+
         // Mobile menu toggle
         this.elements.mobileMenuToggle?.addEventListener('click', () => {
             this.toggleMobileMenu();
-        });
+        }, { signal });
 
         // Search input
         this.elements.searchInput?.addEventListener('input', (e) => {
             this.handleSearch(e.target.value);
-        });
+        }, { signal });
 
 
         // Modal close events
         this.elements.closeModalBtn?.addEventListener('click', () => {
             this.closeGameModal();
-        });
+        }, { signal });
 
         this.elements.gameModalOverlay?.addEventListener('click', () => {
             this.closeGameModal();
-        });
+        }, { signal });
 
         // Favorite button
         this.elements.favoriteBtn?.addEventListener('click', () => {
             this.toggleCurrentGameFavorite();
-        });
+        }, { signal });
 
         // Fullscreen button
         this.elements.fullscreenBtn?.addEventListener('click', () => {
             this.toggleFullscreen();
-        });
+        }, { signal });
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && this.elements.gameModal.classList.contains('active')) {
                 this.closeGameModal();
             }
-        });
+        }, { signal });
 
         // Router events
-        window.addEventListener('route:home', () => this.handleHomeRoute());
-        window.addEventListener('route:game', (e) => this.handleGameRoute(e.detail));
-        window.addEventListener('route:favorites', () => this.handleFavoritesRoute());
-        window.addEventListener('route:recent', () => this.handleRecentRoute());
-        window.addEventListener('route:category', (e) => this.handleCategoryRoute(e.detail));
+        window.addEventListener('route:home', () => this.handleHomeRoute(), { signal });
+        window.addEventListener('route:game', (e) => this.handleGameRoute(e.detail), { signal });
+        window.addEventListener('route:favorites', () => this.handleFavoritesRoute(), { signal });
+        window.addEventListener('route:recent', () => this.handleRecentRoute(), { signal });
+        window.addEventListener('route:category', (e) => this.handleCategoryRoute(e.detail), { signal });
 
         // Handle navigation clicks
         this.elements.navLinks.forEach(link => {
             link.addEventListener('click', (e) => {
                 this.handleNavClick(e);
-            });
+            }, { signal });
         });
     }
 
@@ -1062,8 +1068,10 @@ class KloopikApp {
      * Handle search input
      */
     handleSearch(query) {
-        // Debounce search
+        // Debounce search using config value
         clearTimeout(this.searchDebounceTimer);
+
+        const debounceDelay = (window.CONFIG && window.CONFIG.SEARCH_DEBOUNCE_MS) || 300;
 
         this.searchDebounceTimer = setTimeout(() => {
             gamesManager.searchGames(query);
@@ -1085,7 +1093,7 @@ class KloopikApp {
             }
 
             this.displayGames();
-        }, 300);
+        }, debounceDelay);
     }
 
 
@@ -1290,6 +1298,50 @@ class KloopikApp {
                 link.classList.add('active');
             }
         });
+    }
+
+    /**
+     * Cleanup all event listeners and resources
+     * Call this method when destroying the app instance
+     */
+    destroy() {
+        // Abort all event listeners
+        if (this.abortController) {
+            this.abortController.abort();
+        }
+
+        // Clear debounce timer
+        if (this.searchDebounceTimer) {
+            clearTimeout(this.searchDebounceTimer);
+            this.searchDebounceTimer = null;
+        }
+
+        // Cleanup carousels
+        this.cleanupCarousels();
+
+        if (window.logger) {
+            window.logger.info('[App] Application destroyed, all event listeners removed');
+        }
+    }
+
+    /**
+     * Reset event listeners (useful for refreshing the app)
+     */
+    resetEventListeners() {
+        // Abort old listeners
+        if (this.abortController) {
+            this.abortController.abort();
+        }
+
+        // Create new AbortController
+        this.abortController = new AbortController();
+
+        // Re-setup event listeners
+        this.setupEventListeners();
+
+        if (window.logger) {
+            window.logger.debug('[App] Event listeners reset');
+        }
     }
 }
 

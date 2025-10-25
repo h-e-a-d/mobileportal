@@ -10,9 +10,15 @@ class StorageManager {
         this.NOTES_KEY = 'kloopik_game_notes';
         this.TAGS_KEY = 'kloopik_user_tags';
         this.HISTORY_KEY = 'kloopik_play_history';
-        this.MAX_RECENT = 50; // Increased from 20
-        this.MAX_FAVORITES = 200; // Increased from 100
+
+        // Use config values with fallbacks
+        this.MAX_RECENT = (window.CONFIG && window.CONFIG.MAX_RECENT_GAMES) || 50;
+        this.MAX_FAVORITES = (window.CONFIG && window.CONFIG.MAX_FAVORITE_GAMES) || 200;
         this.MAX_HISTORY = 200;
+        this.MAX_NOTE_LENGTH = (window.CONFIG && window.CONFIG.MAX_NOTE_LENGTH) || 500;
+        this.MAX_TAG_LENGTH = (window.CONFIG && window.CONFIG.MAX_TAG_LENGTH) || 20;
+        this.MAX_CUSTOM_TAGS = (window.CONFIG && window.CONFIG.MAX_CUSTOM_TAGS) || 50;
+
         this.notes = {};
         this.userTags = {};
         this.playHistory = [];
@@ -392,8 +398,28 @@ class StorageManager {
         const validId = this._validateGameId(gameId);
         if (!validId || !noteText) return false;
 
+        // Sanitize note text if TextUtils is available
+        let sanitized = noteText;
+        if (window.TextUtils && window.TextUtils.sanitizeText) {
+            sanitized = window.TextUtils.sanitizeText(noteText);
+        } else {
+            // Fallback: basic sanitization
+            sanitized = String(noteText)
+                .replace(/<script[^>]*>.*?<\/script>/gi, '')
+                .replace(/<[^>]+>/g, '')
+                .trim();
+        }
+
+        // Validate length
+        if (sanitized.length === 0 || sanitized.length > this.MAX_NOTE_LENGTH) {
+            if (window.logger) {
+                window.logger.warn('[Storage] Invalid note length');
+            }
+            return false;
+        }
+
         this.notes[validId] = {
-            text: noteText.substring(0, 500),
+            text: sanitized.substring(0, this.MAX_NOTE_LENGTH),
             updated: Date.now()
         };
 
@@ -401,7 +427,9 @@ class StorageManager {
             localStorage.setItem(this.NOTES_KEY, JSON.stringify(this.notes));
             return true;
         } catch (error) {
-            console.error('[Storage] Error saving note:', error);
+            if (window.logger) {
+                window.logger.error('[Storage] Error saving note:', error);
+            }
             return false;
         }
     }
@@ -439,19 +467,60 @@ class StorageManager {
         const validId = this._validateGameId(gameId);
         if (!validId || !tag) return false;
 
+        // Sanitize tag if TextUtils is available
+        let sanitized = tag;
+        if (window.TextUtils && window.TextUtils.sanitizeText) {
+            sanitized = window.TextUtils.sanitizeText(tag);
+        } else {
+            // Fallback: basic sanitization
+            sanitized = String(tag)
+                .replace(/<script[^>]*>.*?<\/script>/gi, '')
+                .replace(/<[^>]+>/g, '')
+                .trim();
+        }
+
+        // Validate tag format and length
+        const cleanTag = sanitized.trim().toLowerCase();
+
+        if (cleanTag.length === 0 || cleanTag.length > this.MAX_TAG_LENGTH) {
+            if (window.logger) {
+                window.logger.warn('[Storage] Invalid tag length');
+            }
+            return false;
+        }
+
+        // Only allow alphanumeric and basic characters
+        if (!/^[a-z0-9\s\-_]+$/i.test(cleanTag)) {
+            if (window.logger) {
+                window.logger.warn('[Storage] Tag contains invalid characters');
+            }
+            return false;
+        }
+
         if (!this.userTags[validId]) {
             this.userTags[validId] = [];
         }
 
-        const cleanTag = tag.trim().toLowerCase().substring(0, 20);
-        if (!this.userTags[validId].includes(cleanTag)) {
-            this.userTags[validId].push(cleanTag);
+        // Check max tags limit
+        if (this.userTags[validId].length >= this.MAX_CUSTOM_TAGS) {
+            if (window.logger) {
+                window.logger.warn('[Storage] Maximum tags limit reached');
+            }
+            return false;
+        }
+
+        const finalTag = cleanTag.substring(0, this.MAX_TAG_LENGTH);
+
+        if (!this.userTags[validId].includes(finalTag)) {
+            this.userTags[validId].push(finalTag);
 
             try {
                 localStorage.setItem(this.TAGS_KEY, JSON.stringify(this.userTags));
                 return true;
             } catch (error) {
-                console.error('[Storage] Error saving tag:', error);
+                if (window.logger) {
+                    window.logger.error('[Storage] Error saving tag:', error);
+                }
                 return false;
             }
         }

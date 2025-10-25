@@ -349,11 +349,27 @@ class GamesManager {
     }
 
     /**
-     * Get random games
+     * Get random games using Fisher-Yates shuffle algorithm
+     * More efficient and unbiased than sort-based randomization
      */
     getRandomGames(count = 10) {
-        const shuffled = [...this.allGames].sort(() => 0.5 - Math.random());
-        return shuffled.slice(0, count);
+        const games = [...this.allGames];
+        const result = [];
+        const actualCount = Math.min(count, games.length);
+
+        // Fisher-Yates shuffle - only shuffle what we need
+        for (let i = 0; i < actualCount; i++) {
+            const randomIndex = Math.floor(Math.random() * (games.length - i)) + i;
+
+            // Swap current element with random element
+            if (randomIndex !== i) {
+                [games[i], games[randomIndex]] = [games[randomIndex], games[i]];
+            }
+
+            result.push(games[i]);
+        }
+
+        return result;
     }
 
     /**

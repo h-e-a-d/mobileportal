@@ -25,38 +25,72 @@ class Sanitizer {
 
     /**
      * Sanitize URLs to prevent javascript:, data:, and vbscript: protocols
+     * Enhanced with credential detection and case-insensitive protocol checking
      * @param {string} url - URL to sanitize
      * @returns {string} - Safe URL or empty string
      */
     static sanitizeUrl(url) {
         if (!url) return '';
 
-        const trimmed = String(url).trim().toLowerCase();
+        const original = String(url).trim();
+        const trimmed = original.toLowerCase();
 
-        // Block dangerous protocols
-        const dangerousProtocols = ['javascript:', 'data:', 'vbscript:', 'file:', 'about:'];
+        // Block dangerous protocols (case-insensitive)
+        const dangerousProtocols = ['javascript:', 'data:', 'vbscript:', 'file:', 'about:', 'blob:'];
         for (const protocol of dangerousProtocols) {
             if (trimmed.startsWith(protocol)) {
-                console.warn('[Sanitizer] Blocked dangerous URL:', url);
+                if (window.logger) {
+                    window.logger.warn('[Sanitizer] Blocked dangerous URL protocol:', protocol);
+                }
                 return '';
             }
         }
 
-        // Only allow http, https, and relative URLs
-        if (trimmed.startsWith('http://') ||
-            trimmed.startsWith('https://') ||
-            trimmed.startsWith('/') ||
-            trimmed.startsWith('./') ||
-            trimmed.startsWith('../')) {
-            return url;
+        // Try to parse as URL to check for credentials and validate structure
+        if (trimmed.startsWith('http://') || trimmed.startsWith('https://')) {
+            try {
+                const urlObj = new URL(original);
+
+                // Block URLs with embedded credentials
+                if (urlObj.username || urlObj.password) {
+                    if (window.logger) {
+                        window.logger.warn('[Sanitizer] Blocked URL with credentials');
+                    }
+                    return '';
+                }
+
+                // Valid HTTP(S) URL without credentials
+                return original;
+            } catch (e) {
+                // Invalid URL format
+                if (window.logger) {
+                    window.logger.warn('[Sanitizer] Invalid URL format:', e.message);
+                }
+                return '';
+            }
         }
 
-        // If no protocol, assume relative URL
+        // Allow relative URLs
+        if (trimmed.startsWith('/') || trimmed.startsWith('./') || trimmed.startsWith('../')) {
+            // Ensure no protocol injection in relative URLs
+            if (trimmed.includes('javascript:') || trimmed.includes('data:')) {
+                if (window.logger) {
+                    window.logger.warn('[Sanitizer] Dangerous protocol in relative URL');
+                }
+                return '';
+            }
+            return original;
+        }
+
+        // If no protocol and no colon, assume relative path
         if (!trimmed.includes(':')) {
-            return url;
+            return original;
         }
 
-        console.warn('[Sanitizer] Suspicious URL blocked:', url);
+        // Block anything else
+        if (window.logger) {
+            window.logger.warn('[Sanitizer] Suspicious URL blocked:', url);
+        }
         return '';
     }
 

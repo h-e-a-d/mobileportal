@@ -7,7 +7,10 @@ class RatingsManager {
     constructor() {
         this.RATINGS_KEY = 'kloopik_ratings';
         this.REVIEWS_KEY = 'kloopik_reviews';
-        this.REVIEW_MAX_LENGTH = 200;
+
+        // Use config value with fallback
+        this.REVIEW_MAX_LENGTH = (window.CONFIG && window.CONFIG.REVIEW_MAX_LENGTH) || 200;
+
         this.ratingsCache = null;
         this.reviewsCache = null;
     }
@@ -153,14 +156,40 @@ class RatingsManager {
      */
     addReview(gameId, reviewText, rating = null) {
         if (!gameId || !reviewText) {
-            console.error('[Ratings] Invalid review parameters');
+            if (window.logger) {
+                window.logger.error('[Ratings] Invalid review parameters');
+            }
             return false;
         }
 
-        const validId = String(gameId);
-        const trimmedText = reviewText.trim().substring(0, this.REVIEW_MAX_LENGTH);
+        // Sanitize review text if TextUtils is available
+        let sanitized = reviewText;
+        if (window.TextUtils && window.TextUtils.sanitizeText) {
+            sanitized = window.TextUtils.sanitizeText(reviewText);
+        } else {
+            // Fallback: basic sanitization
+            sanitized = String(reviewText)
+                .replace(/<script[^>]*>.*?<\/script>/gi, '')
+                .replace(/<[^>]+>/g, '')
+                .trim();
+        }
 
-        if (trimmedText.length === 0) {
+        const validId = String(gameId);
+        const trimmedText = sanitized.trim();
+
+        // Validate length
+        if (trimmedText.length === 0 || trimmedText.length > this.REVIEW_MAX_LENGTH) {
+            if (window.logger) {
+                window.logger.warn('[Ratings] Invalid review length');
+            }
+            return false;
+        }
+
+        // Validate rating if provided
+        if (rating !== null && (typeof rating !== 'number' || rating < 1 || rating > 5)) {
+            if (window.logger) {
+                window.logger.warn('[Ratings] Invalid rating value');
+            }
             return false;
         }
 
@@ -168,9 +197,14 @@ class RatingsManager {
             this.reviewsCache[validId] = [];
         }
 
+        // Use IDGenerator if available
+        const reviewId = window.IDGenerator
+            ? window.IDGenerator.generateReviewId()
+            : this._generateReviewId();
+
         const review = {
-            id: this._generateReviewId(),
-            text: trimmedText,
+            id: reviewId,
+            text: trimmedText.substring(0, this.REVIEW_MAX_LENGTH),
             rating: rating,
             timestamp: Date.now(),
             helpful: 0,

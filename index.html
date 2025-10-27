@@ -17,6 +17,12 @@
     <!-- Security: Upgrade insecure requests to HTTPS -->
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
+    <!-- SPA Prerendering Hint - Helps crawlers understand hash-based routing -->
+    <meta name="fragment" content="!">
+
+    <!-- Prevent duplicate content from URL variations -->
+    <link rel="alternate" href="https://kloopik.com/" hreflang="en">
+
     <!-- Canonical URL -->
     <link rel="canonical" href="https://kloopik.com/">
 
@@ -119,7 +125,7 @@
             <nav class="navbar">
                 <div class="navbar-brand">
                     <a href="#/" class="logo">
-                        <h1>KLOOPIK</h1>
+                        <span class="logo-text" style="font-size: 1.5rem; font-weight: 800; color: #6366f1;">KLOOPIK</span>
                     </a>
                 </div>
 
@@ -208,6 +214,26 @@
                 </div>
             </section>
         </div>
+
+        <!-- Hero Section -->
+        <section class="hero-section" style="padding: 2rem 0; text-align: center; max-width: 900px; margin: 0 auto;">
+            <h1 style="font-size: 2.5rem; margin-bottom: 1rem; color: #1a1a2e;">Play 700+ Free Online Games Instantly</h1>
+            <p style="font-size: 1.1rem; line-height: 1.6; color: #4a4a68; margin-bottom: 1.5rem;">
+                Welcome to <strong>Kloopik</strong>, your ultimate destination for free browser games. No downloads, no registration - just instant fun!
+                Our curated collection features 700+ HTML5 games across every genre: action-packed adventures, mind-bending puzzles,
+                high-speed racing, creative dress-up games, and so much more.
+            </p>
+            <p style="font-size: 1rem; line-height: 1.6; color: #6a6a88; margin-bottom: 0.5rem;">
+                <strong>Why Kloopik?</strong> Every game is hand-selected by our gaming team for quality, safety, and entertainment value.
+                All games work perfectly on desktop, mobile, and tablet devices. Start playing now - your next favorite game is just a click away!
+            </p>
+            <div style="margin-top: 1.5rem; padding: 1rem; background: #f5f5ff; border-radius: 8px; font-size: 0.9rem; color: #4a4a68;">
+                <span style="margin: 0 1rem;">✓ 100% Free</span>
+                <span style="margin: 0 1rem;">✓ No Downloads</span>
+                <span style="margin: 0 1rem;">✓ Mobile Friendly</span>
+                <span style="margin: 0 1rem;">✓ Safe & Family Friendly</span>
+            </div>
+        </section>
     </main>
 
     <!-- Game Modal -->
@@ -252,8 +278,8 @@
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
-                <p>&copy; 2025 Kloopik. All rights reserved. | <a href="/privacy.html" style="color: #6366f1; text-decoration: underline;">Privacy Policy</a></p>
-                <p class="footer-note">Games powered by <a href="https://playgama.com" target="_blank" rel="noopener">Playgama</a></p>
+                <p>&copy; 2025 Kloopik. All rights reserved. | <a href="/privacy.html" style="color: #6366f1; text-decoration: underline;">Privacy Policy</a> | <a href="/about.html" style="color: #6366f1; text-decoration: underline;">About Us</a></p>
+                <p class="footer-note">Games powered by <a href="https://playgama.com" target="_blank" rel="noopener">Playgama</a> | Last updated: October 2025</p>
             </div>
         </div>
     </footer>

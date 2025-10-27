@@ -67,14 +67,41 @@
 
 <IfModule mod_rewrite.c>
     RewriteEngine On
+    RewriteBase /
 
-    # Redirect HTTP to HTTPS
+    # ==========================================
+    # URL NORMALIZATION - Fix Duplicate Content
+    # ==========================================
+
+    # 1. Redirect HTTP to HTTPS (must be first)
     RewriteCond %{HTTPS} off
     RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-    # Redirect www to non-www (optional - adjust as needed)
-    # RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-    # RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+    # 2. Redirect www to non-www (enforce canonical domain)
+    RewriteCond %{HTTP_HOST} ^www\.kloopik\.com$ [NC]
+    RewriteRule ^(.*)$ https://kloopik.com/$1 [R=301,L]
+
+    # 3. Enforce trailing slashes for directories (except files)
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_URI} !(.*)/$
+    RewriteCond %{REQUEST_URI} !\.(html|php|jpg|jpeg|png|gif|css|js|json|xml|txt|ico|svg|webp|woff|woff2)$
+    RewriteRule ^(.*)$ https://kloopik.com/$1/ [R=301,L]
+
+    # 4. Remove multiple slashes
+    RewriteCond %{THE_REQUEST} //
+    RewriteRule ^(.*)$ https://kloopik.com/$1 [R=301,L]
+
+    # 5. Force lowercase URLs (prevent case-sensitive duplicates)
+    RewriteCond %{REQUEST_URI} [A-Z]
+    RewriteRule ^(.*)$ ${lc:$1} [R=301,L]
+
+    # 6. Remove index.html from URLs
+    RewriteCond %{THE_REQUEST} ^.*/index\.html
+    RewriteRule ^(.*)index\.html$ https://kloopik.com/$1 [R=301,L]
+
+    # 7. Prevent access via hash URLs (ignore fragments)
+    # Note: Hash fragments are client-side only and not sent to server
+    # This is handled by canonical tags in HTML
 </IfModule>
 
 # ==========================================

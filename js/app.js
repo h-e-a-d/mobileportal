@@ -392,7 +392,7 @@ class KloopikApp {
     /**
      * Display games in category rows
      */
-    displayGames() {
+    async displayGames() {
         const total = gamesManager.getTotalCount();
         const currentCategory = gamesManager.currentCategory;
         const searchQuery = gamesManager.searchQuery;
@@ -451,7 +451,7 @@ class KloopikApp {
         });
 
         // Add "All Games" section at the end with grid layout
-        const allGamesSection = this.createAllGamesGrid();
+        const allGamesSection = await this.createAllGamesGrid();
         this.elements.categoryRows.appendChild(allGamesSection);
 
         // Add fade-in animation
@@ -483,7 +483,7 @@ class KloopikApp {
     /**
      * Create "All Games" grid section (XSS-safe)
      */
-    createAllGamesGrid() {
+    async createAllGamesGrid() {
         const section = document.createElement('div');
         section.className = 'all-games-section';
         section.id = 'allGamesSection';
@@ -519,6 +519,27 @@ class KloopikApp {
         section.appendChild(grid);
         section.appendChild(loadMoreContainer);
 
+        // Load all games from the appropriate source
+        let allGamesList = [];
+
+        if (gamesManager.useChunkedData) {
+            // Load all games from the 'all' category chunk
+            try {
+                allGamesList = await gamesManager.loadCategoryChunk('all');
+                if (window.logger) {
+                    window.logger.info('[App] Loaded all games for grid:', allGamesList.length);
+                }
+            } catch (error) {
+                if (window.logger) {
+                    window.logger.error('[App] Error loading all games chunk, using fallback:', error);
+                }
+                allGamesList = gamesManager.allGames;
+            }
+        } else {
+            // Use existing allGames (fallback mode)
+            allGamesList = gamesManager.allGames;
+        }
+
         // Setup pagination
         let currentPage = 1;
         const gamesPerPage = 24;
@@ -526,7 +547,7 @@ class KloopikApp {
         const loadGames = () => {
             const start = (currentPage - 1) * gamesPerPage;
             const end = currentPage * gamesPerPage;
-            const gamesToShow = gamesManager.allGames.slice(start, end);
+            const gamesToShow = allGamesList.slice(start, end);
 
             gamesToShow.forEach(game => {
                 const card = this.createGameCard(game);
@@ -534,7 +555,7 @@ class KloopikApp {
             });
 
             // Show/hide load more button
-            if (end >= gamesManager.allGames.length) {
+            if (end >= allGamesList.length) {
                 loadMoreContainer.style.display = 'none';
             } else {
                 loadMoreContainer.style.display = 'block';

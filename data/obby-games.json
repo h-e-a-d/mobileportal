@@ -1,0 +1,635 @@
+{
+  "category": "obby",
+  "count": 13,
+  "games": [
+    {
+      "id": "99711",
+      "slug": "your-obby-size",
+      "title": "Your Obby Size",
+      "description": "Parkour and size control with secrets and surprises! Jump, run, and reach new heights in this thrilling game! Avoid lava and conquer challenges from easy to extreme!\nCollect enough trophies to unlock secret paths, access new locations, and get unique character skins!\nBeware of monsters guarding certain areas!\nFind shortcuts to the top! Show everyone you're a true parkour master!",
+      "howToPlayText": "Цель: пройти до конца.\n\nУправление:\nQE - менять размер.\nWASD - передвижение.\nПробел - прыжок.\nTAB - пауза.\nShift - курсор.\nКолесико мыши - приблизить/отдалить камеру.\nЗажмите ПКМ, чтобы вращать камерой (при видимом курсоре).\n\nНа телефоне:\nИспользуйте интерфейс игры.",
+      "gameURL": "https://playgama.com/export/game/your-obby-size?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/your-obby-size",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "skill",
+        "platform",
+        "co-op",
+        "cool-games",
+        "obby",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fbdbd06d-aad7-49ff-7b01-27f1dac23a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/98abed1e-72a5-4946-015f-2578b3c8d300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "178ba2a10c1eb0fb6fc4d2c3d611c4f2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/your-obby-size?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112301",
+      "slug": "speed-per-click-obby",
+      "title": "Speed per Click: Obby",
+      "description": "\"Speed per Click: Obby\" – An exciting clicker-speed simulator in the style of obby and blocky games!  \n\n🔹 Key Features:  \n\n✅ Dynamic clicker – Earn speed with every click and accelerate to incredible levels! \n✅ Obby-style challenges – Overcome parkour tracks with jumps and tricky maneuvers, just like in obby games! \n✅ Progress & rewards – Collect wins, unlock new locations, and upgrade your skills! \n✅ Pets – Buy pets to increase speed per click and beat levels faster! \n✅ Rebirth system – Perform rebirths to gain bonuses and speed up again!  \n\n🌍 Play in the best traditions of obby and blocky parkour – It has everything: clicker mechanics, parkour, adrenaline, and fun!  \n\n🔥 Ready for the challenge? Click, jump, and become the champion of Speed per Click: Obby!",
+      "howToPlayText": "Computers: \n- WASD - control the character. \n- Space - jump.  \n\nMobile devices: \n- Joystick - control the character. \n- Button in the lower right corner - jump. \n- To rotate the camera, swipe the screen.",
+      "gameURL": "https://playgama.com/export/game/speed-per-click-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/speed-per-click-obby",
+      "genres": [
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "running",
+        "platform",
+        "clicker",
+        "obby",
+        "popular",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "exciting-games",
+        "pet-games",
+        "blocky-games",
+        "challenging-games",
+        "jumping-games",
+        "speed-games",
+        "reward-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7f2839a1-9cd2-4eec-e14e-0257b22a4500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/90c4b937-f31c-414c-1950-dbdd4613ab00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1428537e2e1378369c200ff1e37269c6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/speed-per-click-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6217",
+      "slug": "robbie-draw-your-sword-playgama",
+      "title": "Robbie: Draw your Sword",
+      "description": "Enter the exciting realm of Robbie: Draw your Sword, a dynamic online adventure game. Gather swords, complete challenges, and level up to transform your character. Enjoy this free game on mobile or desktop, unlocking various outfits, pets, and abilities. Are you prepared to become the ultimate warrior?",
+      "howToPlayText": "Desktop:\nWASD - Movement\nLKM - Swing and draw sword 💪\nSpacebar - Jump\nPCM and mouse movement - Rotate the camera\n\n📱 Smartphone:\nMove - Joystick on the left side of the screen\nCamera rotation - Finger movements on the right side of the screen\nClick on the screen - Swing and draw sword 💪",
+      "gameURL": "https://playgama.com/export/game/robbie-draw-your-sword-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/robbie-draw-your-sword-playgama",
+      "genres": [
+        "action",
+        "arcade",
+        "3d",
+        "funny",
+        "platform",
+        "cool-games",
+        "obby",
+        "mini"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "interactive-games",
+        "cute-games",
+        "sword-games",
+        "collecting-games",
+        "1-player-games",
+        "incremental-games",
+        "building-games",
+        "king-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8e640f53-6f6a-4c09-69e8-05b1c6521500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5486c163-9bf1-4b35-b203-b60e9e344100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fedd4f86015746d9b65495041c4e6889",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/robbie-draw-your-sword-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99469",
+      "slug": "obby-dumb-or-genius-iq-test",
+      "title": "Obby: Dumb or Genius IQ Test",
+      "description": "Welcome to Obby: Dumb or Genius IQ Test! 🧠✨ – the ultimate game where intelligence is key! Test your brainpower by completing fun mini-games 🕹️, taking on exciting challenges 🏆, and engaging in PvP duels 🤺 to earn IQ points and level up. Collect IQ scattered across the map, win mini-games for extra boosts, or spin the wheel of fortune for random IQ rewards. The more IQ you gain, the higher your status in the game, with trophies 🏆 that can be exchanged for cool pets 🐾. Prove you''''''''''''''''re the smartest player and rise to the top of the leaderboard. Ready to show off your genius? Play now and take your IQ to the next level!",
+      "howToPlayText": "Controls:\nThe game can be played using either keyboard or touch controls. On the computer, use the arrow keys or WASD to move. Interact with objects by left-clicking or placing the character in a highlighted circle. Press space to jump. On the phone, the touch controls are intuitive: use the left joystick to move and the right button to jump. To interact with objects, simply tap or place the character in the circle.\n\n",
+      "gameURL": "https://playgama.com/export/game/obby-dumb-or-genius-iq-test?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-dumb-or-genius-iq-test",
+      "genres": [
+        "action",
+        "arcade",
+        "3d",
+        "funny",
+        "platform",
+        "obby",
+        "brain",
+        "mini"
+      ],
+      "tags": [
+        "minigames",
+        "competitive-games",
+        "test-games",
+        "reward-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74854866-1bbe-400c-2184-7c3785591600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/936888a1-e932-48cd-ca0a-68fd8676b300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ed14d021beee4810a3cc455124505392",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "51e3d3234cfa4b97abc8716e89b33ddd",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-dumb-or-genius-iq-test?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97358",
+      "slug": "obby-pet-simulator-x-5834-1",
+      "title": "Obby Pet Simulator X",
+      "description": "Dive into the exciting world of Obby Pet Simulator X, where you collect unique pets. Open eggs to summon rare creatures, break obstacles, and upgrade your skills. Enjoy this mesmerizing experience online for free on your mobile device or computer.",
+      "howToPlayText": "[🖥️]Controls on the computer:\n🔴WASD - move\n🟠LMB - click\n🟡Space - jump\n🟢Esc- back/menu\n\n[📱]Controls on the phone:\n🔵Tap - click\n🟣+ joystick and buttons on the screen",
+      "gameURL": "https://playgama.com/export/game/obby-pet-simulator-x-5834-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-pet-simulator-x-5834-1",
+      "genres": [
+        "action",
+        "arcade",
+        "3d",
+        "funny",
+        "platform",
+        "animals",
+        "obby"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3ea19426-95f8-4dcc-23ee-9f2a35047900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/52bc7bb9-448d-4502-fb0c-2cfd7fd6d100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "11e16f3edb9942b0a3e183b1d1cdfe7f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-pet-simulator-x-5834-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98679",
+      "slug": "obby-easy-grow-d85e-1",
+      "title": "Obby Easy Grow!",
+      "description": "Test your skills in a race against time!Adjust your character's size dynamically using the on-screen slider or the mouse wheel to navigate through obstacles and challenges. Hold the right mouse button to freely rotate the camera and explore your surroundings. Can you master the mechanics and complete the game before time runs out?",
+      "howToPlayText": "PC:\nShift - show cursor\nWASD - move.\nSpace - jump.\nTAB - pause.\nF - push the enemy\nMouse wheel forward/backward - change size\n\nPhone:\nUse the game interface",
+      "gameURL": "https://playgama.com/export/game/obby-easy-grow-d85e-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-easy-grow-d85e-1",
+      "genres": [
+        "arcade",
+        "adventure",
+        "skill",
+        "platform",
+        "obby",
+        "easy"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bf26c612-0719-45de-d7a2-6381b8993b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f0a3785d-e952-45b9-2d7f-facf50db9d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e4dd73e622b34552b834ad521184b8b6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-easy-grow-d85e-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86413",
+      "slug": "moto-obby",
+      "title": "Moto Obby",
+      "description": "Join the exciting world of Moto Obby, where your motorbike skills face intense challenges. Overcome tricky hazards like swinging hammers and sharp spikes in a quest for victory. Test your reflexes across various levels in this thrilling online game, available on phones and computers.",
+      "howToPlayText": "Use the arrows ⬆️⬇️ or \"WS\" to move and ⬅️➡️ or \"AD\" to spin.\nSometimes you’ll need to slow down, and other times you’ll need to speed up to win. Try different tactics.\nIf your bike gets stuck, press ⬅️➡️ or \"AD\" to hop!",
+      "gameURL": "https://playgama.com/export/game/moto-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/moto-obby",
+      "genres": [
+        "action",
+        "car-racing",
+        "cool-games",
+        "obby",
+        "dirt-bike",
+        "driving",
+        "bike"
+      ],
+      "tags": [
+        "stunt-games",
+        "reaction-games",
+        "obstacle-games",
+        "addictive-games",
+        "exciting-games",
+        "obstacles-games",
+        "challenging-games",
+        "jumping-games",
+        "speed-games",
+        "super-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74efb2d7-c956-413b-bbee-0b2e8c817f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/43282bdf-f3a9-4cd5-c371-d61cb4646d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "00e4d0b599e640b595cdfff740ecbcff",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/moto-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86470",
+      "slug": "obby-the-legendary-dragon",
+      "title": "Obby The Legendary Dragon",
+      "description": "An exciting and addictive pet catching simulator for pokemon lovers. Travel through different roblox worlds and a lot of leveling heroes in one place!\n\nCollect health, upgrade your hero to explore the most amazing worlds of this game. Catch pets in battles, hatch them from cases and eggs, buy and exchange them to get the strongest helpers and friends. Earn money and upgrade your Obby character with the help of ranks and titles.\n",
+      "howToPlayText": "An exciting and addictive pet catching simulator for pokemon lovers. Travel through different roblox worlds and a lot of leveling heroes in one place!\n\nCollect health, upgrade your hero to explore the most amazing worlds of this game. Catch pets in battles, hatch them from cases and eggs, buy and exchange them to get the strongest helpers and friends. Earn money and upgrade your Obby character with the help of ranks and titles.\n\nPC control:\nAWSD - running;\nSpace - jump;\nTab - hide/show the cursor;\nMouse - turn.\n\nOn smartphones:\nJoystick movement - running;\nThe up arrow is a jump.",
+      "gameURL": "https://playgama.com/export/game/obby-the-legendary-dragon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-the-legendary-dragon",
+      "genres": [
+        "action",
+        "arcade",
+        "3d",
+        "funny",
+        "platform",
+        "obby",
+        "mini"
+      ],
+      "tags": [
+        "iphone-games",
+        "fantasy-games",
+        "collecting-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b6a330d9-9efe-4869-02c8-1964c0cf9c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6cdae69e-ab00-4cb0-5b74-82e2e6a6c800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a41ca97c2596456a8da7bce15c2ec94e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-the-legendary-dragon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106374",
+      "slug": "obby-pizza-delivery",
+      "title": "Obby Pizza Delivery",
+      "description": "Become a delivery boy in the maze and deliver pizzas to the locals. Rent a scooter to move faster. Pick a bigger bag so you can take more orders at a time and deliver even more pizzas. Complete orders, increase your reputation and open new zones with residents!",
+      "howToPlayText": "🏃‍♂️ Pick up orders at the pizzeria and deliver them to the residents\n🛴 Rent a scooter to move faster\n🌟 Upgrade your reputation and open new zones\n✅ The game has simple controls",
+      "gameURL": "https://playgama.com/export/game/obby-pizza-delivery?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-pizza-delivery",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "strategy",
+        "simulation",
+        "kids",
+        "obby",
+        "food"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "obstacle-games",
+        "delivery-games",
+        "time-management-games",
+        "1-player-games",
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5af533ac-c194-4788-75e6-b6cf6ccdd900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/691ba495-dabd-49af-e7e2-9de8579dc300/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-pizza-delivery?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105922",
+      "slug": "school-escape-obby",
+      "title": "School Escape Obby",
+      "description": "Dive into the thrilling world of School Escape Obby — a vibrant online game in roblox style with stunning graphics and diverse locations!\nTackle unique challenges in each zone, from school corridors to mysterious dungeons. Customize your character with hundreds of stylish skins and compete with friends in multiplayer mode. Every obstacle tests your agility and wit: jump, dodge, and solve puzzles to escape the school! Perfect for all skill levels, the game combines fast-paced platforming with creative level design. Regular updates, eye-catching visuals, and competitive leaderboards make this game a top choice for fans of obstacle courses. Join millions of players worldwide and prove your skills!",
+      "howToPlayText": "Escape from school, play for time\n\nControls on PC:\n\nShift - show cursor\nWASD - move.\nSpace - jump.\nTAB - pause.\nF - push enemy\nE - interact with objects (you can also interact with them by clicking the mouse)\n\nOn phones: on-screen controls",
+      "gameURL": "https://playgama.com/export/game/school-escape-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/school-escape-obby",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "strategy",
+        "simulation",
+        "skill",
+        "obby",
+        "popular",
+        "escape",
+        "mobile"
+      ],
+      "tags": [
+        "school-games",
+        "customization-games",
+        "obstacle-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b4169fec-e504-4a09-07c7-d766038d7f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fba6465e-ee2f-4d9b-a502-168dd7639500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6b07d911c1e1484ab6ed605c972a79c3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/school-escape-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86467",
+      "slug": "obby-royal-races-in-flight",
+      "title": "Obby Royal races in flight",
+      "description": "Obby: Royal Races in Flight is an exciting online racing game where players can unlock fast cars and navigate challenging courses. Available on multiple platforms, it features stunning 3D graphics, opportunities for car upgrades, and fun for all ages, including exclusive options for premium members.",
+      "howToPlayText": "Addictive and addictive lava racing simulator where you can pump up your Obby character for hours, buy cool cars and pass difficult parkours! Lots of cases and boxes and cool cars for tracks will help you have a great time!\n\nCollect stars, charge a slingshot, dynamite or even an entire rocket with energy. Hatch pets from cases and eggs to get more energy. Earn money and pump up your hero with ranks and ranks.\n\nPC controls:\nAWSD - run;\nSpace - jump;\nEscape - hide/show cursor;\nMouse - turn.\n\nOn smartphones:\nJoystick movement - run;\nUp arrow - jump.",
+      "gameURL": "https://playgama.com/export/game/obby-royal-races-in-flight?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-royal-races-in-flight",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "3d",
+        "funny",
+        "platform",
+        "obby",
+        "mini"
+      ],
+      "tags": [
+        "race-games",
+        "iphone-games",
+        "addictive-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "collection-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online",
+        "car-for-kids",
+        "arcade-car"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c28adabe-b8c4-457b-0f67-48a83aa6d100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/287a90a0-ccd5-426a-cbe7-fcb05c5d6100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ee3e15caf6c04f04a376f8f548fc3f43",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-royal-races-in-flight?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99145",
+      "slug": "obby-warriors-of-the-sword",
+      "title": "Obby: Warriors of The Sword",
+      "description": "Become a hero in Obby: Warriors of The Sword! Collect powerful swords, defeat enemies and unlock new abilities! Go through rebirth and become a legend. Get stronger, pump up your hero and become the best in this exciting game!\n\nKey Game Features:\n\n⚔️ Epic Battles: Upgrade your hero, unlock new abilities and fight unique enemies! 🕹️\n\n💥 Sword and Artifact Collection: Buy, upgrade and collect different swords to create the strongest hero with powerful weapons! 🗡️💎\n\n💪 Allies and Reborn: Make loyal allies and go through rebirth, becoming even stronger and opening new battle opportunities. 🤝🔄\n\n😎 Endless customizations: You can choose from a variety of skins, pets and jewelry to make your hero unique and truly stylish! 🎨🐾✨\n\n👑 Missions and Challenges: Complete exciting missions, unlock new levels and get rare rewards. 🎯🏅",
+      "howToPlayText": "💻Desktop:\n\nWASD - Movement\nLMB - Take a hit\nSpace - Jump\nRMB and mouse movement - Camera rotation\n\n📱 Smartphone:\n\nMovement - Joystick on the left side of the screen\nRotate the camera - Finger movements on the right side of the screen\nClick on the screen - Take a shot",
+      "gameURL": "https://playgama.com/export/game/obby-warriors-of-the-sword?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-warriors-of-the-sword",
+      "genres": [
+        "action",
+        "adventure",
+        "multiplayer",
+        "obby",
+        "popular",
+        "pve",
+        "pvp",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "combat-games",
+        "sword-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/591a81ee-96e8-44f3-a3d9-0523abeacb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3f8e29ef-5303-4047-4e40-400dfc3a6100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "85fbd22249c94a3d9140b8b3a8266a0d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-warriors-of-the-sword?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112602",
+      "slug": "your-obby-parkour",
+      "title": " Your Obby Parkour",
+      "description": "Enter a thrilling world of non-stop challenges! Run, jump, dodge, and conquer in the ultimate parkour platformer! \nSurvive crazy levels — from burning lava and icy slides to water traps and mysterious portals. Watch out for trampolines, spinning traps, and tons of hidden paths!\n\nPlay with friends and travel through fun regions — from simple to brutally hard! Discover the hidden little dragon, collect trophies, and unlock secret shortcuts and bonus zones!\n\nBe careful of:\nDeadly skeletons\nLava-filled volcanoes\nSlippery ice paths\nHorror mazes where it's easy to get lost!\n\nReady to be a true parkour master? Find the fastest paths, conquer extreme stages, and show the world your skills!\n\nPerfect for fans of obby-style maps, parkour games, secrets, adventures, and multiplayer fun!",
+      "howToPlayText": "The goal: get to the end.\n\nControl:\nWASD - movement.\nSpace bar - jump.\nTAB - pause.\nShift - cursor.\nMouse wheel - zoom in/out.\n\nOn the phone:\nUse the game interface.",
+      "gameURL": "https://playgama.com/export/game/your-obby-parkour?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/your-obby-parkour",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "3d",
+        "running",
+        "platform",
+        "obby",
+        "parkour",
+        "mobile"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "obstacle-games",
+        "challenging-games",
+        "jumping-games",
+        "agility-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/66c4e622-f10c-4b86-90cc-c91bf2e78500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/13141533-79a8-42bd-0236-d2e046fffe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2e76899f8cfee273170b7eb0ac2e4a67",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/your-obby-parkour?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

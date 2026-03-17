@@ -1,0 +1,97 @@
+{
+  "category": "pool",
+  "count": 2,
+  "games": [
+    {
+      "id": "112192",
+      "slug": "pool-8",
+      "title": "Pool 8",
+      "description": "Pool 8 is a brain-teasing puzzle game based on a Pool board. \nPot the balls in the correct order to move through a series of increasingly difficult challenges!\n\nThere's a multitude of difficulty levels that you naturally progress through, starting with the easiest \"rookie\" level. At the end of each difficulty level, you get a chance to win extra retries in the \"smash the candies\" bonus round. You can also earn these by watching a short video ad.\nYes, but it starts out easy. As you progress, you reach higher difficulty levels.",
+      "howToPlayText": "The unique mechanics in this game mean you can only move up, down, left, and right. \nThere are no diagonal movements, which poses a tricky challenge when several balls are on the table. \nThe key to winning the level is to think about the order of each move to ensure you can line up all the shots successfully.",
+      "gameURL": "https://playgama.com/export/game/pool-8?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pool-8",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "ball",
+        "brain",
+        "classic",
+        "pool",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "billiards-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5f8b6da9-bffe-470c-7f30-ed956ed90d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/533f0674-fe6a-4f8a-4079-96cacce51600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "15f1f3d0999d0b35d7beaa3baae660e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pool-8?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99455",
+      "slug": "billiards-3d-russian-pyramid-04bf-1",
+      "title": "Billiards 3D: Russian Pyramid",
+      "description": "Play a realistic online billiards game against virtual opponents of varying difficulty. Customize AI skill levels to match your ability and improve your game. Enjoy lifelike tables of different sizes and refine your strategy in this immersive billiards experience!",
+      "howToPlayText": "- For aiming click anywhere on the table and rotate the cue\n- For precise aiming, turn the precision aim wheel on the right side of the screen, or aim the cue while holding down the Shift button if you play on PC\n- To hit, click on the cue on the left side of the screen and pull towards the desired force of the blow, then release\n- For screws, click on the ball icon with a dot in the upper right part of the screen, move the impact point and confirm the installation of the point by clicking on the green button. If you're playing on a PC, you can hold down the X button on your keyboard while aiming to move the point of impact\n- To change the inclination of the cue, click on the cue ball icon at the top of the screen. In this mode, tap anywhere on the screen and raise the cue to the desired angle, then confirm the change by pressing the green button. If you play on a computer, you can hold down the Z button while aiming, this will also change the tilt of the cue.",
+      "gameURL": "https://playgama.com/export/game/billiards-3d-russian-pyramid-04bf-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/billiards-3d-russian-pyramid-04bf-1",
+      "genres": [
+        "sports",
+        "skill",
+        "3d",
+        "mouse",
+        "physics",
+        "classic",
+        "pool",
+        "mobile"
+      ],
+      "tags": [
+        "challenging-games",
+        "billiards-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/92137f63-e3b9-4f3c-1f60-0ec638931c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/69ce53f7-1038-42c1-db6d-877d72d8ad00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ed0954e60c8344a289255c2863bd0a2e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/billiards-3d-russian-pyramid-04bf-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "category": "bubble-shooter",
+  "count": 7,
+  "games": [
+    {
+      "id": "72",
+      "slug": "bubble-blast",
+      "title": "Bubble Blast",
+      "description": "Bubble Blast is an entertaining casual bubble shooter where you pop bubbles and take on exciting quests. It''s the classic game you''ll catch yourself and others playing on the way to work. Advance through levels, collect coins, and sharpen your skills. Use boosters to achieve three stars and come back for daily rewards!",
+      "howToPlayText": "Shoot at bubbles with the same color as the one loaded in your bubble blaster to pop them. You can switch the bubble with one of another color if the one currently loaded isn’t useful.",
+      "gameURL": "https://playgama.com/export/game/bubble-blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-blast",
+      "genres": [
+        "puzzle",
+        "bubble-shooter",
+        "matching",
+        "classic",
+        "color",
+        "bubble"
+      ],
+      "tags": [
+        "2d-games",
+        "brain-training-games",
+        "addictive-games",
+        "ballon-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/49ed731e-494d-462e-582c-64bf8a6a4400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/072b1672-c854-45fb-b387-a86bc0474500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cd3be2f04e1247ca95810887473489eb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63929",
+      "slug": "bubble-boom",
+      "title": "Bubble Boom",
+      "description": "Bubble Boom is a fun and engaging puzzle game where players burst bubbles by matching colors. It's accessible online for free on various devices, offering a vibrant experience for casual gamers. With simple gameplay and no sign-up needed, it's ideal for both short and extended gaming sessions.",
+      "howToPlayText": "To pop the bubbles, shoot groups of 3 or more bubbles of the same color. But you should hurry up! The level gradually descends and if it reaches the bottom line, then you will lose.\n\nIGB by Playgama",
+      "gameURL": "https://playgama.com/export/game/bubble-boom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-boom",
+      "genres": [
+        "puzzle",
+        "bubble-shooter",
+        "bubble"
+      ],
+      "tags": [
+        "2d-games",
+        "addictive-games",
+        "exciting-games",
+        "color-matching-games",
+        "desktop-games",
+        "1-player-games",
+        "simple-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f2ac2c30-003f-414d-1a18-7ff34cc46100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4463ecee-733d-4cb6-55bc-c8ae963e2b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f13c678f70eb498ca5da2e7730988b55",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-boom?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98053",
+      "slug": "dd-bubble-up",
+      "title": "DD Bubble Up",
+      "description": "Dive into the lively world of DD Bubble Up, a captivating online puzzle game that challenges your strategy. Clear groups of matching balls to score points and conquer thrilling levels. Utilize exciting power-ups like bombs and rockets for added help. Enjoy this free game on any device for endless entertainment!",
+      "howToPlayText": "Your goal in this game is to destroy balls that are the same color. Aim and shoot to clear the field in the least amount oh shots.\nThroughout the game, you’ll come across numerous items known as boosters that will help you progress through the levels. \nThe bomb, rocket, rainbow, and lightning boosters all fall within this category.",
+      "gameURL": "https://playgama.com/export/game/dd-bubble-up?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dd-bubble-up",
+      "genres": [
+        "puzzle",
+        "skill",
+        "bubble-shooter"
+      ],
+      "tags": [
+        "destroy-games",
+        "brain-out-games",
+        "rocket-games",
+        "color-matching-games",
+        "bomb-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f7f9f88e-eee9-48b1-9f46-5758c80b3800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f0d9fd6d-dc7e-4be3-9a57-9d679acea000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4c6302781ac04824b1f78485063aa6e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dd-bubble-up?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98570",
+      "slug": "pool-shoot-tournament-ac06-1",
+      "title": "Pool Shoot Tournament",
+      "description": "Explore the exciting realm of the Pool Shoot Tournament, an engaging online game that combines skill and strategy. This free arcade game tests your accuracy as you eliminate colored balls by matching three or more. Stay quick and precise to rise in the ranks, playable on both mobile and desktop!",
+      "howToPlayText": "The objective of  is to earn the highest possible score by shooting the bubbles. Ball Shooting Mechanics: In order to earn maximum points, you need to shoot down a large group of balls in one shot, taking into account the rules of ricochet and direct hit. The minimum number of balls to group is three balls of the same color. Loss occurs as soon as at least one ball from the impending wall touches the bottom.",
+      "gameURL": "https://playgama.com/export/game/pool-shoot-tournament-ac06-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pool-shoot-tournament-ac06-1",
+      "genres": [
+        "action",
+        "puzzle",
+        "skill",
+        "bubble-shooter",
+        "classic",
+        "color",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "addictive-games",
+        "accuracy-games",
+        "billiards-games",
+        "construct-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1aaefa56-5da6-4682-26fa-2f6c1e6e5300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/34046022-edb8-43d2-3d46-47fa8eccb100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b52bc6c6ea8f4f228bf887403f8c8000",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pool-shoot-tournament-ac06-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109637",
+      "slug": "mega-sweet-fruits--popper",
+      "title": "Mega Sweet Fruits - Popper",
+      "description": "Welcome to Mega Sweet Fruits - Popper! 🍉💥\nTake on 125 exciting levels filled with colorful fruits, plan your moves, and test your skills. 🎯🧩\nBut be careful! ⚠️🍒 Some fruits hide bombs that can cost you a life. Every move matters! ⏳❤️\nUpgrade your abilities: increase your tap power, boost your starting lives, and use powerful pomegranates to clear the screen in one strike! 🍊🚀\nEach level gets more challenging, keeping the fun fresh and intense. 🏆🔥\nUnlock 9 mysterious achievements, grow stronger, and prove your mastery! 🎖️🔮\nWith 8 supported languages (English, Russian, French, Turkish, Spanish, German, Italian, Portuguese), you can share the same thrill with players worldwide. 🌍🗣️",
+      "howToPlayText": "Tap on groups of matching fruits (horizontal, vertical, or diagonal) to pop them! 🍇💥\n\nEarn points with every pop, but watch out: some fruits hide bombs that cost you 1 life! 💣❤️\n\nIf your lives drop to zero, it’s game over—so think strategically! 🧠⚡\n\nUse the upgrade menu to boost your tap earnings, increase starting lives, or buy powerful pomegranates! 🍎⬆️\n\nWhen used, a pomegranate clears all fruits on screen, gives you their points, and reduces the required fruit count to win the level! 🍊🔥\n\nIf you still haven’t cleared enough fruits, new ones will drop, and the challenge continues until victory! ⏳🍓\n\nConquer all 125 levels and push your limits as the difficulty rises! 🚀🎯",
+      "gameURL": "https://playgama.com/export/game/mega-sweet-fruits--popper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mega-sweet-fruits--popper",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "bubble-shooter",
+        "popular",
+        "candy-crush",
+        "matching",
+        "mobile"
+      ],
+      "tags": [
+        "fruits-games",
+        "challenging-games",
+        "bomb-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2d43a766-6032-4ca0-5cf6-f44dec701300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e3870385-bfc3-4557-b64f-87d93ba2ab00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "db9fb6d8f7524792b6d452aab85eadc2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mega-sweet-fruits--popper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111437",
+      "slug": "bubble-tower",
+      "title": "Bubble Tower",
+      "description": "Bubble Tower 3D is a relaxing 3D bubble-pop / color-match puzzle game.\nYou rotate a tower (or cylinder) loaded with colored bubbles around its vertical axis.\nYour goal is to shoot bubbles, matching colors to connect groups of the same color. When matched, those bubbles pop/drop off the tower.\nThere are many levels; difficulty increases as you go. More bubble colors, trickier arrangements, limited shots, etc.\nAlso there are diamonds or special gems you can collect in certain levels. These may unlock “shiny shapes” or cosmetic things.\nThe graphics are clean, simple, and meant for relaxing casual play. It mixes mental challenge (where to shoot, color matching) with a soothing visual.",
+      "howToPlayText": "A tower appears with a cluster of bubbles of various colors. There’s a shooter that holds the next bubble to fire.\nYou can rotate the tower around (usually by dragging left/right or using onscreen controls) to bring bubbles of matching color in position.\nTap or drag to aim, then let go (or tap a location) to shoot the bubble toward the tower. Match it with other bubbles of the same color.\nWhen you connect 3 or more bubbles of the same color, those bubbles pop/drop off. Bubbles that are hanging (i.e. no longer connected to the base or other bubbles) also fall off.\nSome levels include diamonds or special gems placed in certain parts of the bubble structure. You need to target those, maybe by matching bubbles around them or popping surrounding bubbles to let them fall.\nYou win a level if all bubbles (or the required ones) are cleared. If you run out of shots (or fail to clear the required bubbles), you lose and must retry.",
+      "gameURL": "https://playgama.com/export/game/bubble-tower?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bubble-tower",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "bubble-shooter",
+        "3d",
+        "mouse",
+        "mobile"
+      ],
+      "tags": [
+        "accuracy-games",
+        "color-matching-games",
+        "touchscreen-games",
+        "1-player-games",
+        "level-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/54b24738-0537-4f3b-1e54-3ede5f66b500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/648e9b2c-465f-4ff4-15fe-1b1044cb2c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ab9c940ca0364ac8806321b0127407af",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bubble-tower?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111283",
+      "slug": "ocean-pop",
+      "title": "Ocean Pop",
+      "description": "Ocean Pop brings a delightful new twist to the blast genre, inviting players of all ages to dive into a lively underwater world brimming with charm and color. Unlike typical grid-based games like Toy Blast, Ocean Pop features real 2D bubbles that drift, bounce, and cluster with natural, playful physics, creating puzzles that feel dynamic and alive. Players dive beneath the waves to pop colorful bubbles, trigger satisfying chain reactions, and explore the serene beauty of the ocean depths — all while enjoying intuitive gameplay that’s easy to pick up yet delightfully challenging to master.",
+      "howToPlayText": "Use the mouse to pop matched colored bubbles to reach the target of the level Use powerups in the right moment to have the best results.",
+      "gameURL": "https://playgama.com/export/game/ocean-pop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ocean-pop",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "bubble-shooter",
+        "matching",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "casual-games",
+        "relaxing-games",
+        "addictive-games",
+        "color-matching-games",
+        "1-player-games",
+        "family-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5fe02d51-79f1-49e8-b72e-5d0ccad1db00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ff45e6bb-1b81-43fb-39de-54b5cb57b500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "12c9d2a6b7f94f4c880ed2d41021b561",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ocean-pop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

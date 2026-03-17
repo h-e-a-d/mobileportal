@@ -1,0 +1,335 @@
+{
+  "category": "solitaire",
+  "count": 7,
+  "games": [
+    {
+      "id": "86460",
+      "slug": "solitaire-emperor-secrets-of-fate",
+      "title": " Solitaire Emperor - Secrets of Fate",
+      "description": "This game will immerse you in the world of exciting adventures of Tarot cards.\n\nEach level is a unique combination of cards with a variety of mechanics, which makes the gameplay exciting and unpredictable.",
+      "howToPlayText": "To complete a level, you need to remove all cards from the playing field.\n\nCards are removed from the field according to the classic scheme: ace, king, queen, jack, ten and so on.\nA - ace\nK is king\nQ- lady\nJ - jack\n\nThe more cards left in the deck, the more coins you will receive at the end of the level!\nCoins can be obtained by creating continuous chains; if you use a gold card, the chain will not be interrupted!\nWhen there are no moves available, you can draw a card from the deck or throw a gold card.",
+      "gameURL": "https://playgama.com/export/game/solitaire-emperor-secrets-of-fate?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/solitaire-emperor-secrets-of-fate",
+      "genres": [
+        "adventure",
+        "cards",
+        "solitaire"
+      ],
+      "tags": [
+        "2d-games",
+        "fantasy-games",
+        "challenging-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/20d74436-1b6b-45e9-3b71-c5bafc0e2100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/82d1ac77-794e-4bcc-51d1-04689015a200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0f627ab225d545319e8eb85c08470248",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/solitaire-emperor-secrets-of-fate?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64022",
+      "slug": "emerland-solitaire",
+      "title": "Emerland Solitaire",
+      "description": "     Welcome to the wonderful country of Emerland! \n     Dive deep into the world of magical tale where great mages battle for the Source of the ancient magic of the Cards! Explore mysterious lands accompanied by heroes that include a noble Knight, an Elven Archeress and a mystical Sorceress to defeat the malevolent Dark Master! \n     Solve puzzles and collect combinations to complete difficult and varied levels! Get rewards and find new assistants! \nUse the left mouse button to interact with in-game UI.",
+      "howToPlayText": "     Welcome to the wonderful country of Emerland! \n     Dive deep into the world of magical tale where great mages battle for the Source of the ancient magic of the Cards! Explore mysterious lands accompanied by heroes that include a noble Knight, an Elven Archeress and a mystical Sorceress to defeat the malevolent Dark Master! \n     Solve puzzles and collect combinations to complete difficult and varied levels! Get rewards and find new assistants! \nUse the left mouse button to interact with in-game UI.",
+      "gameURL": "https://playgama.com/export/game/emerland-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emerland-solitaire",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "cards",
+        "solitaire",
+        "pve",
+        "magic",
+        "brain"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "fantasy-games",
+        "medieval-games",
+        "challenging-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fffceace-0b2b-43c6-4f65-43a40afa1f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/af67e778-3b2c-4392-17fd-2494aa9b5800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "33b813ef542a4455b8187288d398bdfa",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emerland-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86446",
+      "slug": "solitaire-crime-stories",
+      "title": "Solitaire Crime Stories",
+      "description": "Explore the exciting realm of Solitaire Crime Stories, where each card reveals intriguing mysteries. This engaging game blends classic Solitaire with thrilling detective work. Join journalist Lana Whitt and Deputy Sheriff Bill Maite in Springdale as they unravel secrets in their pursuit of truth and justice.",
+      "howToPlayText": "Solitaire Crime Stories is a game about the exciting adventures of journalist Lana Whitt and her assistant Bill. Visit all of the different corners of Springdale and talk to dozens of colorful characters — from pizza delivery men to ruthless gangsters! Get inspired and fascinated by the many stories written in the tradition of the best English detective fiction!\nTo solve the crimes, players need to develop their Solitaire playing skills. Solitaire Crime Stories will appeal to both novices and masters of the genre, because the game can provide hours of interesting plays and fascinating puzzles. Powerful boosters will help you complete even the most complex level, letting you to clear the playing field even in the space of a few seconds.",
+      "gameURL": "https://playgama.com/export/game/solitaire-crime-stories?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/solitaire-crime-stories",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "cards",
+        "solitaire"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "mystery-games",
+        "brain-training-games",
+        "interactive-games",
+        "detective-games",
+        "crime-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6a3c1b9b-23d0-408e-9c50-abee8c171100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1a2e0d3b-2c06-44fb-befc-eb900aa1e700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8906c56f70f54f65b14161f9ff8ea499",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/solitaire-crime-stories?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86444",
+      "slug": "magic-tri-peaks-solitaire",
+      "title": "Magic Tri Peaks Solitaire",
+      "description": "Magic Tri Peaks Solitaire is a thrilling online card game that lets you dive into a captivating adventure. Experience stunning visuals and strategic challenges as you explore diverse environments, all while enjoying a fresh take on traditional solitaire. Play for free and get lost in its enchanting world.",
+      "howToPlayText": "Select cards that are one higher or one lower in value than the card you drew to remove it from the board. To complete a level, you need to remove all cards from the playing field without running out of cards from your supply.\n\nFeatures\n♣️️ Hundreds of levels with new ones added all the time!\n♦️ Different locations with fun original game mechanics!\n♠️ Exciting battles against golems of different elements!\n♥ Just lay out your cards in ascending or descending order!\n♦️ Tons of different rewards and bonuses!\n♣️ A fun game to boost your mood!",
+      "gameURL": "https://playgama.com/export/game/magic-tri-peaks-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/magic-tri-peaks-solitaire",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "cards",
+        "solitaire",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "fantasy-games",
+        "relaxing-games",
+        "brain-training-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "simple-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/61234e3c-4b8b-4345-0c47-8fede0f9e400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3c17f91e-6e36-4dc0-e629-18bba9c1cb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fa1f4c48d89a4aa185845fb4bcde2444",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/magic-tri-peaks-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86461",
+      "slug": "solitaire-klondike-treasure-island",
+      "title": " Solitaire Klondike - Treasure Island",
+      "description": "Dive into the exciting adventure of Solitaire Klondike - Treasure Island, where pirates and treasures await. Help a brave heroine uncover her father''s hidden fortune while outsmarting relentless foes, all set against stunning visuals and captivating animations.",
+      "howToPlayText": "Your goal is to arrange all the cards into four piles according to suit: from Ace to King. Start with aces, then twos, threes, and so on until you reach the king.\n\nOn the game board, you can move cards between seven piles. You can only start a new pile with a king. You can place a card of a different color and one unit of lower value on a card in the stack. Groups of cards with alternating colors and ranks can be dragged between stacks, adding tactical depth.\n\nYou can review the deck an unlimited number of times, giving you the opportunity to carefully consider each move. The game ends when all the cards are neatly placed in piles.\n\nTest your skills in this exciting solitaire card game and enjoy every victory!",
+      "gameURL": "https://playgama.com/export/game/solitaire-klondike-treasure-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/solitaire-klondike-treasure-island",
+      "genres": [
+        "adventure",
+        "cards",
+        "solitaire",
+        "pirates",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "desktop-games",
+        "islands-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c4b34591-cf12-49c2-82c3-4585df14a700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f0221617-6180-4548-8270-156f4f95c000/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/solitaire-klondike-treasure-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86443",
+      "slug": "magic-story-of-solitaire",
+      "title": "Magic Story of Solitaire",
+      "description": "Magic Story of Solitaire is a captivating card game that transports you to an enchanting realm. Play for free online, experiencing a unique solitaire adventure suitable for all skill levels. With guidance from your fairy companion, discover magical abilities to overcome challenges, ensuring enjoyment on various devices.",
+      "howToPlayText": "Select cards that are one higher or one lower in value than your drawn card to remove it from the playing field. To complete a level, you need to remove all cards from the playing field without running out of cards from your supply.",
+      "gameURL": "https://playgama.com/export/game/magic-story-of-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/magic-story-of-solitaire",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "cards",
+        "solitaire",
+        "matching"
+      ],
+      "tags": [
+        "games-for-pc",
+        "2d-games",
+        "fantasy-games",
+        "relaxing-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/75e2fd32-68f3-474f-f2b8-a0defc0d2800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5f02d644-302f-40d9-17f3-7ecfd39c1700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1d61db3f3eca42e0bb74336ba8bad02d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/magic-story-of-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86436",
+      "slug": "tri-peaks-emerland-solitaire",
+      "title": "Tri Peaks Emerland Solitaire",
+      "description": "Tri Peaks Emerland Solitaire invites you to a thrilling online card adventure without downloads. Dive into a mystical realm filled with enchanting beings and vibrant landscapes. Engage in exciting card combinations and enjoy hours of exploration with loyal allies. Experience an enchanting journey where excitement lurks at every turn!",
+      "howToPlayText": "Tri Peaks Emerland Solitaire\n\nWelcome to Tri Peaks Emerland Solitaire, the land of card magic! An incredible journey awaits you, in a beautiful world filled with dwarfs, elves, mermaids and many other amazing creatures.\n\nBe the hero the World needs!\n\nWelcome to Tri Peaks Emerland Solitaire, the land of card magic! An incredible journey awaits you, in a beautiful world filled with dwarfs, elves, mermaids and many other amazing creatures.\nColorful locations, numerous card combos, helpful companions, and many hours of journeying—all of this awaits you in Emerland Solitaire: Endless Journey.\n\nWisk away to a land filled with wonder and danger. As a new adventurer, you must learn about all the dangers that face you while traversing enchanted forests, majestic bluffs, and more!\n\nPlay Tri Peaks Emerland Solitaire for:\nMYSTICAL CARD PUZZLES!\nFANTASTIC WILD CARDS!\nEARN STARS FOR SKILL!\n\nSelect cards that are one higher or one lower in value than your drawn card to remove it from the playing field. To complete a level, you need to remove all cards from the playing field without running out of cards from your supply.",
+      "gameURL": "https://playgama.com/export/game/tri-peaks-emerland-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tri-peaks-emerland-solitaire",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "cards",
+        "solitaire",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "fantasy-games",
+        "relaxing-games",
+        "interactive-games",
+        "medieval-games",
+        "challenging-games",
+        "desktop-games",
+        "1-player-games",
+        "mermaid-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/03a8ce9e-85de-4adb-e28a-605562b84600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c7345804-1824-4828-20ce-26cdd646a700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5964260754414ef2a4b70a19e403fb40",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tri-peaks-emerland-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

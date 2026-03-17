@@ -1,0 +1,475 @@
+{
+  "category": "quiz",
+  "count": 10,
+  "games": [
+    {
+      "id": "112123",
+      "slug": "maths-puzzle",
+      "title": "Maths Puzzle",
+      "description": "Maths Puzzle is a fun and engaging logic-based game that challenges your mathematical skills and problem-solving abilities. With a variety of puzzles that range in difficulty, this game is perfect for anyone looking to improve their mental agility and enjoy a fun, educational experience. Your task is to solve mathematical equations by figuring out the missing numbers, symbols, or operations in order to make both sides of the equation equal. The puzzles come with increasing complexity, so you’ll need both strategy and quick thinking to succeed.",
+      "howToPlayText": "Objective: Your goal is to solve the math puzzle by filling in the missing numbers or operations to make the equation correct.\n\nStart the Game: Click on the puzzle to begin. You’ll be presented with an equation that is missing some parts (numbers or operators).\n\nSolve the Puzzle: Use your knowledge of basic arithmetic (addition, subtraction, multiplication, and division) to complete the puzzle. You may need to fill in missing numbers or choose the correct mathematical operators to balance both sides of the equation.\n\nHints: If you're stuck, some versions of the game offer hints that help guide you towards the solution. Use them wisely to avoid wasting moves.\n\nLevels: As you progress, the difficulty will increase. New challenges such as more complex equations or multiple missing elements will keep you on your toes.\n\nTime and Scoring: Depending on the version of the game, you may be timed, so solving the puzzles quickly could earn you more points or rewards.\n\nWinning the Game: Successfully solve a series of puzzles to move to the next level. Keep going to challenge your brain and improve your math skills.",
+      "gameURL": "https://playgama.com/export/game/maths-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/maths-puzzle",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "kids",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "learning-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/04a7f5df-ca52-482d-05ed-e7149c6f0100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b11a4726-741d-4d88-1b8d-80190fddc500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8b1e785e7eb557795659893b2c1fefcc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/maths-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112619",
+      "slug": "world-flags-quiz",
+      "title": "World Flags Quiz",
+      "description": "World Flags Quiz is a fast-paced, fun, and educational mobile game that challenges players to match countries with their correct flags. Designed with simplicity and clarity in mind, the game offers a single, highly addictive game mode that tests your geographical knowledge one country at a time. In each round, players are presented with the name of a country — such as France, Brazil, Japan, or Nigeria — and must choose the correct flag from a set of four options. Only one is right, and the other three are cleverly selected to test your attention to detail and flag recognition skills. Enjoy playing this flag quiz game here",
+      "howToPlayText": "use mouse to choose any answer! World Flags Quiz is a fast-paced, fun, and educational mobile game that challenges players to match countries with their correct flags. Designed with simplicity and clarity in mind, the game offers a single, highly addictive game mode that tests your geographical knowledge one country at a time. In each round, players are presented with the name of a country — such as France, Brazil, Japan, or Nigeria — and must choose the correct flag from a set of four options. Only one is right, and the other three are cleverly selected to test your attention to detail and flag recognition skills. Enjoy playing this flag quiz game here",
+      "gameURL": "https://playgama.com/export/game/world-flags-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/world-flags-quiz",
+      "genres": [
+        "quiz",
+        "kids",
+        "mouse",
+        "geography",
+        "trivia",
+        "educational"
+      ],
+      "tags": [
+        "attention-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1af852a6-a7e5-40b1-37cc-d0d16d50d300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/da2d9c43-c5cc-4b97-1770-f7b455090400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8bf307c6b440971eb51402910f8a0aad",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/world-flags-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106358",
+      "slug": "logo-quiz-master",
+      "title": "Logo Quiz Master",
+      "description": "Test your knowledge and challenge your brain with Logo Quiz Master, the ultimate trivia game for logo enthusiasts! Dive into a world of iconic brands, famous companies, and unforgettable symbols as you guess the logos from various categories. Whether you're a casual gamer or a trivia master, this game will keep you entertained for hours!",
+      "howToPlayText": "Guess the correct logo from the given options. Click or tap the right answer to win the level. Complete all levels to become the logo quiz master!\nControls: Use your mouse or finger to select the correct logo.",
+      "gameURL": "https://playgama.com/export/game/logo-quiz-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/logo-quiz-master",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "trivia",
+        "educational",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "guessing-games",
+        "casual-games",
+        "attention-games",
+        "brain-training-games",
+        "memory-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4ed181f1-9ed0-4e8c-247e-ad26b6c37c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5cc8caaa-2fbd-4303-537a-a2c477840100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8b2ebc3b9f884272b93a617fa5902815",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/logo-quiz-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109581",
+      "slug": "simple-words",
+      "title": "Simple Words",
+      "description": "Simple word game where match 3 falling mechanics meet word game.\nGame is a Puzzle word game.\nSelect letter make words and see the falling block.",
+      "howToPlayText": "Play at your own pace in this relaxing word game that’s as beautiful as it is brainy.\n\nRules are simple -\n• Tap/Click any letters to make a word\n• Used letters go dark\n• Clear a row when all its letters are used\n\nSimple rules — satisfying strategy.\n\nTry different modes:\n🌞 Daily Challenge - Can you reach to the top?\n🔁 Round Mode - Play at your own pace, as many rounds as you like.\n🔢 Moves Mode - See how far you can go in just a few moves.\n🤖 VS AI - Challenge a clever computer opponent!\n",
+      "gameURL": "https://playgama.com/export/game/simple-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/simple-words",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "quiz",
+        "words",
+        "educational",
+        "brain",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenging-games",
+        "crossword-puzzles-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/85fcff7e-ea1f-456e-8abc-aedea653f800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c16af434-a187-46b3-f595-39baecd40a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "416348c9009141328c8f7cac56c8b1a0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/simple-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111039",
+      "slug": "emoji-guess",
+      "title": "Emoji Guess",
+      "description": "\nShow off your skills as an emoji interpreter in this supremely fun and frenetic puzzle game where you have to pick the right set of emojis to express the phrase, saying or movie title that’s written or illustrated above. Solve endless emoji puzzles by matching the right emojis in the right order and sharpen your logic, word association and visual perception skills with hundreds of short, colorful and often hilarious levels of brain-teasing entertainment. Emoji Guess Puzzle is a simple-in-concept but endlessly challenging and amusing puzzle game for smart players of all ages.",
+      "howToPlayText": "Your goal is to pick the correct sequence of emojis that represent the phrase, saying, or movie title shown above the puzzle. Think of it as translating text or ideas into emoji form in the right order.\nEach level presents a prompt (text-based or illustrated) and a jumble of emojis.\nYou select emojis in the precise order needed to match the intended phrase.\nIf you're correct on the first try, you earn all the stars for that level. Otherwise, you’ll get additional attempts with guidance.\nStuck on a puzzle? The game offers helpful hints that can nudge you in the right direction without giving the full answer away.",
+      "gameURL": "https://playgama.com/export/game/emoji-guess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emoji-guess",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "words",
+        "trivia",
+        "educational"
+      ],
+      "tags": [
+        "guessing-games",
+        "relaxing-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6f77ced1-7e12-4215-aae5-f23d232f9f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8e9b581e-65f8-4421-a2f8-60a1cba4ff00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bc0a8aefb57647a59af5ab5ea70927b7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emoji-guess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86367",
+      "slug": "guess-monster-voice",
+      "title": "Guess Monster Voice",
+      "description": "Get ready for a thrilling sound-based challenge with \"Guess Monster Voice.\" In this exciting online game, you’ll identify legendary creatures by their chilling noises. Available on both mobile and desktop, dive into the realm of mythical beings and demonstrate your skills—all for free.",
+      "howToPlayText": "- You will hear the voice of a monster, and you will need to guess the monster by its characteristic sounds;\n- Select an answer from the options provided to select the correct monster. If you don't find the correct option, you will lose and have to start over;\n- If it’s too difficult, use the hint, we will help you pass the test easily!",
+      "gameURL": "https://playgama.com/export/game/guess-monster-voice?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/guess-monster-voice",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "funny",
+        "cool-games",
+        "trivia",
+        "educational",
+        "brain",
+        "mini"
+      ],
+      "tags": [
+        "2d-games",
+        "guessing-games",
+        "brain-training-games",
+        "interactive-games",
+        "memory-games",
+        "challenging-games",
+        "cute-games",
+        "learning-games",
+        "mind-games",
+        "audio-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ee877e6e-8ee2-44c6-ad00-98eadc866a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/07da8a27-4492-4e99-d695-05ada6f86800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "371dcc30c1a84bd18b15d559c36f1b01",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/guess-monster-voice?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "22",
+      "slug": "stairs-trivia-playgama",
+      "title": "Stairs Trivia",
+      "description": "Stairs Trivia is an exciting online quiz game that lets players elevate their knowledge by correctly answering questions. Compete to reach the peak and be the last player standing. Accessible for free on various platforms, it offers a unique 3D experience with engaging challenges without any download or registration.",
+      "howToPlayText": "Use your mouse to control the character. Stop at piles and collect them to construct stairs. Build your way up!\n",
+      "gameURL": "https://playgama.com/export/game/stairs-trivia-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stairs-trivia-playgama",
+      "genres": [
+        "quiz",
+        "funny",
+        "multiplayer",
+        "brain"
+      ],
+      "tags": [
+        "games-for-teens",
+        "brain-training-games",
+        "interactive-games",
+        "addictive-games",
+        "learning-games",
+        "mind-games",
+        "test-games",
+        "collecting-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "family-games",
+        "stairs-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6d7be21b-4fe5-4d1d-fe20-d74c2a704000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b6ad9e6a-89a4-4cf8-eb18-6f5a7d745a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "08f2ddff67d9452dbc74a59fd7024bf9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stairs-trivia-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "14",
+      "slug": "alpha-balls",
+      "title": "Alpha Balls",
+      "description": "Alpha Balls is a stimulating word puzzle game that sharpens your mind and vocabulary. Enjoy it online for free on any device. Solve puzzles to earn coins for hints, making it an entertaining and educational challenge for all.",
+      "howToPlayText": "Make words from letters. The hint can show you the first letters of an answer. If you press the bin, the additional letters that mislead you will be removed. Press the ball with a tick to confirm your answer and earn coins. You can spend coins for hints.",
+      "gameURL": "https://playgama.com/export/game/alpha-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/alpha-balls",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "words",
+        "scrabble",
+        "brain",
+        "unity"
+      ],
+      "tags": [
+        "iphone-games",
+        "brain-training-games",
+        "interactive-games",
+        "memory-games",
+        "learning-games",
+        "mind-games",
+        "1-player-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74344f8a-a7e3-4c2e-632c-e7ee89dd1e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8bfd6144-1cb2-4858-c1ba-562ce0d11600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "051d765f808343a9a8d4d6f762257088",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/alpha-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110013",
+      "slug": "mindblow",
+      "title": "Mindblow",
+      "description": "Welcome to Mindblow: Guess the Word! Experience a word-guessing game like no other, where every image cleverly hides a word. Unlike other games, this game isn’t just a mix of stock images, but we've carefully created each level’s image to challenge your brain! Discover the word through a concept creatively depicted in each picture.\n\nA New Kind of Puzzle: Forget what you know about word quiz games. In Mindblow: Guess the Word, each image has a special word for you to guess. It’s not just about looking at the picture, but understanding the clever idea behind it.",
+      "howToPlayText": "From easy peasy to brain-busters, we’ve got levels for every player. Earn coins for right guesses and use them for hints when stuck.\nGuess the Word handy on your device. New levels are added to Mindblow every month, so there’s always something fresh to enjoy.\nGuess the Word, start your journey of amazing pictures and satisfying word discoveries. Are you up for the challenge?",
+      "gameURL": "https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mindblow",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "words",
+        "educational",
+        "brain",
+        "classic",
+        "easy"
+      ],
+      "tags": [
+        "guessing-games",
+        "brain-training-games",
+        "visual-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2aff62bd-7bb5-4e83-dd23-45d73f684a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0c7df405-1770-4171-7a7c-d2a671f5de00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "272c8b8e2e7e4f66bb4fb69053b3601c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111208",
+      "slug": "emoji-math-quiz",
+      "title": "Emoji Math Quiz",
+      "description": "Embark on a brain-teasing adventure with Emoji Math, the game that blends math puzzles with emoji fun! Challenge yourself through six equations where each emoji represents a numerical value. Sharpen your skills as you decipher the emoji codes to solve each equation correctly. Dive into Emoji Math and unravel the mystery behind every emoji's value to conquer this exciting mathematical journey! ",
+      "howToPlayText": "Click on empty form to input your answer. Use hint if you are stuck. Theme toggle option for dark mode and light mode support. View leaderboards and share your progress with your friends.",
+      "gameURL": "https://playgama.com/export/game/emoji-math-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emoji-math-quiz",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "kids",
+        "math",
+        "educational"
+      ],
+      "tags": [
+        "brain-training-games",
+        "accuracy-games",
+        "memory-games",
+        "challenging-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/66910c87-5d93-4c7c-fd71-b22dc998d500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/87ef103f-580e-4ee8-8a59-d4493df69c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bcf2d37eb9714095b5c2c4363e4c7152",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emoji-math-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

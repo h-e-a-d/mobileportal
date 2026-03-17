@@ -1,0 +1,51 @@
+{
+  "category": "world-cup",
+  "count": 1,
+  "games": [
+    {
+      "id": "92781",
+      "slug": "dummy-world-cup-playgama",
+      "title": "Dummies World Cup",
+      "description": "Get ready for an exciting football challenge with Dummies World Cup, where you take command of a dummy representing your favorite national team. Immerse yourself in this captivating football game as you strive to score as many goals as possible before the final whistle. Choose from 32 national teams inspired by FIFA and engage in thrilling matches that will test your skills and strategies!\n\n\nGame tips\nTo enhance your gameplay, focus on quick movements to outwit your opponent while choosing the right timing to kick the ball. Use feints to confuse the rival dummy and create scoring opportunities. Practicing your shooting and positioning will also help you rack up those goals!\n\n\nHow to play\nPlaying Dummies World Cup is a breeze! Simply select your favorite team, then control your dummy on the pitch. On computer, navigate using the arrow keys and hit the spacebar to kick. On your phone, tap to choose and use on-screen buttons for movement and kicking actions. Stay focused and strike at the right moments to outscore your opponent!\n\n\nHow to play Dummies World Cup for free?\nYou can enjoy Dummies World Cup for free on Playhop. Just visit our platform and dive into this thrilling experience along with many other exciting online games!\n\n\nControls\nOn a computer, use the arrow keys to maneuver your player around the field. The spacebar is your go-to for shooting the ball into the opponent’s goal. On a mobile device, make use of the touch controls to guide your dummy and strike, ensuring you’re agile as you play against other national teams.",
+      "howToPlayText": "Drag and drop with the mouse or touch to throw your dummy in the direction of the arrow.\nAll you have to do is choose their favorite contending national from 32 teams (according to FIFA) and go head-to-head with the opponent team’s dummy.",
+      "gameURL": "https://playgama.com/export/game/dummy-world-cup-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dummy-world-cup-playgama",
+      "genres": [
+        "sports",
+        "funny",
+        "ragdoll",
+        "world-cup",
+        "soccer"
+      ],
+      "tags": [
+        "2d-games",
+        "goalkeeper-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c9840ae7-7a90-4e49-9bc9-bfbd257b0a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a6e4f76a-4719-422f-fd94-29e61b14f600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f43bc664698d41339cf162021d41949f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dummy-world-cup-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

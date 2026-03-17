@@ -1,0 +1,968 @@
+{
+  "category": "clicker",
+  "count": 21,
+  "games": [
+    {
+      "id": "106342",
+      "slug": "stickman-clicker",
+      "title": "Stickman Clicker",
+      "description": "Stickman Clicker is a clicker game where you help a stickman become a billionaire. Tap to earn money, invest in upgrades, and unlock stylish accessories. Customize your stickman and achieve milestones by unlocking various achievements. How wealthy can you get?",
+      "howToPlayText": "Click the stickman to earn money, buy upgrades, unlock achievements, and grow your idle empire fast!",
+      "gameURL": "https://playgama.com/export/game/stickman-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-clicker",
+      "genres": [
+        "strategy",
+        "clicker",
+        "management",
+        "idle",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "business-games",
+        "incremental-games",
+        "cash-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/974aa683-f001-441a-1368-853225b63300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0b498ca4-366d-4278-dc72-6a1d23eb7b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ff949c50c537467e9875bc3f61790045",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112301",
+      "slug": "speed-per-click-obby",
+      "title": "Speed per Click: Obby",
+      "description": "\"Speed per Click: Obby\" – An exciting clicker-speed simulator in the style of obby and blocky games!  \n\n🔹 Key Features:  \n\n✅ Dynamic clicker – Earn speed with every click and accelerate to incredible levels! \n✅ Obby-style challenges – Overcome parkour tracks with jumps and tricky maneuvers, just like in obby games! \n✅ Progress & rewards – Collect wins, unlock new locations, and upgrade your skills! \n✅ Pets – Buy pets to increase speed per click and beat levels faster! \n✅ Rebirth system – Perform rebirths to gain bonuses and speed up again!  \n\n🌍 Play in the best traditions of obby and blocky parkour – It has everything: clicker mechanics, parkour, adrenaline, and fun!  \n\n🔥 Ready for the challenge? Click, jump, and become the champion of Speed per Click: Obby!",
+      "howToPlayText": "Computers: \n- WASD - control the character. \n- Space - jump.  \n\nMobile devices: \n- Joystick - control the character. \n- Button in the lower right corner - jump. \n- To rotate the camera, swipe the screen.",
+      "gameURL": "https://playgama.com/export/game/speed-per-click-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/speed-per-click-obby",
+      "genres": [
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "running",
+        "platform",
+        "clicker",
+        "obby",
+        "popular",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "exciting-games",
+        "pet-games",
+        "blocky-games",
+        "challenging-games",
+        "jumping-games",
+        "speed-games",
+        "reward-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7f2839a1-9cd2-4eec-e14e-0257b22a4500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/90c4b937-f31c-414c-1950-dbdd4613ab00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1428537e2e1378369c200ff1e37269c6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/speed-per-click-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109972",
+      "slug": "idle-pong",
+      "title": "Idle Pong",
+      "description": "Idle Pong is a fun and satisfying idle clicker game where every tap launches a high-speed pong ball to smash through colorful obstacles! Watch the chaos unfold as your pong bounces, breaks, and earns you XP even while you're idle.\n\n",
+      "howToPlayText": "Click or tap to buy and spawn pong balls\n\nClick and drag on the UI to scroll up and down\n\nUpgrade your power, unlock unique pong balls with exciting effects, and push through challenging stages as you chase the next big combo. Whether you're actively tapping or just watching the pongs go wild, there's always something satisfying to see.",
+      "gameURL": "https://playgama.com/export/game/idle-pong?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/idle-pong",
+      "genres": [
+        "arcade",
+        "strategy",
+        "skill",
+        "clicker",
+        "ball",
+        "classic",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "incremental-games",
+        "ping-pong-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/372634f6-c470-4a82-ba74-778584ea5d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4a419c60-dbd6-465e-0d9e-8c931ce1cd00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1891f91c24794d989c4fdb8ce9afe19f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/idle-pong?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111990",
+      "slug": "tap-hunters",
+      "title": "Tap Hunters",
+      "description": "Clicker game with colorful and bright graphic.  \nTap to hunt monsters, build your team of heroes and upgrade them. Collect and power up with collection of weapons.  \nTravel to new worlds to earn rewards, and grow stronger as you play. With each run you will able to reach higher levels.",
+      "howToPlayText": "- Tap or click with mouse on monsters to defeat them  \n- Collect coins, by tapping on them or hovering them with mouse. Coins also collect automatically after few seconds.\n- Spend coins for upgrades, hire new heroes and their upgrades\n- Reach zone 50 to unlock portal to new world. Starting new world will rewards you with gems and souls. You can spend them for new upgrades, auto clicks and heroes upgrade and weapons.\n- Reach higher game zones to get better rewards in new worlds.",
+      "gameURL": "https://playgama.com/export/game/tap-hunters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tap-hunters",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "strategy",
+        "clicker",
+        "monster",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "fantasy-games",
+        "collection-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fb21e91-b4e7-49ce-920e-9098008a1700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/558bbf34-0759-4899-c38b-551b07b1ba00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "530cd91469a35a7fdd411f5318c83b29",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tap-hunters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112193",
+      "slug": "money-maker",
+      "title": "Money Maker",
+      "description": "Money Maker is a merge game about running a banknote machine. Drop money, place power-up chips in the right spots, and let every bounce boost your income. Unlock upgrades and new chip slots to multiply profits and keep the cash flowing. How far can you scale your money machine?",
+      "howToPlayText": "How to play Money Maker\n- drag pins onto the board to increase profits.\n- drag one pin onto another to merge them into a higher-tier pin.\n- upgrade the Money Machine to raise the base banknote value and your earnings.",
+      "gameURL": "https://playgama.com/export/game/money-maker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/money-maker",
+      "genres": [
+        "strategy",
+        "simulation",
+        "tycoon",
+        "clicker",
+        "merge",
+        "idle"
+      ],
+      "tags": [
+        "business-games",
+        "relaxing-games",
+        "addictive-games",
+        "incremental-games",
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4eae8a57-03c6-4fab-adb6-7aca6d24b500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5e26cc7e-4bc7-498e-4027-10729b41e500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b032ddd137cbad63bb570bbae7b6fbf6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/money-maker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112617",
+      "slug": "millionaire-factory",
+      "title": "Millionaire Factory",
+      "description": "Millionaire Factory 🔩🏭 is a fun and addictive 🎉 clicker game where players collect Metal to grow their fortune. By tapping the giant Metal button 👆, players gather Metals, convert them into Money 💰, and invest in upgrades to build their own factory empire.\n\nThe game offers a growth journey that starts with a small piece of Metal 🔩 and expands into a massive factory and investment fortune 📈📉.",
+      "howToPlayText": "Metal Production 🔩:\nAt the heart of the game lies a massive Metal (Gear) button. Each tap 👆 earns you Metal, which serves as your primary source of income.\n\nMetals → Money 💵:\nYou can convert collected Metals into Money 💸 to keep your economy running. For example:\n➡️ 1 Metal = 0.1 Money\n➡️ 10 Metals = 1 Money\n\nIncome and Robot Program Upgrades 🤖🏭:\nWith the money you earn 💵, you can:\n\nPurchase upgrades that increase the amount of Metal gained per tap 💪.\n\nInvest in automation systems such as the Basic Auto Robot 3️🔨, Regional Robot Program ⚒️, and National Automatic Robot Fleet.\nThese systems generate passive income every 5 seconds.\n\nFactories 🏭:\nAt the start of the game, you begin with a single factory, which you can upgrade 🔧. You can also purchase up to three additional factories 🏭, each of which can be further developed.\nEvery factory has a progress bar 📊 representing its Metal production. Once the bar fills, the factory automatically sells the produced Metal, adds the profit 💵 to your balance, and the cycle restarts.\n\nFast Investments⚡:\n📊 In the investment section, carefully observe the **candlestick movements** left by the dynamic system.\n⏱️ Within about **15 seconds**, predict whether the price will go **up or down.**\n💰 Then, open a **trade** in the direction you believe it will move, using your chosen amount.\n🎯 If your prediction is correct, you’ll earn **double** the amount you invested! 💎🚀\n\n\nAchievements 🏅:\nThere are 6 unique achievements 🌟 to unlock throughout the game, based on the total Metals collected 🔩, upgrades purchased 🔝, and wealth accumulated 💰.",
+      "gameURL": "https://playgama.com/export/game/millionaire-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/millionaire-factory",
+      "genres": [
+        "strategy",
+        "simulation",
+        "tycoon",
+        "mouse",
+        "clicker",
+        "management",
+        "idle"
+      ],
+      "tags": [
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/238e8212-00ba-42ec-3248-8d71b3ede600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fdf0598d-801b-4707-7881-8ec4acd8cf00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6890c1951c1196ecf78cc93632edc0fe",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/millionaire-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110067",
+      "slug": "mr-shooter",
+      "title": "Mr Shooter",
+      "description": "Mr Shooter, a Balloon popping desert plant on a mission... A mission to pop all the Balloons in the world!\nThe objective is simple: Pop all the Balloons to win!\nUnlock and select new powerful cards as you progress through the game. With hundreds of creative and varied levels, this game will keep you entertained for hours.",
+      "howToPlayText": "Tap anywhere on the screen to shoot needles from Mr. Shooter.\nYour goal is to hit the spinning cactus targets with your needles.\nDon’t hit other needles already stuck in the target or you’ll lose!\nEach level gets faster and trickier  can you beat them all?",
+      "gameURL": "https://playgama.com/export/game/mr-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mr-shooter",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "skill",
+        "shooting",
+        "cool-games",
+        "clicker",
+        "retro",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "addictive-games",
+        "ballon-games",
+        "arcade-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5ac087a7-deef-4965-f360-d194ab636800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9faa5a30-a1f2-455b-da10-be8e6abaeb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ac9f9ae67b264128a790e020daa1a1f9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mr-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106377",
+      "slug": "sneaker-factory",
+      "title": "Sneaker Factory!",
+      "description": "You're the owner of a sneaker factory! Will you be able to beat the competition and top the city ranking?\n\n🔥 Fulfill orders – create sneakers on request: choose colors, apply labels and pack batches.\n\n📦 Sorting in the warehouse – put the identical sneakers on the shelves.\n\n🚚 Truck delivery – upgrade in driver mode: avoid obstacles and take the goods to the warehouse!\n\n🏆 Leaderboard – Compete with other factories, earn a reputation and become No. 1!\n\nVivid graphics, dynamic gameplay and the excitement of production are waiting for you! Test your speed and business skills – start the game right now!",
+      "howToPlayText": "PC Management:\n\n- By clicking on the buttons\n\nDuring cargo delivery:\n- Left Arrow - Brake/Reverse gear\n- Right Arrow - Gas\n- Space Bar - Jump\n\nManagement for Mobile devices:\n\n- By clicking on the buttons\n\nDuring cargo delivery:\n- Left arrow button - Brake/Reverse\n- Right arrow button - Gas\n- Up arrow button - Jump\n\nThe level depends on the amount of reputation. Reputation can be earned by building improvements, sorting, order fulfillment, and shipping.",
+      "gameURL": "https://playgama.com/export/game/sneaker-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sneaker-factory",
+      "genres": [
+        "strategy",
+        "simulation",
+        "kids",
+        "tycoon",
+        "clicker",
+        "popular",
+        "management",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "business-games",
+        "sorting-games",
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/108f6acb-f70a-4d2b-5a4b-6ea46a2df400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9ffc4ad5-96f5-4632-3bc1-e0f7a415ac00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e1cde9baeb5145ffb9568c8f4e0cd20f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sneaker-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105904",
+      "slug": "Shopping-simulator",
+      "title": "Shopping Simulator",
+      "description": "Earn game money by tapping the hamster, raise the customer's level and buy everything from the store shelves. Anime, horror, food, pets, household goods, hundreds of heroes in one place! Buy anything you want! More than 500 unique items, 200 leveling levels, lots of mini-games and lots of emotions are waiting for you!",
+      "howToPlayText": "Earn game money in different mini-games to upgrade your level! Tap the hamster and complete the puzzles to get as many as possible! Unlock new levels to become the best!",
+      "gameURL": "https://playgama.com/export/game/Shopping-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/Shopping-simulator",
+      "genres": [
+        "clicker",
+        "shopping",
+        "mini"
+      ],
+      "tags": [
+        "minigames",
+        "casual-games",
+        "life-simulation-games",
+        "shop-games",
+        "level-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/01a825bc-01d8-4ed6-12e8-70958495ec00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a3535342-17e2-4769-cce5-f8d2574b4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8096ec25c41b48b58f18c4d51b6f79a2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/Shopping-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "30",
+      "slug": "miner-jam-playgama",
+      "title": "Miner Jam",
+      "description": "Miner Jam is a fun puzzle game where you strategically use colored axes to break boxes and advance through levels. Play online for free and enjoy vibrant gameplay. Unlock rewards and enhance your skills as you challenge yourself across iOS, Android, or desktop platforms.",
+      "howToPlayText": "In Miner Jam you should click or tap to match the pickaxes. Match the colors with the ores and mine them! ",
+      "gameURL": "https://playgama.com/export/game/miner-jam-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/miner-jam-playgama",
+      "genres": [
+        "action",
+        "puzzle",
+        "cool-games",
+        "clicker",
+        "brain"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "creative-games",
+        "destruction-games",
+        "interactive-games",
+        "addictive-games",
+        "reward-games",
+        "color-matching-games",
+        "collecting-games",
+        "desktop-games",
+        "mine-games",
+        "level-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/db0d6e4d-09f4-4cab-3ca1-007ccc525a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b7004805-c352-4b71-0963-47dc392af800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b12b7f45edd143908ec3f07141d40a3a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/miner-jam-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99345",
+      "slug": "monster-slayer-idle-clicker",
+      "title": "Monster Slayer. Idle Clicker",
+      "description": "Monster Slayer is an action-packed game where you battle quirky monsters and gather valuable resources. Strengthen your hero by unlocking powerful skills and spells, capture monster souls to expand your collection, and trade Flame Shards for rare relics. Enhance your abilities with Inlay Stones and potions as you take on ever-stronger foes in your quest for victory!",
+      "howToPlayText": "\n\n\nControls:\nUse the left mouse button to interact with objects and UI elements.",
+      "gameURL": "https://playgama.com/export/game/monster-slayer-idle-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/monster-slayer-idle-clicker",
+      "genres": [
+        "action",
+        "adventure",
+        "cool-games",
+        "clicker",
+        "pve",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "fantasy-games",
+        "quests-games",
+        "combat-games",
+        "incremental-games",
+        "resource-management-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e11293e5-fce3-4d00-d0a9-4a4101618d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a9a948e6-7736-49fe-3e87-cb523766da00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "acc7cd71825e4bfabdbd8bc9ac17c7a3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/monster-slayer-idle-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99666",
+      "slug": "candy-for-capybara",
+      "title": "Candy for capybara",
+      "description": "Capybara Wants a Candy!\nMatch identical marmalades to create bigger candies and earn coins.\nUse the crane to grab delicious treats for your capybara!\n\nGame Features:\n36 levels with increasing difficulty – from simple puzzles to challenging candy combinations.\n\nEndless high-score mode – compete with friends for the best candy-matching skills.\n\nJelly physics – watch candies bounce, stick, and deform as they collide.\n\nAdorable pet – the capybara reacts to your success (happy when fed, sad when you miss).\n\n",
+      "howToPlayText": "How to Play:\nMarmalade Candy Control:\n📱 Mobile:\n\nTouch & drag to move candies – release to drop them.\n🖥️ Desktop:\n\nMouse: Click & drag, release to throw.\n\nKeyboard: Arrow keys (← → ↑ ↓) + Space to drop.\n\nCrane Control:\n📱 Mobile:\n\nSlide your finger to move the crane – release to grab candy.\n🖥️ Desktop:\n\nMouse: Move cursor + click to grab.\n\nKeyboard: Arrow keys (← →) + Space to capture.",
+      "gameURL": "https://playgama.com/export/game/candy-for-capybara?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/candy-for-capybara",
+      "genres": [
+        "puzzle",
+        "kids",
+        "animals",
+        "clicker",
+        "easy"
+      ],
+      "tags": [
+        "endless-games",
+        "jelly-games",
+        "cute-games",
+        "collecting-games",
+        "unity-games-online",
+        "capybara-clicker"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/38fbe595-07dd-46fa-ea56-163a964da000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/90ab94e8-9416-4a16-8fa5-951a8cfb9500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "de68e6e77d254639a80eb7be4c3c639d",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "f7327e2cd08f4970ab10b077ea56d930",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/candy-for-capybara?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90508",
+      "slug": "fix-the-hoof",
+      "title": "Fix The Hoof",
+      "description": "Dive into the calming experience of Fix The Hoof, a free online game where you care for the hooves of different animals like horses and goats. Enjoy a captivating 3D environment while earning money to improve your farm. Accessible on both mobile and desktop, it's perfect for relaxation.",
+      "howToPlayText": "Who doesn't like the ASMR feel in cleaning and fixing hoof of a horse, cow, goat etc. This is the most satisfying ASMR 3d game for cleaning, polishing and painting hooves. You've seen it in the ASMR videos and now you get to do it yourself in this oddly satisfying game!",
+      "gameURL": "https://playgama.com/export/game/fix-the-hoof?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fix-the-hoof",
+      "genres": [
+        "puzzle",
+        "simulation",
+        "3d",
+        "mouse",
+        "animals",
+        "clicker",
+        "popular",
+        "horse",
+        "cozy"
+      ],
+      "tags": [
+        "iphone-games",
+        "cleaning-games",
+        "relaxing-games",
+        "painting-games",
+        "asmr-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/81138162-acd8-4fa7-bf65-c701934f6f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1dac9c35-87f2-4c26-970f-aa05c1465700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "36af61d07eae46e6a3b17261116dad00",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fix-the-hoof?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106303",
+      "slug": "rpg-idle-clicker",
+      "title": "RPG Idle Clicker",
+      "description": "RPG Idle Clicker is an incremental game where you embark on an adventure to slay monsters. Click to deal damage, earn gold, and unlock powerful swords to enhance your attacks. Upgrade your blades and recruit auto-attacking heroes who battle monsters every second, even while you are offline. With stunning WebGL visuals, face tougher enemies and epic bosses in this browser-based game. Whether you prefer active gameplay or idle progression, RPG Idle Clicker offers endless growth. Get ready and become the ultimate monster hunter!",
+      "howToPlayText": "Tap the enemy to deal damage and eliminate them. Interact with the UI buttons to upgrade sword levels, heroes, equip items, and much more.",
+      "gameURL": "https://playgama.com/export/game/rpg-idle-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rpg-idle-clicker",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "clicker",
+        "rpg",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "incremental-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bcf622d7-9db7-422b-aede-e9728ba66500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1e97c0bd-cf52-4865-ca43-1c9555e62200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ed7118ce43d044dca21f4052303ed9e0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rpg-idle-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94686",
+      "slug": "sigma-boy-musical-clicker",
+      "title": "Sigma Boy: Musical Clicker",
+      "description": "Join Sigma Boy in a beat-driven journey through diverse landscapes from deserts to space in this free online clicker game. Each tap earns points for upgrades, enhancing his skills as you tackle various challenges across devices. Embrace the rhythm and guide Sigma Boy to success!",
+      "howToPlayText": "To get started with Fennec The Fox: Clicker Adventure, simply tap on Fennec the Fox to earn points. Use these points to purchase upgrades that boost Fennec’s abilities. As Fennec evolves, he will move from the desert to new, more advanced environments, eventually embarking on a cosmic journey. Each level presents unique challenges, so keep clicking, upgrading, and evolving to help Fennec conquer them all.",
+      "gameURL": "https://playgama.com/export/game/sigma-boy-musical-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sigma-boy-musical-clicker",
+      "genres": [
+        "clicker",
+        "music",
+        "idle"
+      ],
+      "tags": [
+        "2d-games",
+        "addictive-games",
+        "desktop-games",
+        "evolution-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5b086776-b177-4ed6-bbc4-00fc54aef000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a8f3bbe1-3e14-4a85-5e59-fd791ee2d300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6409091ed1914f8c92ff836c799f5021",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sigma-boy-musical-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109068",
+      "slug": "obby-1-power",
+      "title": "Obby +1 Power!",
+      "description": "In the game, you enter the exciting world of fitness and bodybuilding! Start your journey to muscular glory from scratch by clicking to perform exercises and build up your muscles. Use your skills and strategies to become the strongest bodybuilder in the game!\n\nThe gameplay of the game is simple and exciting. Your task is to click the mouse to complete the exercises and upgrade your character. The more you click, the more experience and resources you gain to improve your stats and win competitions.\n\nJoin us and prove that you deserve to be the strongest bodybuilder in this exciting world of fitness and competition!",
+      "howToPlayText": "The game controls are simple and intuitive to ensure maximum comfort for players on computers and mobile devices.\n\nOn the computer:\n\n- Left-click to complete the exercise and upgrade your character.\n- Hover the mouse cursor to select options in the menu.\n\nOn mobile devices:\n\n- Tap on the screen to click on the button and perform the exercise and upgrade the character.\n\nThanks to its simple and user-friendly controls, the game will become accessible and enjoyable to play on a computer.\nSo it is on mobile devices, allowing players to fully immerse themselves in the exciting world of fitness and bodybuilding.",
+      "gameURL": "https://playgama.com/export/game/obby-1-power?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-1-power",
+      "genres": [
+        "simulation",
+        "skill",
+        "funny",
+        "clicker",
+        "popular",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "blocky-games",
+        "collecting-games",
+        "challenge-games",
+        "1-player-games",
+        "incremental-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6ff8dde0-8a15-4dad-6867-b57299250b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2dd337cf-151b-40c9-c13f-97af98c60100/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-1-power?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90499",
+      "slug": "steve-evolution-mega-clicker-b66b-1",
+      "title": " Steve Evolution Mega Clicker",
+      "description": "Experience an exhilarating adventure with Steve Evolution Mega Clicker, a captivating game filled with excitement. Upgrade your skills, earn coins, and discover unique abilities with every click, all while enjoying stunning visuals. Play on any device for endless entertainment and an engaging clicking experience!",
+      "howToPlayText": "\n💰 Click on the screen to earn coins.\n📈 Use coins to upgrade Steve, allowing him to earn more and evolve faster.\n🚀 Unlock new evolution levels and improve Steve’s abilities.\n🌟 Catch bonuses and rare power-ups that appear randomly to speed up your progress!\n📊 Compete with other players to climb the ranks.\n\nIt’s simple: click, upgrade, and evolve to become the richest in \"Steve Evolution Mega Clicker\"!",
+      "gameURL": "https://playgama.com/export/game/steve-evolution-mega-clicker-b66b-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/steve-evolution-mega-clicker-b66b-1",
+      "genres": [
+        "arcade",
+        "strategy",
+        "simulation",
+        "skill",
+        "clicker",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "desktop-games",
+        "incremental-games",
+        "evolution-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/932d0f6f-a5ba-451f-2181-4d4c1b41f000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2fb1fd2b-e080-4b8f-c8a3-3235dcb69c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "18268c1facdc4561b3f7eaa2ac713dbe",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/steve-evolution-mega-clicker-b66b-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90516",
+      "slug": "homo-evolution",
+      "title": "Homo Evolution",
+      "description": "Welcome to Homo Evolution, an enchanting journey where you can create your own little universe and unravel the mysteries of human evolution. This free online game lets you merge two individuals to birth a new, more modern life form, populating the planet with a wide array of creatures—from simple animals to diverse and unpredictable personalities. Whether you're on the phone or computer, this captivating gameplay invites you to shape the world in four unique ways, from the BEGINNING with animal evolution, to the BREAD civilization, witnessing the transformation from natural to modified products.",
+      "howToPlayText": "Create your own little world and drive on human evolution. Merge two people and get a new, more modern life form populating the planet with different creatures: from simple animals to diverse and unpredictable personalities.\n\nThere are 4 ways to shape the world as humanity emerges:\n\n▪ BEGINNING\nAnimal evolution, from spores to modern individuals!\n▪ FIRST PEOPLE\nThe path from the ancient world to the first citizens!\n▪ SPECTACLE\nA creative Bohemia, from poets to crazy party people!\n▪ BREAD\nCivilization with the degradation from natural to modified products!\n\nThere are also 8 stages of the world evolution:\n\n▪ TELEVISION\n▪ INTERNET\n▪ SPORTS\n▪ SCIENCE\n▪ TELEUNITY\n▪ VIRTUALIZATION\n▪ TRANSFORMATION\n▪ POWER CULT\n\nExplore each branch to open the next. By tapping the last two life forms at this stage, you get access to a new, previously unknown world! Discover all the planets in this fun evolution game!\n\nYou start in the BEGINNING world with a small lizard. By combining two creatures, you create a new, more perfect being. You don’t need little alchemy or magic to evolve faster. Just click on the creatures to earn coins and buy more species to merge. Offline autoclicker included in this the game of life and planet evolution!\n\nStart creating your own world right now!",
+      "gameURL": "https://playgama.com/export/game/homo-evolution?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/homo-evolution",
+      "genres": [
+        "clicker",
+        "merge"
+      ],
+      "tags": [
+        "2d-games",
+        "creative-games",
+        "interactive-games",
+        "life-simulation-games",
+        "desktop-games",
+        "incremental-games",
+        "evolution-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0aec8c60-2bae-4f4e-a970-fdf14c6aee00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b2418f11-2d6e-49a9-c9ef-da88b1af2c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9d18535945c04fb5a22669f75da50110",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/homo-evolution?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99451",
+      "slug": "click--idle--slimes",
+      "title": "Click & Idle - Slimes!",
+      "description": "Step into the delightful universe of Click & Idle - Slimes! Tap the squishy slime to generate income and expand your empire. Unlock and enhance various skills, each offering unique perks that go beyond simple click boosts. Some grant instant rewards, while others provide long-term advantages, allowing you to shape your own progression. Collect charming slimes, customize your background, and embark on an endless adventure to become the ultimate slime master!",
+      "howToPlayText": "Taking control is easy! On PC, click with your mouse to interact and navigate menus. On mobile, simply tap and swipe to engage with the slime, unlock upgrades, and explore different options.",
+      "gameURL": "https://playgama.com/export/game/click--idle--slimes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/click--idle--slimes",
+      "genres": [
+        "clicker",
+        "slime",
+        "idle"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4873c7af-b103-4086-453b-44383d53ff00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e923a7b8-65c9-41ee-bbab-a846f7288b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4f959835f6dd4c98928012ea77c9d855",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/click--idle--slimes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94707",
+      "slug": "knife-smash",
+      "title": "Knife Smash",
+      "description": "Do you like throwing stuff? Like knives at random spinning targets? Then this is the ultimate challenge for you! Time your actions, aim carefully and become the knife master! Can you beat all the levels? Very simple one-touch gameplay, but challenging to master! Can you collect all the ridiculous knives?",
+      "howToPlayText": "Do you like throwing stuff? Like knives at random spinning targets? Then this is the ultimate challenge for you!",
+      "gameURL": "https://playgama.com/export/game/knife-smash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/knife-smash",
+      "genres": [
+        "arcade",
+        "skill",
+        "clicker"
+      ],
+      "tags": [
+        "2d-games",
+        "reaction-games",
+        "knife-games",
+        "addictive-games",
+        "desktop-games",
+        "1-player-games",
+        "timing-games",
+        "throwing-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/995c6509-cb00-4ef7-0d99-e8081f5ee700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a15c4ea7-8779-4537-d5d0-3392d9d22300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7e0da93d650c461bb5912620ef4a36af",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/knife-smash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106347",
+      "slug": "click-kitty-idle",
+      "title": "Click Kitty Idle",
+      "description": "Click Kitty Idle– Fast-Paced Cat Clicker Challenge!\nClick Kitty Idle is a fun and competitive idle clicker game where speed, timing, and strategy matter! Tap to feed your kitty, level up, and dominate the leaderboard in this addictively cute cat-clicking game!                                             \nWhy You’ll Love It:\nIf you enjoy fast-paced clicker games with a twist, It’s not just about clicking—it's about clicking smart and fast.\nPlay now and prove you’ve got the fastest paws in town!\n\n•Cute & competitive gameplay with pressure-based challenges!\n•Buy fun food like tuna, milk, cheese & more!\n•Unlock cute cat characters like Miss Pawlina and Captain Purrbeard!\n•Boosters: Auto Click, Time Extension, and Massive Click Power!\n•Compete for high scores and unlock achievements!",
+      "howToPlayText": "Use the left mouse button to interact with in-game UI\n\nHow to Play:\n•You have 32 seconds to earn coins by clicking.\n•Use coins to buy cat food before time runs out!\n•Each time you buy food, the price increases (ex: 100 → 860 → more!)\n•Upgrade your Click Value to +1, +2... and increase your speed!\n",
+      "gameURL": "https://playgama.com/export/game/click-kitty-idle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/click-kitty-idle",
+      "genres": [
+        "arcade",
+        "funny",
+        "animals",
+        "clicker",
+        "cats",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "addictive-games",
+        "cute-games",
+        "kitty-games",
+        "timing-games",
+        "incremental-games",
+        "animal-clicker"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/307b19cf-c706-45b3-279f-9de5d6ed0300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/76e5d8bc-e3f0-4537-9ea6-bcf688a7f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9c167db4fee949e281d5d673f22b26fb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/click-kitty-idle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

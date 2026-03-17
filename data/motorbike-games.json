@@ -1,0 +1,102 @@
+{
+  "category": "motorbike",
+  "count": 2,
+  "games": [
+    {
+      "id": "106346",
+      "slug": "moto-x3m",
+      "title": "Moto X3M",
+      "description": "Moto X3M is an awesome bike game with challenging levels. Choose a bike, put your helmet on, pass obstacles, and get ready to beat the time on tons of off-road circuits. Have fun with Moto X3M! The controls are simple – use the keyboard arrow keys to control the acceleration and deceleration, and also your tilt. Ride through each course and try to land your jumps perfectly – if you angle your bike incorrectly you risk tipping your bike over! \nEach level features different obstacles and objects for you to traverse – you will find this game both fun and challenging! This is off-road biking to the max and for any motorbike fan, this game will provide a huge amount of enjoyment! ",
+      "howToPlayText": "WASD or ARROWS \nPress the up arrow key to accelerate\nBalance your bike with the left and right arrow keys\nBreak by pressing the down arrow key\nPerform flips and other stunts to gain time\nDon't crash",
+      "gameURL": "https://playgama.com/export/game/moto-x3m?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/moto-x3m",
+      "genres": [
+        "action",
+        "racing",
+        "adventure",
+        "sports",
+        "skill",
+        "cool-games",
+        "popular",
+        "motorbike",
+        "dirt-bike",
+        "mobile"
+      ],
+      "tags": [
+        "stunt-games",
+        "offroad-games",
+        "casual-games",
+        "obstacle-games",
+        "challenging-games",
+        "bike-racing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/53361cce-791e-4e4a-23dc-528ce9ea1000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9ee7484b-8967-45fc-1ce3-4c52e5ebed00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "236ada3eea264401b7be98a0466cd6ce",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/moto-x3m?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112298",
+      "slug": "moto-x3m-spooky-land",
+      "title": "Moto X3M Spooky Land",
+      "description": "Moto X3M: Spooky Land is a spooky Halloween edition of the popular bike racing series. Put on your helmet, hop on your motorbike, and ride through haunted tracks filled with creepy traps, bone-made obstacles, and eerie surprises. Speed is key – beat the clock while avoiding deadly hazards and pulling off flips to save precious time!\n\nThe controls are simple – use the arrow keys to accelerate, brake, and tilt your bike for smooth landings. Each of the 32 levels introduces new spooky challenges, making the game both thrilling and tricky. For fans of off-road biking and Halloween fun, Moto X3M: Spooky Land is the perfect ride!",
+      "howToPlayText": "WASD or ARROWS \nPress the up arrow key to accelerate\nBalance your bike with the left and right arrow keys\nBreak by pressing the down arrow key\nPerform flips and other stunts to gain time\nDon't crash",
+      "gameURL": "https://playgama.com/export/game/moto-x3m-spooky-land?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/moto-x3m-spooky-land",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "funny",
+        "popular",
+        "motorbike",
+        "halloween"
+      ],
+      "tags": [
+        "stunt-games",
+        "offroad-games",
+        "speed-games",
+        "challenge-games",
+        "bike-racing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/85b4771d-fbca-459e-4ba9-738d1d30ea00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd96d3bc-90cd-48d7-5f6f-cd7dd3eb5e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3f49db50d6f8aa515d391c544e803755",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/moto-x3m-spooky-land?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

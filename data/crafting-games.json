@@ -1,0 +1,495 @@
+{
+  "category": "crafting",
+  "count": 11,
+  "games": [
+    {
+      "id": "112023",
+      "slug": "dungeon-master-cult-and-craft",
+      "title": "Dungeon Master - Cult & Craft",
+      "description": "Become a dungeon keeper, control stickmen, mine ore, develop a Cult and hold power in this exciting 3D simulator! Develop the Cult, manage resources and expand the boundaries of your underground Universe!\n\n⛏ Resource extraction - send followers for ore and minerals.\n🏛 Cult development - maintain loyalty at a high level.\n👀 Captivating 3D graphics - fully immerse yourself in the atmosphere of darkness.\n⚒ Dungeon upgrade - build, improve and strengthen your base.\n💰 Economic strategy – distribute the spoils and increase wealth.",
+      "howToPlayText": "Desktop:\nWASD / arrow keys / drag left mouse button = move\nLeft mouse button / E = select upgrade\n\nMobile:\nIn-game joystick = move\ntap = select upgrade",
+      "gameURL": "https://playgama.com/export/game/dungeon-master-cult-and-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dungeon-master-cult-and-craft",
+      "genres": [
+        "arcade",
+        "adventure",
+        "strategy",
+        "simulation",
+        "3d",
+        "cool-games",
+        "management",
+        "crafting",
+        "unity",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "relaxing-games",
+        "unity3d-games",
+        "cult-games",
+        "desktop-games",
+        "1-player-games",
+        "building-games",
+        "resource-management-games",
+        "dungeon-games",
+        "mining-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ac5fafca-c68d-495d-b89b-58d6daf11d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f3a2b0ff-5b11-4dc4-c3e7-001ff8672b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b538d9bcf858445159f52f5a23a8f3a3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dungeon-master-cult-and-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112452",
+      "slug": "sprunki-craft--sandbox-3d",
+      "title": "Sprunki Craft - Sandbox 3D",
+      "description": "🌟 Discover the World of Sprunki! 🌟\n\nDive into a unique adventure game where you can create and fight! Build your own world from blocks, creating amazing landscapes and exciting locations.\n\n🛡️ Fight with other Sprunki! Develop your skills and enhance your character's abilities to win intense battles. Each Sprunki is unique, and only you decide how to upgrade and develop them.\n\n🆕 Don't miss the opportunity to open and buy new Sprunki, each of which has its own features and unique abilities. Create a team that will lead you to victory!\n\n🏆 Become a leader! Compete with players from all over the world and climb the leaderboard, proving that you are the best in this amazing world of Sprunki!\n\nJoin us and become the Master of Sprunki! We are waiting for you in the game! 🎮",
+      "howToPlayText": "Level up by collecting crystals, attacking enemies, cutting down trees.\nEnemies are below your level, you can attack them.\nIf the enemy is above your level - run away!\n\nUpgrade your abilities between rounds.\nComputer controls:\nWASD or arrows.\n\nPhone controls:\nTouch the screen and a virtual joystick will appear.",
+      "gameURL": "https://playgama.com/export/game/sprunki-craft--sandbox-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sprunki-craft--sandbox-3d",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "3d",
+        "cool-games",
+        "crafting"
+      ],
+      "tags": [
+        "customization-games",
+        "building-games",
+        "minecraft-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9372b67d-0684-448a-12dc-52a98e147000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/849a53b3-f121-4e29-299f-a8f17916f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2376805e2eece75e454abd1e2aa9362e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sprunki-craft--sandbox-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110345",
+      "slug": "world-of-labubu-life-and-creativity",
+      "title": "World of Labubu. Life and Creativity",
+      "description": "«World of Labubu. Life and Creativity» is a colorful dress-up and interior design game for fans of creativity and fun. Create your own Labubu by choosing eyes, nose, mouth, colors, outfits, hats and accessories. Each character can be unique and reflect your personal style.\n\nAfter customizing your hero, explore cozy houses on the map and decorate the interiors. Place furniture, hang paintings, add details and create rooms that match your vision. There are no strict rules here — only your imagination and freedom.\n\nIf you are a fan of Toca Boca or love creative games where you can dress up characters and design spaces, you’ll feel right at home in «World of Labubu. Life and Creativity». Experiment, express yourself and build your own stories!",
+      "howToPlayText": "In «World of Labubu. Life and Creativity» everything is simple:\n\n1. Create your Labubu — choose eyes, nose, mouth, colors and style.\n\n2. Pick outfits, hats and accessories to highlight your character’s look.\n\n3. Enter the houses on the map and start interior decorating.\n\n4. Arrange furniture, hang paintings, add details and make rooms cozy.\n\nControls: use your mouse to select and place items. Fans of creative games like Toca Boca will quickly feel at home — just experiment and create your own unique worlds!",
+      "gameURL": "https://playgama.com/export/game/world-of-labubu-life-and-creativity?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/world-of-labubu-life-and-creativity",
+      "genres": [
+        "puzzle",
+        "simulation",
+        "girls",
+        "kids",
+        "mouse",
+        "popular",
+        "decoration",
+        "crafting",
+        "mobile"
+      ],
+      "tags": [
+        "customization-games",
+        "creative-games",
+        "characters-games",
+        "decorate-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e861700c-23eb-423a-dad5-3d64f4d40800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/94c19e59-f534-4dd1-8490-35b61cd64500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "63d7fd9395dd4a71b3ad27961664c014",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/world-of-labubu-life-and-creativity?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106349",
+      "slug": "hedgies",
+      "title": "Hedgies",
+      "description": "A single Hedgehog is capable of turning a desolate and abandoned household on plot of land into a bustling and flourishing farm. Only a few of us, people, are aware of the fact that Hedgies are great cooks, fishermen, craftsmen and last, but not the least, fabulously hospitable types! Come and see for yourself, plunge into ‘Hedgies’ game and contribute to the beautification of the Valley.\n",
+      "howToPlayText": "Hedgies is a charming farming game where a hardworking hedgehog transforms an abandoned plot into a thriving homestead. Grow crops, craft goods, and master skills like cooking and fishing. With a warm and welcoming spirit, your hedgehog will turn the valley into a lively community. Step in and help bring this enchanting world to life!",
+      "gameURL": "https://playgama.com/export/game/hedgies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hedgies",
+      "genres": [
+        "adventure",
+        "strategy",
+        "animals",
+        "management",
+        "cozy",
+        "crafting",
+        "cooking"
+      ],
+      "tags": [
+        "casual-games",
+        "1-player-games",
+        "building-games",
+        "resource-management-games",
+        "animal-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9f4a3b24-697c-4530-c030-57237aef6300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/68b75869-383a-4b42-4eb9-a0c484a51700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5190b1fcdbba4021a45c3930c54161e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/hedgies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99581",
+      "slug": "desolate-isle-survival",
+      "title": "Desolate Isle: Survival",
+      "description": "Survive and escape from a mysterious island in this open-world survival adventure game. Gather resources, craft tools, build your base, and explore new areas with unique materials and challenges. Complete quests to unlock new territories and uncover the secrets of the island. Perfect for fans of survival, exploration, and crafting games.",
+      "howToPlayText": "Universal:\nInteraction with objects happens automatically when you get close enough. However, some objects require you to press the button that appears above them to interact.\n\nKeyboard :\nMove - WASD or Left/Right/Up/Down arrow keys  \n\nMobile \nMove and turn - use joystick",
+      "gameURL": "https://playgama.com/export/game/desolate-isle-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/desolate-isle-survival",
+      "genres": [
+        "adventure",
+        "simulation",
+        "survival",
+        "crafting"
+      ],
+      "tags": [
+        "survivors-games",
+        "quests-games",
+        "rescue-games",
+        "building-games",
+        "evolution-games",
+        "resource-management-games",
+        "islands-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/43a7ee48-1303-4446-01fa-bdda7db2b100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a157724a-02df-415b-2115-4c78ee7f2100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f1709759da1542b2a14552fba39ac758",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/desolate-isle-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99438",
+      "slug": "skyblock-3d-survival",
+      "title": "Skyblock 3D: Survival",
+      "description": "Embark on a unique survival adventure on floating islands in a 3D world, where each island offers valuable resources. Explore vibrant landscapes, battle monsters to grow stronger, and trade with villagers for useful items. Build plantations and breed animals to ensure a steady supply of food and resources. The skies are full of islands, each one holding secrets and challenges. Survive, craft, battle, and thrive in this exciting world!",
+      "howToPlayText": "For computer:\n- Move: W, A, S, D\n- Jump: Spacebar\n- Break blocks: Hold down LMB\n- Place blocks: RMB / F\n- Inventory: E\n- Pause: Tab\n- Help: J\n- Drop: Q (Shift+Q Drop full slot)\n\nFor mobile devices:\n- Move: Left Joystick\n- Jump: Arrow icon button\n- Break blocks: Hold down the sword icon button.\n- Stack blocks: Hold down the cross icon button.\n- Inventory: Orange button in the middle of the screen.\n- Pause: Purple button in the upper right corner of the screen",
+      "gameURL": "https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/skyblock-3d-survival",
+      "genres": [
+        "adventure",
+        "3d",
+        "minecraft",
+        "survival",
+        "monster",
+        "crafting"
+      ],
+      "tags": [
+        "sandbox-games",
+        "resource-management-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/068ae819-f79a-4e74-9e57-3921f5dba000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a12cdd35-31c2-4aff-587f-c69635c2f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "967797b5f82241c7ad77e3e35b582adb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99437",
+      "slug": "weapon-upgrade",
+      "title": "Weapon Upgrade",
+      "description": "Dive into the action with a dynamic runner where weapon creation meets shooting fun. Shoot enemies and obstacles to unlock powerful weapons and test your accuracy as you take on targets. Craft and combine parts to upgrade your arsenal, evolving from simple guns to advanced firepower. Become a master of weapon creation!",
+      "howToPlayText": "Use your mouse to move around on PC and your finger on your phone.\nTo upgrade weapons, you need to buy and connect parts.",
+      "gameURL": "https://playgama.com/export/game/weapon-upgrade?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/weapon-upgrade",
+      "genres": [
+        "arcade",
+        "gun",
+        "crafting"
+      ],
+      "tags": [
+        "accuracy-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/97d22053-676d-4681-fee0-729d193c6700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3d640422-ddf3-45ab-027c-fb692c334300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "89f07132671647b298d3931973896485",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/weapon-upgrade?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95249",
+      "slug": "weaponsmith-evolution--weapon-merge-3573-1",
+      "title": "Weaponsmith Evolution - Weapon Merge",
+      "description": "Dive into the captivating universe of Weaponsmith Evolution - Weapon Merge, starting with simple daggers and advancing to legendary weapon crafting. This free online game tests your skills against tough foes as you upgrade weapons, ensuring the safety of the realm, whether you play on a phone or computer.",
+      "howToPlayText": "- Start with basic weapons and drag identical ones to merge them into more powerful versions.\n- Each new weapon brings more gold.\n- Spend gold on upgrades: unlock new types of weapons or speed up the merging process.\n- Fight monsters and progress through levels.\n- From time to time, you’ll encounter powerful bosses. Defeat them to prove your mastery!\n- Experiment with upgrades to increase weapon efficiency and earn more.\n- Keep playing to unlock legendary weapons and become a true master of the arsenal.",
+      "gameURL": "https://playgama.com/export/game/weaponsmith-evolution--weapon-merge-3573-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/weaponsmith-evolution--weapon-merge-3573-1",
+      "genres": [
+        "merge",
+        "crafting",
+        "rpg",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2b9fdd9e-0b13-4488-5395-3b336477bd00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/637e068e-19d8-4798-c4ff-cb7be9d92300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ffba3940630847b8961a8fe5725026c1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/weaponsmith-evolution--weapon-merge-3573-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110448",
+      "slug": "craftsman-land",
+      "title": "Craftsman Land",
+      "description": "Craftsman Land – build your own farm and help the town recover!\n\nCraftsman Land is a farming and crafting game where your goal is to rebuild the inherited land, expand your farm, and support the local community.\n\nAfter a devastating flood, the town is in ruins. As the heir to the land, it’s up to you to restore your farm, help the townsfolk, and bring life back to the surrounding villages. Grow crops like corn and onions, go fishing, and construct new buildings such as a house, chicken coop, and cowshed. Inside your home, you can decorate and design the interior to your liking.\n\nTake care of your animals – feed chickens and cows, collect fresh eggs and milk, and use them for crafting or trading. Complete quests for local people, trade with merchants, and produce a wide variety of items thanks to the crafting system. Improve your skills, specialize in your favorite activities, and become a true master craftsman.\n\nThe world of Craftsman Land is constantly growing with new places, tasks, and adventures waiting to be discovered",
+      "howToPlayText": "In Craftsman Land, playing is simple and intuitive. On mobile devices you tap the screen, while on PC you use the mouse. Actions are performed automatically – all you need are the required items and resources. With just a click, you can trigger different activities such as building houses, crafting tools, or producing goods.\n\nComplete quests given by townsfolk to earn rewards and progress in the story. When you run out of quests, head to the crossroads where the bulletin board offers an endless supply of new tasks.\n\nExplore the map to visit different shops:\n\nBuilding materials store – get everything you need for construction.\n\nTool shop – find useful equipment for your farm.\n\nGardening store – buy seeds and expand your fields.\n\nNot everything has to be bought! Many materials can be produced by yourself. Chop wood, fire clay into bricks at the campfire, and create other essential resources to use in crafting and construction.\n\nGrow crops, raise animals, trade, and craft your way to success while helping the entire town thrive!",
+      "gameURL": "https://playgama.com/export/game/craftsman-land?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/craftsman-land",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "multiplayer",
+        "mouse",
+        "cool-games",
+        "popular",
+        "crafting"
+      ],
+      "tags": [
+        "quests-games",
+        "building-games",
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f7db3d35-ce5e-47b3-96b8-da36600f4400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bc4b50a4-a61d-475a-dc93-1b5336427c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "39c2b2fb927d4214ab8ba7c84a74f330",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/craftsman-land?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99573",
+      "slug": "bobr-turbo-craft-cars",
+      "title": "Bobr turbo: craft cars",
+      "description": "Dive into a world where imagination meets destruction! In this action-packed builder game, your mission is clear: create, upgrade, and dominate. Construct powerful battle machines from a wide variety of blocks, customize them to your style, craft new parts, and prove your engineering skills in intense arena showdowns.\n\n💡 Create Your Own War Machines\n\nWith an arsenal of blocks, boosters, and weapons at your fingertips, design machines that are as deadly as they are unique. Upgrade your parts to make your builds tougher, faster, and more destructive!\n\n🛠️ Craft, Customize, Compete\n\nCollect loot from chests to enhance your arsenal and push your creativity to the limit. Fine-tune your machines to outperform the competition!\n\n🔥 Outsmart and outbuild your rivals. Wreck your enemies in spectacular auto-battles and rise to the top. Only the best engineers will claim victory!\n\nAre you ready for the challenge? Prove your skills, show off your creativity, and become the ultimate battle machine builder!",
+      "howToPlayText": "Your goal is to collect a fighting machine from inventory blocks. Controls: PC - left mouse button, phone - touch the screen.\nFighting takes place automatically.",
+      "gameURL": "https://playgama.com/export/game/bobr-turbo-craft-cars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bobr-turbo-craft-cars",
+      "genres": [
+        "action",
+        "car",
+        "pve",
+        "crafting"
+      ],
+      "tags": [
+        "customization-games",
+        "destruction-games",
+        "vehicles-games",
+        "crash-games",
+        "arena-games",
+        "sandbox-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/474f9fd3-14fc-4d28-2ce7-28551df04900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/104ab96d-d1a4-476a-a36d-a47640344800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fca7fc2f590441739fa0dfdd717f4a43",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bobr-turbo-craft-cars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95756",
+      "slug": "idle-crafting-empire-tycoon-3a99-1",
+      "title": "Idle Crafting Empire Tycoon",
+      "description": "Embark on a journey to build your own empire in <strong>Idle Crafting Empire Tycoon</strong>, an engaging <strong>online</strong> economic simulator that combines elements of resource crafting, empire development, and clicker gameplay. As the ruler of a thriving island, your mission is to explore every corner, uncover precious resources, and craft them into valuable goods. By hiring managers and traders, you can automate tasks and maximize profits, ensuring your empire's success both <strong>on the phone</strong> and <strong>on the computer</strong>. Upgrade your factories, fulfill production orders, and let your empire shine in this captivating <strong>free</strong> game.",
+      "howToPlayText": "Idle Crafting Empire Tycoon is an economic simulator, time-killer, combining elements of empire development, resource crafting, and clicker gameplay. You play as a ruler tasked to explore the island, sending expeditions to discover new resources and crafting them. Hire managers and traders to handle the daily tasks and bring additional profits to your empire. Upgrade factories with resources and maintain a balance of production for finished goods. Fulfill production orders and earn valuable rewards.\n\nExplore the island and uncover all the resources needed to make your empire so great that everyone in this fantastic world will know about it!\n\n\n\n• Go through the introductory training, which will explain how the production of goods works, how new regions of the island are opened, and how the process of exploring and discovering new resources works.\n• To earn money, produce resources at factories. After production is completed, the finished product can be sold. Improve factories, produce more goods, and earn more profit.\n• You need to equip and send expeditions (invest the necessary resources and goods) to open up new regions of the island.\n• To discover new resources, go to the research center and purchase the explored resources.\n• To obtain additional profit or automate some actions (such as selling finished products), hire managers and traders",
+      "gameURL": "https://playgama.com/export/game/idle-crafting-empire-tycoon-3a99-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/idle-crafting-empire-tycoon-3a99-1",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "management",
+        "crafting",
+        "idle"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/98192461-de79-457b-a6ac-b66c2cfe5000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/037323f0-153d-49cd-fb30-2839979a3500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "baf47ce4aa3e4ef695b9e20ec6d2fd9a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/idle-crafting-empire-tycoon-3a99-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

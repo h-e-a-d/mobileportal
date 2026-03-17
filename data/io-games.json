@@ -1,0 +1,241 @@
+{
+  "category": "io",
+  "count": 5,
+  "games": [
+    {
+      "id": "86383",
+      "slug": "snake-2048-64be-1",
+      "title": "Snake 2048",
+      "description": "Snake 2048 is a fun online game where you start with a small cube and grow by consuming weaker snakes while avoiding stronger ones. Accessible on multiple platforms, it merges classic snake gameplay with strategic 2048 elements, providing engaging action for all types of players.",
+      "howToPlayText": "Eat cubes that are smaller or your mass. You lose if you crash into a cube of a larger mass. Become a giant!\n\nDesktop:\nThe snake turns with the cursor.\n\nMobile:\nUse the joystick to rotate the snake.",
+      "gameURL": "https://playgama.com/export/game/snake-2048-64be-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-2048-64be-1",
+      "genres": [
+        "io",
+        "multiplayer",
+        "snake"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "collection-games",
+        "pixel-games",
+        "borwser-games",
+        "unity-games-online",
+        "snake-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fda56bdd-8bdf-449b-08cc-9ae1f4e08200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4d6d283c-b5af-4a82-0257-27d5725b9100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "017a2063136b4f8481f3c8659e25214f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-2048-64be-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112133",
+      "slug": "bow-brawls",
+      "title": "Bow Brawls",
+      "description": "Bow Brawls – Top-Down Archery Battles!\n\nEnter Bow Brawls, a thrilling archery survival game where you aim with drag controls that feel like a real bow. Pull, release, and strike down endless waves of enemies! Each wave ends with a powerful boss fight, forcing you to master skill and strategy.\n\nUnlock 5 unique bows, 5 armors, and 5 arenas as you progress. Every weapon and battleground adds a new style of play. Face bosses with special abilities and prove your reflexes in intense battles.\n\nCompete with players worldwide through global leaderboards. Show off your best scores and climb to the top to become the ultimate archer.\n\nPerfect for casual players, kids, and competitive gamers, Bow Brawls is easy to pick up yet challenging to master. Endless action, exciting unlocks, and competitive spirit await you.\n\n🎯 Aim true. ⚔ Defeat bosses. 👑 Rule the leaderboard.\nPlay Bow Brawls now and test your archery skills!",
+      "howToPlayText": "How to Play\n\nIn Bow Brawls, survive endless waves of enemies using skill and precision. Use the joystick (mobile) or WASD (PC) to move. Aim by pulling the on-screen joystick in the opposite direction of your target—release to shoot arrows like a real bow.\n\nEnemies attack from all directions, including melee fighters and ranged shooters. Every few waves, a boss appears with unique skills like dashing, jumping over you, or launching projectiles—stay alert and adapt!\n\nDefeat bosses to earn gems, which unlock new bows and armors with different abilities. Reach higher scores to unlock new arenas and face tougher challenges.\n\nYour score is based on enemy kills, with each type rewarding different points. Climb the leaderboards by defeating as many enemies as possible. Manage your health bar carefully—you only get one life per run.\n\nMaster your aim, survive waves, defeat bosses, and rise as the ultimate archer!",
+      "gameURL": "https://playgama.com/export/game/bow-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bow-brawls",
+      "genres": [
+        "io",
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "multiplayer",
+        "shooting",
+        "pve",
+        "pvp",
+        "archery"
+      ],
+      "tags": [
+        "survivors-games",
+        "dodge-games",
+        "exciting-games",
+        "accuracy-games",
+        "agility-games",
+        "bow-games",
+        "unity-games-online",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/691be611-f3b1-4a10-7b84-71d80e790300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/78f4cc5e-0a0e-4d60-e957-a4e7d9374b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "db2117e5be33fc405cdb4a6ba022dd23",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bow-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63927",
+      "slug": "broomcraft-mystic-evasion",
+      "title": "Broomcraft Mystic Evasion",
+      "description": "Broomcraft Mystic Evasion is an engaging survival game where you fly on a magic broom, fighting waves of enemies. Play online for free, hone your skills, unlock spells, and upgrade brooms. Choose between practice or endless challenge modes. Experience the captivating adventure and see how long you can endure!",
+      "howToPlayText": "PC Controls\nWASD or Arrows = movement\nSpace = broom leap / rush\nZ = choose to take the first spell\nX = choose to take the second spell\nC = choose to take the third spell\nMobile Controls\nJoystick = movement\nRush Button = leap/ rush",
+      "gameURL": "https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/broomcraft-mystic-evasion",
+      "genres": [
+        "io",
+        "action",
+        "adventure",
+        "survival",
+        "magic",
+        "halloween",
+        "megaspel"
+      ],
+      "tags": [
+        "top-down-games",
+        "iphone-games",
+        "survivors-games",
+        "addictive-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "horde-survival-games",
+        "open-world-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/273ea2a7-f872-4eaf-bf29-02f384ae1a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6bfe3b1b-3a8f-4507-3289-1ab30812fe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ac9fce3983a24d9dac8bf880b405cfb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63926",
+      "slug": "little-big-fighters",
+      "title": "Little Big Fighters",
+      "description": "Little Big Fighters is an exciting action game set in a lively survival arena where players must showcase their combat skills to rise through the ranks. Accessible via browsers on desktop and mobile, it offers a seamless experience without downloads or registration, focusing on battles and strategic growth.",
+      "howToPlayText": "Left Mouse Button = Move\nClick = Fight a boss\nL = Unlock the mouse",
+      "gameURL": "https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/little-big-fighters",
+      "genres": [
+        "io",
+        "action",
+        "multiplayer",
+        "survival",
+        "battleship",
+        "wrestling"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "arena-games",
+        "combat-games",
+        "desktop-games",
+        "indie-games",
+        "borwser-games",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c1e92c7-492a-403f-7281-e49555bfe300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b77c5ed4-3ac5-4279-0dfa-25b612d86900/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99499",
+      "slug": "shrinkzoneio",
+      "title": "shrinkzone.io",
+      "description": "Welcome to Shrinkzone, a lightning-fast, doodle-style battle royale where survival depends on your appetite! Start off as a tiny blob and devour food scattered across the map to grow larger and stronger. But beware — other players are doing the same. Use quick reflexes and clever movement to avoid the giants and hunt down the weak. As the shrinking safe zone forces players closer together, only the smartest and hungriest will survive. Are you ready to dominate the arena and claim the top spot?",
+      "howToPlayText": "Keyboard\n• Move – WASD \n\nMobile\n• Move – On-screen joystick",
+      "gameURL": "https://playgama.com/export/game/shrinkzoneio?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/shrinkzoneio",
+      "genres": [
+        "io",
+        "action",
+        "multiplayer",
+        "pvp"
+      ],
+      "tags": [
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d9550104-b55e-4661-2524-9ca2e72f6900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/28a6fdcc-05d1-413c-060f-a3a3e7d8f700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f3675c234bda4a53bce36778e9767275",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/shrinkzoneio?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

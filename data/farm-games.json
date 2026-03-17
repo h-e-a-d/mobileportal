@@ -1,0 +1,148 @@
+{
+  "category": "farm",
+  "count": 3,
+  "games": [
+    {
+      "id": "110373",
+      "slug": "get-off-my-farm",
+      "title": "Get Off My Farm!",
+      "description": "Protect your farm from relentless waves of mutant pests in this action-packed defense shooter!\nYour quiet farmland is swarmed by strange and dangerous creatures, and only your guns and quick reflexes can keep them away from your crops. Blast through incoming enemies and pick up temporary power-ups along the way — rapid-fire shots, explosive ammo, health refills, or extra energy for your electric fence.\n\nSurvive enough waves and the stage ends, giving you a choice of random upgrades: unlock new weapons, call in a crop duster airstrike, slow down enemy hordes, attract power-ups with a magnet, and more. As you advance, new heroes with unique styles and abilities become available.\n\nEvery run feels fresh thanks to randomized upgrades and ever-growing chaos. Can you hold the line and prove yourself as the ultimate defender of the farm?",
+      "howToPlayText": "Use arrow keys or WASD to move your character across the farm. On mobile, swipe the screen to move. Your weapon fires automatically, so just focus on dodging and aiming.",
+      "gameURL": "https://playgama.com/export/game/get-off-my-farm?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/get-off-my-farm",
+      "genres": [
+        "action",
+        "arcade",
+        "strategy",
+        "skill",
+        "shooting",
+        "popular",
+        "tower-defense",
+        "farm",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "3rd-person-shooter-games",
+        "heroes-games",
+        "apocalypse-games",
+        "defense-games",
+        "horde-survival-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b57c959c-5a99-4461-dfbc-10d1f64f9500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5a16272a-ec1f-4a37-4818-5cd9f5d1c200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "beab227205b546989748bc6b67e56209",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/get-off-my-farm?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86493",
+      "slug": "farmers-vs-aliens",
+      "title": "Farmers vs. Aliens",
+      "description": "Lead the animals to their enclosures, identified by green arrows and matching images. Keep them inside the green zone to prevent alien abductions! As the game progresses, it slows down at a certain point. If you don't gather the animals in time, aliens will arrive to take them. Leaving the green zone—whether it's you or the animals—will trigger a UFO to appear and abduct them. If aliens take more than two animals or capture you, it's game over. Stay fast and remain in the green zone to survive!",
+      "howToPlayText": "PC: Use the mouse to control the character. Clicking the left mouse button will make the player follow the cursor.\nMobile: Drag the on-screen joystick in the direction you want the character to move.\nGamepad: Move the left stick to make the character run in the direction of the tilt.",
+      "gameURL": "https://playgama.com/export/game/farmers-vs-aliens?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/farmers-vs-aliens",
+      "genres": [
+        "arcade",
+        "skill",
+        "animals",
+        "farm"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "defense-games",
+        "desktop-games",
+        "indie-games",
+        "controller-compatible-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/176f67d3-a002-4717-34b4-c0145e7e8a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/862256b4-c7ec-4381-9547-17173cabd900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "160323b674154c94bbd1ac602ca11c3f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/farmers-vs-aliens?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "108595",
+      "slug": "farm-business-saga",
+      "title": "Farm Business Saga",
+      "description": "Farm Business Saga is a captivating farming simulation game where players build and manage their dream farm. Perfect for nature lovers and strategy enthusiasts, this game lets you cultivate crops, raise livestock, produce goods, and expand your agricultural empire.\nWhat makes Farm Business Saga unique?\n✅ Addictive gameplay – Manage resources, trade, and grow into a farming tycoon.\n✅ Stunning graphics & intuitive controls – A visually pleasing experience for all ages.\n✅ Endless customization – Design your farm, village, and factory your way!\nWhether you're a casual player or a strategic mastermind, Farm Business Saga offers a relaxing yet challenging farming adventure!",
+      "howToPlayText": "Objective: Build a thriving farm business by growing crops, raising animals, producing goods, and selling them for profit. Expand your farm, unlock new opportunities, and become a farming mogul!\nKey Gameplay Mechanics:\n🌱 Plant & Harvest Crops – Choose your favorite crops, plant them, and sell for profit.\n🐄 Raise Livestock – Manage cows, chickens, and more to produce milk, eggs, and other goods.\n🏭 Produce & Sell – Process raw materials into high-value products in your factory.\n💰 Expand Your Farm – Unlock new lands, decorations, and upgrades to grow your empire.\nControls:\n🖱️ Tap & Drag – Interact with crops, animals, and buildings.\n📊 Menu Navigation – Use on-screen buttons to manage inventory, sales, and upgrades.\n⚙️ Strategy Planning – Balance resources to maximize profits and efficiency.\nWin by becoming the most successful farm entrepreneur—expand, innovate, and dominate the market!",
+      "gameURL": "https://playgama.com/export/game/farm-business-saga?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/farm-business-saga",
+      "genres": [
+        "strategy",
+        "simulation",
+        "tycoon",
+        "animals",
+        "management",
+        "farm",
+        "mobile"
+      ],
+      "tags": [
+        "customization-games",
+        "business-games",
+        "addictive-games",
+        "life-simulation-games",
+        "animal-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d6758ff1-5b2c-475f-99aa-bf418029d900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c571c307-3091-43a1-d656-4c8cab530c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "38fe5b1172a14fee828e9b3c0ea15bed",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/farm-business-saga?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

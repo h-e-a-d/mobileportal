@@ -1,0 +1,94 @@
+{
+  "category": "princess",
+  "count": 2,
+  "games": [
+    {
+      "id": "98046",
+      "slug": "ancient-dragons-princess-2546-1",
+      "title": "Ancient Dragons Princess",
+      "description": "Enter the magical realm of the Dragon Princess, Rennie, where elegance is paramount. Adorn her in lavish outfits, from velvet gowns to outfits suited for dragon riding. Customize a unique dragon for her, style her hair, add exquisite jewelry, and join Rennie on an extraordinary journey.",
+      "howToPlayText": "Choose outfits for the characters by tapping on them and save the photos to your device!jewelry will also impress you. Go on an adventure with the Dragon Princess!",
+      "gameURL": "https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ancient-dragons-princess-2546-1",
+      "genres": [
+        "adventure",
+        "girls",
+        "story",
+        "princess",
+        "anime",
+        "dragon",
+        "magic",
+        "rpg"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b27a9aff-14a8-4391-ad50-2c2c63471c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/88a2afee-dda3-4def-451a-f0cd63c74600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2f2396215f8645a58dcd6cc7935e0c86",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86271",
+      "slug": "anime-dress-playgama",
+      "title": "Dress Up Anime Girl",
+      "description": "Anime DressUp is a fun online game that lets you style a cute anime princess. With a variety of outfits, hairstyles, and makeup, you can unleash your creativity and fashion skills. Enjoy creating unique looks and make your princess a standout fashionista in her realm!",
+      "howToPlayText": "Create your perfect anime character!\nMake a screenshot and use it as your avatar.\n\nFeatures:\n1. Graphics in anime style\n2. 10 692 000 combinations of the appearance\n3. Many unusual items\n4. Cute cats\n5. Screenshot button\n6. Random button",
+      "gameURL": "https://playgama.com/export/game/anime-dress-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/anime-dress-playgama",
+      "genres": [
+        "girls",
+        "make-up",
+        "princess",
+        "dress-up",
+        "fashion",
+        "hair"
+      ],
+      "tags": [
+        "customization-games",
+        "creative-games",
+        "interactive-games",
+        "creativity-games",
+        "cute-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b743d17c-5c87-42df-e685-4e6454c94f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/db7ed1ea-2391-46bb-8432-47f32cad4300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c2c4ab13428c4a84853be873cf491d71",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/anime-dress-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

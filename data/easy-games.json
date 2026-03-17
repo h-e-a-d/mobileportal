@@ -1,0 +1,240 @@
+{
+  "category": "easy",
+  "count": 5,
+  "games": [
+    {
+      "id": "98679",
+      "slug": "obby-easy-grow-d85e-1",
+      "title": "Obby Easy Grow!",
+      "description": "Test your skills in a race against time!Adjust your character's size dynamically using the on-screen slider or the mouse wheel to navigate through obstacles and challenges. Hold the right mouse button to freely rotate the camera and explore your surroundings. Can you master the mechanics and complete the game before time runs out?",
+      "howToPlayText": "PC:\nShift - show cursor\nWASD - move.\nSpace - jump.\nTAB - pause.\nF - push the enemy\nMouse wheel forward/backward - change size\n\nPhone:\nUse the game interface",
+      "gameURL": "https://playgama.com/export/game/obby-easy-grow-d85e-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-easy-grow-d85e-1",
+      "genres": [
+        "arcade",
+        "adventure",
+        "skill",
+        "platform",
+        "obby",
+        "easy"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bf26c612-0719-45de-d7a2-6381b8993b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f0a3785d-e952-45b9-2d7f-facf50db9d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e4dd73e622b34552b834ad521184b8b6",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-easy-grow-d85e-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99666",
+      "slug": "candy-for-capybara",
+      "title": "Candy for capybara",
+      "description": "Capybara Wants a Candy!\nMatch identical marmalades to create bigger candies and earn coins.\nUse the crane to grab delicious treats for your capybara!\n\nGame Features:\n36 levels with increasing difficulty – from simple puzzles to challenging candy combinations.\n\nEndless high-score mode – compete with friends for the best candy-matching skills.\n\nJelly physics – watch candies bounce, stick, and deform as they collide.\n\nAdorable pet – the capybara reacts to your success (happy when fed, sad when you miss).\n\n",
+      "howToPlayText": "How to Play:\nMarmalade Candy Control:\n📱 Mobile:\n\nTouch & drag to move candies – release to drop them.\n🖥️ Desktop:\n\nMouse: Click & drag, release to throw.\n\nKeyboard: Arrow keys (← → ↑ ↓) + Space to drop.\n\nCrane Control:\n📱 Mobile:\n\nSlide your finger to move the crane – release to grab candy.\n🖥️ Desktop:\n\nMouse: Move cursor + click to grab.\n\nKeyboard: Arrow keys (← →) + Space to capture.",
+      "gameURL": "https://playgama.com/export/game/candy-for-capybara?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/candy-for-capybara",
+      "genres": [
+        "puzzle",
+        "kids",
+        "animals",
+        "clicker",
+        "easy"
+      ],
+      "tags": [
+        "endless-games",
+        "jelly-games",
+        "cute-games",
+        "collecting-games",
+        "unity-games-online",
+        "capybara-clicker"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/38fbe595-07dd-46fa-ea56-163a964da000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/90ab94e8-9416-4a16-8fa5-951a8cfb9500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "de68e6e77d254639a80eb7be4c3c639d",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "f7327e2cd08f4970ab10b077ea56d930",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/candy-for-capybara?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99484",
+      "slug": "stack-ball-3d",
+      "title": "Stack Ball 3D",
+      "description": "Break through countless platforms with the ball, but avoid hitting black spots or you'll lose. Try to hit as many platforms as you can to gain speedboost and become unstoppable",
+      "howToPlayText": "Controls: tap the phone screen, or press the left mouse button to make the ball start advancing downwards.",
+      "gameURL": "https://playgama.com/export/game/stack-ball-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stack-ball-3d",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "3d",
+        "popular",
+        "ball",
+        "easy",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "avoid-games",
+        "endless-games",
+        "breaking-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c7693cf-470b-4871-4900-5671defb0000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd90749f-0455-4e2d-5de9-d6c87149d700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2a4b5e19901945db96650c6e43527b96",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stack-ball-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99571",
+      "slug": "pop-it-3d",
+      "title": "Pop It 3D",
+      "description": "Players take turns pressing down any number of bubbles in a single row and consecutively. The player who presses the last bubble loses the game.",
+      "howToPlayText": "Click or tap on the cells you want to pop",
+      "gameURL": "https://playgama.com/export/game/pop-it-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pop-it-3d",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "kids",
+        "3d",
+        "pop-it",
+        "easy",
+        "bubble",
+        "mobile"
+      ],
+      "tags": [
+        "iphone-games",
+        "casual-games",
+        "relaxing-games",
+        "touchscreen-games",
+        "asmr-games",
+        "desktop-games",
+        "simple-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/36ff48c4-6ceb-40d5-8249-15bb66036400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3409928e-f76c-44d7-4027-b13fac53ae00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "20788da7d90e4de1b421b6a28970ede1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pop-it-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110013",
+      "slug": "mindblow",
+      "title": "Mindblow",
+      "description": "Welcome to Mindblow: Guess the Word! Experience a word-guessing game like no other, where every image cleverly hides a word. Unlike other games, this game isn’t just a mix of stock images, but we've carefully created each level’s image to challenge your brain! Discover the word through a concept creatively depicted in each picture.\n\nA New Kind of Puzzle: Forget what you know about word quiz games. In Mindblow: Guess the Word, each image has a special word for you to guess. It’s not just about looking at the picture, but understanding the clever idea behind it.",
+      "howToPlayText": "From easy peasy to brain-busters, we’ve got levels for every player. Earn coins for right guesses and use them for hints when stuck.\nGuess the Word handy on your device. New levels are added to Mindblow every month, so there’s always something fresh to enjoy.\nGuess the Word, start your journey of amazing pictures and satisfying word discoveries. Are you up for the challenge?",
+      "gameURL": "https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mindblow",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "words",
+        "educational",
+        "brain",
+        "classic",
+        "easy"
+      ],
+      "tags": [
+        "guessing-games",
+        "brain-training-games",
+        "visual-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2aff62bd-7bb5-4e83-dd23-45d73f684a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0c7df405-1770-4171-7a7c-d2a671f5de00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "272c8b8e2e7e4f66bb4fb69053b3601c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

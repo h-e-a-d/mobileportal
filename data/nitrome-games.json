@@ -1,0 +1,56 @@
+{
+  "category": "nitrome",
+  "count": 1,
+  "games": [
+    {
+      "id": "110692",
+      "slug": "car-destruction-king",
+      "title": " Car Destruction King",
+      "description": "Drive different cars, test your strength with rotating hammers, presses, catapults and other obstacles!\nTake part in the races and set new records.\nSlow down time for a more realistic crash.\nChoose different maps and different game modes!",
+      "howToPlayText": "Controls:\nTAB - pause menu (or Escape)\n\nDriving - WASD.\nSpacebar - handbrake.\nShift - nitro.\nC - change camera.\nR - reset car.\nK - restore car.\nN - switch car.\nB - slow motion.\n\nFor mobile devices, use the game interface.",
+      "gameURL": "https://playgama.com/export/game/car-destruction-king?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/car-destruction-king",
+      "genres": [
+        "action",
+        "racing",
+        "strategy",
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "nitrome",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "destruction-games",
+        "destroy-games",
+        "unity3d-games",
+        "crash-games",
+        "car-crash-games",
+        "demolition-cars-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5c773d5e-07dc-4f02-608c-c02dcd200f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ff784dd4-7281-401e-5695-bbabf76ff200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cdac251fb08c4fafb7bb056eadfa2623",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/car-destruction-king?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

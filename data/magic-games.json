@@ -1,0 +1,559 @@
+{
+  "category": "magic",
+  "count": 12,
+  "games": [
+    {
+      "id": "112605",
+      "slug": "jewel-magic",
+      "title": "Jewel Magic",
+      "description": "Magic jewels are here and all you have to do to get them is to match them together. Try to collect as many points as possible,  win in different levels, have fun and relax at the same time.",
+      "howToPlayText": "Swap and match 3 jewels of identical color to remove them. Match 3 or more jewels in a row to create special bombs and get more points. If you need help, try using the obtained power-ups. Gather enough points to win before you run out of moves or time. ",
+      "gameURL": "https://playgama.com/export/game/jewel-magic?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/jewel-magic",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "strategy",
+        "skill",
+        "mouse",
+        "magic",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "jewel-games",
+        "relaxing-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f1e4afe4-74f6-4592-88b0-9a761b977e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/00eff11a-7fad-4f35-02be-292a29f84700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b786037812b107b0cf8019289b7852e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/jewel-magic?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63927",
+      "slug": "broomcraft-mystic-evasion",
+      "title": "Broomcraft Mystic Evasion",
+      "description": "Broomcraft Mystic Evasion is an engaging survival game where you fly on a magic broom, fighting waves of enemies. Play online for free, hone your skills, unlock spells, and upgrade brooms. Choose between practice or endless challenge modes. Experience the captivating adventure and see how long you can endure!",
+      "howToPlayText": "PC Controls\nWASD or Arrows = movement\nSpace = broom leap / rush\nZ = choose to take the first spell\nX = choose to take the second spell\nC = choose to take the third spell\nMobile Controls\nJoystick = movement\nRush Button = leap/ rush",
+      "gameURL": "https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/broomcraft-mystic-evasion",
+      "genres": [
+        "io",
+        "action",
+        "adventure",
+        "survival",
+        "magic",
+        "halloween",
+        "megaspel"
+      ],
+      "tags": [
+        "top-down-games",
+        "iphone-games",
+        "survivors-games",
+        "addictive-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "horde-survival-games",
+        "open-world-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/273ea2a7-f872-4eaf-bf29-02f384ae1a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6bfe3b1b-3a8f-4507-3289-1ab30812fe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ac9fce3983a24d9dac8bf880b405cfb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97639",
+      "slug": "luna-and-the-magic-maze",
+      "title": "Luna And The Magic Maze",
+      "description": "Join Luna in her enchanting quest through a mystical autumn forest in \"Luna And The Magic Maze.\" Solve mazes, collect magical artifacts, and uncover secrets. Each stage presents fresh challenges, proving that willpower can be as powerful as magic, whether you play on your phone or computer.",
+      "howToPlayText": "Move using WASD or arrow keys.  \nHave a great journey!",
+      "gameURL": "https://playgama.com/export/game/luna-and-the-magic-maze?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/luna-and-the-magic-maze",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "maze",
+        "magic"
+      ],
+      "tags": [
+        "iphone-games",
+        "fantasy-games",
+        "obstacle-games",
+        "brain-out-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0174d0ab-5f1e-4aa8-6841-616af3bb2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/db09abf4-eb27-45c0-17e3-c270b10ef800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7e6b0ed3417c4369ac6e69313044348c",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "71a89535e11f4579a52c9df0cfdc2f6d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/luna-and-the-magic-maze?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64022",
+      "slug": "emerland-solitaire",
+      "title": "Emerland Solitaire",
+      "description": "     Welcome to the wonderful country of Emerland! \n     Dive deep into the world of magical tale where great mages battle for the Source of the ancient magic of the Cards! Explore mysterious lands accompanied by heroes that include a noble Knight, an Elven Archeress and a mystical Sorceress to defeat the malevolent Dark Master! \n     Solve puzzles and collect combinations to complete difficult and varied levels! Get rewards and find new assistants! \nUse the left mouse button to interact with in-game UI.",
+      "howToPlayText": "     Welcome to the wonderful country of Emerland! \n     Dive deep into the world of magical tale where great mages battle for the Source of the ancient magic of the Cards! Explore mysterious lands accompanied by heroes that include a noble Knight, an Elven Archeress and a mystical Sorceress to defeat the malevolent Dark Master! \n     Solve puzzles and collect combinations to complete difficult and varied levels! Get rewards and find new assistants! \nUse the left mouse button to interact with in-game UI.",
+      "gameURL": "https://playgama.com/export/game/emerland-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emerland-solitaire",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "cards",
+        "solitaire",
+        "pve",
+        "magic",
+        "brain"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "fantasy-games",
+        "medieval-games",
+        "challenging-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fffceace-0b2b-43c6-4f65-43a40afa1f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/af67e778-3b2c-4392-17fd-2494aa9b5800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "33b813ef542a4455b8187288d398bdfa",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emerland-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109799",
+      "slug": "diamant-match-3-sky-story",
+      "title": "Diamant: Match 3 Sky Story",
+      "description": "A fun adventure with match 3 elements. Create your own soaring city in the sky\n\nAn exciting adventure in the world of Diamant with match 3 elements.\n\n- Create special combinations and summon powerful helpers who will help you clear any, even the most difficult field!\n- Expand your island, study the blueprints and equip it with extraordinary buildings, create your own soaring city.\n- 8 types of helper golems, and each has its own superpower, which in addition can be developed!",
+      "howToPlayText": "Line up three or more colorful gems to achieve your goals and solve challenging puzzles!\n\nPrepare to face a variety of obstacles - from solid stone blockades and pesky bees to adorable spiders, sticky webs, rushing rivers, and more! Delve into ancient riddles, discover hidden blueprints, and protect your very own floating island - an enchanting haven you can grow and expand.\n\nEarn valuable artifacts as you conquer levels and complete diverse quests to upgrade your town and decorate it with unique, eye-catching items.\n\nCall upon helpful Golem companions on your journey and become a true hero in this magical Match-3 adventure!",
+      "gameURL": "https://playgama.com/export/game/diamant-match-3-sky-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/diamant-match-3-sky-story",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "adventure",
+        "match-3",
+        "strategy",
+        "skill",
+        "story",
+        "magic",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "fantasy-games",
+        "customization-games",
+        "jewel-games",
+        "color-matching-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c28fe68c-3a6c-43ee-84a9-d8bf8b860400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6656b072-9db9-4af8-7df6-1e3ce3e48800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "18ddf5be66264e90aa57e7eba4c36369",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/diamant-match-3-sky-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98046",
+      "slug": "ancient-dragons-princess-2546-1",
+      "title": "Ancient Dragons Princess",
+      "description": "Enter the magical realm of the Dragon Princess, Rennie, where elegance is paramount. Adorn her in lavish outfits, from velvet gowns to outfits suited for dragon riding. Customize a unique dragon for her, style her hair, add exquisite jewelry, and join Rennie on an extraordinary journey.",
+      "howToPlayText": "Choose outfits for the characters by tapping on them and save the photos to your device!jewelry will also impress you. Go on an adventure with the Dragon Princess!",
+      "gameURL": "https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ancient-dragons-princess-2546-1",
+      "genres": [
+        "adventure",
+        "girls",
+        "story",
+        "princess",
+        "anime",
+        "dragon",
+        "magic",
+        "rpg"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b27a9aff-14a8-4391-ad50-2c2c63471c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/88a2afee-dda3-4def-451a-f0cd63c74600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2f2396215f8645a58dcd6cc7935e0c86",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ancient-dragons-princess-2546-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99290",
+      "slug": "tower-necromancers-f3d1-1",
+      "title": "Tower Necromancer's",
+      "description": "You are a necromancer living in a tower, but the local kingdom sees you as a threat. They continuously attack, trying to destroy your tower. Defend against relentless waves of enemies, master dark magic to summon skeletons and zombies, upgrade and expand your tower, and develop strategies to counter different enemy types.",
+      "howToPlayText": "On mobile, use your finger to grab and throw enemies. On desktop, use the mouse to pick up and launch them into the air.",
+      "gameURL": "https://playgama.com/export/game/tower-necromancers-f3d1-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tower-necromancers-f3d1-1",
+      "genres": [
+        "adventure",
+        "strategy",
+        "tower-defense",
+        "magic"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9612bbf1-f450-4137-64dc-d7451c1f3600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/075085a1-be7b-41bb-9487-9834e4ef7b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0740b95b539c42bfa85ecd80c3314895",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tower-necromancers-f3d1-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109459",
+      "slug": "gods-mixer",
+      "title": "Gods Mixer",
+      "description": "Gods Mixer is a fun and experimental game where you combine different heads, bodies, and weapons to create unique characters. After assembling them, you can pit them against each other in battles to see which creation reigns supreme. The game encourages creativity through mixing and matching parts for unexpected results.\n\n? Mix & Match Creativity\nCombine heads, bodies, and more to create your own unique god-like characters.\nEach combination produces a different look and potential battle outcome.\n⚔️ Auto-Battle Arena\nWatch your creations automatically fight against others to prove their supremacy.\nSit back and enjoy the chaos, or refine your mix for a stronger build.\n? Endless Combinations\nThousands of possible combos.\nLet your imagination run wild—create funny, powerful, or bizarre beings.",
+      "howToPlayText": "Drag and drop with a mouse is when you:\n\nMove the cursor over an item.\n\nPress and hold the left mouse button (don’t release yet).\n\nMove the mouse to drag the item to a new position.\n\nRelease the button to drop it in place.",
+      "gameURL": "https://playgama.com/export/game/gods-mixer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/gods-mixer",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "simulation",
+        "magic"
+      ],
+      "tags": [
+        "customization-games",
+        "creative-games",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/365be75f-1bd5-4f68-8106-9aa419142c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7b375ad6-6a4e-4c1f-d561-345f66166d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5e75083582044ff38c4a0915e3befece",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/gods-mixer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110788",
+      "slug": "mage-adventure-mighty-raid",
+      "title": "Mage Adventure: Mighty Raid",
+      "description": "The game is simple but addictive: just aim and throw projectiles at enemies to clear wave after wave. As you progress, you'll unlock a variety of projectiles—each with its own unique twist. \n\n",
+      "howToPlayText": "Tap on the screen to set per direction for projectiles. Unlock new ones and enjoy the new possibilities!",
+      "gameURL": "https://playgama.com/export/game/mage-adventure-mighty-raid?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mage-adventure-mighty-raid",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "magic",
+        "mobile"
+      ],
+      "tags": [
+        "addictive-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/50c6f7e7-8720-4204-052b-1bb6d829b100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1b211532-3d59-4346-0374-d1fdf1df5000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cb08ebf16ba14ebfa735b8a576004c8c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mage-adventure-mighty-raid?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111348",
+      "slug": "besties-on-wednesday",
+      "title": "Besties on Wednesday",
+      "description": "A young bestie goes to school to learn magic and make new friends. She has her own special style. The girl prefers black colors in clothes and a gothic look. Her roommate likes bright colors in her clothes. It will not be easy for new acquaintances to find a common language. However, this bright girl is not as simple as it seems at first glance. She has her secrets. Try to choose for each student an image that suits her perfectly. And one day these besties will be BFF.",
+      "howToPlayText": "Fate brings together two very different girls-students in the walls of the School of Magic. Help the girls create their own unique image: choose make up, hairstyles, outfits and accessories, that match the characters of the girls. And, perhaps, they will eventually become best friends. The result can be saved as a PNG image. Depending on the gaming device, a computer mouse click or a simple touch on touch screen is used for control.",
+      "gameURL": "https://playgama.com/export/game/besties-on-wednesday?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/besties-on-wednesday",
+      "genres": [
+        "girls",
+        "make-over",
+        "story",
+        "make-up",
+        "dress-up",
+        "decoration",
+        "magic",
+        "fashion",
+        "mobile"
+      ],
+      "tags": [
+        "school-games",
+        "hairdressing-games",
+        "customization-games",
+        "cute-games",
+        "beauty-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/63348739-b43e-429a-a43a-cb3e3467b500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c7866f07-95e1-42e2-6b4e-b96e79c05c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b5ed84268c00b96f55dab68f93ca8566",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/besties-on-wednesday?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111284",
+      "slug": "magic-circus-match-3",
+      "title": "Magic Circus - Match 3",
+      "description": "Magic Circus Three in a Row is an exciting game with many levels and different attachments!\nImmerse yourself in the mystical atmosphere of the circus and overcome many obstacles and thugs. Complete the levels and collect treasures and crystals 3 in a row!\nGame Features:\nLarge beautiful crystals - Three in a row the game is great for adult players!\nThere are a huge number of levels and several different sets of levels - to complete, to master animals, and a new set with unique obstacles!\nGet bonuses and gold for completing levels!\nLots of crystals, power-ups and obstacles!\nNo time limits, lives, or attempts - play as much as you want!\nA special mysterious world awaits you, which everyone dreams of looking through the doors. The atmosphere of the game will capture you from the first minute!\nThe magic has already begun!",
+      "howToPlayText": "Swap crystals in order to collect three identical crystals in a row! Smash obstacles to complete the level goals! Use bonuses and make magical combinations with unique effects!",
+      "gameURL": "https://playgama.com/export/game/magic-circus-match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/magic-circus-match-3",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "matching",
+        "magic",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "jewel-games",
+        "mystery-games",
+        "obstacle-games",
+        "color-matching-games",
+        "collecting-games",
+        "circus-games",
+        "diamonds-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c533a25e-7bef-4674-ca2f-10c6c292bb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/771afee5-c555-4503-5dd0-9abdd079f000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "63ca1cb6da514b8e9893f6918c079ab2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/magic-circus-match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111904",
+      "slug": "telekinetic-pumpkin",
+      "title": "Telekinetic Pumpkin",
+      "description": "Telekinetic Pumpkin is an arcade game where an experiment aimed at creating a magnificent, oversized pumpkin for Halloween takes an unexpected turn, resulting in the creation of a telekinetic pumpkin.\n\n\nYou’re a Pumpkin that teleports and moves objects with its mind! Destroy drones by smashing them, and collect power-ups to stay alive. Select your upgrades and try to survive as long as possible.",
+      "howToPlayText": "Double-click on a location to teleport. Click and drag anything to move it with your mind (boxes, enemies, or power-ups). Every 35 seconds, you can select a random upgrade or ability to help you survive longer.",
+      "gameURL": "https://playgama.com/export/game/telekinetic-pumpkin?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/telekinetic-pumpkin",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "adventure",
+        "strategy",
+        "skill",
+        "platform",
+        "magic",
+        "halloween"
+      ],
+      "tags": [
+        "fantasy-games",
+        "highscore-games",
+        "challenging-games",
+        "1-player-games",
+        "horde-survival-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/60b39195-a9cc-4e3a-c62e-6838bc504600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/59f26e06-494e-4e32-19af-f66c22ca6400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "56d4e1bb62254c31550ed233f247888b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/telekinetic-pumpkin?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "category": "papas",
+  "count": 1,
+  "games": [
+    {
+      "id": "86391",
+      "slug": "my-town-home-family-playhouse",
+      "title": "My Town Home: Family Playhouse",
+      "description": "Discover **My Town Home: Family Playhouse**, a vibrant online dollhouse adventure that sparks your imagination. Explore six unique rooms, create family narratives, and enjoy activities like cooking and gardening. Play for **free** on your phone or computer and craft your ideal virtual family experience.",
+      "howToPlayText": "The navigation in this game is very simple.\nOn desktop: use the mouse click.\nOn mobile: use your finger tap.",
+      "gameURL": "https://playgama.com/export/game/my-town-home-family-playhouse?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/my-town-home-family-playhouse",
+      "genres": [
+        "adventure",
+        "girls",
+        "kids",
+        "papas",
+        "cooking"
+      ],
+      "tags": [
+        "minigames",
+        "creative-games",
+        "interactive-games",
+        "life-simulation-games",
+        "cute-games",
+        "desktop-games",
+        "rolling-games",
+        "family-games",
+        "building-games",
+        "borwser-games",
+        "virtual-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8c315efa-65c6-421d-6f7c-52849995a200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/49e71097-2be1-472c-66a5-c3ba20cb0900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0801196b79604cb0aefb2ac21f04eef5",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/my-town-home-family-playhouse?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

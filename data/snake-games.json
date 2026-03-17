@@ -1,0 +1,280 @@
+{
+  "category": "snake",
+  "count": 6,
+  "games": [
+    {
+      "id": "86383",
+      "slug": "snake-2048-64be-1",
+      "title": "Snake 2048",
+      "description": "Snake 2048 is a fun online game where you start with a small cube and grow by consuming weaker snakes while avoiding stronger ones. Accessible on multiple platforms, it merges classic snake gameplay with strategic 2048 elements, providing engaging action for all types of players.",
+      "howToPlayText": "Eat cubes that are smaller or your mass. You lose if you crash into a cube of a larger mass. Become a giant!\n\nDesktop:\nThe snake turns with the cursor.\n\nMobile:\nUse the joystick to rotate the snake.",
+      "gameURL": "https://playgama.com/export/game/snake-2048-64be-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-2048-64be-1",
+      "genres": [
+        "io",
+        "multiplayer",
+        "snake"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "collection-games",
+        "pixel-games",
+        "borwser-games",
+        "unity-games-online",
+        "snake-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fda56bdd-8bdf-449b-08cc-9ae1f4e08200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4d6d283c-b5af-4a82-0257-27d5725b9100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "017a2063136b4f8481f3c8659e25214f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-2048-64be-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112132",
+      "slug": "cubic-coil",
+      "title": "Cubic Coil",
+      "description": "Guide a green-black voxel snake inside a rotatable cube. Spin both snake and cube to line up moves, collect voxel fruit squares and rare big fruits for bonus points. Classic Snake rules, reimagined in 3D with a crisp green backdrop.",
+      "howToPlayText": "PC: Rotate cube with WASD. Steer snake with Arrow Keys.\nMobile: Swipe on the left side to rotate the cube; swipe on the right side to steer the snake.",
+      "gameURL": "https://playgama.com/export/game/cubic-coil?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cubic-coil",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "3d",
+        "snake",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "hardcore-games",
+        "brain-training-games",
+        "interactive-games",
+        "mind-games",
+        "desktop-games",
+        "isometric-games",
+        "1-player-games",
+        "geometry-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2f5d6c43-1494-4e01-4a46-4f9c16077200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/672ddeab-9fee-4a60-d17b-48034eb3d300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "98605c868776cb34e7e060a834de6abf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cubic-coil?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111034",
+      "slug": "snake-tangle",
+      "title": "Snake Tangle",
+      "description": "Welcome to Snake Tangle, a thrilling and addictive puzzle game that will put your strategic thinking and problem-solving skills to the test!\nIn Tangled Snake, Your mission is to guide a mischievous snake through a tangled mess of obstacles and help it reach its tasty prey.\n\nSnake Tangle features multiple levels of increasing difficulty. Each level presents a new maze layout, with more complex obstacles and narrower paths. As you progress, you'll face additional challenges such as moving barriers, time limits, and limited swipes, adding an extra layer of excitement and urgency to the gameplay.\nSnake Tangle offers an engaging and challenging gameplay experience that will captivate puzzle enthusiasts and snake game lovers alike. So, get ready to twist, turn, and strategize your way through a tangled maze in this thrilling adventure!\n",
+      "howToPlayText": "To successfully navigate through the tangled maze, you'll need to carefully plan each move and consider the snake's current length and positioning.\nThe snake can only move in a straight line until it hits an obstacle or the maze's boundary, forcing you to plan the path ahead and avoid getting trapped.",
+      "gameURL": "https://playgama.com/export/game/snake-tangle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-tangle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "snake",
+        "maze",
+        "retro",
+        "classic"
+      ],
+      "tags": [
+        "obstacle-games",
+        "exciting-games",
+        "challenging-games",
+        "1-player-games",
+        "timing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0dd2c513-ee7f-4659-b340-d5d9fba69000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4e83fe3e-fa2d-46f9-55af-16494cd3e200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "133afd6c423047c79acd1d5ff270c1ac",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-tangle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109823",
+      "slug": "snake-out",
+      "title": "Snake Out",
+      "description": "Embark on a colorful puzzle adventure in Snake Out! \nWhether you're a casual gamer or a puzzle enthusiast, Snake Out offers a captivating experience that's fun, challenging, and endlessly rewarding. Can you master the art of Snake Out and escape every level?",
+      "howToPlayText": "Control Snakes of different colors and lengths, and guide them to their holes before time runs out. \nWith intuitive drag and move mechanic, each level offers a unique challenge to test your strategic thinking.\n",
+      "gameURL": "https://playgama.com/export/game/snake-out?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-out",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "mouse",
+        "snake",
+        "popular",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "challenging-games",
+        "snake-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cac3abcf-12ab-45b3-0c4b-6b83f758f900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c5892c68-c372-457b-0832-bd6f958aa100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2448afbc1bd949aab4b3466d6b291eb2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-out?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110342",
+      "slug": "snakes",
+      "title": "SNAKES",
+      "description": "SNAKES is a fun and relaxing puzzle game where you guide colorful snakes to fill the entire board. With over many handcrafted levels, the game challenges your mind with clever layouts that get trickier as you progress. The minimalist art style and amusing background music make it enjoyable for all ages. Play at your own pace or compete with friends to see who can solve the puzzles faster. If you love brain teasers, logic puzzles, or casual games, SNAKES is the perfect choice!",
+      "howToPlayText": "Move the Snakes, Fill the Board.\nNavigate multiple snakes across the board to fill in all empty spaces, completing each level’s grid.\nClear visuals so you can focus on solving the puzzle, not distraction",
+      "gameURL": "https://playgama.com/export/game/snakes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snakes",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "snake",
+        "brain"
+      ],
+      "tags": [
+        "casual-games",
+        "relaxing-games",
+        "brain-training-games",
+        "challenging-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/655d0c62-ac35-4dfd-3353-99af7beaf500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3f6f89bb-ea1f-489b-2441-b7fb0f828100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a4767f8d895a482e88be8baf2a4f1d4c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snakes?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99685",
+      "slug": "snake-of-balls",
+      "title": "Snake of Balls",
+      "description": "Chase a tricky snake in this thrilling online game! It speeds up and moves unpredictably. Every mistake you make feeds it. Can you keep up and outsmart the chaos? Play now and test your reflexes!",
+      "howToPlayText": "Hunt the snake, which at first glance seems like easy prey.\nBut, it's not like that!\nThe snake will accelerate and move along a chaotic trajectory, and each of your mistakes will become food for it.",
+      "gameURL": "https://playgama.com/export/game/snake-of-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-of-balls",
+      "genres": [
+        "action",
+        "skill",
+        "multiplayer",
+        "snake",
+        "survival",
+        "classic",
+        "mobile"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea0c9e87-8771-48fc-26b9-ce318b1e2c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/93621e1d-6e68-41b2-72e2-795bcf391d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "50afcab8fc454f2bb387af1c7924e45e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-of-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

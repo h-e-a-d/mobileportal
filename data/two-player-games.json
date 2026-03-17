@@ -1,0 +1,521 @@
+{
+  "category": "two-player",
+  "count": 11,
+  "games": [
+    {
+      "id": "86262",
+      "slug": "master-chess",
+      "title": "Master Chess",
+      "description": "Sharpen your tactics to defeat the king in this classic game. Compete online with either the AI or players from around the world. Aim for victory!",
+      "howToPlayText": "On desktop: click the piece you want to move and then click the square on the board where you want to positionate the piece.\n\nOn mobile: tap the piece you want to move and then tap the square on the board where you want to positionate the piece.",
+      "gameURL": "https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-chess",
+      "genres": [
+        "two-player",
+        "multiplayer",
+        "chess",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "turnbased-games",
+        "interactive-games",
+        "rts-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/584d459d-be49-44e2-b09b-04b10a241900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d00b16b-8a23-45dc-7543-1a7db0be8d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "066b3bab8a1c460cbc5d057dbbe37125",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111547",
+      "slug": "english-checkers-online-multiplayer",
+      "title": "English Checkers Online Multiplayer",
+      "description": "**English Checkers Online Multiplayer: Challenge Your Mind and Master the Game!**\n\nAre you ready to dive into the world of strategy and logic? English Checkers Online Multiplayer offers an exciting experience for checkers enthusiasts of all levels! Play for free and without registration — choose your opponent and sharpen your skills in this classic game.\n\n**Why choose English Checkers Online Multiplayer?**\n\n- **Multiple game modes:**\n  - play against a powerful computer engine with 10 difficulty levels (from Beginner to World Champion);\n  - compete online with real players and climb the rating ladder;\n  - enjoy a friendly match with a friend on the same screen.\n\n- **Engaging features:**\n  - display of possible moves to help plan your strategy;\n  - interactive tips to improve your gameplay;\n  - move undo option — fix your mistakes and try again;\n  - game analysis after each match — identify your mistakes and learn from them;\n  - selection of time control modes: unlimited, bullet, blitz, rapid, classic;\n  - option to choose the side (black or white) before starting the game;\n  - handicap options, such as making captures mandatory.\n\n- **Game rules and mechanics:**\n  - capture your opponent’s checkers by jumping over them — if there’s an empty square behind the opponent’s checker, you can jump and land there;\n  - regular checkers move diagonally forward one square and can only move forward;\n  - when a checker reaches the last row, it is crowned and becomes a king, which can move diagonally both forward and backward;\n  - kings can capture multiple opponent’s checkers and must continue capturing as long as possible;\n  - jumps are mandatory, and if there are several options, you can choose any of them;\n  - you win by capturing all of your opponent’s checkers or completely blocking them so they can’t move.\n\n- **Personalized experience:**\n  - choose the design of checkers and the board to make the game visually appealing;\n  - view the move history to review your past games;\n  - exchange emotions with your opponent and make the game more enjoyable.\n\n- **Additional thrill:**\n  - make bets and win gold from your opponents — add an extra layer of excitement to your matches!\n\n**Join English Checkers Online Multiplayer now and become a checkers master!**",
+      "howToPlayText": "**How to Play English Checkers**\n\nEnglish Checkers is a strategic board game where players aim to capture their opponent’s checkers or block them completely. Here’s how to get started and understand the basic rules:\n\n**Game Objective**\nThe goal is to either capture all of your opponent’s checkers or completely block them so they can’t make any legal moves.\n\n**Types of Checkers**\n- **Simple checker:** moves diagonally forward one square and can only capture forward.\n- **King:** can move diagonally both forward and backward on any free square and can capture in both directions. When a simple checker reaches the last row, it becomes a king and gains these additional abilities.\n\n**Basic Movement and Capture Rules**\n1. **Movement:**\n- simple checkers move diagonally forward one square at a time;\n- kings can move diagonally in any direction on any free square.\n\n2. **Capture:**\n- if your checker is next to your opponent’s checker and there’s an empty square behind it, you must jump over the opponent’s checker and land in the empty square, capturing the opponent’s piece;\n- captures are mandatory — if you have the option to capture, you must do so;\n- if a capture leads to another possible capture, you must continue capturing as part of the same turn until no more captures are possible;\n- when a simple checker reaches the last row during a capture, it becomes a king but cannot make further moves in the same turn.\n\n3. **Choosing Capture Options:**\n- if there are multiple capture options available, you can choose which one to make;\n- the «Turkish strike» rule means that a checker that has been beaten but not yet removed from the board can block the path of a king or another checker.\n\n**Winning the Game**\nYou win the game by:\n- capturing all of your opponent’s checkers;\n- blocking your opponent so that they have no legal moves left.\n\n**Getting Started in English Checkers Online Multiplayer**\n1. **Choose your game mode:** play against the computer, compete online with real players, or play with a friend on the same screen.\n2. **Select your difficulty level or opponent:** if playing against the computer, choose from 10 difficulty levels; if playing online, find a real opponent.\n3. **Choose your side:** select whether you want to play as black or white.\n4. **Start playing:** follow the rules of movement and capture to outmanoeuvre your opponent and achieve victory.\n\nEnjoy the game and sharpen your strategic skills with English Checkers Online Multiplayer!",
+      "gameURL": "https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/english-checkers-online-multiplayer",
+      "genres": [
+        "strategy",
+        "skill",
+        "two-player",
+        "multiplayer",
+        "checkers",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "multiple-players-games",
+        "brain-training-games",
+        "challenging-games",
+        "competitive-games",
+        "chekers-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8b1e8ef1-074c-46da-700f-3078206f3d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8ed73055-d1f3-4b59-51cd-046d8ffe4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "308d931b0a224faaac5d0ef230a11d39",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/english-checkers-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63967",
+      "slug": "zombie-space-episode-ii",
+      "title": "Zombie Space Episode II",
+      "description": "NEW ISSUE OF GALACTIC NEWS\n\nZOMBIE APOCALYPSE ON THE RED PLANET...\n- Zombie virus has spread among civilians.\n- Rescuers found survivors among the zombies.\n- The galactic government has urgently gone on vacation.\n\n★★★\nA zombie virus outbreak has occurred on the space station. The first group of mercenaries disappeared. Your task is to find survivors among the zombies and find out the cause of the zombie apocalypse. You have to fight a horde of zombies using various types of weapons. Look for hidden weapons in chests. Upgrade characters and weapons! Use the abilities of the characters in hot battles against zombies. Play with a friend on the same device or solo!\n★★★",
+      "howToPlayText": "The goal of the game is to destroy all zombies and monsters.\nFind new weapons in the boxes.\nUpgrade characters and weapons to defeat strong enemies.\n\nQ (K) - change weapons;\nW, A, S, D (arrows) - move;\nE (M) - apply / activate;\nF (J) - super weapon.\nX, Space (L, KeyPad 0) - shooting;\nMouse - look / shoot;\nFor mobile devices, use touch input.",
+      "gameURL": "https://playgama.com/export/game/zombie-space-episode-ii?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-space-episode-ii",
+      "genres": [
+        "action",
+        "adventure",
+        "two-player",
+        "shooting",
+        "co-op",
+        "zombie",
+        "survival",
+        "scary",
+        "halloween"
+      ],
+      "tags": [
+        "2d-games",
+        "survivors-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "horde-survival-games",
+        "borwser-games",
+        "unity-games-online",
+        "2-player-zombie"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9862abb4-8bba-4d39-2dbc-d8f8c6565800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/062d807f-79fd-4fe1-1141-9ae46a6e4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8a118c8dda5a4f19b040cae184b8d512",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-space-episode-ii?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86412",
+      "slug": "ragdoll-soccer",
+      "title": "Ragdoll Soccer",
+      "description": "Enter the thrilling world of Ragdoll Soccer, where you command a stick figure footballer in exciting games. Aim to outscore rivals and become a champion, whether playing alone or with a friend, offering nonstop enjoyment on your phone or computer.",
+      "howToPlayText": "Play football with a stickman! A fun 2D sports game for one or two players!\nControl the stickman like a doll and hit the ball to score a goal against the opponent.\n\nFeatures of the game:\n - single player mode\n- local multiplayer for two players\n - Championship mode\n - The game has boosters and abilities!\n - penalty shootout mode\n\nTo play with a PC, you can use:\n- keyboard (WASD +QE)\n- mouse\n- gamepad\nTo play from your phone, use touch input",
+      "gameURL": "https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ragdoll-soccer",
+      "genres": [
+        "action",
+        "sports",
+        "two-player",
+        "penalty",
+        "henry-stickmin",
+        "unity",
+        "stickman"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "desktop-games",
+        "family-games",
+        "controller-compatible-games",
+        "pixel-games",
+        "borwser-games",
+        "2-player-soccer",
+        "2-player-sports",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aad5362e-36ed-4c47-4c6d-a6e1da2db100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/859018fb-3e5a-4e4c-4e17-3d3b06290b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6dcb5bacbd7941cfbe9ba84680910aa9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ragdoll-soccer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112424",
+      "slug": "ludo-legend",
+      "title": "Ludo Legend",
+      "description": "Play a game of Ludo! Everyone's favorite board game! Play alone or with your friends on one device! Just pass it on! Colorful design and easy mechanics will keep you playing for hours! ",
+      "howToPlayText": "Get your tokens from start to finish with rolls of a die. First, release them on the roll of 6. Roll a die and decide which token you move. Get all of them into a safehouse first and you win! But watch out, your opponents can kick your token back to their starting position when they land on the spot with one of your tokens! ",
+      "gameURL": "https://playgama.com/export/game/ludo-legend?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ludo-legend",
+      "genres": [
+        "puzzle",
+        "two-player",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "1-player-games",
+        "family-games",
+        "2-player-dice"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/643b25d7-0326-4793-64bd-94e97e682900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ac52e38b-4fe6-4b0f-ae44-942fae3cd600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "df1b5c8c103516ed7d494a829f6e66d0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ludo-legend?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86486",
+      "slug": "bombaman-3d-a2de-1",
+      "title": "BOMBAMAN 3D",
+      "description": "Dive into an exhilarating 3D journey with BOMBAMAN 3D! Tackle complex mazes, strategically use bombs to clear paths, and defeat fearsome enemies. Discover power-ups, find the secret exit, and face challenging bosses, all while enjoying an engaging solo or multiplayer adventure on your devices.",
+      "howToPlayText": "🕹️ Use W A S D or Arrow keys to move\n\n💣 Press Spacebar to place a bomb\n\n⏲️ The bomb explodes after 3 seconds. Bombs placed side by side trigger each other 🔥\n\n⏳ You have 99 seconds for each level. Collect clocks from boxes to extend this time ⏰\n\n🔧 You can increase the number and range of bombs with various power-ups\n\n👾 You need to hit the boss 3 times with bombs to defeat it",
+      "gameURL": "https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bombaman-3d-a2de-1",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "two-player",
+        "3d",
+        "multiplayer",
+        "maze",
+        "monster"
+      ],
+      "tags": [
+        "iphone-games",
+        "desktop-games",
+        "bomb-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b429599a-dfcd-4ccf-f857-ad455ddc2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/91a6b52f-693b-4daf-b7e9-ab5b870b0a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "497ed981a981423ca47a3df5c56ed31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99729",
+      "slug": "master-checkers-25e9-1",
+      "title": "Master Checkers",
+      "description": "Play Checkers, the classic two-player board game! Make diagonal moves, eliminate opponents, and crown your piece as a king. Challenge the computer, a local player, or opponents worldwide in this exciting Italian Checkers version!",
+      "howToPlayText": "Moves are only allowed on dark squares, so pieces always move diagonally. Single pieces are always restricted to moving forward (towards the opponent).\nCapture pieces by jumping.\nA piece that makes a capture (jump) jumps over one of the opponent's pieces and lands in a straight diagonal line on the other side. Only one piece can be captured in one jump; however, multiple jumps are allowed in one move.\nJumps (or captures) are mandatory.\nIf a player can make a capture, the jump must be made.\n\nWhen a piece reaches the furthest row from the player who controls it, it becomes a king and can move either forward or backward.",
+      "gameURL": "https://playgama.com/export/game/master-checkers-25e9-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-checkers-25e9-1",
+      "genres": [
+        "skill",
+        "two-player",
+        "checkers",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "chekers-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1697e189-1dfe-4ad2-7d1a-40dcada80f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e1ccd169-f2ca-4dd4-049a-c7df44018800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2e27123963ca4e29a605e63be99eeefa",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-checkers-25e9-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98051",
+      "slug": "backgammon-feef-1",
+      "title": "Backgammon",
+      "description": "Discover the captivating game of Backgammon, where strategy and skill are key. Navigate your pieces to eliminate them before your rival does. Enjoy playing this timeless game online for free on your device, and strive to become a Backgammon champion!",
+      "howToPlayText": "Roll the dice and move your piece.\nThe winner is the one who removes all of his chips from the board before the opponent.\nBe careful! It's not just luck. In the long term, strategy plays a more important role.",
+      "gameURL": "https://playgama.com/export/game/backgammon-feef-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/backgammon-feef-1",
+      "genres": [
+        "two-player",
+        "backgammon",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "luck-games",
+        "2-player-board"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a8d02436-7f15-4f8f-6a99-c34e34bb0b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c64c4657-b14c-4260-f6ff-71ca881e4200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9a2e4f40e9f241b49ccaa96210f1f8a7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/backgammon-feef-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99717",
+      "slug": "stealth-robbery-of-a-house-together",
+      "title": "Stealth robbery of a house together",
+      "description": "Stealth robbery of a house together: steal things, hide from the guards, take the loot to the van. Play with a friend on the same device.\n\nPlay alone or with a friend on the same device. Your task is to take out as much furniture and valuables as possible from the house without being caught by security!\n\nThe house is carefully guarded: guards are patrolling, and if you get in their line of sight, run! Use the abilities\n\nThe goal of the game\nis to collect items from the house and take them to the van to complete the progress bar and complete the level! The more valuable the items are, the faster the scale increases.",
+      "howToPlayText": "Stealth robbery of a house together: steal things, hide from the guards, take the loot to the van. Play with a friend on the same device.\n\nPlay alone or with a friend on the same device. Your task is to take out as much furniture and valuables as possible from the house without being caught by security!\n\nThe house is carefully guarded: guards are patrolling, and if you get in their line of sight, run! Use the abilities\n\nThe goal of the game\nis to collect items from the house and take them to the van to complete the progress bar and complete the level! The more valuable the items are, the faster the scale increases.\n\nOn PC:\nPlayer 1: Move with W, A, S, D\nPlayer 2: Move with Arrow Keys\n\nOn the phone:\nSingle player - move your finger on the screen\nLeft player — move your finger on the left side of the screen\nRight player — move your finger on the right side of the screen\n",
+      "gameURL": "https://playgama.com/export/game/stealth-robbery-of-a-house-together?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stealth-robbery-of-a-house-together",
+      "genres": [
+        "action",
+        "skill",
+        "two-player",
+        "multiplayer",
+        "mobile"
+      ],
+      "tags": [
+        "avoid-games",
+        "stealth-games",
+        "robbery-games",
+        "collecting-games",
+        "unity-games-online",
+        "stealth-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/799be9f0-1423-4406-2d4f-eecfc24c0800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/26eed709-4bfa-4cff-bd88-40b328ff6700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "686527a2102e464aac36cb1a47b2d9f8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stealth-robbery-of-a-house-together?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6224",
+      "slug": "stickman-miners-wars-playgama",
+      "title": "Stickman Miners Wars",
+      "description": "Lead your stickman king to victory in Stickman Miners Wars, where strategic decision-making is key. Command an army of miners and warriors to build your forces and triumph over opponents. Upgrade your units and yourself as you gain experience, and strategically attack enemy castles while defending your own. Will your strategy lead you to dominance? Play Stickman Miners Wars now!",
+      "howToPlayText": "First, you need to choose the first region you want to reclaim on the global map and press the PLAY button.\n\nAfter this, you will enter the level and can play as the Stickman King. To move, use the keyboard keys (arrow keys or WASD) or a joystick or mouse.\n\nTo start, go to the miner purchase zone and buy a few miners. They will begin mining gold for you, and you can mine gold alongside them. Once you have accumulated enough gold, go to the warrior purchase zone to build your army.\n\nTo send your army into attack, click the sword icon on the right or press the E key. Your goal is to first destroy the opponent’s towers and then their castle.\n\nBut be careful, as the opponent aims to do the same to your castle.\n\nControls:\n\nWASD / arrow keys / drag left-click = move\nLeft-click = interact with the in-game buttons",
+      "gameURL": "https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-miners-wars-playgama",
+      "genres": [
+        "action",
+        "two-player",
+        "pve",
+        "battleship",
+        "war",
+        "stickman"
+      ],
+      "tags": [
+        "interactive-games",
+        "1-player-games",
+        "mine-games",
+        "incremental-games",
+        "building-games",
+        "tactical-games",
+        "king-games",
+        "mining-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c6958da-36e3-475a-5751-27b68d7f9800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8a219fbe-bd6b-4304-66bb-ee5bee3aad00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d65db999ae2a432393218cee2791cbb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86447",
+      "slug": "cowboys-duel",
+      "title": "Cowboys Duel",
+      "description": "Enter the rugged world of the Wild West in *Cowboys Duel*, where sharp aim and quick reflexes are crucial. Compete in solo missions or face off against friends in thrilling duels. Customize your character, enjoy various game modes, and hone your skills to become the top cowboy.",
+      "howToPlayText": "- Click on the menu and open the game\n\n- Just Click when you want to shoot\n\n- Watch the clock and shoot when it is 12, if you shoot before you will lose\n\n- Click on the arrows before time runs out to turn them in the direction shown\n\n- Download 20 Targets before time runs out\n\n- The one who scores 3 wins.",
+      "gameURL": "https://playgama.com/export/game/cowboys-duel?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cowboys-duel",
+      "genres": [
+        "action",
+        "arcade",
+        "two-player",
+        "funny",
+        "pve",
+        "pvp"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "fast-paced-games",
+        "western-games",
+        "desktop-games",
+        "1-player-games",
+        "incremental-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c07de742-08c2-4d9b-6dc3-8c07e4247200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f73de84f-8ae4-4cb1-885b-a4177f5e1e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cf23ff5b072440b4a83fe8fe5d3f5ac5",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cowboys-duel?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

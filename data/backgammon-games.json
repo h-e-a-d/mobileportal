@@ -1,0 +1,47 @@
+{
+  "category": "backgammon",
+  "count": 1,
+  "games": [
+    {
+      "id": "98051",
+      "slug": "backgammon-feef-1",
+      "title": "Backgammon",
+      "description": "Discover the captivating game of Backgammon, where strategy and skill are key. Navigate your pieces to eliminate them before your rival does. Enjoy playing this timeless game online for free on your device, and strive to become a Backgammon champion!",
+      "howToPlayText": "Roll the dice and move your piece.\nThe winner is the one who removes all of his chips from the board before the opponent.\nBe careful! It's not just luck. In the long term, strategy plays a more important role.",
+      "gameURL": "https://playgama.com/export/game/backgammon-feef-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/backgammon-feef-1",
+      "genres": [
+        "two-player",
+        "backgammon",
+        "classic",
+        "board",
+        "mobile"
+      ],
+      "tags": [
+        "luck-games",
+        "2-player-board"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a8d02436-7f15-4f8f-6a99-c34e34bb0b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c64c4657-b14c-4260-f6ff-71ca881e4200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9a2e4f40e9f241b49ccaa96210f1f8a7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/backgammon-feef-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

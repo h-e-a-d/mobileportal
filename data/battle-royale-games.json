@@ -1,0 +1,155 @@
+{
+  "category": "battle-royale",
+  "count": 3,
+  "games": [
+    {
+      "id": "110265",
+      "slug": "hazmob-fps-online-shooter",
+      "title": "Hazmob FPS: Online Shooter",
+      "description": "Hazmob FPS is a multiplayer shooting FPS game where every second counts! Play against other players across multiple game modes in non-stop combat. This first-person shooter game is ideal for those seeking a bit of thrill.\n\nSkilled FPS players will love Hazmob FPS. The game features excellent, clean 3D graphics with a fluid and intuitive control system that allows you to maneuver quickly and tactically. The maps are designed for fast-paced battles in a close-quarters setting, leaving it down to pure reflex and skill to get the job done.\n\nPlay various game modes\n\nTeam Deathmatch\nSearch and Destroy\nCapture the flag\nDomination\nFree for all\nElimination\nGun race\n",
+      "howToPlayText": "Controls\n\nWASD = move\nSpace = jump\nLeft mouse = shoot\nRight mouse / V = aim\nP = leaderboard, pause, and settings\nG = pick up the gun\nC = crouch\nShift = run\n1, 2, 3 = switch weapons\n4, 5, 6 = skills\nE = alternative skills\nQ = alternative skills",
+      "gameURL": "https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hazmob-fps-online-shooter",
+      "genres": [
+        "action",
+        "arcade",
+        "strategy",
+        "skill",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "fighting",
+        "popular",
+        "first-person-shooter",
+        "sniper",
+        "train",
+        "battle-royale"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "reaction-games",
+        "multiple-players-games",
+        "exciting-games",
+        "accuracy-games",
+        "competitive-games",
+        "military-games",
+        "combat-games",
+        "teams-games",
+        "sniper-shooter",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1f0c7c3-3611-4f93-49ae-3b779e216c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a2e46182-077e-4ec8-d0aa-3435536eb800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8a7a62bfcec943b6a64d1188c8baf31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hazmob-fps-online-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112455",
+      "slug": "clash-of-cars-arena",
+      "title": "Clash of Cars: Arena",
+      "description": "Welcome to the arena where the weak don’t survive!\n\nTake the wheel of a legendary, heavily armed Hot Rod and challenge dozens of ruthless opponents.\n\nHere, there are no rules — only speed, firepower, and your reflexes decide who becomes the champion. Blast enemies with precise shots, collect stars, and unlock powerful upgrades for your battle beast.\n\nSwap weapons, reinforce your armor, hit top speed, and leave nothing but smoke and wreckage behind!\n\nEvery arena is a new challenge, where only those willing to take risks can claim victory.\n\nReady to prove you’re the king of the road? Then hit the gas and race toward glory!",
+      "howToPlayText": "Controls:\n\nDesktop:\nW, A, S, D — move your car\nShift — nitro boost\nV — jump\nR — use ability\n\nMobile:\nMovement: Left stick (up, down, left, right)\nAbility: Icon in the bottom center of the screen\nBrake, Jump, Nitro Boost — buttons on the bottom right\n\nGoal:\nDestroy your opponents to take the lead and become the king of the arena! Use your weapons wisely — blow up enemies, trap them, and don’t give them a chance to fight back. One wrong move, and your car turns into a pile of scrap metal!",
+      "gameURL": "https://playgama.com/export/game/clash-of-cars-arena?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/clash-of-cars-arena",
+      "genres": [
+        "action",
+        "racing",
+        "strategy",
+        "car",
+        "driving",
+        "battle-royale"
+      ],
+      "tags": [
+        "arena-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8c39e8fa-87eb-4e4d-adf8-874f31e96600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c2e8ac26-7b3e-4723-4b6f-4f73b26f5e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "202818ea45d08327de0296dae736edd9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/clash-of-cars-arena?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106344",
+      "slug": "bullet-echo",
+      "title": "Bullet Echo",
+      "description": "Lead your team to victory in this unique PvP tactical team shooter! Choose from dozens of different heroes with unique play styles and abilities. Unite with friends, set a strategy, and be the last team standing when the battle ends. Your vision is limited by the beam of a flashlight, but you can hear enemies' steps and shots. Unlock and upgrade new heroes, participate in championships, and fight to unlock new perks, maps, and game modes!\n\nBullet Echo — Game Description\nBullet Echo is a tactical, team-based PvP shooter with a unique top-down perspective, developed by ZeptoLab. The game stands out for its stealth-focused gameplay, fast-paced battles, and emphasis on teamwork.\n\nKey Features\nUnique Tactical Stealth Action:\nYour vision is limited by the beam of a flashlight, but you can hear enemies' steps and shots. This creates suspenseful, strategic encounters where sound and positioning are crucial.\n\nTeam Play and Strategy:\nPlay with friends or match with players worldwide. Unite your team, set a strategy, and be the last team standing. The level of your hero is matched with the highest in your party, making it easy to play with friends of any experience.\n\nDiverse Heroes:\nChoose from dozens of different heroes, each with unique play styles, weapons, and abilities. Unlock and upgrade heroes to boost their power and unlock new perks.\n\nMultiple Game Modes:\n\nBattle Royale: Five teams of three players each compete to be the last team standing on a shrinking map.\n\nTeam vs Team: Two teams of five players face off on exclusive maps.\n\nKing of the Hill: Solo mode with 15 players battling for survival.\n\nAdditional modes and maps are available as you progress.\n\nProgression and Rewards:\nParticipate in championships, accomplish missions, and receive valuable resources. Unlock new heroes, perks, maps, and game modes as you play.\n\nGameplay Overview\nTop-Down Shooter:\nThe game uses a top-down view, giving players an aerial perspective of the battlefield. Stealth, quick reflexes, and tactical movement are essential.\n\nAuto-Shooting:\nHeroes automatically fire when an enemy enters their firing cone, allowing players to focus on movement and positioning.\n\nLooting:\nCollect weapons, ammo, armor, and power-ups during matches to enhance your hero’s abilities.\n\nRevive System:\nTeammates can revive each other during battles, adding another layer of teamwork and strategy.",
+      "howToPlayText": "Main Objectives\nTeam up with friends or play solo to compete in tactical PvP battles.\n\nSurvive and eliminate enemy teams using stealth, strategy, and your hero’s unique abilities.\n\nCollect loot and power-ups to strengthen your hero during each match.\n\nBe the last team or player standing to win the round.\n\nDesktop Controls (if playing via emulator or official desktop version)\nNote: Bullet Echo is primarily a mobile game, but can be played on PC via Android emulators. Controls may vary depending on emulator settings.\n\nW, A, S, D / Arrow Keys: Move your hero.\n\nMouse: Aim your flashlight cone (direction of vision).\n\nLeft Mouse Button: Use hero’s special ability (if mapped).\n\nSpacebar: Interact with objects or revive teammates (if mapped).\n\nEsc: Open game menu or pause.\n\nYou can customize key bindings in most emulators for optimal comfort.\n\nMobile Controls\nVirtual Joystick (Left side): Move your hero around the map.\n\nSwipe / Drag (Right side): Aim your flashlight and field of vision.\n\nAbility Button: Tap to activate your hero’s special ability.\n\nInteract Button: Tap to pick up items, open chests, or revive teammates.\n\nAuto-Shoot: Your hero fires automatically when an enemy enters your cone of vision.\n\nTips for Success\nUse walls and obstacles for cover and to ambush enemies.\n\nListen for enemy footsteps and gunfire to locate opponents in the fog of war.\n\nStick with your team for better chances of survival and to revive each other.\n\nUpgrade and experiment with different heroes to find your best play style.\n\nMaster the controls and tactics to dominate the arena in Bullet Echo!",
+      "gameURL": "https://playgama.com/export/game/bullet-echo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bullet-echo",
+      "genres": [
+        "action",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "pvp",
+        "survival",
+        "battle-royale",
+        "mobile"
+      ],
+      "tags": [
+        "top-down-games",
+        "survivors-games",
+        "fast-paced-games",
+        "tournament-games",
+        "stealth-games",
+        "competitive-games",
+        "heroes-games",
+        "arena-games",
+        "combat-games",
+        "tactical-games",
+        "teams-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/18f1e7bc-3e2e-47ac-db71-c71d27e20600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f90302d8-9196-45ac-2fa0-2d1b1700e200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a687d4f55fae439aa192968338d802c9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bullet-echo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

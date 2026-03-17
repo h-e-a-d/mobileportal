@@ -1,0 +1,509 @@
+{
+  "category": "monster",
+  "count": 11,
+  "games": [
+    {
+      "id": "98057",
+      "slug": "rise-of-the-dead",
+      "title": "Rise of the Dead",
+      "description": "Dive into the intense universe of Rise of the Dead, a post-apocalyptic city filled with undead. As a brave survivor, your goal is to reclaim territories, eliminate zombies, and rescue others. Enjoy this free online game on your phone or computer, testing your strategy and combat abilities.",
+      "howToPlayText": "Keyboard Controls:  \n    Movement:  Arrow keys (W A S D)  \n    Shoot:  left click \n    Reload:  R  \n    Punch:  E\n    Change weapon: Q\n    Use prop 1:  G\n    Use prop 2: F\n    Zoom: Scrollbar\n\nMobile Controls:  \n    Movement:  Virtual Joystick [Joystick Image]  \n    Actions:  Tap corresponding buttons",
+      "gameURL": "https://playgama.com/export/game/rise-of-the-dead?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rise-of-the-dead",
+      "genres": [
+        "action",
+        "horror",
+        "shooting",
+        "gun",
+        "zombie",
+        "survival",
+        "monster",
+        "scary",
+        "halloween"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cb6ad14f-9b27-4647-0f76-b07cce7a4000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/85480f35-45e8-44a3-e731-ba7b962e5800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "610cdd5c97974db7935a0f9d72d5e946",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rise-of-the-dead?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99438",
+      "slug": "skyblock-3d-survival",
+      "title": "Skyblock 3D: Survival",
+      "description": "Embark on a unique survival adventure on floating islands in a 3D world, where each island offers valuable resources. Explore vibrant landscapes, battle monsters to grow stronger, and trade with villagers for useful items. Build plantations and breed animals to ensure a steady supply of food and resources. The skies are full of islands, each one holding secrets and challenges. Survive, craft, battle, and thrive in this exciting world!",
+      "howToPlayText": "For computer:\n- Move: W, A, S, D\n- Jump: Spacebar\n- Break blocks: Hold down LMB\n- Place blocks: RMB / F\n- Inventory: E\n- Pause: Tab\n- Help: J\n- Drop: Q (Shift+Q Drop full slot)\n\nFor mobile devices:\n- Move: Left Joystick\n- Jump: Arrow icon button\n- Break blocks: Hold down the sword icon button.\n- Stack blocks: Hold down the cross icon button.\n- Inventory: Orange button in the middle of the screen.\n- Pause: Purple button in the upper right corner of the screen",
+      "gameURL": "https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/skyblock-3d-survival",
+      "genres": [
+        "adventure",
+        "3d",
+        "minecraft",
+        "survival",
+        "monster",
+        "crafting"
+      ],
+      "tags": [
+        "sandbox-games",
+        "resource-management-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/068ae819-f79a-4e74-9e57-3921f5dba000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a12cdd35-31c2-4aff-587f-c69635c2f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "967797b5f82241c7ad77e3e35b582adb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111990",
+      "slug": "tap-hunters",
+      "title": "Tap Hunters",
+      "description": "Clicker game with colorful and bright graphic.  \nTap to hunt monsters, build your team of heroes and upgrade them. Collect and power up with collection of weapons.  \nTravel to new worlds to earn rewards, and grow stronger as you play. With each run you will able to reach higher levels.",
+      "howToPlayText": "- Tap or click with mouse on monsters to defeat them  \n- Collect coins, by tapping on them or hovering them with mouse. Coins also collect automatically after few seconds.\n- Spend coins for upgrades, hire new heroes and their upgrades\n- Reach zone 50 to unlock portal to new world. Starting new world will rewards you with gems and souls. You can spend them for new upgrades, auto clicks and heroes upgrade and weapons.\n- Reach higher game zones to get better rewards in new worlds.",
+      "gameURL": "https://playgama.com/export/game/tap-hunters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tap-hunters",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "strategy",
+        "clicker",
+        "monster",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "fantasy-games",
+        "collection-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fb21e91-b4e7-49ce-920e-9098008a1700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/558bbf34-0759-4899-c38b-551b07b1ba00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "530cd91469a35a7fdd411f5318c83b29",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tap-hunters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86486",
+      "slug": "bombaman-3d-a2de-1",
+      "title": "BOMBAMAN 3D",
+      "description": "Dive into an exhilarating 3D journey with BOMBAMAN 3D! Tackle complex mazes, strategically use bombs to clear paths, and defeat fearsome enemies. Discover power-ups, find the secret exit, and face challenging bosses, all while enjoying an engaging solo or multiplayer adventure on your devices.",
+      "howToPlayText": "🕹️ Use W A S D or Arrow keys to move\n\n💣 Press Spacebar to place a bomb\n\n⏲️ The bomb explodes after 3 seconds. Bombs placed side by side trigger each other 🔥\n\n⏳ You have 99 seconds for each level. Collect clocks from boxes to extend this time ⏰\n\n🔧 You can increase the number and range of bombs with various power-ups\n\n👾 You need to hit the boss 3 times with bombs to defeat it",
+      "gameURL": "https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bombaman-3d-a2de-1",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "two-player",
+        "3d",
+        "multiplayer",
+        "maze",
+        "monster"
+      ],
+      "tags": [
+        "iphone-games",
+        "desktop-games",
+        "bomb-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b429599a-dfcd-4ccf-f857-ad455ddc2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/91a6b52f-693b-4daf-b7e9-ab5b870b0a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "497ed981a981423ca47a3df5c56ed31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99471",
+      "slug": "hero-merge",
+      "title": "Hero Merge",
+      "description": "Merge brave and deadly heroes together to create even deadlier ones. Defend your base from monsters by placing your heroes on the wall",
+      "howToPlayText": "Desktop:\nMerge/Arrange Units - Mouse Cursor\nUI - Mouse Click\nMobile:\nMerge/Arrange Units - Touch Drag\nUI - Touch Click",
+      "gameURL": "https://playgama.com/export/game/hero-merge?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hero-merge",
+      "genres": [
+        "action",
+        "strategy",
+        "skill",
+        "pve",
+        "monster",
+        "merge",
+        "tower-defense",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e01e9ca4-3b13-4f7f-e962-724dea1c4f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/042ac65e-9289-4672-0450-5c84a398a900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c0b9f95aca034d6084c5bcb6e83e4024",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hero-merge?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86264",
+      "slug": "monster-merge-legends-alive",
+      "title": "Monster Merge: Legends Alive",
+      "description": "Monster Merge: Legends Alive is a fun puzzle game where you combine monsters to score points and advance. Playable online for free, it features engaging gameplay with mythical creatures. Available on both desktops and Android, it offers an enjoyable experience for all ages who love a good challenge.",
+      "howToPlayText": "Press and hold your finger or mouse button within the playing area to select the monster's fall trajectory. Release your finger or mouse button and the monster will fall onto the playing field!  It will be easy to connect monsters at first, but with each new one the playing field will fill up. Drop identical monsters on top of each other. When the highest-ranking monster connects, it will disappear and you will get more points.",
+      "gameURL": "https://playgama.com/export/game/monster-merge-legends-alive?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/monster-merge-legends-alive",
+      "genres": [
+        "puzzle",
+        "cool-games",
+        "pve",
+        "monster",
+        "merge"
+      ],
+      "tags": [
+        "fantasy-games",
+        "addictive-games",
+        "mind-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "incremental-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fe379cfa-2a97-47ab-9920-af50ae019f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6107be65-0a1a-4d34-562b-5eeef1a1a000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a743f946405f4e3cac96680979481fc9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/monster-merge-legends-alive?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111073",
+      "slug": "zombie-monster-survivors",
+      "title": "Zombie Monster Survivors",
+      "description": "In a world ravaged by a zombie virus, you are one of the last survivors. Each playthrough features randomly generated maps and enemies. Collect various weapons and items, upgrade your character's abilities, and survive as long as possible against waves of zombies.",
+      "howToPlayText": "Slide on the screen to control the character's movement, avoid monsters to gain experience and level up to pass levels",
+      "gameURL": "https://playgama.com/export/game/zombie-monster-survivors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-monster-survivors",
+      "genres": [
+        "arcade",
+        "zombie",
+        "survival",
+        "monster",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "addictive-games",
+        "level-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ecea2ee7-028a-4c0b-f3dd-2606a036ee00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6d1a1fba-eebb-47a7-20ea-c11816223700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5c2d2dbd59c24400944e3d884754a917",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-monster-survivors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109974",
+      "slug": "wednesdays-battle-monster-symphony",
+      "title": "Wednesday’s Battle: Monster Symphony",
+      "description": "An endless action game that fuels the urge to try again after every defeat, keeping you hooked for ‘just one more round.’ Built around the popular Wednesday theme, it features various enemy types, gradual difficulty escalation, and smooth, satisfying animations that make each battle feel rewarding.",
+      "howToPlayText": "Use the arrow on your keyboard to switch lines for the direction of the shot.\n\nMobile control - tap on the right and left side of the screen to switch.",
+      "gameURL": "https://playgama.com/export/game/wednesdays-battle-monster-symphony?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/wednesdays-battle-monster-symphony",
+      "genres": [
+        "action",
+        "strategy",
+        "skill",
+        "monster",
+        "music",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "casual-games",
+        "challenging-games",
+        "combat-games",
+        "1-player-games",
+        "rhythm-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6538e2ca-e33e-4520-94da-db74af664000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4fb2c6d8-9800-46b1-e4e0-13b54bb16000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4d142a65c62c4da68570b22a2d883902",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/wednesdays-battle-monster-symphony?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97496",
+      "slug": "bomber-quest",
+      "title": "Bomber Quest",
+      "description": "Join the excitement of Bomber Quest! Engage in a strategic 3D puzzle game where you navigate challenging levels, defeat monsters with bombs, and face risks with explosive power. Can you rise to the challenges? Enjoy this free game on your phone or computer!",
+      "howToPlayText": "Keyboard Controls:  \n-  Movement:  WASD keys  \n-  Plant Bomb:  [Bomb Image] or Spacebar \nMobile Controls:  \n- Movement:  Virtual Joystick [Joystick Image]  \n- Plant Bomb:  Tap [Bomb Image]",
+      "gameURL": "https://playgama.com/export/game/bomber-quest?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bomber-quest",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "monster",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "iphone-games",
+        "brain-out-games",
+        "bomb-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1d125cc5-9158-46db-6081-148f2f9aeb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/decece9f-bd87-4bcb-9510-8b184a6a2400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2908fc6fe60d4927a054e16a12d65e49",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bomber-quest?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "32",
+      "slug": "connect-monsters",
+      "title": "Connect: Monsters",
+      "description": "Connect: Monsters is a fun online puzzle game that enhances your mental skills through monster matching. Compete with friends to achieve high scores on various platforms without needing to download anything, offering enjoyable gameplay whether you're at home or traveling.",
+      "howToPlayText": "The more you connect, the higher your score! As the field fills up, the challenge grows—plan your moves carefully to avoid running out of space. When the highest-ranked monster connects, it disappears, earning you bonus points. Watch out! If the field gets too crowded, you'll lose. Aim, drop, and connect monsters to outscore your friends and become the ultimate champion!",
+      "gameURL": "https://playgama.com/export/game/connect-monsters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/connect-monsters",
+      "genres": [
+        "puzzle",
+        "monster",
+        "merge",
+        "matching",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "brain-training-games",
+        "interactive-games",
+        "addictive-games",
+        "connect-games",
+        "cute-games",
+        "desktop-games",
+        "borwser-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7ef15b7d-144f-4eab-bed3-1a318b0d2300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/15e03b23-b91a-439b-102c-6ded5b9d0800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5c23e29eea084b9c8fe37e1a00a2c5fe",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/connect-monsters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86371",
+      "slug": "hide-the-monster-choose-pose",
+      "title": "Hide the Monster: Choose Pose",
+      "description": "Hide the Monster: Choose Pose is a fun online puzzle game where you assist cute monsters in escaping danger. Enjoy challenging levels that test your logic under pressure, with escalating difficulty as you find the best positions for the monsters to remain hidden.",
+      "howToPlayText": "Click to change the monster's pose, drag it to match the cover shape, and save it before time runs out!",
+      "gameURL": "https://playgama.com/export/game/hide-the-monster-choose-pose?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hide-the-monster-choose-pose",
+      "genres": [
+        "puzzle",
+        "kids",
+        "funny",
+        "monster",
+        "mini"
+      ],
+      "tags": [
+        "2d-games",
+        "fast-paced-games",
+        "interactive-games",
+        "cute-games",
+        "mind-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a0cd101c-2fdf-46e1-1195-0c66df398200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c8292713-845e-4792-4a21-7848422acf00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hide-the-monster-choose-pose?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

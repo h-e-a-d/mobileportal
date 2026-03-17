@@ -1,0 +1,930 @@
+{
+  "category": "match-3",
+  "count": 20,
+  "games": [
+    {
+      "id": "20",
+      "slug": "popping-candies",
+      "title": "Popping Candies",
+      "description": "Popping Candies is an exciting online puzzle game where you match and eliminate candies to meet targets. Enjoy vibrant graphics and strategic gameplay as you tackle levels filled with obstacles. Use limited moves wisely and leverage boosters to progress through various stages available on all devices.",
+      "howToPlayText": "Match candies to complete objectives within limited moves! Swap adjacent candies to create rows of 3+ to clear them. Use special candies like striped, wrapped, or color bombs to clear more candies. Each level has goals like reaching a score or clearing obstacles. Watch your moves and use boosters to help. Complete levels to progress and unlock new challenges!",
+      "gameURL": "https://playgama.com/export/game/popping-candies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/popping-candies",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "candy-crush",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "jewel-games",
+        "addictive-games",
+        "mind-games",
+        "color-matching-games",
+        "desktop-games",
+        "1-player-games",
+        "family-games",
+        "crush-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/17a4f606-b327-45ac-cc2f-e49123a8e900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0065209b-ecea-435d-9ac0-381317ca0e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "acdaf0cb86d6418a92c6d85595541510",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/popping-candies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112122",
+      "slug": "match-story--animals",
+      "title": "Match Story : Animals",
+      "description": "Match Story Animals is a fun and addictive 3D puzzle game where players must match cute animal objects to clear the board. With smooth gameplay, colorful graphics, and hundreds of levels, it offers hours of entertainment for puzzle lovers. Use power-ups, boosters, and smart strategies to progress through challenging stages. Perfect for casual gamers of all ages!",
+      "howToPlayText": "🔍 Find and select three identical animal objects\n🧩 Place them together to make a match\n⚡ Use power-ups to clear tiles faster\n⏱ Complete the level before time runs out\n🏆 Progress through levels, earn rewards, and unlock new challenges",
+      "gameURL": "https://playgama.com/export/game/match-story--animals?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/match-story--animals",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "kids",
+        "animals",
+        "matching",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "relaxing-games",
+        "addictive-games",
+        "cute-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/052c985f-abf1-471e-a303-7b3f8bc76100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ef8c9b29-4242-4d90-f7c6-782fdf588f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c4a5f85dffb1e0cc4dd3cf44d4bcd314",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/match-story--animals?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112605",
+      "slug": "jewel-magic",
+      "title": "Jewel Magic",
+      "description": "Magic jewels are here and all you have to do to get them is to match them together. Try to collect as many points as possible,  win in different levels, have fun and relax at the same time.",
+      "howToPlayText": "Swap and match 3 jewels of identical color to remove them. Match 3 or more jewels in a row to create special bombs and get more points. If you need help, try using the obtained power-ups. Gather enough points to win before you run out of moves or time. ",
+      "gameURL": "https://playgama.com/export/game/jewel-magic?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/jewel-magic",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "strategy",
+        "skill",
+        "mouse",
+        "magic",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "jewel-games",
+        "relaxing-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f1e4afe4-74f6-4592-88b0-9a761b977e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/00eff11a-7fad-4f35-02be-292a29f84700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b786037812b107b0cf8019289b7852e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/jewel-magic?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110831",
+      "slug": "goods-sort-3d",
+      "title": "Goods Sort 3D",
+      "description": "It is EASY! But getting Harder!\n\nGoods Sort 3D: Matching Game offers a free sorting challenge with diverse items and intuitive gameplay. You have ample time to complete each level.\n\nIdeal for those who love organizing and relaxing, our free game provides hours of fun. Whether you're into fill the fridge 3D, triple match 3D puzzle games, or free games for adults, etc., Get Sorted Now with thousands of happy players!\n\nIn this triple match 3D game, Goods Sort 3D combines goods sorting, closet sorting, stuff sorting, and 3D match games into an addictive and fun experience.\n\nIf you've played A Little to the Left or Fill the Fridge 3D, you'll enjoy this sorting game. Become an organization master by sorting snacks, beverages, and fruits in free matching games. Enjoy the fun of matching pairs and supermarket games while unlocking items with cuter designs and better colours. Dive into Goods Match 3D and sort puzzles in this exciting free match-3 game!",
+      "howToPlayText": "- Match & Organize: Tap similar 3D items to sort them into groups.\n- Triple the Fun: Match three identical items to clear them.\n- High Scores: Clean and organize shelves to boost your scores.\n- Explore & Unlock: Complete levels to discover and unlock your favourite products.",
+      "gameURL": "https://playgama.com/export/game/goods-sort-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/goods-sort-3d",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "3d",
+        "mouse",
+        "cool-games",
+        "popular"
+      ],
+      "tags": [
+        "fruits-games",
+        "relaxing-games",
+        "addictive-games",
+        "unity3d-games",
+        "sorting-games",
+        "collecting-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8995ccdb-fdd9-4734-7158-476773a54100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/10d3b4fc-9efb-4bf4-371d-239f59699f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8228653e4eb6442f890fa59762f9c240",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/goods-sort-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110371",
+      "slug": "match-story--weapons",
+      "title": "Match Story: Weapons",
+      "description": "🔫 Match Story: Weapons takes you into an action-packed puzzle adventure!\nMatch powerful weapons, expand your arsenal, and challenge your brain in this fun and addictive 3D puzzle game.\n\n⏳ Solve tricky puzzles against the clock, keep your mind sharp, and become smarter with every level!\n\n🧠 Each stage gets harder, testing your reflexes and thinking skills.\n\n✨ Discover unique weapon models you’ve never seen before, build powerful combos, and master the art of matching!\n\n🎯 Key Features:\n🔥 Fun and addictive match-3 gameplay\n🪖 Discover unique weapons never seen before\n⏱️ Race against time – solve puzzles before time runs out\n🎨 Colorful and eye-catching 3D graphics\n🧩 Increasingly challenging puzzles and levels\n🧠 Keep your brain active & boost your intelligence\n\nMerge your weapons, unlock new levels, and write your own matching story.",
+      "howToPlayText": "Match Story: Weapons is a fun 3-match puzzle game. Your goal is to carefully observe the weapons on the board and match 3 of the same kind.\n\n- Select weapons from the board and place them into the box.\n- When you get 3 identical weapons together, they will match and disappear.\n- Try to clear all matches before the timer runs out.\n- As you progress, the levels become more challenging with more weapon types and complex arrangements.\n\nThink strategically, act fast, and become the ultimate weapon master!",
+      "gameURL": "https://playgama.com/export/game/match-story--weapons?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/match-story--weapons",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "skill",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "brain-training-games",
+        "addictive-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bab67468-d817-4e5f-45d1-440311bcfc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d41dee13-b825-4a1a-5444-e1e1943c4600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "95c8557140e14ea3828df12bfe0fdd72",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/match-story--weapons?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109640",
+      "slug": "pop-puzzle",
+      "title": "Pop Puzzle",
+      "description": "Welcome to the colorful world of Pop Puzzle!\nPop Puzzle is here to test your skills with challenging levels.\n\nPop Puzzle is a block matching puzzle game with colorful visuals and simple gameplay. Its key appeal is in how easily you can pick it up and play but with increasingly challenging levels that test your pattern-spotting skills.",
+      "howToPlayText": "Tap on groups of two or more blocks that are the same color.\nMatch the blocks to make them pop. \nYour mission: clear all the blocks on the screen to finish the level.\n",
+      "gameURL": "https://playgama.com/export/game/pop-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pop-puzzle",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "blocks"
+      ],
+      "tags": [
+        "brain-training-games",
+        "addictive-games",
+        "blocky-games",
+        "bricks-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/99a79728-fac5-4080-21c2-c4bc67770100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/92a1d60b-c615-4815-73e4-165f35baf400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d0736bf2e7f94715a2f15b61b06d5712",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pop-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109799",
+      "slug": "diamant-match-3-sky-story",
+      "title": "Diamant: Match 3 Sky Story",
+      "description": "A fun adventure with match 3 elements. Create your own soaring city in the sky\n\nAn exciting adventure in the world of Diamant with match 3 elements.\n\n- Create special combinations and summon powerful helpers who will help you clear any, even the most difficult field!\n- Expand your island, study the blueprints and equip it with extraordinary buildings, create your own soaring city.\n- 8 types of helper golems, and each has its own superpower, which in addition can be developed!",
+      "howToPlayText": "Line up three or more colorful gems to achieve your goals and solve challenging puzzles!\n\nPrepare to face a variety of obstacles - from solid stone blockades and pesky bees to adorable spiders, sticky webs, rushing rivers, and more! Delve into ancient riddles, discover hidden blueprints, and protect your very own floating island - an enchanting haven you can grow and expand.\n\nEarn valuable artifacts as you conquer levels and complete diverse quests to upgrade your town and decorate it with unique, eye-catching items.\n\nCall upon helpful Golem companions on your journey and become a true hero in this magical Match-3 adventure!",
+      "gameURL": "https://playgama.com/export/game/diamant-match-3-sky-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/diamant-match-3-sky-story",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "adventure",
+        "match-3",
+        "strategy",
+        "skill",
+        "story",
+        "magic",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "fantasy-games",
+        "customization-games",
+        "jewel-games",
+        "color-matching-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c28fe68c-3a6c-43ee-84a9-d8bf8b860400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6656b072-9db9-4af8-7df6-1e3ce3e48800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "18ddf5be66264e90aa57e7eba4c36369",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/diamant-match-3-sky-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106368",
+      "slug": "tile-match-puzzle",
+      "title": "Tile Match Puzzle",
+      "description": "Are you a fan of match 3 and combination zen match games? \nTile Match Puzzle fulfills your desire for puzzle fun with new puzzle challenges every day! Simply match three tiles to reveal even more tiles underneath. Find more combinations until you've cleared everything. But beware: If you select too many tiles without at least three matching each other, you will have to start your journey from the beginning.\n\nEach level presents you with a new addictive puzzle challenge. Take a fun and relaxing getaway as you enter beautiful new landscapes to test your brain. \n\nGame features\n \nUnique Tile Puzzles:\nWith tiles in over 20 styles, there's no limit to the number of combinations you can make. \n\nFlex your brain muscles\nTest and improve your memory and pattern recognition skills with this fun and relaxing puzzle game!",
+      "howToPlayText": "How to play Tile Match Puzzles\n- Tap to place the tiles into the box. Match 3 or more of the same tiles to remove them from the puzzle board.\n- Remove all tiles from the board to win the level.\n- Beat each level as best as possible to win coins and collect them all!\n- Complete each level to progress through your journey. Hundreds of challenging and colorful tile matching puzzles await!\n",
+      "gameURL": "https://playgama.com/export/game/tile-match-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tile-match-puzzle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "strategy",
+        "skill",
+        "cool-games",
+        "popular"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games",
+        "memory-games",
+        "color-matching-games",
+        "tiles-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/83e51f69-f5a0-4cab-e8f9-dbe7e1f46100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3db3d402-9572-49cd-9b8d-86f5a5a58100/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/tile-match-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110358",
+      "slug": "home-design-decorate-house",
+      "title": "Home Design: Decorate House",
+      "description": "Welcome to renovation game, where all your dreams come true! Renovate and decorate your home and solve challenging puzzles with this relaxing match 3 design game!\n\nIf you ever dreamed of having a mansion of your own, now’s your chance in this redecor game! Move into your mansion with tons of rooms, gardens, swimming pools, playgrounds, and decorating this house! Everything you can imagine you’d find in a house decor we got it here!\n\nHome Design: Decorate House is not just a home decoration and matching game:\n• A combination of match 3 game puzzles plus home decorating gameplay brings you an overwhelming fun gaming experience!\n• Design, decorate, unlock new rooms, plenty of house areas to renovate, never get bored!\n• All mansion makeover needs is a brilliant mind of a talented designer like you!\n\nDecorate the library, kitchen, garden, tennis court, swimming pool and many more house areas to come! Help her renovate dream house to make it the best manor in town in this puzzle game!",
+      "howToPlayText": "Complete levels by playing match 3 and earn brushes. On these brushes you can repair and decorate your home.",
+      "gameURL": "https://playgama.com/export/game/home-design-decorate-house?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/home-design-decorate-house",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "skill",
+        "girls",
+        "mouse",
+        "decoration",
+        "color",
+        "mobile"
+      ],
+      "tags": [
+        "customization-games",
+        "creative-games",
+        "designer-games",
+        "relaxing-games",
+        "house-games",
+        "decorate-games",
+        "room-games",
+        "family-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ee72c431-4e67-414a-9247-ba3cb8647d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7d661754-813c-49f1-9993-943089456100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ffb3ba15c0924f418b6240dcd4e23827",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/home-design-decorate-house?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110667",
+      "slug": "super-candy-jewels",
+      "title": "Super Candy Jewels",
+      "description": "Try this candy matching puzzle game. Enjoy the sweet adventure full of candies and try to finish all levels. Be rewarded with delicious candy combos.",
+      "howToPlayText": "Swap and match 3 candies of identical color to remove them. Match 3 or more candies in a row to create candy bombs and get more points. If you need help, try using the obtained boosters. Gather enough candies to win before you run out of moves or time. ",
+      "gameURL": "https://playgama.com/export/game/super-candy-jewels?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/super-candy-jewels",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "popular",
+        "candy-crush",
+        "mobile"
+      ],
+      "tags": [
+        "fruits-games",
+        "jewel-games",
+        "reward-games",
+        "color-matching-games",
+        "collecting-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/577a07e2-a3dd-4036-69f7-724b70bc8600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/71df7263-ca95-47fd-b1c4-773cf92f0f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bbcd5946ba694953bdc051756db11126",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/super-candy-jewels?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "108870",
+      "slug": "mansion-design--match-3",
+      "title": "Mansion Design - Match 3",
+      "description": "Decorate and renovate the mansion and garden by beating match-3 blast levels! Makeover each room with a large selection of classical furnitures and exquisite decorations, including your personal bathroom and garden.\n\nFeatures:\n● Follow the storyline and discover all the hidden secrets in your mansion!\n● Fun and challenging match-3 levels with unique boosters and explosive combinations! \n● Help young lady cast magic spell by swapping and matching pieces!\n● Renovate the mansion and design the interior, keep your home under control.",
+      "howToPlayText": "● Match 3 or more items of the same type to get more powerfull boosters.\n● Complete level objectives.\n● Get more Scrolls.\n● Complete Tasks.\n● Use boosters. ",
+      "gameURL": "https://playgama.com/export/game/mansion-design--match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mansion-design--match-3",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "popular",
+        "decoration",
+        "mobile"
+      ],
+      "tags": [
+        "decorate-games",
+        "color-matching-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dcdf7410-b7e1-4ab2-0501-4c04aee15f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fe36dd07-08d7-403d-44d1-eb7ceaa40f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "460130ffb7cc41f7a4183b8920fe479a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mansion-design--match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109824",
+      "slug": "dice-puzzle",
+      "title": "Dice Puzzle",
+      "description": "Dice Puzzle is a puzzle game where your task is to strategically place numbered cubes on the board, aiming to merge three adjacent cubes with the same number. As they combine, their value increases. Carefully select cubes with different points, considering their placement to match with others effectively. Be mindful, as cubes may appear individually or in pairs. Merge three or more dice horizontally or vertically to create higher-valued cubes. Utilize the storage space wisely to save cubes for later use. Test your puzzle-solving skills in this engaging dice-merging game!",
+      "howToPlayText": "Select a die (or a pair) from your tray and drag it onto the grid where it fits.\nTap the dice in the tray to rotate them before placing, especially helpful for pairs\nWhen three or more dice of the same face touch, whether horizontally or vertically (even diagonally adjacently), they automatically merge into one higher-value die",
+      "gameURL": "https://playgama.com/export/game/dice-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dice-puzzle",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "skill",
+        "merge",
+        "brain",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "cube-games",
+        "addictive-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e932e547-4434-40cd-0ffe-f6da4ed37400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fa8c8fc8-d6e7-481b-392b-27bb6c9f9900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3bad10764bca4e458ee1662445adb166",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dice-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86400",
+      "slug": "tile-farm-story",
+      "title": "Tile Farm Story",
+      "description": "Join an exciting adventure in Tile Farm Story, a free online match-3 game featuring the adventurous Stone sisters. Explore unique locations, solve puzzles, and uncover family secrets. Enjoy this Mahjong-inspired experience on your phone or computer for a fun mix of challenge and entertainment.",
+      "howToPlayText": "The game \"Tile Farm Story\" is an exciting and challenging adventure that you won't be able to put down!\nThis chip collecting game will allow you to take a fresh look at the traditional rules of mahjong and test your Puzzle Master skills!\n\nHundreds of exciting levels, a rich history of the Stone sisters and colorful places that you will visit will help you relax and at the same time train your brain by solving many puzzles presented in the game. You won't notice how time flies!\n\nGame Features:\n- diverse and colorful locations in the most amazing corners of the world\n- hundreds of exciting levels based on the mechanics of collecting chips\n- many useful boosters to help you progress\n- a rich plot with surprising twists and turns\n- many unique animals with bright characters and funny animations\n- an opportunity to train your thinking skills and relax in the company of an exciting game that combines mahjong traditions and new mechanics\n\nThe goal of the game is to find identical chips on the field and collect them. The collected chips are collected in the cells below. When there are 3 identical chips in the cells, they will be destroyed. If all the cells are filled, the game will fail.\n\nTo win, you must destroy all the chips on the playing field.\n\nControl: touch/click.",
+      "gameURL": "https://playgama.com/export/game/tile-farm-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tile-farm-story",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "match-3",
+        "story",
+        "matching",
+        "brain"
+      ],
+      "tags": [
+        "games-for-teens",
+        "2d-games",
+        "iphone-games",
+        "relaxing-games",
+        "brain-training-games",
+        "mind-games",
+        "desktop-games",
+        "collection-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b3e8d7fc-f50f-4658-f90e-4a432541a600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ab069c57-6a27-4932-ca21-14eabdcc9100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "790bf69efdc64900836031509fadef46",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tile-farm-story?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98056",
+      "slug": "home-design--match-3",
+      "title": "Home Design - Match 3",
+      "description": "Dive into a fun blend of creativity and strategy with Home Design - Match 3. Solve puzzles, design your ideal home, and unleash powerful boosters. Tackle challenging tasks and earn rewards to enhance your decor. Get ready to personalize your living spaces on any device!",
+      "howToPlayText": "- Match 3 or more items \n- Use boosters\n- Complete level objectives\nJust use your mouse or tap on the screen, and all the beauty will unfold!\n\n\n\n\n",
+      "gameURL": "https://playgama.com/export/game/home-design--match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/home-design--match-3",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "decoration",
+        "matching"
+      ],
+      "tags": [
+        "iphone-games",
+        "designer-games",
+        "relaxing-games",
+        "creativity-games",
+        "decorate-games",
+        "brain-out-games",
+        "room-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4b8a9398-05cb-4603-b5ed-2e1f17222300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/935d979d-bd70-4ea7-5bac-c7aa429cf400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fb285f17609047d98b5940d02e171137",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "bcd26356b3db494db2a1ebad2cfb25c1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/home-design--match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110347",
+      "slug": "sugar-blast-snowy-pop",
+      "title": "Sugar Blast: Snowy Pop",
+      "description": "Sugar Blast: Welcome to Snowy Pop! 🍫💥\nJoin 125 thrilling levels filled with colorful candies, plan your moves, and put your skills to the test. 🎯🧩\n\nBut be careful! ⚠️🍬 Some candies hide bombs that can cost you your life. Every move counts! ⏳❤️\n\nLevel up your abilities: boost your tapping power, increase your starting lives, and unleash powerful candy bombs to clear the screen in a single strike! 🍭🚀\n\nEach level gets tougher, keeping the fun fresh and intense. 🏆🔥\n\nUnlock 9 mysterious achievements, grow stronger, and prove your mastery! 🎖️🔮\n\nWith support for 8 languages (English, Russian, French, Turkish, Spanish, German, Italian, Portuguese), you can share the same excitement with players from all around the world. 🌍🗣️",
+      "howToPlayText": "Tap on matching groups of candies (horizontal, vertical, or diagonal) to blast them away! 🍫🍬💥\n\nEarn points with every blast, but watch out: some candies hide bombs that cost you 1 life! 💣❤️\n\nIf your lives drop to zero, it’s game over — so think strategically! 🧠⚡\n\nUse the upgrade menu to boost your tap rewards, increase your starting lives, or purchase powerful candy bombs! 🍫⬆️\n\nWhen you unleash a candy bomb, it clears all candies on the screen, gives you their points, and reduces the number of candies required to win the level! 🍭🔥\n\nIf you still haven’t cleared enough candies, new ones will drop, and the challenge continues until you claim victory! ⏳🍬\n\nBeat all 125 levels and push your limits as the difficulty rises! 🚀🎯",
+      "gameURL": "https://playgama.com/export/game/sugar-blast-snowy-pop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sugar-blast-snowy-pop",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "strategy",
+        "skill",
+        "candy-crush",
+        "winter",
+        "mobile"
+      ],
+      "tags": [
+        "challenging-games",
+        "bomb-games",
+        "mahjong-candy"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b2f17e03-73d5-4e28-38bf-002d2edd2200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fc557d10-30b1-4ae9-ff33-b40e4cf61300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "44a57a797bde473dbfaccc7b5d3db029",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sugar-blast-snowy-pop?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110693",
+      "slug": "zen-garden-match",
+      "title": "Zen Garden Match",
+      "description": "Zen Garden Match is a match-3 game designed for those who want to escape daily stress. It is a mind-calming game with a peaceful atmosphere filled with magnificent flower landscapes, fluttering butterflies, falling leaves, bird sounds, and floating dandelions.",
+      "howToPlayText": "Use the mouse to select cubes and send them to the dock area. Match the same 3 flowers and clear the board without filling the dock area.",
+      "gameURL": "https://playgama.com/export/game/zen-garden-match?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zen-garden-match",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "strategy",
+        "matching",
+        "brain"
+      ],
+      "tags": [
+        "casual-games",
+        "relaxing-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/16a468c3-79c1-4ec2-5839-ded006a63400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4cb20d85-39ff-4dc2-8f72-67e4b0b2b900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "128717fac9874341a15a900a8862e62d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zen-garden-match?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63968",
+      "slug": "master-of-3-tiles",
+      "title": "Master of 3 Tiles",
+      "description": "Master of 3 Tiles is a thrilling online puzzle game. Match identical tiles in sets of three to clear the board. Each level increases in difficulty, enhancing your strategic skills. No downloads or registration needed, it’s accessible on desktop and mobile for short or long gaming sessions.",
+      "howToPlayText": "Master of 3 Tiles is a thrilling online puzzle game. Match identical tiles in sets of three to clear the board. Each level increases in difficulty, enhancing your strategic skills. No downloads or registration needed, it’s accessible on desktop and mobile for short or long gaming sessions.",
+      "gameURL": "https://playgama.com/export/game/master-of-3-tiles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-of-3-tiles",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "cool-games",
+        "app-store",
+        "scrabble",
+        "matching",
+        "mahjong",
+        "brain"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "addictive-games",
+        "challenging-games",
+        "mind-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "tiles-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/17dc1b1b-c373-43d4-2bf6-9f12051f4e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/568b2893-0a06-4bb4-07e7-cfe6aeb7d100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1eca2a1adf184017958cd8c6b7ae0310",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-of-3-tiles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "93116",
+      "slug": "happy-jelly",
+      "title": "Happy jelly",
+      "description": "Dive into a delightful realm of sugary fun with Happy Jelly, a captivating online puzzle game. Align jelly candies to score points and relieve stress, all while enjoying vibrant visuals and lively tunes. It’s an engaging experience for everyone, available on both smartphones and computers. Enjoy the sweetness!",
+      "howToPlayText": "In the game you need to move candies so that they build a row of three or more candies and thereby they will be destroyed, destroy as many candies as possible!",
+      "gameURL": "https://playgama.com/export/game/happy-jelly?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/happy-jelly",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "candy-crush",
+        "matching"
+      ],
+      "tags": [
+        "2d-games",
+        "relaxing-games",
+        "addictive-games",
+        "desktop-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/07c04584-2992-4373-adfc-de4d1dd42800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/90a985f1-ada1-466b-3261-d74996855100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "96398c6605db4ddf8f39b4bd585f2a89",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/happy-jelly?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111284",
+      "slug": "magic-circus-match-3",
+      "title": "Magic Circus - Match 3",
+      "description": "Magic Circus Three in a Row is an exciting game with many levels and different attachments!\nImmerse yourself in the mystical atmosphere of the circus and overcome many obstacles and thugs. Complete the levels and collect treasures and crystals 3 in a row!\nGame Features:\nLarge beautiful crystals - Three in a row the game is great for adult players!\nThere are a huge number of levels and several different sets of levels - to complete, to master animals, and a new set with unique obstacles!\nGet bonuses and gold for completing levels!\nLots of crystals, power-ups and obstacles!\nNo time limits, lives, or attempts - play as much as you want!\nA special mysterious world awaits you, which everyone dreams of looking through the doors. The atmosphere of the game will capture you from the first minute!\nThe magic has already begun!",
+      "howToPlayText": "Swap crystals in order to collect three identical crystals in a row! Smash obstacles to complete the level goals! Use bonuses and make magical combinations with unique effects!",
+      "gameURL": "https://playgama.com/export/game/magic-circus-match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/magic-circus-match-3",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "match-3",
+        "matching",
+        "magic",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "jewel-games",
+        "mystery-games",
+        "obstacle-games",
+        "color-matching-games",
+        "collecting-games",
+        "circus-games",
+        "diamonds-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c533a25e-7bef-4674-ca2f-10c6c292bb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/771afee5-c555-4503-5dd0-9abdd079f000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "63ca1cb6da514b8e9893f6918c079ab2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/magic-circus-match-3?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111796",
+      "slug": "foxy-eco-sort",
+      "title": "Foxy Eco Sort",
+      "description": "Join Foxy and Raccoon on their eco-mission! Sort waste, play match-3 and matching pairs to clean polluted locations. \n\nBut it's not just cleaning! Uncover the conspiracy of cunning Ratty who wants to destroy the forest. Complete story chapters: track garbage trucks, expose arsonists and save your home!\n\nFeatures:\n🌿 Waste sorting - learn to separate waste: glass, plastic, paper and organics.\n🌎 Clean up locations - each cleaned area becomes more beautiful, and the rescued animals rejoice!\n🦝 Complete the story line by uncovering the cunning rat's conspiracies.\n🦊 Funny characters - Foxy the fox will tell you why sorting is important, and the raccoon... well, he's still lazy, but he'll get it!\n😂 Funny dialogues - the characters won't let you get bored, their communication will cheer you up!\n\nReady to save the planet? Then go ahead - Foxy and the raccoon are already waiting for you! ♻️🦝🦊\n\nP.S. The game is made with love for nature and good jokes. Enjoy the game!",
+      "howToPlayText": "1. Sort Waste Correctly\nDrag items to their matching categories: cardboard to cardboard, plastic to plastic, glass to glass, organic to organic.\n\n2. Play \"Match-3\"\nCombine three identical elements to clear the field.\n\n3. Find Pairs\nFlip cards and match eco-themed pairs. Train your memory and help clean the forest!",
+      "gameURL": "https://playgama.com/export/game/foxy-eco-sort?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/foxy-eco-sort",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "kids",
+        "mouse",
+        "popular",
+        "matching",
+        "educational",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "sorting-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/26c04c5b-fab4-4af4-0430-2d07ad1e7700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a664f4e1-debb-4c6f-f294-d6cf96dcdc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "17d9a38984eeaeff25faa0bcd1c2c03b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/foxy-eco-sort?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

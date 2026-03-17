@@ -1,0 +1,60 @@
+{
+  "category": "megaspel",
+  "count": 1,
+  "games": [
+    {
+      "id": "63927",
+      "slug": "broomcraft-mystic-evasion",
+      "title": "Broomcraft Mystic Evasion",
+      "description": "Broomcraft Mystic Evasion is an engaging survival game where you fly on a magic broom, fighting waves of enemies. Play online for free, hone your skills, unlock spells, and upgrade brooms. Choose between practice or endless challenge modes. Experience the captivating adventure and see how long you can endure!",
+      "howToPlayText": "PC Controls\nWASD or Arrows = movement\nSpace = broom leap / rush\nZ = choose to take the first spell\nX = choose to take the second spell\nC = choose to take the third spell\nMobile Controls\nJoystick = movement\nRush Button = leap/ rush",
+      "gameURL": "https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/broomcraft-mystic-evasion",
+      "genres": [
+        "io",
+        "action",
+        "adventure",
+        "survival",
+        "magic",
+        "halloween",
+        "megaspel"
+      ],
+      "tags": [
+        "top-down-games",
+        "iphone-games",
+        "survivors-games",
+        "addictive-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "horde-survival-games",
+        "open-world-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/273ea2a7-f872-4eaf-bf29-02f384ae1a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6bfe3b1b-3a8f-4507-3289-1ab30812fe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ac9fce3983a24d9dac8bf880b405cfb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

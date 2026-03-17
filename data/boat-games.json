@@ -1,0 +1,51 @@
+{
+  "category": "boat",
+  "count": 1,
+  "games": [
+    {
+      "id": "112297",
+      "slug": "drakkar-strike",
+      "title": "Drakkar Strike",
+      "description": "Sail the seas on your drakkar, launch spears like a furious slingshot, and crush enemy vikings before they sink you!",
+      "howToPlayText": "Drag to aim your spear & Release to launch.\n\nHit enemy vikings and sink their ships.\nClear all foes to win!",
+      "gameURL": "https://playgama.com/export/game/drakkar-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/drakkar-strike",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "shooting",
+        "mouse",
+        "popular",
+        "pirates",
+        "boat"
+      ],
+      "tags": [
+        "vikings-games",
+        "throwing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8b836283-91a1-4648-e8fe-ea6ec2cb5400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bdc77c82-6a3f-40b6-90e8-3e18ae0f5700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "135a4706a8f1cca2b240fb305d5f58bf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/drakkar-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

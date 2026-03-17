@@ -1,0 +1,244 @@
+{
+  "category": "archery",
+  "count": 5,
+  "games": [
+    {
+      "id": "112133",
+      "slug": "bow-brawls",
+      "title": "Bow Brawls",
+      "description": "Bow Brawls – Top-Down Archery Battles!\n\nEnter Bow Brawls, a thrilling archery survival game where you aim with drag controls that feel like a real bow. Pull, release, and strike down endless waves of enemies! Each wave ends with a powerful boss fight, forcing you to master skill and strategy.\n\nUnlock 5 unique bows, 5 armors, and 5 arenas as you progress. Every weapon and battleground adds a new style of play. Face bosses with special abilities and prove your reflexes in intense battles.\n\nCompete with players worldwide through global leaderboards. Show off your best scores and climb to the top to become the ultimate archer.\n\nPerfect for casual players, kids, and competitive gamers, Bow Brawls is easy to pick up yet challenging to master. Endless action, exciting unlocks, and competitive spirit await you.\n\n🎯 Aim true. ⚔ Defeat bosses. 👑 Rule the leaderboard.\nPlay Bow Brawls now and test your archery skills!",
+      "howToPlayText": "How to Play\n\nIn Bow Brawls, survive endless waves of enemies using skill and precision. Use the joystick (mobile) or WASD (PC) to move. Aim by pulling the on-screen joystick in the opposite direction of your target—release to shoot arrows like a real bow.\n\nEnemies attack from all directions, including melee fighters and ranged shooters. Every few waves, a boss appears with unique skills like dashing, jumping over you, or launching projectiles—stay alert and adapt!\n\nDefeat bosses to earn gems, which unlock new bows and armors with different abilities. Reach higher scores to unlock new arenas and face tougher challenges.\n\nYour score is based on enemy kills, with each type rewarding different points. Climb the leaderboards by defeating as many enemies as possible. Manage your health bar carefully—you only get one life per run.\n\nMaster your aim, survive waves, defeat bosses, and rise as the ultimate archer!",
+      "gameURL": "https://playgama.com/export/game/bow-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bow-brawls",
+      "genres": [
+        "io",
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "multiplayer",
+        "shooting",
+        "pve",
+        "pvp",
+        "archery"
+      ],
+      "tags": [
+        "survivors-games",
+        "dodge-games",
+        "exciting-games",
+        "accuracy-games",
+        "agility-games",
+        "bow-games",
+        "unity-games-online",
+        "action-fighting"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/691be611-f3b1-4a10-7b84-71d80e790300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/78f4cc5e-0a0e-4d60-e957-a4e7d9374b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "db2117e5be33fc405cdb4a6ba022dd23",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bow-brawls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110089",
+      "slug": "love-archer-hero",
+      "title": "Love Archer Hero",
+      "description": "Welcome to Love Archer Hero game - one of the games about inspiring love feelings! In this interesting project, you play as a cheerful tricky Cupid, using your archer skills, bow and magic arrows of love to connect everyone and create loving couples!\nPlay have fun, solve puzzles and throw the arrow to a creature of your choice. After your arrow hits the target, they will fall in a beautiful garden and a magic of love will take them over.\n\nAre you ready, my tiny Cupid hero? Shot your love arrows right into funny creatures' hearts to make them love each other and born a baby. Even the different types of creatures can make a solid couple and become happy parents. Combine orc and human for example and see how love conquers all!",
+      "howToPlayText": "Aim and Shoot: Use your finger (on mobile) or mouse (on desktop) to drag and release, aiming your arrow at your intended target. A dashed line indicates the trajectory of your shot.\nMatchmaking: Your goal is to make two characters fall in love. This can involve hitting one or both individuals with your arrows.\nObstacles and Features: Levels may include barriers like glass, ropes, or wooden planks. Utilize these elements to guide your arrows to the targets.\nLevel Progression: Complete levels to unlock new ones. Each level presents unique challenges and characters.",
+      "gameURL": "https://playgama.com/export/game/love-archer-hero?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/love-archer-hero",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "love",
+        "archery",
+        "mobile"
+      ],
+      "tags": [
+        "fantasy-games",
+        "valentines-games",
+        "cute-games",
+        "dating-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/639b6cea-224b-4143-7d7f-fdac45857200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c0c7590-faa2-4ece-f8ed-7f13a1e44800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fb1551017e604826b5bac29303c93e78",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/love-archer-hero?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99691",
+      "slug": "archery-master--castle-battle",
+      "title": "Archery Master - Castle Battle",
+      "description": "Defend your castle in Archery Master - Castle Battle! Battle orcs, monsters, and the undead in this epic archery game. Upgrade archers, use special arrows, and conquer kingdoms in action-packed tower defense warfare!",
+      "howToPlayText": "«Archery Master - Castle Battle» is an exciting archery game! Grab your bow and arrows and prepare for battle!  \n\nYou have a tower armed with skilled archers, and it’s up to you to defend your castle. Aim carefully with your bow and don’t miss your targets! \n\nThe battle unfolds between the castle and the advancing army! Your mission is to destroy all enemies. Be warned: enemy troops may outnumber yours, their weapons are stronger, and their projectiles are more destructive!\nEvery shot counts—use them wisely if you want to claim victory! \n\nConquering all the kingdoms won’t be easy. You’ll face orcs, humans, monsters, and the undead! Upgrade your archers, recruit mercenaries, use different types of arrows, apply poisons, and victory will be yours! \n\nGame Features:  \n- Unique gameplay mechanics  \n- Simple and intuitive controls  \n- A variety of arrows and poisons to use  \n- A variety of enemies to battle: orcs, humans, monsters, and undead\n- Dozens of challenging levels  \n- Upgradable archer bastion\n     \n\nControls:    \n- Tap to fire arrows\n     ",
+      "gameURL": "https://playgama.com/export/game/archery-master--castle-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/archery-master--castle-battle",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "cool-games",
+        "pve",
+        "tower-defense",
+        "archery",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f431b911-6b49-424e-6756-21efe056d900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1edb01c6-4cdd-4ec6-5e54-9d76f0945900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0fc92b85fe124b64a27ea805b51b12f8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/archery-master--castle-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64059",
+      "slug": "archery-ragdoll",
+      "title": "Archer Ragdoll",
+      "description": "Get ready for the exciting adventure that awaits you:\n\n• Experience the incredible ragdoll archer physics that will leave you breathless;\n• Feel the realistic physics of arrows and armor - each arrow loudly ricochets and bounces, creating unpredictable situations;\n• Discover unique arrows with unique gameplay features that will add variety to your game;\n• A damage system awaits you, where each part of the body receives a different level of damage, making the game even more realistic;\n• Upgrade your hero to become a real master archer;\n• Fight interesting opponents and powerful bosses for a real challenge;\n• Enjoy beautiful and pleasant graphics, where explosions, sparks and splashes will envelop you like “Fire”;\n• Participate in the general ranking of players to show your skills;\n• Constantly level up with daily player ratings.",
+      "howToPlayText": "Control the archer using the mouse or by touching the screen on the left highlighted part of the screen.\n\nHold the mouse (finger) behind the archer's back to draw the bow (no need to pull it horizontally). Keeping the bow drawn, aim and release.",
+      "gameURL": "https://playgama.com/export/game/archery-ragdoll?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/archery-ragdoll",
+      "genres": [
+        "arcade",
+        "funny",
+        "ragdoll",
+        "physics",
+        "archery",
+        "stickman"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "iphone-games",
+        "addictive-games",
+        "challenging-games",
+        "desktop-games",
+        "indie-games",
+        "shoot-em-up-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7857df6e-c7b3-48b9-1ffe-ed3bd8dfa100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1758c1ec-e406-4a36-84a9-fe3388c65f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "68e2382101d549eab34209b7a82998ce",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "e4f8894359f24d4abff144b174ff89c2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/archery-ragdoll?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110749",
+      "slug": "gibbets-bow-master",
+      "title": "Gibbets Bow Master",
+      "description": "Try your best in a bow shooting game! Cut the ropes with an arrow, avoiding shooting at the victims. You should hurry: their breath is about to end! This stupid bow games always keeps you on your toes. And don’t forget: your chivalry can make some coin!\n\nAlways dreamed about a lifesaver career? Gibbets Bow Master - archery target shooting games will give you the opportunity!\nShoot the ropes, but avoid hitting the stickman in our bow games.\nEarn achievements.\nBeat the scores and become the champion archer.",
+      "howToPlayText": "Aim and Shoot: Use your mouse or touch screen to aim your bow. Pull back to draw the arrow and release to shoot.\nCut the Ropes: Target the ropes holding the victims.\nAvoid Hitting Victims: Be precise hitting the victims will cost you the level.\nSave Multiple Victims: Rescueing more than one person with a single arrow earns you bonus points.\nEarn Stars: Complete levels efficiently to earn stars, which can be used to unlock upgrades and cosmetics.",
+      "gameURL": "https://playgama.com/export/game/gibbets-bow-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/gibbets-bow-master",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "skill",
+        "shooting",
+        "archery"
+      ],
+      "tags": [
+        "rescue-games",
+        "challenge-games",
+        "arrows-games",
+        "bow-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6b974ce6-d20d-4c12-1e39-1a4628299400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d5efd92c-180c-4794-7b61-5a5115edd400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3bdce6e35bac456fb191f1127de71b1f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/gibbets-bow-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

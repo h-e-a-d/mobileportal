@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -c js/games.js)",
+      "Bash(node -c js/analytics.js)",
+      "Bash(node -c js/router.js)",
+      "Bash(node -c js/cookie-consent.js)",
+      "Bash(node -c js/data-export.js)",
+      "Bash(grep -r games.json /Users/egalvans/Downloads/Head/Claude/mobileportal-main --include=*.html --include=*.js -l)"
+    ]
+  }
+}

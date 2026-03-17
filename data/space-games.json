@@ -1,0 +1,370 @@
+{
+  "category": "space",
+  "count": 8,
+  "games": [
+    {
+      "id": "112558",
+      "slug": "mars-colony",
+      "title": "Mars Colony",
+      "description": "Rob the Robot, you have been given a crucial mission: to prepare Mars for human settlement! Mine resources. Build factories. Recycle resources. Prepare Mars for human settlement!\n\"Mars Colony\" is an idle game. The game is similar to \"My Little Universe.\"",
+      "howToPlayText": "Use the joystick to move.\n\nIf you have a keyboard, you can use:\nWASD or arrow keys to move.\n\nMove Rob to a resource and he will begin mining it.\nMove Rob to a production facility and he will begin refining a resource.\nMove Rob to the construction area and he will invest resources in the building.\nMove Rob to the warehouse and the resource movement panel will open.\nMove Rob to the transport assistant control area and the assistant control panel will open.",
+      "gameURL": "https://playgama.com/export/game/mars-colony?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mars-colony",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "management",
+        "space",
+        "mobile"
+      ],
+      "tags": [
+        "building-games",
+        "resource-management-games",
+        "mining-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f7ee0299-8333-41dd-f2cb-3ec2b4a8fc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a0ecf20d-beec-4cc3-1a51-e724aba2c100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "41364d447af9c46c328de6798836b94e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/mars-colony?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112425",
+      "slug": "save-the-balloon-road-to-the-stars",
+      "title": "Save the Balloon: Road to the Stars!",
+      "description": "Save the Balloon: Road to the Stars — your epic adventure starts now! 🎈 Rescue the balloon from sneaky traps and become its fearless hero 🛡️! Control the speedy defender, smash obstacles, and catch stars ⭐ to soar to the top!  \n\nWhat’s waiting for you:  \n\n- Tons of fun and thrilling challenges  \n- Super-awesome powers 💥  \n- Bright skins for the balloon and defender 🎨  \n- Non-stop adventure 🔁\n\nConquer the skies, unlock cool looks, and prove you’re the ultimate champ! 😎",
+      "howToPlayText": "🎈 The balloon floats upward — save it!\n🛡️ Move the protector with your mouse or finger.\n🚫 Deflect obstacles.\n⭐ Collect stars for bonuses.\n💥 Use superpowers to win!",
+      "gameURL": "https://playgama.com/export/game/save-the-balloon-road-to-the-stars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/save-the-balloon-road-to-the-stars",
+      "genres": [
+        "arcade",
+        "adventure",
+        "strategy",
+        "skill",
+        "mouse",
+        "classic",
+        "space",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "obstacle-games",
+        "avoid-games",
+        "challenging-games",
+        "touchscreen-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a7cf4023-14f8-44f9-a0b9-e305555cf800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/173cc840-1527-4e4c-1227-a27162bc3900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "772ed6f21426a36b43f3ef6ac1b44881",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/save-the-balloon-road-to-the-stars?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99739",
+      "slug": "space-rovers",
+      "title": "Space Rovers",
+      "description": "Strap in and get ready to conquer the Red Planet in Space Rovers — a physics-based rover builder and cargo delivery game where your engineering skills are the key to survival. Design unique vehicles, transport goods across unforgiving Martian landscapes, and experience the thrill of interplanetary logistics like never before.",
+      "howToPlayText": "Assemble rovers from a wide selection of wheels and blocks. No two vehicles are the same — each build reflects your creativity and problem-solving skills. Whether you favor compact designs or massive cargo haulers, the possibilities are endless.\n\nDesktop Controls:\n↑ (Up Arrow) / → (Right Arrow): Move forward.\n↓ (Down Arrow) / ← (Left Arrow): Move backwards.\n\nMobile Controls:\nLeft Pedal: Move forward.\nRight Pedal: Move backwards.",
+      "gameURL": "https://playgama.com/export/game/space-rovers?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/space-rovers",
+      "genres": [
+        "adventure",
+        "physics",
+        "space",
+        "construction",
+        "blocks",
+        "mobile"
+      ],
+      "tags": [
+        "customization-games",
+        "creativity-games",
+        "building-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dcb04c09-c1bb-40fc-d207-c11914922000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c6d2ce3c-4091-463b-dcea-a1456281a600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7a934a651e334aa8b6cfa2c82b7e0358",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/space-rovers?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "23",
+      "slug": "space-strike",
+      "title": "Space Strike: Galaxy Shooter",
+      "description": "Space Strike: Galaxy Shooter is an action-packed arcade game that immerses players in intense space combat. Become a skilled pilot and protect planets from alien threats. Enjoy thrilling battles for free online, with no need for registration or downloads. Join the cosmic adventure and unleash your skills!",
+      "howToPlayText": "PC:\nMove: Arrows.\nGas: Up arrow.\nShot: Alt\nUltimate: Shift.\nPause: Esc.\nMobile: \nMove: arrow buttons on screen.\nGas: up arrow button on screen.\nShot: shot button on screen.\nUltimate: ultimate button on screen.",
+      "gameURL": "https://playgama.com/export/game/space-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/space-strike",
+      "genres": [
+        "action",
+        "shooting",
+        "cool-games",
+        "pve",
+        "battleship",
+        "space"
+      ],
+      "tags": [
+        "mission-games",
+        "fast-paced-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "sci-fi-games",
+        "shoot-em-up-games",
+        "borwser-games",
+        "unity-games-online",
+        "2d-shooter",
+        "space-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ad14e040-39d2-4ae6-17c6-51bd2f09cc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a920761c-c788-4f2b-f436-73258d30d800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "971075cf64a34143a44851cf9ef563e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/space-strike?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111127",
+      "slug": "pocket-universe",
+      "title": "Pocket Universe",
+      "description": "Pocket Universe is an adventure game where players build and expand their own tiny world.\n\n1. Gather resources (wood, stone, metal, crystals) and use them to unlock new lands.\n\n2. Discover diverse biomes: lush meadows, frozen tundras, volcanic regions, and more.\n\n3. Upgrade your tools to harvest rare materials.\n\n4. Face enemies — monsters, golems, and wild creatures guarding unexplored areas.\n\n5. Step by step, your little world will grow into a whole universe.",
+      "howToPlayText": "How to Play\nUse the joystick to move your character. Collect resources by mining rocks, trees and crystals. Spend them to upgrade tools, unlock new hexes, explore fresh biomes and fight enemies on your way!",
+      "gameURL": "https://playgama.com/export/game/pocket-universe?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pocket-universe",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "skill",
+        "pve",
+        "space",
+        "mobile"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/97329b6f-5957-406f-08dc-0fdba728c000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/54dda56d-72cf-46ee-cd9a-c4ef9b810d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "899c9948b4654f199ae7eda94092c780",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/pocket-universe?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109943",
+      "slug": "cosmic-dash",
+      "title": "Cosmic Dash",
+      "description": "Cosmic Dash is an endless space runner where you pilot your way across the solar system, dodging space junk, collecting tokens, and smashing asteroids. The core loop is simple—travel as far as you can while managing jumps, shrinks, and speed boosts—but what makes it stand out is its layered mechanics: shrinking lets you slip through debris, boosts let you destroy asteroids, and big tokens chain into massive rewards. The mix of fast reflex gameplay, mission objectives, and planetary backdrops gives it a fresh twist on the classic runner genre.",
+      "howToPlayText": "🎮 How to Play Cosmic Dash\n\nYour mission is to dash through space, travel as far as possible, and collect tokens while avoiding or destroying obstacles.\n\nControls (Keyboard):\n\nJump – Press UP arrow\n\nShrink – Press DOWN arrow to squeeze through tight gaps and space junk\n\nMove – Use LEFT / RIGHT arrows to change position\n\nBoost – Press SPACE to speed up and smash through asteroids\n\nControls (Touch / Mobile):\n\nJump – Swipe UP\n\nShrink – Swipe DOWN\n\nMove – Swipe LEFT / RIGHT\n\nBoost – Tap the screen\n\n\n🪐 Tips & Mechanics:\n\nCollect small tokens to increase your score.\n\nGrab BIG TOKENS to automatically pull in smaller ones.\n\nUse SHRINK to slip past dangerous space junk.\n\nUse BOOST to destroy glowing asteroids and clear the way.\n\nThe further you travel, the more challenging and rewarding the journey becomes.",
+      "gameURL": "https://playgama.com/export/game/cosmic-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cosmic-dash",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "running",
+        "platform",
+        "space",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "dodge-games",
+        "endless-games",
+        "collecting-games",
+        "space-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7378ebec-8667-401a-e824-d138be391300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/79fb6b4b-b236-475f-623a-1b119f761200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3078646e253c466d875ccc4c58ed79d3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cosmic-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106364",
+      "slug": "planet-404-episode-1",
+      "title": "Planet 404. Episode 1",
+      "description": "In this exciting puzzle platformer players embark on an amazing journey with Alice, a brave and curious explorer who finds herself stranded on a mysterious planet filled with secrets. Surrounded by enigmatic landscapes, this world is filled with puzzles that must be solved to uncover its mysteries.\n\n Each solution and obstacle overcome not only propels the player forward, but also reveals new chapters of Alice's adventure. The game's graphics are designed in a vibrant and colorful style, and the musical accompaniment creates an atmosphere of magic and mystery, immersing the player in an exciting world full of wonders and surprises.",
+      "howToPlayText": "On a computer:\nTo make the character run to the right, press the D button (or the right arrow) on the keyboard.\nTo make the character run to the left, press the A button (or the left arrow).\nTo jump, press the space bar (or the up arrow).\n\nOn a smartphone or tablet:\nTo make the character run to the right, tap the right arrow at the bottom of the screen.\nTo make the character run to the left, tap the left arrow.\nTo jump, tap the up arrow.\nTo fire a shot (which becomes available at a certain level), press the fire icon button.",
+      "gameURL": "https://playgama.com/export/game/planet-404-episode-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/planet-404-episode-1",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "strategy",
+        "skill",
+        "shooting",
+        "platform",
+        "story",
+        "space"
+      ],
+      "tags": [
+        "fantasy-games",
+        "brain-training-games",
+        "interactive-games",
+        "exciting-games",
+        "challenging-games",
+        "amazing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/712b8b25-5086-4f1e-17a8-37085a885c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e5677da8-b3cc-4026-b967-1c7cc732b400/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/planet-404-episode-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "45",
+      "slug": "obby-spaceflight-altitude",
+      "title": "Obby: +1 to spaceflight altitude",
+      "description": "Obby: +1 to Spaceflight Altitude invites you to embark on an exhilarating space adventure. Experience the excitement of customizable characters and rocket journeys online for free. Explore the galaxy and hone your spaceflight skills in this unforgettable game filled with thrills and exploration.",
+      "howToPlayText": "Collect stars, charge a slingshot, dynamite, or even an entire rocket with energy. Hatch pets from cases and eggs to get more energy. Earn money and pump up your hero with ranks and ranks.\nWASD = run\nSpacebar = jump\nTab = hide/show cursor\nMouse = turn\n1 = mute/unmute sound\n2 = skins\n3 = pets\n4 = tasks\n5 = daily bonus\n6 = wheel of fortunes\n7 = promotion",
+      "gameURL": "https://playgama.com/export/game/obby-spaceflight-altitude?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/obby-spaceflight-altitude",
+      "genres": [
+        "arcade",
+        "adventure",
+        "cool-games",
+        "space"
+      ],
+      "tags": [
+        "customization-games",
+        "jumping-games",
+        "rocket-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "sci-fi-games",
+        "incremental-games",
+        "science-games",
+        "open-world-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3766ace2-97fb-4b16-21e1-e4f5731b0d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b7595fd6-334e-4192-109d-ef6d094a4400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5d10cab5ca6b4a63ad076f55927b9e8c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/obby-spaceflight-altitude?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

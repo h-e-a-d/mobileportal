@@ -1,0 +1,114 @@
+{
+  "category": "bike",
+  "count": 2,
+  "games": [
+    {
+      "id": "51",
+      "slug": "crazy-motorcycle",
+      "title": "Crazy Motorcycle",
+      "description": "Crazy Motorcycle is an exciting racing game that allows players to race motorcycles in the sky, available on various devices without downloads. Featuring vibrant graphics and thrilling gameplay, it caters to both beginners and experienced racers, providing a captivating experience for all.",
+      "howToPlayText": "Desktop: \nWASD or arrow — Move\nJump — Space\n\nMobile:\nButtons and joystick on the screen ",
+      "gameURL": "https://playgama.com/export/game/crazy-motorcycle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/crazy-motorcycle",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "platform",
+        "dirt-bike",
+        "driving",
+        "bike"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "dodge-games",
+        "obstacle-games",
+        "addictive-games",
+        "noob-games",
+        "avoid-games",
+        "obstacles-games",
+        "challenge-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0791177b-e5d3-424b-9a24-2d41df261400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aa0ce8cb-a0ef-4286-5860-e9c9fea0eb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9feda1b92aae4eafa16551b600eaa6ab",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/crazy-motorcycle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86413",
+      "slug": "moto-obby",
+      "title": "Moto Obby",
+      "description": "Join the exciting world of Moto Obby, where your motorbike skills face intense challenges. Overcome tricky hazards like swinging hammers and sharp spikes in a quest for victory. Test your reflexes across various levels in this thrilling online game, available on phones and computers.",
+      "howToPlayText": "Use the arrows ⬆️⬇️ or \"WS\" to move and ⬅️➡️ or \"AD\" to spin.\nSometimes you’ll need to slow down, and other times you’ll need to speed up to win. Try different tactics.\nIf your bike gets stuck, press ⬅️➡️ or \"AD\" to hop!",
+      "gameURL": "https://playgama.com/export/game/moto-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/moto-obby",
+      "genres": [
+        "action",
+        "car-racing",
+        "cool-games",
+        "obby",
+        "dirt-bike",
+        "driving",
+        "bike"
+      ],
+      "tags": [
+        "stunt-games",
+        "reaction-games",
+        "obstacle-games",
+        "addictive-games",
+        "exciting-games",
+        "obstacles-games",
+        "challenging-games",
+        "jumping-games",
+        "speed-games",
+        "super-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74efb2d7-c956-413b-bbee-0b2e8c817f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/43282bdf-f3a9-4cd5-c371-d61cb4646d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "00e4d0b599e640b595cdfff740ecbcff",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/moto-obby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

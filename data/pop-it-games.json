@@ -1,0 +1,103 @@
+{
+  "category": "pop-it",
+  "count": 2,
+  "games": [
+    {
+      "id": "99571",
+      "slug": "pop-it-3d",
+      "title": "Pop It 3D",
+      "description": "Players take turns pressing down any number of bubbles in a single row and consecutively. The player who presses the last bubble loses the game.",
+      "howToPlayText": "Click or tap on the cells you want to pop",
+      "gameURL": "https://playgama.com/export/game/pop-it-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pop-it-3d",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "kids",
+        "3d",
+        "pop-it",
+        "easy",
+        "bubble",
+        "mobile"
+      ],
+      "tags": [
+        "iphone-games",
+        "casual-games",
+        "relaxing-games",
+        "touchscreen-games",
+        "asmr-games",
+        "desktop-games",
+        "simple-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/36ff48c4-6ceb-40d5-8249-15bb66036400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3409928e-f76c-44d7-4027-b13fac53ae00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "20788da7d90e4de1b421b6a28970ede1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pop-it-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111345",
+      "slug": "pop-tap",
+      "title": "Pop Tap",
+      "description": " Pop Tap – the perfect fidget toy puzzle game \n\nThe party’s really popping in Pop US!, the pitch-perfect puzzle game where you put the jigsaw pieces together to make beautiful pictures, then just point your finger at the screen and pop, pop, pop! Merge the pieces to make your own DIY fidget toys, then dive into a world of relaxing ASMR pleasure as you pop every last bubble on the screen.\n\nGet a burst of satisfying, colorful, antistress fun at your fingertips any time by downloading Pop US! to your device now!\n",
+      "howToPlayText": "Drag or tap pieces to combine them, completing the picture of a \"pop-it\" toy.\nOnce the image is assembled, tap or swipe across the screen to pop all the bubbles displayed.\nPopping bubbles and completing levels rewards you with coins, color schemes, and new backgrounds to personalize your toys",
+      "gameURL": "https://playgama.com/export/game/pop-tap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pop-tap",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "simulation",
+        "skill",
+        "popular",
+        "pop-it",
+        "mobile"
+      ],
+      "tags": [
+        "games-for-pc",
+        "iphone-games",
+        "reward-games",
+        "collecting-games",
+        "desktop-games",
+        "android-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/00e0c051-70d8-4383-d509-ac5406320700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a724469d-88e4-4872-9098-74b7b4d1b300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "afe2573348064a829df454e808242fc2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pop-tap?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "category": "fishing",
+  "count": 1,
+  "games": [
+    {
+      "id": "110627",
+      "slug": "fishing-frenzy",
+      "title": "Fishing Frenzy",
+      "description": "In this exciting fishing game, your main goal is to catch as many fish as possible within a limited amount of time. You’ll need to stay quick and attentive, because every second counts. Along the way, you can collect special bonuses that will help you during the challenge — these include extra bait to keep catching more fish, powerful bombs to catch multiple fish at once, and even additional time to extend your fishing session. The better you plan your moves and use the bonuses, the higher your score will be. It’s a fun mix of speed, strategy, and fishing skills!",
+      "howToPlayText": "Control on mobile devices is carried out using buttons on the screen, as well as on computers using arrow and space",
+      "gameURL": "https://playgama.com/export/game/fishing-frenzy?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fishing-frenzy",
+      "genres": [
+        "arcade",
+        "simulation",
+        "skill",
+        "funny",
+        "animals",
+        "fishing",
+        "mobile"
+      ],
+      "tags": [
+        "sharks-games",
+        "speed-games",
+        "collecting-games",
+        "challenge-games",
+        "1-player-games",
+        "timing-games",
+        "bomb-games",
+        "cartoons-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d690497-22f2-4963-0d6f-610637219100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a2566ae4-6a17-4e27-bf95-1f904e586400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7b3540854f6a4854b1dca1ace810a95d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fishing-frenzy?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

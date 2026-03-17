@@ -1,0 +1,53 @@
+{
+  "category": "restaurant",
+  "count": 1,
+  "games": [
+    {
+      "id": "94750",
+      "slug": "paws-and-pals-diner",
+      "title": "Paws And Pals Diner",
+      "description": "Discover the fun of running your own animal-themed café in Paws And Pals Diner! Delight in serving cute customers and crafting tasty meals in this engaging 2D game, available on both mobile and desktop for endless enjoyment.",
+      "howToPlayText": "Use the mouse or finger tap to play the game.",
+      "gameURL": "https://playgama.com/export/game/paws-and-pals-diner?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/paws-and-pals-diner",
+      "genres": [
+        "adventure",
+        "simulation",
+        "mouse",
+        "animals",
+        "food",
+        "management",
+        "restaurant",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "business-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/410d10d8-aa29-4fef-064e-86fc00f60100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8f064b31-ed8e-470d-a9b3-1fa6a2980200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9b6e122afb354a9abb195a6f9409e258",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/paws-and-pals-diner?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

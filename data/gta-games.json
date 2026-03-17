@@ -1,0 +1,105 @@
+{
+  "category": "gta",
+  "count": 2,
+  "games": [
+    {
+      "id": "112101",
+      "slug": "grand-shift-auto",
+      "title": "Grand Shift Auto",
+      "description": "Gangster gameplay in the city location.  There are three missions in the game. Take your best guns, rifles, shotgun, machine guns and make chaos in the city. Steal sports cars, ride through the city. Complete missions and try to become rich. Have fun.",
+      "howToPlayText": "Desktop control:\nWASD: - Move\nSpace: - Jump\nShift: - Run\nLeft Mouse Click: - Shoot\nMiddle Mouse: - Change weapon\nF: - Enter vehicle\nTab: - Weapon shop\nP: - Menu\nL: - lock cursor\nR: - Restart\nC: - Change camera on the car\nE: - Light\n\n\n",
+      "gameURL": "https://playgama.com/export/game/grand-shift-auto?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/grand-shift-auto",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "adventure",
+        "simulation",
+        "3d",
+        "car",
+        "shooting",
+        "gta",
+        "driving",
+        "physics"
+      ],
+      "tags": [
+        "mission-games",
+        "addictive-games",
+        "crime-games",
+        "gangster-games",
+        "1-player-games",
+        "third-person-shooter-games",
+        "open-world-games",
+        "action-rpg"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5023e677-77a3-4399-963a-aafbe6248b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/563cc42b-1737-44a4-fa5b-5687febb1e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "59b0f82c3849b600a09b63946de98b0d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/grand-shift-auto?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "92176",
+      "slug": "gangster-island-crime-city",
+      "title": "Gangsta Island: Crime City",
+      "description": "Dive into the exciting realm of Crime City, where you start as a regular citizen and rise to power as a crime leader. Conquer neighborhoods, battle rival gangs, and pull off daring heists with engaging mini-games, all available for both mobile and desktop play.",
+      "howToPlayText": "Gangsta Island: Crime City is a game where you start as a street dweller and climb your way to world domination. Use street-smart skills, engage in petty thefts, confront rival crews, and venture into high-stakes heists in Las Vegas. Experience captivating mini-games and activities as you strive to become the ultimate underworld boss.",
+      "gameURL": "https://playgama.com/export/game/gangster-island-crime-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/gangster-island-crime-city",
+      "genres": [
+        "arcade",
+        "adventure",
+        "simulation",
+        "cool-games",
+        "gta",
+        "rpg",
+        "idle"
+      ],
+      "tags": [
+        "iphone-games",
+        "crime-games",
+        "gangster-games",
+        "islands-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a0ffbb28-8c32-4b43-ecd3-59e4ba73c600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e281d982-787b-4b3e-81eb-3eb384f59500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fbaaf3ca0494495294cad898f235f14d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/gangster-island-crime-city?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

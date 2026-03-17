@@ -1,0 +1,92 @@
+{
+  "category": "police",
+  "count": 2,
+  "games": [
+    {
+      "id": "110861",
+      "slug": "police-chase-simulator",
+      "title": " Police Chase Simulator",
+      "description": "Dive into the world of police chases, destruction, and crazy races!\nChoose from over 15 vehicles, including sedans, SUVs, trucks, and special cars.\n\n🗺️ Maps:\n• 🌆 City with wide streets and green suburbs.\n• 🌕 Moon with low gravity and a cosmic backdrop.\n• 🏞️ Countryside with hills, jumpable rocks, and a destruction zone.\n• 🛠️ Test area with ramps, presses, and numerous props for experimentation.\n\n🎨 Tuning:\n• Full control over your car's appearance — paint every detail.\n• Adjust wheels: change camber, height, and size!\n\n⚙️ Destruction Physics:\n• Cars crumple, doors and wheels fall off, windows shatter!\n• Environment partially destructible, creating explosions and chaos.\n\n⏳ Time Control:\n• Enjoy time-slowing effects for epic moments with a single click.\n\n🏁 Game Modes:\n• Choose between racing or sandbox for free driving.",
+      "howToPlayText": "\nControls:\nTAB - pause menu (or Escape)\n\nWASD - driving.\nSpacebar - handbrake.\nShift - nitro.\nC - change camera.\nR - reset car.\nK - restore car.\nB - slow down time.\n\nFor mobile devices, use the game interface.",
+      "gameURL": "https://playgama.com/export/game/police-chase-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/police-chase-simulator",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "simulation",
+        "skill",
+        "boys",
+        "3d",
+        "car",
+        "driving",
+        "police"
+      ],
+      "tags": [
+        "race-games",
+        "destruction-games",
+        "destroy-games",
+        "car-crash-games",
+        "sandbox-games",
+        "arcade-car"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5bfe7ca3-803e-4a11-2160-758b91fffe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/455189ef-4d8f-4fcf-7e47-b7e7f6820600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8aea75ba57f64b108e8ac94cc32fbd0f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/police-chase-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106363",
+      "slug": "dark-city-multiplayer",
+      "title": "Dark City. Multiplayer",
+      "description": "Dark City. Multiplayer is an online open-world horror game where players are divided into two factions: police and bandits, fighting for control over an abandoned city consumed by darkness.\n\nThe world is alive and shared among all players — every step could lead to a confrontation with an enemy... or something far worse.\n\nThe police try to restore order, protect survivors, and reclaim captured territories.\n\nThe bandits aim to establish their rule by taking over zones, setting ambushes, and hiding in the shadows.\n\nCapture areas, hold control, fend off enemy attacks… and survive the horror slowly awakening in the depths of the city.",
+      "howToPlayText": "WASD – Move\nSpace – Jump\nEnter – Game Chat\nE – Inventory\n\nAfter starting the game, join the bandit or police faction and capture as many districts as possible.\nEvery 30 seconds, you will receive money for the districts you control.",
+      "gameURL": "https://playgama.com/export/game/dark-city-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dark-city-multiplayer",
+      "genres": [
+        "action",
+        "simulation",
+        "multiplayer",
+        "shooting",
+        "fighting",
+        "police",
+        "war"
+      ],
+      "tags": [
+        "open-world-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea866900-5622-448c-806a-7eef26587300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/146de99d-e3f4-41b6-792d-776869e19800/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/dark-city-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

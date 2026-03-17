@@ -1,0 +1,182 @@
+{
+  "category": "ninja",
+  "count": 4,
+  "games": [
+    {
+      "id": "47",
+      "slug": "ninja-dash-playgama",
+      "title": "Ninja dash: Cozy tactic puzzle",
+      "description": "Dive into the exciting realm of Ninja Dash: Cozy Tactic Puzzle, a free online game where stealth and strategy unite. As a ninja tactician, eliminate foes with careful planning, using your surroundings to perfect each move, whether on your phone or computer.",
+      "howToPlayText": "Keyboard \nRotate player - hold RMB + move mouse \nAction - LMB\nCamera rotate & zoom - AD, mouse wheel\nMobile \nPlayer - screen buttons\nCamera rotate & zoom - swipe left/right, pinch",
+      "gameURL": "https://playgama.com/export/game/ninja-dash-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ninja-dash-playgama",
+      "genres": [
+        "puzzle",
+        "ninja",
+        "cozy"
+      ],
+      "tags": [
+        "iphone-games",
+        "stealth-games",
+        "desktop-games",
+        "tactical-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online",
+        "samurai"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2f5c8def-3b69-4e15-d247-7acbae07c900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d2c6e081-af08-4c33-c769-106915da4d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7b3cb53a86d8406fad6426ff054926cc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ninja-dash-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99709",
+      "slug": "slow-time-ninja",
+      "title": "Slow Time Ninja",
+      "description": "Master time and precision in this stealth ninja game! Swipe to throw your weapon, freeze time to plan, and strike with deadly accuracy. Outsmart enemies, use your surroundings, and defeat all foes with true ninja elegance.",
+      "howToPlayText": "Swipe to throw your weapon at enemies, showcasing incredible ninja mastery.  While the weapon is in your possession, time moves slowly, giving you the chance to carefully plan each move. But as soon as you throw the weapon, time returns to its normal speed. Therefore, every action you take must be deliberate and precise to find the perfect moment for an attack. \n\nThe mission will end when all enemies on the battlefield are defeated.  However, don’t forget to stay aware of your surroundings—some opponents may be faster, stronger, or craftier than they initially appear. \n\nStay stealthy, use the environment, and take advantage of the time-slowing mechanic to secure victory.  Your task is not just to attack, but to do so with cold calculation and the elegance of a true master.",
+      "gameURL": "https://playgama.com/export/game/slow-time-ninja?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/slow-time-ninja",
+      "genres": [
+        "action",
+        "puzzle",
+        "ninja"
+      ],
+      "tags": [
+        "unity-games-online",
+        "samurai"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c48f4a45-7aed-4f80-b435-5c1dc7298e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3b687892-b240-4ffa-0747-f0e3a7436600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "158c21912f7a4b1ebb038ba4988536f1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/slow-time-ninja?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86454",
+      "slug": "go-up-samurai",
+      "title": "Go! Up! Samurai",
+      "description": "Go! Up! Samurai offers an action-packed HTML5 gaming experience. Dive into a vibrant samurai realm, where quick reflexes and smart tactics are essential. Players must skillfully maneuver through various challenges and foes, emphasizing accuracy and ability.",
+      "howToPlayText": "A, D (Left and Right Arrows) - Walking\nW (Up Arrow) - Jump\nS (Down Arrow) - Kick\nShift - Jump\nR - Restart\nEsc - Exit",
+      "gameURL": "https://playgama.com/export/game/go-up-samurai?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/go-up-samurai",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "platform",
+        "ninja",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "destruction-games",
+        "endless-games",
+        "desktop-games",
+        "borwser-games",
+        "godot-games-online",
+        "fast-paced-action",
+        "samurai"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/30a65b23-8239-4001-ae7e-77672b2bd000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/787ead3e-2800-4d15-a054-ac8b51ebb800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "75c9d0037e3d4d9099961e4ddda2862f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/go-up-samurai?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111511",
+      "slug": "fruit-chopper",
+      "title": "Fruit Chopper",
+      "description": "Grand fruit slasher is out!\n\nGameplay is zero hassle. Time your throws carefully and try to slash multiple fruits at once to get bonus score! Be nimble and accurate - DO NOT MISS!\n\nYou'll get one cocktail per every level completed. After you get 4 cocktails, you will get free spin of fortune wheel! RARE COCKTAILS = BETTER REWARDS!\n\nCan you reach level 100?",
+      "howToPlayText": "You try to slash / cut fruits as they come or are thrown — particularly trying to hit multiple fruits with one throw/slash to get bonus points. The aim is to keep going without missing.\nYou tap or swipe (depending on the moment) to time your throw/slash. Time it carefully so you can hit as many fruits in one go as possible.\nImportant: Do NOT miss — if you fail to hit fruits properly, it affects your progress.",
+      "gameURL": "https://playgama.com/export/game/fruit-chopper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fruit-chopper",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "mouse",
+        "food",
+        "ninja",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "fruits-games",
+        "addictive-games",
+        "timing-games",
+        "slicing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c827c00-2b12-4ba7-1dd4-53f805a79c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fca16340-0851-4f5c-120e-39868b7e5a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "76a10445fdf94eba98e7e19ff305ae68",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fruit-chopper?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

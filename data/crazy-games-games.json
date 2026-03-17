@@ -1,0 +1,421 @@
+{
+  "category": "crazy-games",
+  "count": 8,
+  "games": [
+    {
+      "id": "98050",
+      "slug": "break-stick-completely",
+      "title": "Break Stick Completely",
+      "description": "Dive into the quirky realm of Break Stick Completely, where you unleash mayhem with a stick figure. Use vehicles and obstacles to create comical chaos and rack up points through fun stunts. Accessible on phone and computer, this free game promises endless laughter and enjoyment.",
+      "howToPlayText": "🎮 Choose a vehicle – from a motorcycle to a supermarket cart!  \n🚧 Add funny obstacles – giant ramps, traps, and much more!\n🔥 Press “Start” and watch the crazy stunts Stick performs!\n🏆 Earn points, unlock new levels, and come up with even more experiments!",
+      "gameURL": "https://playgama.com/export/game/break-stick-completely?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/break-stick-completely",
+      "genres": [
+        "arcade",
+        "simulation",
+        "funny",
+        "popular",
+        "ragdoll",
+        "physics",
+        "crazy-games",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "stunt-games",
+        "destruction-games",
+        "crash-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e7977913-a9c7-4c2e-fd24-76a8f1b58200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fb11d41-ca7e-493d-0a8c-c9ce9c757500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c899ec6803774ab3a51a5316b7cd9a9f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/break-stick-completely?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "18",
+      "slug": "online-car-destruction",
+      "title": "Online Car Destruction Simulator 3D",
+      "description": "3D Online Car Destruction Simulator is an adrenaline-pumping game that emphasizes realistic vehicle crashes. Players can enjoy demolition chaos in immersive settings, driving various cars with intricate damage effects. Engage in thrilling multiplayer action, and experience this free game on mobile and desktop, no downloads required.",
+      "howToPlayText": "Controls:\nTAB - pause menu (or Escape)\n\nMoving W (forward), S (backward), A (left), D (right).\nSpacebar - handbrake.\nShift - nitro.\nC - change camera.\nU - free camera.\nR - reset car.\nK - restore car.\nB - slow down time.\nN - switch car.\n\nFor mobile devices, use the game interface.\n\nThe goal of the game: just dride and crash cars as you like ;)",
+      "gameURL": "https://playgama.com/export/game/online-car-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/online-car-destruction",
+      "genres": [
+        "simulation",
+        "3d",
+        "car",
+        "multiplayer",
+        "pve",
+        "driving",
+        "crazy-games"
+      ],
+      "tags": [
+        "destruction-games",
+        "interactive-games",
+        "car-crash-games",
+        "desktop-games",
+        "sandbox-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/94431240-6650-49f4-0a70-d39dee753200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/37d672d6-df6c-4c3c-a7e7-be1ec2f96f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9c8ce3ea9ae74b6f9a2338dcbdc8045e",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "14a7bf621f614ad0963c0061da2defc0",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "53488fda044a4f84981bbfce7e334baa",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "2e255c3914ef433db3e59a09b3ef98eb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/online-car-destruction?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111797",
+      "slug": "zombie-derby",
+      "title": "Zombie Derby",
+      "description": "Zombie Derby is a wild mix of racing and zombie mayhem from Brinemedia. Jump behind the wheel and plow through hordes of the undead standing in your way. But be careful - your fuel is limited, and once you stop, you’ll become easy prey. Time your nitro boosts wisely, as they might be the only thing that gets you over a hill or across a deadly gap.",
+      "howToPlayText": "Accelerate - W/Arrow up\nShoot gun - Spacebar\nUse nitro - Left Shift/N\nTilt forward/backward - Left/Right arrow or A/D",
+      "gameURL": "https://playgama.com/export/game/zombie-derby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-derby",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "shooting",
+        "car-racing",
+        "zombie",
+        "survival",
+        "driving",
+        "physics",
+        "crazy-games",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "offroad-games",
+        "addictive-games",
+        "accuracy-games",
+        "avoid-games",
+        "obstacles-games",
+        "apocalypse-games",
+        "road-games",
+        "agility-games",
+        "1-player-games",
+        "bloody-games",
+        "traffic-games",
+        "level-games",
+        "wheel-games",
+        "offroad-car",
+        "arcade-car",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/96407488-0601-49a0-f6e1-46b1f7a70d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b913f855-e1f8-44bb-b5ea-72071a295d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "38f66cd40aa5619791f414eac138c699",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "5e421c4a145eeb59cbfa9f9edc5a53c1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-derby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "15",
+      "slug": "race-to-win",
+      "title": "Battle Arena Race to Win",
+      "description": "Dive into the thrilling universe of Battle Arena Race to Win, an exciting online game where you join either the Red or Blue team. Battle in quick-paced car fights, upgrade vehicles for speed and durability, and rise through the ranks to ensure your team''s triumph on both mobile and PC!",
+      "howToPlayText": "W / up arrow key = accelerate\nS / down arrow key = move backward\nA / left arrow key = turn left\nD / right arrow key = turn right\nR = restore position\nSpace = handbrake (drift)\nLeft Shift = nitro",
+      "gameURL": "https://playgama.com/export/game/race-to-win?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/race-to-win",
+      "genres": [
+        "racing",
+        "app-store",
+        "pve",
+        "crazy-games"
+      ],
+      "tags": [
+        "iphone-games",
+        "fast-paced-games",
+        "addictive-games",
+        "arena-games",
+        "car-crash-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fa0d6909-5643-41b6-f453-6f181f1f3400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1e3e44a7-0d90-4d04-e2c2-92404355df00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "04a43008e7364c3bb0b49149ba08ab8c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/race-to-win?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "50",
+      "slug": "crazy-sheep",
+      "title": "Crazy Sheep",
+      "description": "Crazy Sheep is a fun puzzle-platformer where you help a clumsy sheep overcome obstacles by building a bridge with different items. Available for free online, it features engaging physics challenges. Playable on any device, it's perfect for those who love light-hearted, casual games.",
+      "howToPlayText": "Help the sheep get to the other side.\nTo do this, you need to build a bridge from objects.\nThis is very difficult to do, you need to have a quick reaction and a lot of patience.\nIn addition, the sheep is very clumsy, and any unevenness in the bridge will prevent it from passing across it.",
+      "gameURL": "https://playgama.com/export/game/crazy-sheep?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/crazy-sheep",
+      "genres": [
+        "action",
+        "puzzle",
+        "skill",
+        "animals",
+        "crazy-games"
+      ],
+      "tags": [
+        "2d-games",
+        "reaction-games",
+        "brain-training-games",
+        "interactive-games",
+        "obstacle-games",
+        "challenging-games",
+        "cute-games",
+        "mind-games",
+        "trap-games",
+        "1-player-games",
+        "building-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7cd70994-de82-481c-1751-5c895d80ef00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3e66651e-64b9-4151-3fd9-f6376268b700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8cdee9932a3c48c09dcd154d845cbb21",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/crazy-sheep?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "52",
+      "slug": "crazy-descent",
+      "title": "Crazy Descent",
+      "description": "Crazy Descent is an exciting racing game where you can compete in high-speed aerial races instantly, no downloads needed. Experience captivating 3D visuals and fluid gameplay on any device, upgrade your vehicle, and take on various challenges, catering to both experienced racers and newcomers.",
+      "howToPlayText": "Mobile: touch the screen and swipe left/right\nDesktop: W - go forward, A/D - turn, R - restart\n",
+      "gameURL": "https://playgama.com/export/game/crazy-descent?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/crazy-descent",
+      "genres": [
+        "action",
+        "racing",
+        "car-racing",
+        "cool-games",
+        "driving",
+        "crazy-games"
+      ],
+      "tags": [
+        "race-games",
+        "fast-paced-games",
+        "addictive-games",
+        "obstacles-games",
+        "derby-games",
+        "car-crash-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/da676340-010f-418e-1a7d-601975125400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b823a433-3bd6-4a3e-89de-ad71a3992100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "71517334ac6b4a629af4e14d9193d920",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/crazy-descent?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "64015",
+      "slug": "ragdoll-show",
+      "title": "Ragdoll Show: Throw, Break and Destroy!",
+      "description": "Ragdoll Show offers an exciting blend of puzzle and action, allowing players to creatively wreak havoc. Enjoy free online play with no downloads required, tackling challenging levels while experiencing fun ragdoll mechanics. Accessible across devices, it delivers thrilling gameplay whether at home or on the move.",
+      "howToPlayText": "-",
+      "gameURL": "https://playgama.com/export/game/ragdoll-show?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ragdoll-show",
+      "genres": [
+        "puzzle",
+        "ragdoll",
+        "crazy-games"
+      ],
+      "tags": [
+        "2d-games",
+        "creative-games",
+        "destruction-games",
+        "interactive-games",
+        "addictive-games",
+        "challenging-games",
+        "breaking-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4673983f-926d-4f5d-cc57-1fb002796e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6a82d5c9-e345-4d45-ba18-6dfc16e9bb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "22e3d296eee64cdf967cfa5cf9c55c3a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ragdoll-show?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "12",
+      "slug": "chainsaw3d-playgama",
+      "title": "Chainsaw 3D",
+      "description": "Chainsaw 3D is an exciting online arcade game where you cut logs using a chainsaw. Available for free on multiple platforms, this engaging woodcutting challenge blends skill and puzzle elements, requiring concentration to succeed at each new level. Aim to become the top woodcutter!",
+      "howToPlayText": "Use mouse or finger to rotate chainsaw up and down. Avoid obstacles and cut through the lines! Be the best woodcutter!",
+      "gameURL": "https://playgama.com/export/game/chainsaw3d-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/chainsaw3d-playgama",
+      "genres": [
+        "arcade",
+        "3d",
+        "cool-games",
+        "mini",
+        "crazy-games"
+      ],
+      "tags": [
+        "obstacle-games",
+        "addictive-games",
+        "1-player-games",
+        "slicing-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9cbf71e8-6828-4481-366c-2719dafabc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7510b185-3f8d-4aac-7ee7-1997b020bc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4b792ee2c27c4165b59ee848bf24f760",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/chainsaw3d-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

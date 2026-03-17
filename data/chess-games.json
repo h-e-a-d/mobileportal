@@ -1,0 +1,94 @@
+{
+  "category": "chess",
+  "count": 2,
+  "games": [
+    {
+      "id": "86262",
+      "slug": "master-chess",
+      "title": "Master Chess",
+      "description": "Sharpen your tactics to defeat the king in this classic game. Compete online with either the AI or players from around the world. Aim for victory!",
+      "howToPlayText": "On desktop: click the piece you want to move and then click the square on the board where you want to positionate the piece.\n\nOn mobile: tap the piece you want to move and then tap the square on the board where you want to positionate the piece.",
+      "gameURL": "https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-chess",
+      "genres": [
+        "two-player",
+        "multiplayer",
+        "chess",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "turnbased-games",
+        "interactive-games",
+        "rts-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/584d459d-be49-44e2-b09b-04b10a241900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d00b16b-8a23-45dc-7543-1a7db0be8d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "066b3bab8a1c460cbc5d057dbbe37125",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-chess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111579",
+      "slug": "chess-online-multiplayer",
+      "title": "Chess Online Multiplayer",
+      "description": "Play Chess Online and Improve Your Skills!\n\nAre you ready to challenge your mind and enjoy the timeless game of chess? Chess Multiplayer is the perfect place to play chess online — no registration required! Whether you’re a beginner or a seasoned player, our platform offers an exciting chess experience for everyone.\n\nWhy choose Chess for Free?\n\nMultiple game modes: play against the computer, compete online with players from around the world, challenge a friends, or play together on the same screen!\n21 difficulty levels: choose your opponent — from Beginner to World Champion. Perfect for both newcomers and chess masters!\nTime control modes: pick your preferred pace with Unlimited, Bullet, Blitz, Rapid, or Classic modes.\nInteractive features: highlight possible moves, cancel a move if you make a mistake, use interactive hints to find the best move, and analyze your game after it’s over to learn from your mistakes.\nPersonalized experience: customize the look of the pieces and the board, set handicaps, and keep track of your rating, points, and game statistics.\nExtra fun: share funny cartoon emotions with your opponent and make your game more enjoyable!\nImprove your chess skills and have fun — play Chess for free right now!",
+      "howToPlayText": "Chess Online Multiplayer follows the classic rules of chess. The goal of the game is to checkmate your opponent’s king, putting it in a position where it is under threat of capture and has no legal moves to escape.\n\n**Getting Started**\n\n1. **Choose the game type:**\n* play online against other players;\n* challenge the computer;\n* play together on the same screen with a friend.\n\n2. **If you’re playing against the computer:**\n* select the opponent’s difficulty level (from Beginner to World Champion);\n* choose whether to use a handicap and interactive hints.\n\n3. **If you’re playing with a friend:**\n* decide on the time control mode (Unlimited, Bullet, Blitz, Rapid, Classic).\n* choose your bet\n\n**Basic Rules and Gameplay**\n\n* Players take turns making moves.\n* Pawns move forward and capture diagonally.\n* Knights move in an «L» shape.\n* Other pieces have their own unique moves.\n\nTo succeed, develop a strategy: protect your pieces, control the center of the board, and anticipate your opponent’s moves.\n\nThe game ends when one player checkmates the opponent’s king (winning the game) or when a draw is achieved under certain conditions.\n\n**Draw Conditions**\nA draw is a result where neither player wins, and the game ends in a tie. It can occur under the following circumstances:\n* **stalemate:** when a player has no legal moves but is not in check;\n* **three-fold repetition of the position:** when the same position occurs three times;\n* **50 moves without a capture or pawn move;**\n* **insufficient material to checkmate;**\n* mutual agreement between players.\n\n**Special Chess Moves**\n\n**Castling**\nCastling is a special move involving the king and a rook. It can be performed only if:\n* neither the king nor the rook has moved yet;\n* there are no other pieces between the king and the rook;\n* the king is not in check;\n* the king does not pass through or stop on squares that are under attack.\n\nThis move helps to protect the king and connect the rooks for better defense.\n\n**En Passant (Taking on Pass)**\nEn passant is a special pawn capture. If your opponent moves a pawn two squares forward and lands next to your pawn, you can capture it on your next move as if it had moved only one square. Your pawn will take its place, but this capture must be done immediately.\n\n**Additional Features**\n\n* **Made a mistake?** Use the move undo function to reconsider your strategy.\n* After each match, a detailed analysis highlights mistakes and suggests better moves.\n* You can replay specific moments to strengthen your understanding of the game.\n* Save your rating and choose different time modes (Bullet, Blitz, Rapid).\n* Customize the board and pieces to your liking.\n* Review the move history and express your emotions by communicating with your opponent using playful cartoon emojis.",
+      "gameURL": "https://playgama.com/export/game/chess-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/chess-online-multiplayer",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "chess",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e7b6ad19-ee23-4490-c7ea-7103e65f3400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9e2eb475-4c3b-45cf-4071-79fd367be100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "069e9d3492b838dddc1aeba466ae8125",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/chess-online-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

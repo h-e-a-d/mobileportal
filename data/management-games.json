@@ -1,0 +1,1165 @@
+{
+  "category": "management",
+  "count": 26,
+  "games": [
+    {
+      "id": "106342",
+      "slug": "stickman-clicker",
+      "title": "Stickman Clicker",
+      "description": "Stickman Clicker is a clicker game where you help a stickman become a billionaire. Tap to earn money, invest in upgrades, and unlock stylish accessories. Customize your stickman and achieve milestones by unlocking various achievements. How wealthy can you get?",
+      "howToPlayText": "Click the stickman to earn money, buy upgrades, unlock achievements, and grow your idle empire fast!",
+      "gameURL": "https://playgama.com/export/game/stickman-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-clicker",
+      "genres": [
+        "strategy",
+        "clicker",
+        "management",
+        "idle",
+        "stickman",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "business-games",
+        "incremental-games",
+        "cash-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/974aa683-f001-441a-1368-853225b63300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0b498ca4-366d-4278-dc72-6a1d23eb7b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ff949c50c537467e9875bc3f61790045",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-clicker?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112023",
+      "slug": "dungeon-master-cult-and-craft",
+      "title": "Dungeon Master - Cult & Craft",
+      "description": "Become a dungeon keeper, control stickmen, mine ore, develop a Cult and hold power in this exciting 3D simulator! Develop the Cult, manage resources and expand the boundaries of your underground Universe!\n\n⛏ Resource extraction - send followers for ore and minerals.\n🏛 Cult development - maintain loyalty at a high level.\n👀 Captivating 3D graphics - fully immerse yourself in the atmosphere of darkness.\n⚒ Dungeon upgrade - build, improve and strengthen your base.\n💰 Economic strategy – distribute the spoils and increase wealth.",
+      "howToPlayText": "Desktop:\nWASD / arrow keys / drag left mouse button = move\nLeft mouse button / E = select upgrade\n\nMobile:\nIn-game joystick = move\ntap = select upgrade",
+      "gameURL": "https://playgama.com/export/game/dungeon-master-cult-and-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dungeon-master-cult-and-craft",
+      "genres": [
+        "arcade",
+        "adventure",
+        "strategy",
+        "simulation",
+        "3d",
+        "cool-games",
+        "management",
+        "crafting",
+        "unity",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "relaxing-games",
+        "unity3d-games",
+        "cult-games",
+        "desktop-games",
+        "1-player-games",
+        "building-games",
+        "resource-management-games",
+        "dungeon-games",
+        "mining-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ac5fafca-c68d-495d-b89b-58d6daf11d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f3a2b0ff-5b11-4dc4-c3e7-001ff8672b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b538d9bcf858445159f52f5a23a8f3a3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dungeon-master-cult-and-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94750",
+      "slug": "paws-and-pals-diner",
+      "title": "Paws And Pals Diner",
+      "description": "Discover the fun of running your own animal-themed café in Paws And Pals Diner! Delight in serving cute customers and crafting tasty meals in this engaging 2D game, available on both mobile and desktop for endless enjoyment.",
+      "howToPlayText": "Use the mouse or finger tap to play the game.",
+      "gameURL": "https://playgama.com/export/game/paws-and-pals-diner?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/paws-and-pals-diner",
+      "genres": [
+        "adventure",
+        "simulation",
+        "mouse",
+        "animals",
+        "food",
+        "management",
+        "restaurant",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "business-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/410d10d8-aa29-4fef-064e-86fc00f60100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8f064b31-ed8e-470d-a9b3-1fa6a2980200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9b6e122afb354a9abb195a6f9409e258",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/paws-and-pals-diner?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99346",
+      "slug": "idle-cinema-tycoon",
+      "title": "Idle Cinema Tycoon",
+      "description": "Idle Cinema Tycoon is a casual business simulation game where you are in charge of your very own movie theater with the aim of slowly managing an empire of theaters. Purchase cinema halls, schedule screenings, and upgrade interiors to boost profits. Curate and collect films of various genres, liaise with guests in VIP rooms, and squeeze out as much profit as you can from ticket sales and more. Strategically expand your theater and complete missions to unlock valuable rewards!",
+      "howToPlayText": "Navigate your cinema empire using the left mouse button to interact with the game's user interface. This control allows you to manage theater operations, make upgrades, and execute strategic decisions effortlessly",
+      "gameURL": "https://playgama.com/export/game/idle-cinema-tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/idle-cinema-tycoon",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "mouse",
+        "cool-games",
+        "popular",
+        "management",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "mission-games",
+        "casual-games",
+        "business-games",
+        "resource-management-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b4fd83a8-3cca-41df-b31c-4cb8e6188100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d7d2cfe6-572e-45b6-2ebf-e5c81d011a00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/idle-cinema-tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112558",
+      "slug": "mars-colony",
+      "title": "Mars Colony",
+      "description": "Rob the Robot, you have been given a crucial mission: to prepare Mars for human settlement! Mine resources. Build factories. Recycle resources. Prepare Mars for human settlement!\n\"Mars Colony\" is an idle game. The game is similar to \"My Little Universe.\"",
+      "howToPlayText": "Use the joystick to move.\n\nIf you have a keyboard, you can use:\nWASD or arrow keys to move.\n\nMove Rob to a resource and he will begin mining it.\nMove Rob to a production facility and he will begin refining a resource.\nMove Rob to the construction area and he will invest resources in the building.\nMove Rob to the warehouse and the resource movement panel will open.\nMove Rob to the transport assistant control area and the assistant control panel will open.",
+      "gameURL": "https://playgama.com/export/game/mars-colony?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mars-colony",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "management",
+        "space",
+        "mobile"
+      ],
+      "tags": [
+        "building-games",
+        "resource-management-games",
+        "mining-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f7ee0299-8333-41dd-f2cb-3ec2b4a8fc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a0ecf20d-beec-4cc3-1a51-e724aba2c100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "41364d447af9c46c328de6798836b94e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/mars-colony?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106349",
+      "slug": "hedgies",
+      "title": "Hedgies",
+      "description": "A single Hedgehog is capable of turning a desolate and abandoned household on plot of land into a bustling and flourishing farm. Only a few of us, people, are aware of the fact that Hedgies are great cooks, fishermen, craftsmen and last, but not the least, fabulously hospitable types! Come and see for yourself, plunge into ‘Hedgies’ game and contribute to the beautification of the Valley.\n",
+      "howToPlayText": "Hedgies is a charming farming game where a hardworking hedgehog transforms an abandoned plot into a thriving homestead. Grow crops, craft goods, and master skills like cooking and fishing. With a warm and welcoming spirit, your hedgehog will turn the valley into a lively community. Step in and help bring this enchanting world to life!",
+      "gameURL": "https://playgama.com/export/game/hedgies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hedgies",
+      "genres": [
+        "adventure",
+        "strategy",
+        "animals",
+        "management",
+        "cozy",
+        "crafting",
+        "cooking"
+      ],
+      "tags": [
+        "casual-games",
+        "1-player-games",
+        "building-games",
+        "resource-management-games",
+        "animal-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9f4a3b24-697c-4530-c030-57237aef6300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/68b75869-383a-4b42-4eb9-a0c484a51700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5190b1fcdbba4021a45c3930c54161e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/hedgies?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "93229",
+      "slug": "kinder-garden-9f95-1",
+      "title": "Kinder Garden",
+      "description": "Dive into the charming realm of Kinder Garden, where you care for a daycare. Participate in fun tasks like feeding and changing diapers to keep the little ones happy. Unlock new spaces and toys as you play for free on your phone or computer, enjoying the satisfaction of each achievement.",
+      "howToPlayText": "⁃ Move with the joystick;\n⁃ Come to the diapers to take them;\n⁃ Come to the baby to change the diaper;\n⁃ Take a bottle and go to the baby to feed;\n⁃ Take the baby and go to the crib to put him to bed.",
+      "gameURL": "https://playgama.com/export/game/kinder-garden-9f95-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/kinder-garden-9f95-1",
+      "genres": [
+        "arcade",
+        "adventure",
+        "kids",
+        "management",
+        "idle"
+      ],
+      "tags": [
+        "babysitting-games",
+        "desktop-games",
+        "family-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4626295f-e133-4093-b841-bcfd676e9e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0f39fe33-0412-46dd-3578-1e4574c6cc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b7cf540c7b2d47d4b55dd66919d7f129",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/kinder-garden-9f95-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112617",
+      "slug": "millionaire-factory",
+      "title": "Millionaire Factory",
+      "description": "Millionaire Factory 🔩🏭 is a fun and addictive 🎉 clicker game where players collect Metal to grow their fortune. By tapping the giant Metal button 👆, players gather Metals, convert them into Money 💰, and invest in upgrades to build their own factory empire.\n\nThe game offers a growth journey that starts with a small piece of Metal 🔩 and expands into a massive factory and investment fortune 📈📉.",
+      "howToPlayText": "Metal Production 🔩:\nAt the heart of the game lies a massive Metal (Gear) button. Each tap 👆 earns you Metal, which serves as your primary source of income.\n\nMetals → Money 💵:\nYou can convert collected Metals into Money 💸 to keep your economy running. For example:\n➡️ 1 Metal = 0.1 Money\n➡️ 10 Metals = 1 Money\n\nIncome and Robot Program Upgrades 🤖🏭:\nWith the money you earn 💵, you can:\n\nPurchase upgrades that increase the amount of Metal gained per tap 💪.\n\nInvest in automation systems such as the Basic Auto Robot 3️🔨, Regional Robot Program ⚒️, and National Automatic Robot Fleet.\nThese systems generate passive income every 5 seconds.\n\nFactories 🏭:\nAt the start of the game, you begin with a single factory, which you can upgrade 🔧. You can also purchase up to three additional factories 🏭, each of which can be further developed.\nEvery factory has a progress bar 📊 representing its Metal production. Once the bar fills, the factory automatically sells the produced Metal, adds the profit 💵 to your balance, and the cycle restarts.\n\nFast Investments⚡:\n📊 In the investment section, carefully observe the **candlestick movements** left by the dynamic system.\n⏱️ Within about **15 seconds**, predict whether the price will go **up or down.**\n💰 Then, open a **trade** in the direction you believe it will move, using your chosen amount.\n🎯 If your prediction is correct, you’ll earn **double** the amount you invested! 💎🚀\n\n\nAchievements 🏅:\nThere are 6 unique achievements 🌟 to unlock throughout the game, based on the total Metals collected 🔩, upgrades purchased 🔝, and wealth accumulated 💰.",
+      "gameURL": "https://playgama.com/export/game/millionaire-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/millionaire-factory",
+      "genres": [
+        "strategy",
+        "simulation",
+        "tycoon",
+        "mouse",
+        "clicker",
+        "management",
+        "idle"
+      ],
+      "tags": [
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/238e8212-00ba-42ec-3248-8d71b3ede600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/fdf0598d-801b-4707-7881-8ec4acd8cf00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6890c1951c1196ecf78cc93632edc0fe",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/millionaire-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99453",
+      "slug": "airplane-factory--tycoon",
+      "title": "Airplane Factory - Tycoon",
+      "description": "Build and expand your own aviation empire in Airplane Factory - Tycoon ! Start small by producing lightweight planes, and gradually scale up to manufacturing giant airliners and advanced fighter jets. Manage production lines, upgrade your factory facilities, enhance your manager’s skills, and unlock new types of aircraft to boost your profits. Strategically grow your business to become the ultimate aircraft manufacturer! ",
+      "howToPlayText": "Controls on Desktop:    \n- WASD  or Left Mouse Click (LMB) : Move your character around the map.\n\nControls on Mobile Devices:    \n- Swipe : Simply swipe across the screen to move your character in any direction.\n     ",
+      "gameURL": "https://playgama.com/export/game/airplane-factory--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/airplane-factory--tycoon",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "cool-games",
+        "management",
+        "airplane",
+        "construction",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "business-games",
+        "incremental-games",
+        "resource-management-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/061f7caf-19d7-4744-c7d4-4a3151b46f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/60a9a5b3-671b-4ace-a138-408a35fc2a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ef73a88440cf450db6284b578598df6b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/airplane-factory--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106331",
+      "slug": "magic-kingdom-hex-match",
+      "title": "Magic Kingdom: Hex Match",
+      "description": "You are the 3rd son of the great king of a magical land. Your parents send you to a faraway land to establish a new kingdom and prove that you are the most capable of their children!\n\nIn the game you collect resource hexes. There are 6 resources in total: food, water, stone, wood, diamonds and metal. When you collect enough resources, you can build a new building. Unlock all the buildings, create a beautiful magical kingdom!",
+      "howToPlayText": "Kingdom building screen.\n- Click on the scaffolding to see how many more resources you need to collect to build a new building;\n- when there are enough resources, a hammer icon will appear above the building. Click on it to build a new building and move on to building the next building.\n\nResource Gathering Screen.\n- 3 stacks of hexes appear at the bottom, which you can pick up and place on the field;\n- take a stack and place it on the field so that the top tiles overlap. The tiles will then flow over each other;\n- when you collect a stack of 10 or more hexes of the same type, the stack disappears and you collect that resource;\n- at the top of the game screen you can see the counter of hexes that you need to collect to finish the level.",
+      "gameURL": "https://playgama.com/export/game/magic-kingdom-hex-match?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/magic-kingdom-hex-match",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "strategy",
+        "management",
+        "matching",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "building-games",
+        "resource-management-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/43e30a2e-bc44-44b2-aea1-409f4ca9c000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/faf285c2-73f0-4af8-3392-b386522cb100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5228ccec37304f45a16ad892ea0d86ad",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/magic-kingdom-hex-match?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106377",
+      "slug": "sneaker-factory",
+      "title": "Sneaker Factory!",
+      "description": "You're the owner of a sneaker factory! Will you be able to beat the competition and top the city ranking?\n\n🔥 Fulfill orders – create sneakers on request: choose colors, apply labels and pack batches.\n\n📦 Sorting in the warehouse – put the identical sneakers on the shelves.\n\n🚚 Truck delivery – upgrade in driver mode: avoid obstacles and take the goods to the warehouse!\n\n🏆 Leaderboard – Compete with other factories, earn a reputation and become No. 1!\n\nVivid graphics, dynamic gameplay and the excitement of production are waiting for you! Test your speed and business skills – start the game right now!",
+      "howToPlayText": "PC Management:\n\n- By clicking on the buttons\n\nDuring cargo delivery:\n- Left Arrow - Brake/Reverse gear\n- Right Arrow - Gas\n- Space Bar - Jump\n\nManagement for Mobile devices:\n\n- By clicking on the buttons\n\nDuring cargo delivery:\n- Left arrow button - Brake/Reverse\n- Right arrow button - Gas\n- Up arrow button - Jump\n\nThe level depends on the amount of reputation. Reputation can be earned by building improvements, sorting, order fulfillment, and shipping.",
+      "gameURL": "https://playgama.com/export/game/sneaker-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sneaker-factory",
+      "genres": [
+        "strategy",
+        "simulation",
+        "kids",
+        "tycoon",
+        "clicker",
+        "popular",
+        "management",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "business-games",
+        "sorting-games",
+        "resource-management-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/108f6acb-f70a-4d2b-5a4b-6ea46a2df400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9ffc4ad5-96f5-4632-3bc1-e0f7a415ac00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e1cde9baeb5145ffb9568c8f4e0cd20f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sneaker-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99679",
+      "slug": "business-go",
+      "title": "Business Go",
+      "description": "Business Go is a classic board game where players buy, sell, and rent properties to build their wealth and outplay the competition.",
+      "howToPlayText": "Roll the dice, buy properties, and collect rent to build your business empire.\n",
+      "gameURL": "https://playgama.com/export/game/business-go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/business-go",
+      "genres": [
+        "multiplayer",
+        "management",
+        "classic",
+        "board"
+      ],
+      "tags": [
+        "casual-games",
+        "business-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c28b9662-27c1-4168-c626-f0bd672a8b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b76fafb9-9da5-4b5e-a061-a24d8858e700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d017b6da706641b1ac2a359499001ede",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/business-go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99496",
+      "slug": "jurassic-digging--tycoon",
+      "title": "Jurassic Digging - Tycoon",
+      "description": "The goal of the game is to uncover ancient remains, clean them from dirt, and assemble complete skeletons. Progress through all levels and provide museums with an extensive collection of dinosaur skeletons. ",
+      "howToPlayText": "Controls:\nOn Mobile:  Tap and swipe to interact.  \nOn Desktop:  For movement use WASD or Left Mouse Click.\n\nAdditional Features:\n- Explore various dig sites to find rare fossils.  \n- Restore and polish bones to increase their value.  \n- Design museum exhibits to attract more visitors.  \n- Expand your museum and unlock new tools as you advance.\n     ",
+      "gameURL": "https://playgama.com/export/game/jurassic-digging--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/jurassic-digging--tycoon",
+      "genres": [
+        "arcade",
+        "management",
+        "idle"
+      ],
+      "tags": [
+        "brain-out-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/053370cb-b25e-4d04-49d1-c28975a3db00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dee188f7-74f0-46b8-49d7-af1cdc71ba00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "771985c4d2d44968894977eae0264978",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/jurassic-digging--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98691",
+      "slug": "sweet-supermarket-simulator",
+      "title": "Sweet Supermarket Simulator",
+      "description": "- Collect ingredients  \n- Stock shelves  \n- Earn money  \n- Unlock new shelves with products  \n- Hire new staff  \n- Upgrade your character  \n- Unlock new supermarkets\n",
+      "howToPlayText": "Character Controls: \nMovement: W,A,S,D keys or mouse/touch",
+      "gameURL": "https://playgama.com/export/game/sweet-supermarket-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sweet-supermarket-simulator",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "management"
+      ],
+      "tags": [
+        "business-games",
+        "time-management-games",
+        "resource-management-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/58d009ef-207e-46bb-3aec-5021f9416000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/df52dbf4-4c6a-4c5b-8326-2654d58fec00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "46d2ed34e7be45289296ead9306ea7e3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sweet-supermarket-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "42",
+      "slug": "money-factory",
+      "title": "Money Factory - Earn a Billion ",
+      "description": "Money Factory - Earn a Billion is an engaging online strategy and puzzle game where you manage a money-making factory. Strategically enhance your operations, overcome challenges, and unlock new levels while boosting your earnings. Play on any device and enjoy a thrilling experience as you build wealth and demonstrate your skills.",
+      "howToPlayText": "1. Making money is easy at first, but you'll need creativity and luck to keep growing your factory.\n2. Buy boosters, fill the field, and multiply your earnings.\n3. Hold your finger or mouse button to move boosters, release to place or combine two identical ones.\n4. Aim to become a billionaire!\n",
+      "gameURL": "https://playgama.com/export/game/money-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/money-factory",
+      "genres": [
+        "puzzle",
+        "tycoon",
+        "app-store",
+        "management",
+        "idle"
+      ],
+      "tags": [
+        "2d-games",
+        "business-games",
+        "desktop-games",
+        "incremental-games",
+        "cash-games",
+        "resource-management-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/66bc24eb-4d6c-4a1e-0cac-d793e2816700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aff8a8af-c3f6-4f2f-a067-7e29376cf900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5f1051e0428e4dc2889c2abba70d322a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/money-factory?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "21",
+      "slug": "idle-train-empire",
+      "title": "Idle Train Empire Tycoon",
+      "description": "Dive into the engaging world of <strong>Idle Train Empire Tycoon</strong>, where you can create and oversee your railway station. Upgrade trains, design routes, and accommodate more guests to expand your empire. Enjoy countless challenges and rewards in this exciting free online game, available on mobile and PC.",
+      "howToPlayText": "Develop your railway station by purchasing and upgrading trains, as well as customizing routes! Acquire and furnish various spaces and waiting halls! Unlock access to all railway platforms and destinations! Increase visitor traffic and enhance profits with every ticket sold!\n\nThe primary genre of the game is Idle Tycoon. For an extended period, you'll be involved in managing your own business - a railway station. Earn profits from serving visitors and invest them back into your business. Complete daily and regular tasks, receive valuable rewards, and expand your train collection! As your station progresses, new railway platforms, destinations, and trains will become accessible! Wisely configure routes and maximize profits from each visitor! Allocate technology points to various station and train improvements! All of this will assist you in developing a large and profitable business!\n\n\nControls:\nUse the left mouse button to interact with the in-game UI\nPlus and minus keys = change the size of the camera\n\n\n\n• IGB by Playgama",
+      "gameURL": "https://playgama.com/export/game/idle-train-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/idle-train-empire",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "management",
+        "train",
+        "idle"
+      ],
+      "tags": [
+        "city-building-games",
+        "business-games",
+        "interactive-games",
+        "desktop-games",
+        "isometric-games",
+        "incremental-games",
+        "resource-management-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f2688391-95cd-4885-c18c-9acd1ce13900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1eb466f3-801e-4827-1a47-ac8959b7e300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "756f09f5ad30461691b87b29e44b5e54",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/idle-train-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86399",
+      "slug": "emilys-hotel-solitaire",
+      "title": "Emily''s Hotel Solitaire",
+      "description": "Emily''s Hotel Solitaire is a thrilling card game where you can design your ideal hotel. Play for free online and enjoy a tropical escape while helping Emily realize her grandfather''s dream. Earn stars to enhance your environment, transforming it into a stunning destination with each achievement.",
+      "howToPlayText": "Select the cards that are one higher or one lower in value of your drawn\ncard to remove it from the playing field. To complete a level, you need to remove all the cards from\nthe playing field without running out of cards from your stock.",
+      "gameURL": "https://playgama.com/export/game/emilys-hotel-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emilys-hotel-solitaire",
+      "genres": [
+        "puzzle",
+        "cards",
+        "app-store",
+        "management",
+        "cozy"
+      ],
+      "tags": [
+        "city-building-games",
+        "2d-games",
+        "iphone-games",
+        "relaxing-games",
+        "addictive-games",
+        "desktop-games",
+        "1-player-games",
+        "building-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/634b7257-2c84-46f6-299b-d20d8ff05c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/af884e62-3f14-4b40-f822-f595a881fb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9d9194907c6d415ba3c36c6f968a8d9c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emilys-hotel-solitaire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99696",
+      "slug": "bus-jam-pick-up-them-all",
+      "title": "Bus Jam: Pick up them all!",
+      "description": "Bus Jam is an addictive traffic puzzle game where you navigate through a parking jam! Experience the rush of traffic mania as you strategically move cars out of the way to help your bus escape. Perfect for puzzle enthusiasts who love traffic escape challenges!",
+      "howToPlayText": "The goal of Bus Jam is to help the bus escape the parking jam. To do this, you need to move the other vehicles out of the way. The colorful buses will pick up the same color passengers. Let's help all bus pick up all passengers.\n\nDesktop Controls:\nClick: click on the bus select that bus in the slot to pick up passengers.\n\nMobile Controls:\nTap: tap on the bus select that bus in the slot to pick up passengers.",
+      "gameURL": "https://playgama.com/export/game/bus-jam-pick-up-them-all?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bus-jam-pick-up-them-all",
+      "genres": [
+        "simulation",
+        "management",
+        "bus",
+        "mobile"
+      ],
+      "tags": [
+        "vehicles-games",
+        "color-matching-games",
+        "collecting-games",
+        "traffic-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/76cbec7f-2dda-4312-8c52-b79a376a8700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e1228f88-8aa5-4af4-363d-81bb0a8bd300/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bus-jam-pick-up-them-all?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97489",
+      "slug": "hotel-manager-simulator",
+      "title": "Hotel Manager Simulator",
+      "description": "Take a small new hotel under your care. Serve your guests, give them food and shelter, and get likes in return. Grow you business and become the owner of the biggest hotel in the world!",
+      "howToPlayText": "- Check your guests in an empty room\n- Serve food and drinks\n- Clean the rooms after they check out\n- Collect likes\n- In difficult situations you can use boosters to help you keep up with the guests' demands.",
+      "gameURL": "https://playgama.com/export/game/hotel-manager-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/hotel-manager-simulator",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "management",
+        "mobile"
+      ],
+      "tags": [
+        "iphone-games",
+        "business-games",
+        "time-management-games",
+        "resource-management-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/eae83bcf-9634-490a-d5bf-4bbbe86dd900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a9cabf1f-dd43-4034-56d5-bc034df6a500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ee753b77db2446689dbf471aa4d384aa",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/hotel-manager-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "92804",
+      "slug": "mystery-digger",
+      "title": "Mystery Digger",
+      "description": "Join the exciting journey of **Mystery Digger**, an addictive idle clicker game. Explore underground for treasures and stories. Upgrade your drill with each click to uncover fascinating finds. Enjoy this calming game on any device and satisfy your curiosity with every discovery.",
+      "howToPlayText": "Keyboard: Control is carried out by pressing buttons on the screen. \nMobile: Control is carried out by pressing buttons on the screen. ",
+      "gameURL": "https://playgama.com/export/game/mystery-digger?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mystery-digger",
+      "genres": [
+        "adventure",
+        "management",
+        "pixel-art",
+        "idle"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "mystery-games",
+        "relaxing-games",
+        "desktop-games",
+        "mining-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1bb79285-ef34-4d95-f2d4-a70f157ab700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aae83987-3319-4309-4652-622a06c95300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3169c72286454a7e84b47325699e3a30",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mystery-digger?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99731",
+      "slug": "tcg-shop-maps-toys-and-comics",
+      "title": "TCG Shop: Maps, Toys and Comics",
+      "description": "Open your own store in the new trading simulator! Sell TCG cards, figures, comics, food, collectibles, toys - everything geeks and fans love. Serve customers, restock shelves, manage the cash register, deliver orders and expand your business. Upgrade your store, unlock new items, hire employees and build a shopping empire!\n\nThis game about store combines elements of simulator, clicker and business game, will suit fans of economic strategies, management and TCG-cards. Simple controls, bright graphics and the excitement of business development make the game exciting and accessible to everyone.\n\nTry to become the best merchant and expand your store to the level of the legendary marketplace! Play online for free right in your browser. Perfect for fans of store simulators, card games, shipping and business pumping.",
+      "howToPlayText": "Welcome to the store simulator! This is where you are in charge!\n\nMain Actions:\n- Click on the goods to put them on the shelves.\n- Improve the store by opening new departments.\n- Create your own merch, comics and even food!",
+      "gameURL": "https://playgama.com/export/game/tcg-shop-maps-toys-and-comics?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tcg-shop-maps-toys-and-comics",
+      "genres": [
+        "arcade",
+        "simulation",
+        "management",
+        "unity",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "business-games",
+        "addictive-games",
+        "shop-games",
+        "collection-games",
+        "resource-management-games",
+        "high-quality-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5270772f-6539-4393-3266-0da2bc763d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8df96195-2451-4e74-2ffd-80e0e8da0400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4b4cec59eb6f4dcd9b27156ffe0c610e",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "b6cd04b163ac4632b0ed51f0b42e9f90",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tcg-shop-maps-toys-and-comics?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95756",
+      "slug": "idle-crafting-empire-tycoon-3a99-1",
+      "title": "Idle Crafting Empire Tycoon",
+      "description": "Embark on a journey to build your own empire in <strong>Idle Crafting Empire Tycoon</strong>, an engaging <strong>online</strong> economic simulator that combines elements of resource crafting, empire development, and clicker gameplay. As the ruler of a thriving island, your mission is to explore every corner, uncover precious resources, and craft them into valuable goods. By hiring managers and traders, you can automate tasks and maximize profits, ensuring your empire's success both <strong>on the phone</strong> and <strong>on the computer</strong>. Upgrade your factories, fulfill production orders, and let your empire shine in this captivating <strong>free</strong> game.",
+      "howToPlayText": "Idle Crafting Empire Tycoon is an economic simulator, time-killer, combining elements of empire development, resource crafting, and clicker gameplay. You play as a ruler tasked to explore the island, sending expeditions to discover new resources and crafting them. Hire managers and traders to handle the daily tasks and bring additional profits to your empire. Upgrade factories with resources and maintain a balance of production for finished goods. Fulfill production orders and earn valuable rewards.\n\nExplore the island and uncover all the resources needed to make your empire so great that everyone in this fantastic world will know about it!\n\n\n\n• Go through the introductory training, which will explain how the production of goods works, how new regions of the island are opened, and how the process of exploring and discovering new resources works.\n• To earn money, produce resources at factories. After production is completed, the finished product can be sold. Improve factories, produce more goods, and earn more profit.\n• You need to equip and send expeditions (invest the necessary resources and goods) to open up new regions of the island.\n• To discover new resources, go to the research center and purchase the explored resources.\n• To obtain additional profit or automate some actions (such as selling finished products), hire managers and traders",
+      "gameURL": "https://playgama.com/export/game/idle-crafting-empire-tycoon-3a99-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/idle-crafting-empire-tycoon-3a99-1",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "management",
+        "crafting",
+        "idle"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/98192461-de79-457b-a6ac-b66c2cfe5000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/037323f0-153d-49cd-fb30-2839979a3500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "baf47ce4aa3e4ef695b9e20ec6d2fd9a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/idle-crafting-empire-tycoon-3a99-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90503",
+      "slug": "idle-supermarket-tycoon",
+      "title": "Idle Supermarket Tycoon",
+      "description": "Enter the vibrant realm of Idle Supermarket Tycoon, where you build and oversee a successful mall. This free game encourages you to grow by adding stores, improving designs, and satisfying customers. Make smart investments and manage deliveries to increase your earnings, with plenty of missions and rewards to enjoy.",
+      "howToPlayText": "You have a Shopping mall at your disposal, which you need to develop by acquiring new shops and outfitting them, as well as improving the exterior and interior of the entire Shopping mall.\n\nServe customers, earn money and reputation. Invest your profits into your Shopping mall, and distribute reputation points among visitors. Assign priority customers to each shop in your mall. This way, you can maximize profits from serving them!\n\nPurchase delivery vehicles to earn additional income from each completed trip. Don't forget to monitor the corridors, as trash cans or vending machines might get clogged.\n\nIf you're unsure what to do next, you can always refer to the missions. Complete them to earn valuable rewards and expand your Shopping mall, your grand Supermarket!\n\n\n\nControls:\nUse the left mouse button to interact with the in-game UI\nPlus and minus keys = change the size of the camera",
+      "gameURL": "https://playgama.com/export/game/idle-supermarket-tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/idle-supermarket-tycoon",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "shopping",
+        "management",
+        "idle"
+      ],
+      "tags": [
+        "iphone-games",
+        "business-games",
+        "shop-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d14fc667-f48a-41f7-fb8f-d66f49dc2300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/84bc3475-3187-427b-698f-5305bb35aa00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1ac12dbec49748ea9fa4ae7c0d715b44",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/idle-supermarket-tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90506",
+      "slug": "airport-controller",
+      "title": "Airport Controller",
+      "description": "Experience the excitement of managing an airport in \"Airport Controller,\" an engaging simulation game. Oversee landings, takeoffs, and air traffic, while handling aircraft maintenance and passenger boarding. This free game tests your ability to maintain order during hectic airport moments.",
+      "howToPlayText": "Airport Controller Game is a simulation where the player takes on the role of an airport manager, tasked with guiding planes to their destinations and managing the chaos of the airport. Drag planes to the correct locations, refuel, repair, and board passengers as you handle the growing traffic. Ensure safe landings and takeoffs, all while managing the resources of your busy airport. Can you keep everything running smoothly and avoid delays and accidents? The clock is ticking!\n \nKeyboard\nMove Plane - Drag with mouse to take the plane to the desired location\nPause - P",
+      "gameURL": "https://playgama.com/export/game/airport-controller?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/airport-controller",
+      "genres": [
+        "simulation",
+        "mouse",
+        "cool-games",
+        "management"
+      ],
+      "tags": [
+        "plane-games",
+        "time-management-games",
+        "desktop-games",
+        "airport-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1499f29c-2369-4293-9437-7c4434c57600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3a1a9a37-d173-482a-6000-b2ced1f6fb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "dbb45f4eb3b34dde8064166a05de3ba3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/airport-controller?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99749",
+      "slug": "money-empire",
+      "title": "Money Empire",
+      "description": "Money Empire is an exciting strategy game 🧠 with clicker 👆 and board game 🎲 elements, where you build your path to wealth 💸 step by step.\n\nMove around the game board, unlock new businesses 🏪, invest in passive income 🏦, upgrade your enterprises 🚀, and compete with other players 🏆 to become the most successful entrepreneur!\n\nCasinos 🎰, stock markets 📉📈, banks 🏛️, luxury real estate 🏡, and company shares 📊 — use every tool to grow your fortune.\n\nWatch out for global news 📰 that may impact your income, and plan your moves wisely — your success 💎 depends on your strategy!",
+      "howToPlayText": "1️⃣ Roll the dice 🎲 and move across the board.\n2️⃣ Land on business tiles 🏪 to earn money and upgrade them 🔧.\n3️⃣ Use special tiles like the bank 🏦, casino 🎰, stock exchange 📉, or HQ 🏢 to boost your empire 📊.\n4️⃣ Buy luxury items 💎 and climb the leaderboard 🏅!\n5️⃣ Manage your finances wisely 🧠, and beware of taxes 🧾 and random events ⚠️.\n\nBuild a powerful empire — from a humble startup 🚀 to a global financial machine 🏗️💼!",
+      "gameURL": "https://playgama.com/export/game/money-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/money-empire",
+      "genres": [
+        "multiplayer",
+        "mouse",
+        "management",
+        "board"
+      ],
+      "tags": [
+        "business-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/491f91fd-2849-4620-97de-304439fa7b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ce3e56e1-a372-478f-bdee-06a6ef9b6200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d761241aa4434bd4ac4ed254c801109e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/money-empire?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "108595",
+      "slug": "farm-business-saga",
+      "title": "Farm Business Saga",
+      "description": "Farm Business Saga is a captivating farming simulation game where players build and manage their dream farm. Perfect for nature lovers and strategy enthusiasts, this game lets you cultivate crops, raise livestock, produce goods, and expand your agricultural empire.\nWhat makes Farm Business Saga unique?\n✅ Addictive gameplay – Manage resources, trade, and grow into a farming tycoon.\n✅ Stunning graphics & intuitive controls – A visually pleasing experience for all ages.\n✅ Endless customization – Design your farm, village, and factory your way!\nWhether you're a casual player or a strategic mastermind, Farm Business Saga offers a relaxing yet challenging farming adventure!",
+      "howToPlayText": "Objective: Build a thriving farm business by growing crops, raising animals, producing goods, and selling them for profit. Expand your farm, unlock new opportunities, and become a farming mogul!\nKey Gameplay Mechanics:\n🌱 Plant & Harvest Crops – Choose your favorite crops, plant them, and sell for profit.\n🐄 Raise Livestock – Manage cows, chickens, and more to produce milk, eggs, and other goods.\n🏭 Produce & Sell – Process raw materials into high-value products in your factory.\n💰 Expand Your Farm – Unlock new lands, decorations, and upgrades to grow your empire.\nControls:\n🖱️ Tap & Drag – Interact with crops, animals, and buildings.\n📊 Menu Navigation – Use on-screen buttons to manage inventory, sales, and upgrades.\n⚙️ Strategy Planning – Balance resources to maximize profits and efficiency.\nWin by becoming the most successful farm entrepreneur—expand, innovate, and dominate the market!",
+      "gameURL": "https://playgama.com/export/game/farm-business-saga?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/farm-business-saga",
+      "genres": [
+        "strategy",
+        "simulation",
+        "tycoon",
+        "animals",
+        "management",
+        "farm",
+        "mobile"
+      ],
+      "tags": [
+        "customization-games",
+        "business-games",
+        "addictive-games",
+        "life-simulation-games",
+        "animal-io"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d6758ff1-5b2c-475f-99aa-bf418029d900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c571c307-3091-43a1-d656-4c8cab530c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "38fe5b1172a14fee828e9b3c0ea15bed",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/farm-business-saga?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

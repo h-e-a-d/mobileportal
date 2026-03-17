@@ -1,0 +1,522 @@
+{
+  "category": "war",
+  "count": 11,
+  "games": [
+    {
+      "id": "99682",
+      "slug": "war-v-path-of-the-survivor",
+      "title": "War V: Path of the Survivor!",
+      "description": "War Z: Path of the Survivor! - Story-driven first-person shooter. Go through the story, buy weapons, install various modules on them.\n\nA first-person action shooter.\n\nAs a result of the man-made disaster, most of humanity was infected with a dangerous virus... which turns people into zombies\n\nThe survivors were forced to form paramilitary groups...\n\nWho knows, maybe it's up to you to find the antidote to the virus and save humanity...\n\n- The world of the zombie apocalypse.\n- An exciting storyline.\n- Hordes of zombies from the simplest to the mutated.\n- A variety of weapons from the real world.\n- Various weapon modules and a leveling system.",
+      "howToPlayText": "Control:\n- WASD - movement,\n- LSHIFT - switch to running,\n- SPACEBAR - jump.\n- LEFT MOUSE BUTTON - shoot,\n- RIGHT MOUSE BUTTON - aim,\n- T - inspect the weapons.\n- R - reload.",
+      "gameURL": "https://playgama.com/export/game/war-v-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/war-v-path-of-the-survivor",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "shooting",
+        "story",
+        "zombie",
+        "survival",
+        "first-person-shooter",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online",
+        "fps-horror",
+        "single-player-horror",
+        "3d-horror"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/49607e8f-d794-462a-2dde-1776efc17a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/896d9c2c-a01d-4bf5-5991-79b45d3cf200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "42dd892564fc46bf806f5fed4d137dc2",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "6321a13f8d3349398f3aefb5106284ad",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/war-v-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106363",
+      "slug": "dark-city-multiplayer",
+      "title": "Dark City. Multiplayer",
+      "description": "Dark City. Multiplayer is an online open-world horror game where players are divided into two factions: police and bandits, fighting for control over an abandoned city consumed by darkness.\n\nThe world is alive and shared among all players — every step could lead to a confrontation with an enemy... or something far worse.\n\nThe police try to restore order, protect survivors, and reclaim captured territories.\n\nThe bandits aim to establish their rule by taking over zones, setting ambushes, and hiding in the shadows.\n\nCapture areas, hold control, fend off enemy attacks… and survive the horror slowly awakening in the depths of the city.",
+      "howToPlayText": "WASD – Move\nSpace – Jump\nEnter – Game Chat\nE – Inventory\n\nAfter starting the game, join the bandit or police faction and capture as many districts as possible.\nEvery 30 seconds, you will receive money for the districts you control.",
+      "gameURL": "https://playgama.com/export/game/dark-city-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dark-city-multiplayer",
+      "genres": [
+        "action",
+        "simulation",
+        "multiplayer",
+        "shooting",
+        "fighting",
+        "police",
+        "war"
+      ],
+      "tags": [
+        "open-world-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea866900-5622-448c-806a-7eef26587300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/146de99d-e3f4-41b6-792d-776869e19800/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/dark-city-multiplayer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86376",
+      "slug": "musketeers-gunpowder-vs-steel",
+      "title": "Musketeers Gunpowder vs Steel",
+      "description": "Musketeers: Gunpowder vs Steel is an exciting free-to-play strategy game set in the 17th century. Command a team of diverse soldiers, issuing orders and making vital choices during intense battles. Available on iOS, Android, and desktop, it’s ideal for fans of historical tactics.",
+      "howToPlayText": "Left Mouse Button or Joystick: Control the commander’s movement\nQ: Turn Squad Left\nW: Move Squad Forward\nE: Turn Squad Right\nA: Squad Follows the Player\nS: Stop Squad Movement\nD: Indicate Target for Squad\nX: Move Squad Backwards\nF: Fire Pistol\nV: Mount Horse\nSpace: Switch Camera View",
+      "gameURL": "https://playgama.com/export/game/musketeers-gunpowder-vs-steel?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/musketeers-gunpowder-vs-steel",
+      "genres": [
+        "strategy",
+        "pve",
+        "army",
+        "war"
+      ],
+      "tags": [
+        "interactive-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "tactical-games",
+        "historical-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0b10dbfb-83f4-4f98-7230-523e9e47d500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/35394cca-996f-43ea-cc5e-af00c4668c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8d3de3eac4e841baaec737702fa4cb87",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/musketeers-gunpowder-vs-steel?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86323",
+      "slug": "rift-of-hell--demons-war-44e4-1",
+      "title": "Rift of Hell - Demons War",
+      "description": "Rift of Hell - Demons War is a fast-paced action game where players face off against waves of demons in a hellish setting. Equip powerful weapons and upgrade your abilities while collecting gold to survive intense battles. Play online for free and conquer the darkness!",
+      "howToPlayText": "Rift of Hell - Demons War is a fast-paced action game where players face off against waves of demons in a hellish setting. Equip powerful weapons and upgrade your abilities while collecting gold to survive intense battles. Play online for free and conquer the darkness!",
+      "gameURL": "https://playgama.com/export/game/rift-of-hell--demons-war-44e4-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rift-of-hell--demons-war-44e4-1",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "3d",
+        "shooting",
+        "popular",
+        "survival",
+        "first-person-shooter",
+        "war"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "fast-paced-games",
+        "kill-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/482e4157-d8ba-486a-922b-7a30d90fad00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/04014821-5da2-41f6-45cb-7d6622562800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d2430bee9dba4f82999f2fe06a334be0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rift-of-hell--demons-war-44e4-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86410",
+      "slug": "tank-fury-boss-battle-2d",
+      "title": "Tank Fury: Boss Battle 2D",
+      "description": "Dive into the exciting realm of Tank Fury: Boss Battle 2D, where strategy combines with intense action. Control various powerful tanks, enhance your weapons and defenses, and prepare to confront formidable bosses that challenge your skills in this engaging online game. Play on both mobile and computer!",
+      "howToPlayText": "Upgrade your tank and fight!\n\nControls for PC (keyboard + mouse):\n\nA and D: Move\nW and S: Aim\nSpacebar: Attack\nControls for mobile:\nUse the on-screen buttons.",
+      "gameURL": "https://playgama.com/export/game/tank-fury-boss-battle-2d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tank-fury-boss-battle-2d",
+      "genres": [
+        "action",
+        "skill",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "desktop-games",
+        "indie-games",
+        "pixel-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4281eaf8-226b-4f1c-ecc3-e3256de77c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d9eac436-0f10-4a0d-dacb-01f6288d1c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "894b2673e8fa4f178575f61d35b7ad1e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tank-fury-boss-battle-2d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6224",
+      "slug": "stickman-miners-wars-playgama",
+      "title": "Stickman Miners Wars",
+      "description": "Lead your stickman king to victory in Stickman Miners Wars, where strategic decision-making is key. Command an army of miners and warriors to build your forces and triumph over opponents. Upgrade your units and yourself as you gain experience, and strategically attack enemy castles while defending your own. Will your strategy lead you to dominance? Play Stickman Miners Wars now!",
+      "howToPlayText": "First, you need to choose the first region you want to reclaim on the global map and press the PLAY button.\n\nAfter this, you will enter the level and can play as the Stickman King. To move, use the keyboard keys (arrow keys or WASD) or a joystick or mouse.\n\nTo start, go to the miner purchase zone and buy a few miners. They will begin mining gold for you, and you can mine gold alongside them. Once you have accumulated enough gold, go to the warrior purchase zone to build your army.\n\nTo send your army into attack, click the sword icon on the right or press the E key. Your goal is to first destroy the opponent’s towers and then their castle.\n\nBut be careful, as the opponent aims to do the same to your castle.\n\nControls:\n\nWASD / arrow keys / drag left-click = move\nLeft-click = interact with the in-game buttons",
+      "gameURL": "https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stickman-miners-wars-playgama",
+      "genres": [
+        "action",
+        "two-player",
+        "pve",
+        "battleship",
+        "war",
+        "stickman"
+      ],
+      "tags": [
+        "interactive-games",
+        "1-player-games",
+        "mine-games",
+        "incremental-games",
+        "building-games",
+        "tactical-games",
+        "king-games",
+        "mining-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6c6958da-36e3-475a-5751-27b68d7f9800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8a219fbe-bd6b-4304-66bb-ee5bee3aad00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d65db999ae2a432393218cee2791cbb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stickman-miners-wars-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99580",
+      "slug": "epic-battle-simulator",
+      "title": "Epic Battle Simulator",
+      "description": "Epic Battle Simulator throws you into a thrilling warzone where strategy meets non-stop action!\nTrain and upgrade your army, push your limits to reach record-breaking levels, and crush enemy forces before they breach your base.\nUnleash powerful units, plan your attacks wisely, and prove your dominance on the battlefield.\nWill your defenses hold the line, or will the enemy break through?\n\nJoin the fight and become the ultimate commander!",
+      "howToPlayText": "Epic Battle Simulator is the ultimate blend of strategy, action, and idle gameplay, offering an endlessly captivating experience.\nConstruct your defenses, unleash mighty heroes, and safeguard your castle from waves of relentless invaders in this immersive battle simulator. ",
+      "gameURL": "https://playgama.com/export/game/epic-battle-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/epic-battle-simulator",
+      "genres": [
+        "action",
+        "strategy",
+        "simulation",
+        "army",
+        "war"
+      ],
+      "tags": [
+        "rts-games",
+        "defense-games",
+        "tactical-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/121d2c32-1308-44f9-afb5-22baffb76100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/87f0cdb1-9b01-45d5-8928-f3b6a7487200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0f46eceaf88d4b18b7d1ef5f57e695b0",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "c66d2b1354d94ef89b296b1220548a8a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/epic-battle-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97687",
+      "slug": "legions-way-of-war",
+      "title": "Legions: Way of War",
+      "description": "Dive into the exciting world of \"Legions: Way of War,\" a real-time strategy game that tests your tactical skills. Lead your troops to success by expertly positioning them and utilizing your heroes. Enjoy this captivating blend of strategy and competition on any device!",
+      "howToPlayText": "To win, arrange and connect the squads correctly. Develop your army and get new types of troops: archers, cavalry, infantry, artillery and Heroes. To enjoy the game, pass all the tests.",
+      "gameURL": "https://playgama.com/export/game/legions-way-of-war?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/legions-way-of-war",
+      "genres": [
+        "adventure",
+        "strategy",
+        "multiplayer",
+        "pvp",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "rts-games",
+        "tactical-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/52bbe32f-9041-4224-bd53-e0738b118800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/133455d0-fce4-4dba-d731-a1842abbe900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "97030aa4e1d647a698d1734295125b6b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/legions-way-of-war?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99582",
+      "slug": "strike-force-action-platformer",
+      "title": "Strike Force: Action Platformer",
+      "description": "Jump, shoot, and power up in this action-packed platformer!\nDive into an exciting adventure through colorful levels filled with enemies and non-stop action! Run along the route, dodge bullets, and fight off enemies attacking from all sides — charging straight at you, dropping in with parachutes, or firing from cover.\n\nCollect ammo to stay in the fight, and make sure to blast enemy drones for powerful weapon upgrades. Unlock a roster of unique characters and grow stronger with every battle.\n\nGame features:\n\nVibrant, eye-catching graphics\n\nIntense shootouts with a variety of enemies\n\nExplosive drone takedowns and weapon upgrades\n\nA collection of heroes with different looks\n\nSimple controls and addictive gameplay\n\n🎮 Ready for battle? Jump in and show them what you’re made of!",
+      "howToPlayText": "📱 Mobile Controls:\nLeft Side – Virtual joystick for movement\nRight Side – Buttons for: Jump, Shoot and Throw Grenade\n\n💻 Desktop Controls:\nMovement – Use W / A / S / D or Arrow Keys\nJump – Press Spacebar\nShoot – Press J\nThrow Grenade – Press K",
+      "gameURL": "https://playgama.com/export/game/strike-force-action-platformer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/strike-force-action-platformer",
+      "genres": [
+        "action",
+        "shooting",
+        "platform",
+        "gun",
+        "retro",
+        "army",
+        "war"
+      ],
+      "tags": [
+        "side-scrolling-games",
+        "bullet-games",
+        "fast-paced-games",
+        "addictive-games",
+        "exciting-games",
+        "combat-games",
+        "collecting-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/02d5d6ee-2e0f-4345-518b-a8a2c031cf00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/09ed36d6-7b08-487b-ab81-fe1c4a4bd100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7351c089fb3340e88d40631ca9913f91",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/strike-force-action-platformer?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86374",
+      "slug": "strategy-of-war-tanks-and-helicopters",
+      "title": "Strategy of war: Tanks and helicopters",
+      "description": "War Strategy: Tanks and Helicopters is an engaging online strategy game where you lead forces to seize enemy strongholds. Play seamlessly on various devices without downloading. Enjoy tactical combat as you use tanks and helicopters to succeed in this skill-testing military challenge—no registration needed.",
+      "howToPlayText": "Select a base to move or attack, click once for half the troops, twice for all, and remember that moving between ground and air bases requires double the troops.",
+      "gameURL": "https://playgama.com/export/game/strategy-of-war-tanks-and-helicopters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/strategy-of-war-tanks-and-helicopters",
+      "genres": [
+        "strategy",
+        "multiplayer",
+        "pvp",
+        "army",
+        "tanks",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "interactive-games",
+        "rts-games",
+        "military-games",
+        "defense-games",
+        "desktop-games",
+        "helicopter-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1b42adb3-e32f-4a8d-3c27-fbad79a1ed00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d397030f-2852-4ff9-c902-8c9894bdfc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fdd621d1e3754caf8fdd1ae8ccbbd194",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/strategy-of-war-tanks-and-helicopters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99594",
+      "slug": "shoot--sprint-warfare",
+      "title": "Shoot & Sprint: Warfare",
+      "description": "In the game, you will find yourself in the role of a brave fighter who rushes forward without stopping. Your task is to shoot the enemies and survive in this fast—paced action game. ",
+      "howToPlayText": "Here's everything you need to know to become a shooting master.:\n\nBasic rules\nAutomatic running: Your character runs forward by himself. You don't need to control the movement — just focus on shooting.\n\nShooting: Use the screen or mouse button to shoot in different directions. Enemies are appearing from all sides, so be prepared for quick shootouts.\n\nManagement\nShooting: Tap on the screen or use the buttons to shoot.\n\nSave ammo: Shoot accurately to avoid wasting ammo.\n\nCollect bonuses: You can find first-aid kits, ammo, and temporary weapon upgrades on the levels.\n\nUpgrade weapons: After each level, unlock new weapons and upgrade them for more damage.",
+      "gameURL": "https://playgama.com/export/game/shoot--sprint-warfare?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/shoot--sprint-warfare",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "boys",
+        "shooting",
+        "mouse",
+        "gun",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "combat-games",
+        "soldier-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a0da3424-ba56-478e-e56c-e43dbf813700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/038f5daf-6ca3-4a32-1cc1-8b061dfc6000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "c45d748a54c649d68bc4e00e9d8ee26f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/shoot--sprint-warfare?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

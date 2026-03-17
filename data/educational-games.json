@@ -1,0 +1,1101 @@
+{
+  "category": "educational",
+  "count": 24,
+  "games": [
+    {
+      "id": "111993",
+      "slug": "word-string",
+      "title": "Word String",
+      "description": "🧠 Challenge Your Mind with Word Chains! 🧠\nDo you love word games, brain teasers, and puzzle challenges? Get ready for a unique twist on wordplay with Word String Puzzle! Use the first given word, then uncover the next word, which either forms a compound word or completes a famous phrase. Keep guessing and linking words to create an exciting word chain that will test your vocabulary, logic, and creativity!",
+      "howToPlayText": "🔡 How to Play? 🔡\n✔️ Start with the first word.\n✔️ The next word must either:\n🔹 Form a compound word with the previous word (e.g., “Sun” → “Flower” → “Pot”)\n🔹 Complete a well-known phrase (e.g., Orange → Juice (\"Orange Juice\")\n✔️ Keep linking words until you complete the full chain!",
+      "gameURL": "https://playgama.com/export/game/word-string?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/word-string",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "words",
+        "educational",
+        "brain"
+      ],
+      "tags": [
+        "brain-training-games",
+        "crossword-puzzles-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4cabb5be-03a8-4fc1-da97-82079d779400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/10d79584-3a33-46f6-66a8-64b2ed93f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f4cfacb759e6111fc5548a91679a8b4e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/word-string?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112123",
+      "slug": "maths-puzzle",
+      "title": "Maths Puzzle",
+      "description": "Maths Puzzle is a fun and engaging logic-based game that challenges your mathematical skills and problem-solving abilities. With a variety of puzzles that range in difficulty, this game is perfect for anyone looking to improve their mental agility and enjoy a fun, educational experience. Your task is to solve mathematical equations by figuring out the missing numbers, symbols, or operations in order to make both sides of the equation equal. The puzzles come with increasing complexity, so you’ll need both strategy and quick thinking to succeed.",
+      "howToPlayText": "Objective: Your goal is to solve the math puzzle by filling in the missing numbers or operations to make the equation correct.\n\nStart the Game: Click on the puzzle to begin. You’ll be presented with an equation that is missing some parts (numbers or operators).\n\nSolve the Puzzle: Use your knowledge of basic arithmetic (addition, subtraction, multiplication, and division) to complete the puzzle. You may need to fill in missing numbers or choose the correct mathematical operators to balance both sides of the equation.\n\nHints: If you're stuck, some versions of the game offer hints that help guide you towards the solution. Use them wisely to avoid wasting moves.\n\nLevels: As you progress, the difficulty will increase. New challenges such as more complex equations or multiple missing elements will keep you on your toes.\n\nTime and Scoring: Depending on the version of the game, you may be timed, so solving the puzzles quickly could earn you more points or rewards.\n\nWinning the Game: Successfully solve a series of puzzles to move to the next level. Keep going to challenge your brain and improve your math skills.",
+      "gameURL": "https://playgama.com/export/game/maths-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/maths-puzzle",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "kids",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "learning-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/04a7f5df-ca52-482d-05ed-e7149c6f0100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b11a4726-741d-4d88-1b8d-80190fddc500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8b1e785e7eb557795659893b2c1fefcc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/maths-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112619",
+      "slug": "world-flags-quiz",
+      "title": "World Flags Quiz",
+      "description": "World Flags Quiz is a fast-paced, fun, and educational mobile game that challenges players to match countries with their correct flags. Designed with simplicity and clarity in mind, the game offers a single, highly addictive game mode that tests your geographical knowledge one country at a time. In each round, players are presented with the name of a country — such as France, Brazil, Japan, or Nigeria — and must choose the correct flag from a set of four options. Only one is right, and the other three are cleverly selected to test your attention to detail and flag recognition skills. Enjoy playing this flag quiz game here",
+      "howToPlayText": "use mouse to choose any answer! World Flags Quiz is a fast-paced, fun, and educational mobile game that challenges players to match countries with their correct flags. Designed with simplicity and clarity in mind, the game offers a single, highly addictive game mode that tests your geographical knowledge one country at a time. In each round, players are presented with the name of a country — such as France, Brazil, Japan, or Nigeria — and must choose the correct flag from a set of four options. Only one is right, and the other three are cleverly selected to test your attention to detail and flag recognition skills. Enjoy playing this flag quiz game here",
+      "gameURL": "https://playgama.com/export/game/world-flags-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/world-flags-quiz",
+      "genres": [
+        "quiz",
+        "kids",
+        "mouse",
+        "geography",
+        "trivia",
+        "educational"
+      ],
+      "tags": [
+        "attention-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1af852a6-a7e5-40b1-37cc-d0d16d50d300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/da2d9c43-c5cc-4b97-1770-f7b455090400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8bf307c6b440971eb51402910f8a0aad",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/world-flags-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106358",
+      "slug": "logo-quiz-master",
+      "title": "Logo Quiz Master",
+      "description": "Test your knowledge and challenge your brain with Logo Quiz Master, the ultimate trivia game for logo enthusiasts! Dive into a world of iconic brands, famous companies, and unforgettable symbols as you guess the logos from various categories. Whether you're a casual gamer or a trivia master, this game will keep you entertained for hours!",
+      "howToPlayText": "Guess the correct logo from the given options. Click or tap the right answer to win the level. Complete all levels to become the logo quiz master!\nControls: Use your mouse or finger to select the correct logo.",
+      "gameURL": "https://playgama.com/export/game/logo-quiz-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/logo-quiz-master",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "trivia",
+        "educational",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "guessing-games",
+        "casual-games",
+        "attention-games",
+        "brain-training-games",
+        "memory-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4ed181f1-9ed0-4e8c-247e-ad26b6c37c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5cc8caaa-2fbd-4303-537a-a2c477840100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8b2ebc3b9f884272b93a617fa5902815",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/logo-quiz-master?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109581",
+      "slug": "simple-words",
+      "title": "Simple Words",
+      "description": "Simple word game where match 3 falling mechanics meet word game.\nGame is a Puzzle word game.\nSelect letter make words and see the falling block.",
+      "howToPlayText": "Play at your own pace in this relaxing word game that’s as beautiful as it is brainy.\n\nRules are simple -\n• Tap/Click any letters to make a word\n• Used letters go dark\n• Clear a row when all its letters are used\n\nSimple rules — satisfying strategy.\n\nTry different modes:\n🌞 Daily Challenge - Can you reach to the top?\n🔁 Round Mode - Play at your own pace, as many rounds as you like.\n🔢 Moves Mode - See how far you can go in just a few moves.\n🤖 VS AI - Challenge a clever computer opponent!\n",
+      "gameURL": "https://playgama.com/export/game/simple-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/simple-words",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "quiz",
+        "words",
+        "educational",
+        "brain",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenging-games",
+        "crossword-puzzles-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/85fcff7e-ea1f-456e-8abc-aedea653f800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c16af434-a187-46b3-f595-39baecd40a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "416348c9009141328c8f7cac56c8b1a0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/simple-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111290",
+      "slug": "word-search-hidden-words",
+      "title": "Word Search Hidden Words",
+      "description": "Ready to search for Hidden Words?\nDive into the best Word Search Game Puzzle which will keep you searching for hours on end!\n\nEach level contains endless themed word search categories, covering a mix of both fun and educational topics! Add even more excitement by finding secret Hidden Words! Word Search : Hidden Words! is a simple, classic word search game that you can enjoy with friends!\n\nIf you like trivia, crossword puzzles or popular word games like Scrabble, Wordscapes and Word Cookies, you'll be addicted to Word Search : Hidden Words!\n",
+      "howToPlayText": "• Swipe up, down, left, right or diagonally to search for given words\n• Uncover Hidden Words with hints from other swiped words!\n• Collect 6 Hidden Words and earn bonus coins!\n",
+      "gameURL": "https://playgama.com/export/game/word-search-hidden-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/word-search-hidden-words",
+      "genres": [
+        "puzzle",
+        "words",
+        "hidden-object",
+        "educational",
+        "brain"
+      ],
+      "tags": [
+        "brain-training-games",
+        "crossword-puzzles-games",
+        "search-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/772ab21e-e04a-45e8-09ee-c91c88da7600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3b6f7d2c-3976-433a-bec4-1d4f40c65b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "33191706aff7438287597552bed2edac",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/word-search-hidden-words?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111039",
+      "slug": "emoji-guess",
+      "title": "Emoji Guess",
+      "description": "\nShow off your skills as an emoji interpreter in this supremely fun and frenetic puzzle game where you have to pick the right set of emojis to express the phrase, saying or movie title that’s written or illustrated above. Solve endless emoji puzzles by matching the right emojis in the right order and sharpen your logic, word association and visual perception skills with hundreds of short, colorful and often hilarious levels of brain-teasing entertainment. Emoji Guess Puzzle is a simple-in-concept but endlessly challenging and amusing puzzle game for smart players of all ages.",
+      "howToPlayText": "Your goal is to pick the correct sequence of emojis that represent the phrase, saying, or movie title shown above the puzzle. Think of it as translating text or ideas into emoji form in the right order.\nEach level presents a prompt (text-based or illustrated) and a jumble of emojis.\nYou select emojis in the precise order needed to match the intended phrase.\nIf you're correct on the first try, you earn all the stars for that level. Otherwise, you’ll get additional attempts with guidance.\nStuck on a puzzle? The game offers helpful hints that can nudge you in the right direction without giving the full answer away.",
+      "gameURL": "https://playgama.com/export/game/emoji-guess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emoji-guess",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "words",
+        "trivia",
+        "educational"
+      ],
+      "tags": [
+        "guessing-games",
+        "relaxing-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6f77ced1-7e12-4215-aae5-f23d232f9f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8e9b581e-65f8-4421-a2f8-60a1cba4ff00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bc0a8aefb57647a59af5ab5ea70927b7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emoji-guess?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105856",
+      "slug": "happy-coloring-book-1c70-1",
+      "title": "Happy Coloring Book",
+      "description": "Color your world with our interactive web coloring book game! Choose from a variety of fun drawings to bring your imagination to life.",
+      "howToPlayText": "Select a drawing from our coloring book and use the virtual crayons to color it in. Experiment with different colors and techniques to create your masterpiece. Once you're done, save and share your creation with friends!",
+      "gameURL": "https://playgama.com/export/game/happy-coloring-book-1c70-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/happy-coloring-book-1c70-1",
+      "genres": [
+        "educational",
+        "drawing",
+        "color"
+      ],
+      "tags": [
+        "creative-games",
+        "casual-games",
+        "relaxing-games",
+        "art-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0f987da0-74ba-427c-b14e-9d66d5582100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8cee875c-4611-4d26-3b9c-7346799e0100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "579405f470534015b26975e1d18696c3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/happy-coloring-book-1c70-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110372",
+      "slug": "jennys-math-puzzle",
+      "title": "Jenny's Math Puzzle",
+      "description": "\"Jenny's Math Puzzle\" is an engaging educational puzzle game that combines math challenges with interactive gameplay. Players must strategically place number tiles onto a grid to form correct mathematical equations. As a unique twist, the game seamlessly blends arithmetic practice with logical problem-solving, offering a fresh take on the genre. Its gradually increasing difficulty and visually appealing design make it both fun and mentally stimulating for players of all ages.",
+      "howToPlayText": "The main objective is to complete all mathematical equations on the board by dragging number tiles from the pool to the empty slots. Each equation must be valid (e.g., horizontally or vertically correct). To win, fill the entire grid correctly without any mismatches. The primary control is using the mouse (or touch on mobile devices) to drag and drop tiles. If you make a mistake, you can remove tiles by dragging them back to the pool.",
+      "gameURL": "https://playgama.com/export/game/jennys-math-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/jennys-math-puzzle",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "kids",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bddce9ee-d788-4c41-7202-a74361529b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b4b6228c-253b-4288-6a48-b4a570288c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "951576fe9a694655b1f7134bff12c083",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/jennys-math-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86440",
+      "slug": "eco-block-puzzle",
+      "title": "Eco Block Puzzle",
+      "description": "Discover the intriguing realm of Eco Block Puzzle, where strategy and environmental healing converge. Solve complex puzzles to cleanse the planet and earn eco coins, introducing new life to the restored valley. Enjoy this unique blend of traditional puzzles and eco-friendly play on your device. Join the journey of creativity and restoration!",
+      "howToPlayText": "It's a classic block puzzle game with additional meta. Players should clean the environment after an ecological catastrophe. Expand cleaned land and purchase animals and lifeforms.",
+      "gameURL": "https://playgama.com/export/game/eco-block-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/eco-block-puzzle",
+      "genres": [
+        "puzzle",
+        "animals",
+        "educational",
+        "classic"
+      ],
+      "tags": [
+        "city-building-games",
+        "iphone-games",
+        "brain-training-games",
+        "interactive-games",
+        "pet-games",
+        "life-simulation-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d6ca39cf-6cde-4575-3681-2582c3e8dc00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dafbc1f6-4419-4afe-2e63-bf64c06b9c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4dc1c5d53848424581f66cd5dfd8a43a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/eco-block-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109414",
+      "slug": "word-puzzle-connect-words-and-letters",
+      "title": "Word Puzzle Connect Words and Letters",
+      "description": "Word Puzzle Connect Words and Letters  is a fun word game where you connect letter bubbles to form words on various themes. Improve vocabulary, brain training!\n\nWord Puzzle Connect Words and Letters  is an engaging and addictive word game designed for players of all ages. Connect colorful letter bubbles to form words based on diverse themes, from nature to technology. Perfect for vocabulary building, brain training, and improving spelling skills, this game offers endless fun and challenges. \nWhether you’re looking to pass the time or boost your word knowledge, Word Puzzle provides an exciting experience with intuitive gameplay and progressively harder levels. Enjoy hours of word search, discover new words, and sharpen your mind. \nPlay Word Puzzle Connect Words and Letters  anytime, anywhere — perfect for quick brain workouts or long relaxing sessions!",
+      "howToPlayText": "Connect adjacent letter bubbles to form words matching the theme. Tap and drag over letters to create a word. Submit the word to earn points and clear the bubbles. Use hints if stuck. Complete levels by finding all theme words. Enjoy the challenge and improve your vocabulary!",
+      "gameURL": "https://playgama.com/export/game/word-puzzle-connect-words-and-letters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/word-puzzle-connect-words-and-letters",
+      "genres": [
+        "puzzle",
+        "skill",
+        "kids",
+        "words",
+        "matching",
+        "educational",
+        "brain",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games",
+        "challenging-games",
+        "connect-games",
+        "crossword-puzzles-games",
+        "learning-games",
+        "mind-games",
+        "challenge-games",
+        "search-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9a9e7da4-6acf-427a-276c-a76306bd8e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0dfeeb84-c4fa-4ba9-ba3b-569276ea5600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b0fbf74f6bde4a0b97dd25e0225c6a1f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/word-puzzle-connect-words-and-letters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110374",
+      "slug": "screw-jam-puzzle",
+      "title": "Screw Jam Puzzle",
+      "description": "Welcome to Screw Jam Puzzle, where the challenge of unscrewing puzzles and sorting colorful screws, pins, and nuts takes center stage! Dive into an immersive world of wood and bolts, where every unscrew brings you closer to solving the ultimate screw pin jam puzzle. With each twist, you'll match colors and sort nuts and bolts to clear your path through tricky levels.\n\nTackle hundreds of unique levels designed to test your logic and strategy. As you unscrew, sort, and solve puzzles, you’ll face new and exciting screw pin jam challenges. Unlock levels, refine your skills, and enjoy the thrill of unscrewing complex puzzles while earning rewards along the way. Every level brings a fresh twist on the classic nuts and bolts puzzle adventure.Prepare for a jam-packed puzzle experience, where you’ll navigate wood structures, solve unscrew puzzles, and discover new mechanics with every update. Whether you're into sorting colors or untangling nuts and bolts, Screw Jam offers a puzzle experience that will keep you hooked.\n",
+      "howToPlayText": "Unscrew each board drop them one by one.\nMatch and fill each screw box with screws of the same color; fill them all to win.\nNo time limits play at your own pace.\nUnlimited levels with endless Nuts & Bolts strategies to discover.\nUse boosters to help you out in challenging situations.",
+      "gameURL": "https://playgama.com/export/game/screw-jam-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/screw-jam-puzzle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "matching",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "addictive-games",
+        "challenging-games",
+        "color-matching-games",
+        "collecting-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/72d87488-9272-4e93-7235-c7df17d9d100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/300d41ca-928a-41a5-a584-caccb99a0000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "873241288e6c483b902e6012b29df5ea",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/screw-jam-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95241",
+      "slug": "master-of-numbers-4abc-1",
+      "title": "Master of Numbers",
+      "description": "Experience the excitement of mathematics with Master of Numbers, a fast-paced online game. Race to collect beneficial numbers while dodging harmful ones, enhancing your math and strategy skills as you progress through increasingly challenging levels. Play on your phone or computer for an engaging mental workout.",
+      "howToPlayText": "The goal: to reach the finish line by typing the maximum possible number.\nAbsorb numbers smaller than yours highlighted in blue. If you encounter a red number larger than yours, you will lose your number and you will have to start over.\nAvoid electric saws, cross bridges and jump over ditches.\nAt the finish line you will find a lot of walls to destroy",
+      "gameURL": "https://playgama.com/export/game/master-of-numbers-4abc-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/master-of-numbers-4abc-1",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "running",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4bec3488-0419-41de-608a-c421fa9e9900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b1f3519c-e9de-47b0-a30b-5930f4d0ed00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "479536cfded64c94bb11a91f161e63fc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/master-of-numbers-4abc-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99596",
+      "slug": "sudoku",
+      "title": "Sudoku",
+      "description": "The playing field is a grid with 9x9 cells, divided into smaller grids with a side of 3 cells. Thus, the entire playing field consists of 81 cells. At the beginning of the game, there are already some numbers in them (from 1 to 9). The player is required to fill in the free cells with numbers from 1 to 9 so that in each row, in each column and in each small 3 ×3 square, each digit would occur only once.\nThere are multiple levels of difficulty you can choose. Beware of mistakes you can make.",
+      "howToPlayText": "Click on the cell you want to fill and then click on a number you want there. You can click on the \"Notes\" button to mark possible numbers without placing them.",
+      "gameURL": "https://playgama.com/export/game/sudoku?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sudoku",
+      "genres": [
+        "puzzle",
+        "number",
+        "educational",
+        "brain",
+        "classic",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/866cd370-4c46-47b2-5f20-e5b020d39100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a841227f-b50a-465a-a2f3-80994c824900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8278b866b6e84efeb08e66369eaf8e9b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sudoku?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86367",
+      "slug": "guess-monster-voice",
+      "title": "Guess Monster Voice",
+      "description": "Get ready for a thrilling sound-based challenge with \"Guess Monster Voice.\" In this exciting online game, you’ll identify legendary creatures by their chilling noises. Available on both mobile and desktop, dive into the realm of mythical beings and demonstrate your skills—all for free.",
+      "howToPlayText": "- You will hear the voice of a monster, and you will need to guess the monster by its characteristic sounds;\n- Select an answer from the options provided to select the correct monster. If you don't find the correct option, you will lose and have to start over;\n- If it’s too difficult, use the hint, we will help you pass the test easily!",
+      "gameURL": "https://playgama.com/export/game/guess-monster-voice?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/guess-monster-voice",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "funny",
+        "cool-games",
+        "trivia",
+        "educational",
+        "brain",
+        "mini"
+      ],
+      "tags": [
+        "2d-games",
+        "guessing-games",
+        "brain-training-games",
+        "interactive-games",
+        "memory-games",
+        "challenging-games",
+        "cute-games",
+        "learning-games",
+        "mind-games",
+        "audio-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "cocos-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ee877e6e-8ee2-44c6-ad00-98eadc866a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/07da8a27-4492-4e99-d695-05ada6f86800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "371dcc30c1a84bd18b15d559c36f1b01",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/guess-monster-voice?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110474",
+      "slug": "jigsaw-puzzles",
+      "title": "Jigsaw Puzzles",
+      "description": "Get an engaging jigsaw puzzle experience with one of the world’s most-downloaded puzzle games from a top developer! Jigsaw Puzzles is an addictive, easy to play game with over 13,000 FREE cute HD pictures. No points, no gimmicks, and no missing pieces, simply enjoy hours of fun putting jigsaw puzzles together to calm down and relax.\n\nCreated by game experts and played by millions of puzzle lovers worldwide, Jigsaw Puzzles helps you exercise your short-term memory and concentration, while passing the time with real jigsaw puzzles and without taking up as much room.",
+      "howToPlayText": "Select any game mode that you want to play and choose your favorite category. \nYou can change the number of pieces in your picture puzzle . \nAlso, you get the option to play with pieces that rotate. \nWe recommend turning on rotation as it makes the gameplay all the more fun.\nNow proceed to play, drag the pieces and arrange them on the board, it is as simple as that. \nFit a piece easily into the jigsaw by tapping and rotating it. Play and see for yourself why millions are playing this jigsaw game.",
+      "gameURL": "https://playgama.com/export/game/jigsaw-puzzles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/jigsaw-puzzles",
+      "genres": [
+        "puzzle",
+        "skill",
+        "educational",
+        "brain",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "jigsaw-games",
+        "relaxing-games",
+        "attention-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3e437f2e-77cf-4734-16d0-f636038c0800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/172d11c7-0ce4-493e-92e9-c84048868200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "056e91916ae54e9bbbc9d0d6838afe5c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/jigsaw-puzzles?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99572",
+      "slug": "cooking-letters--word-search",
+      "title": "Cooking Letters - Word Search",
+      "description": "- Start Your Culinary Adventure. When you enter the kitchen you will see a variety of tasty letters scattered across the game board. Each letter is an ingredient for creating words.  \n- Find All the Hidden Words. Your goal is to find all the words from the list hidden on the game board. The faster you complete the task the more points you earn.  \n- Unlock New Levels. As you progress you will unlock new levels where the words get longer and the challenges become more exciting. Cook up increasingly complex dishes made of letters.  \n- Earn Rewards. For every word you find you earn points. Use them to unlock additional bonuses or new kitchen themes.  \n- Train Your Brain. This game is not only fun but also helps improve focus vocabulary and quick thinking.\n     ",
+      "howToPlayText": "\n- Collect Words. Swipe your finger or use your cursor to connect the letters and form words. You can connect letters in any direction horizontally vertically diagonally or even zigzag.  ",
+      "gameURL": "https://playgama.com/export/game/cooking-letters--word-search?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cooking-letters--word-search",
+      "genres": [
+        "puzzle",
+        "skill",
+        "kids",
+        "food",
+        "words",
+        "educational",
+        "mobile"
+      ],
+      "tags": [
+        "brain-training-games",
+        "connect-games",
+        "swipe-games",
+        "search-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5d48160a-913a-425a-7c81-de9a7338e300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/35a766ff-af25-4ab1-6ce6-d3de70fea800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f0dcedda2ee14b5f8d5e60de634abd68",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cooking-letters--word-search?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86423",
+      "slug": "ball-sort-puzzle--color-game",
+      "title": "Ball Sort Puzzle - Color Game",
+      "description": "Explore the exciting realm of Ball Sort Puzzle, a colorful sorting challenge designed for puzzle enthusiasts. Enjoy free gameplay on your phone or computer, featuring hints, undo options, and extra tubes to enhance the fun. Perfect for both beginners and experienced players alike.",
+      "howToPlayText": "\nTap a tube to select the ball on top.\nTap another tube to move the ball there—just make sure the ball matches the color on top and there's space in the tube!\nAnd that's all! Simple, right? Now, the only question is: how many levels can you beat?",
+      "gameURL": "https://playgama.com/export/game/ball-sort-puzzle--color-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ball-sort-puzzle--color-game",
+      "genres": [
+        "puzzle",
+        "cool-games",
+        "educational",
+        "brain",
+        "color"
+      ],
+      "tags": [
+        "addictive-games",
+        "memory-games",
+        "learning-games",
+        "mind-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/537a1be3-ac52-4ad0-01e3-a1d61a06d700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d3c52a63-2412-43da-60b3-0b9a16a60700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8ac7d247c924462a9c883f44eaffed74",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ball-sort-puzzle--color-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110013",
+      "slug": "mindblow",
+      "title": "Mindblow",
+      "description": "Welcome to Mindblow: Guess the Word! Experience a word-guessing game like no other, where every image cleverly hides a word. Unlike other games, this game isn’t just a mix of stock images, but we've carefully created each level’s image to challenge your brain! Discover the word through a concept creatively depicted in each picture.\n\nA New Kind of Puzzle: Forget what you know about word quiz games. In Mindblow: Guess the Word, each image has a special word for you to guess. It’s not just about looking at the picture, but understanding the clever idea behind it.",
+      "howToPlayText": "From easy peasy to brain-busters, we’ve got levels for every player. Earn coins for right guesses and use them for hints when stuck.\nGuess the Word handy on your device. New levels are added to Mindblow every month, so there’s always something fresh to enjoy.\nGuess the Word, start your journey of amazing pictures and satisfying word discoveries. Are you up for the challenge?",
+      "gameURL": "https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mindblow",
+      "genres": [
+        "puzzle",
+        "skill",
+        "quiz",
+        "words",
+        "educational",
+        "brain",
+        "classic",
+        "easy"
+      ],
+      "tags": [
+        "guessing-games",
+        "brain-training-games",
+        "visual-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2aff62bd-7bb5-4e83-dd23-45d73f684a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0c7df405-1770-4171-7a7c-d2a671f5de00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "272c8b8e2e7e4f66bb4fb69053b3601c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mindblow?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112427",
+      "slug": "construction-set--3d-builder",
+      "title": "Construction Set - 3D Builder",
+      "description": "Construction Set - 3D Builder is a creative building puzzle game that lets you step into the role of a master builder. You’ll design and assemble intricate 3D structures, piece by piece, turning simple parts into impressive creations. Challenge your skills, unleash your imagination, and watch your architectural masterpieces come to life. Let your creativity flow as you construct and unwind. \nConstruction Set - 3D Builder is more than just a puzzle game; \nits a canvas for your imagination. \nWhether you are a budding architect or simply love the satisfaction of seeing your creations come to life, this building game will provide hours of enjoyable and challenging gameplay.\n🌟 Build Your World, Brick by Brick! \n🌟Features Variety of Themes: Explore a wide range of themes and environments, from lush forests to bustling cities, each with its own unique set of structures to construct. \nWhether you are building a towering skyscraper or a cozy cabin, there is always something exciting to create.\nRealistic Physics: Construction Set - 3D Builder game features realistic physics, ensuring that your structures are not only visually stunning but also stable. \nRelaxing Gameplay: With its soothing music and relaxing gameplay, Construction Set - 3D Builder game offers a tranquil escape from the everyday hustle and bustle. ",
+      "howToPlayText": "Controls PC:\nLeft mouse button = choose a piece\nRight mouse button = zoom\nMobile:\nTap = choose a piece\nDouble tap and hold = zoom",
+      "gameURL": "https://playgama.com/export/game/construction-set--3d-builder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/construction-set--3d-builder",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "simulation",
+        "skill",
+        "3d",
+        "mouse",
+        "popular",
+        "educational",
+        "construction"
+      ],
+      "tags": [
+        "creative-games",
+        "relaxing-games",
+        "creativity-games",
+        "sandbox-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ff6a34ae-9456-47eb-9d28-1b9f7cf74c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/853f086c-cd77-46fb-6445-eabcba032000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7f4068fe476be10641fa4c2924d776bf",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/construction-set--3d-builder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111208",
+      "slug": "emoji-math-quiz",
+      "title": "Emoji Math Quiz",
+      "description": "Embark on a brain-teasing adventure with Emoji Math, the game that blends math puzzles with emoji fun! Challenge yourself through six equations where each emoji represents a numerical value. Sharpen your skills as you decipher the emoji codes to solve each equation correctly. Dive into Emoji Math and unravel the mystery behind every emoji's value to conquer this exciting mathematical journey! ",
+      "howToPlayText": "Click on empty form to input your answer. Use hint if you are stuck. Theme toggle option for dark mode and light mode support. View leaderboards and share your progress with your friends.",
+      "gameURL": "https://playgama.com/export/game/emoji-math-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/emoji-math-quiz",
+      "genres": [
+        "puzzle",
+        "quiz",
+        "kids",
+        "math",
+        "educational"
+      ],
+      "tags": [
+        "brain-training-games",
+        "accuracy-games",
+        "memory-games",
+        "challenging-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/66910c87-5d93-4c7c-fd71-b22dc998d500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/87ef103f-580e-4ee8-8a59-d4493df69c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bcf2d37eb9714095b5c2c4363e4c7152",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/emoji-math-quiz?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111181",
+      "slug": "nullify--merge-math",
+      "title": "Nullify - Merge Math",
+      "description": "Nullify is a minimal abstract relaxing puzzle with the goal of clearing everything from the screen by merging numbers and math symbols.\nImprove your logic and math skills by completing unique handcrafted levels and infinite generated levels.\n\nFeatures:\n-56 Levels to complete\n-4 Infinite games modes\n-Simple and easy controls by dragging elements\n-13 math symbols",
+      "howToPlayText": "Nullify is a minimal abstract relaxing puzzle with the goal of clearing everything from the screen by merging numbers and math symbols.\nImprove your logic and math skills by completing unique handcrafted levels and infinite generated levels.\nClick and drag to move the symbols and merge them to clear everything from the screen.",
+      "gameURL": "https://playgama.com/export/game/nullify--merge-math?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/nullify--merge-math",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "number",
+        "math",
+        "merge",
+        "educational",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8408974b-c042-45ce-f084-95e81623b100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c355f682-fa5b-49fe-c6fb-a7dc05d99a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "37f624d128a14d9fb3181e67c5d26cda",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/nullify--merge-math?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111622",
+      "slug": "number-sums",
+      "title": "Number Sums",
+      "description": "Number Sums is a challenging number puzzle to train your mental math. The goal is to make the sum of numbers in each row, column, and colored region be equal to the clues on the side of the board and inside the colored regions. Practice your math skills and logic with Number Sums!\n\nEach row, column, and region has its own solution, but the goal of this math game with numbers is to make them all work at the same time. You have to circle the correct numbers and erase the numbers you don't need. Remember, the sums of the numbers in rows, columns and colored regions should be equal to the numbers on the sides of the board and inside each region. Each level of this numbers game has only one solution, try to find it to solve educational math puzzles!\n\nMental arithmetic is an invaluable math skill for your everyday life. Inside Number Sums you'll find math puzzles of various difficulty. The mechanics of these math riddles sounds simple but requires a lot of thinking. Playing sum number games and solving math problems can improve your arithmetic skills. If you are interested in number puzzles or math games for adults, and in training your addition skills, play this engaging number game for hours of fun!",
+      "howToPlayText": "- Circle the correct numbers that add up to the values on the sides of the rows, columns and regions.\n- Use the toggle to switch between circling and erasing modes. It will help you to mark the correct numbers and the extra numbers that you don't need.\n- Each level of these math puzzles has only one possible solution, so make sure that the rows, columns and colored regions work together at the same time.\n- Train your math skills with this free number puzzle with various levels of difficulty. Open different types of board from 3x3 to 10x10.\n",
+      "gameURL": "https://playgama.com/export/game/number-sums?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/number-sums",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "number",
+        "math",
+        "educational",
+        "brain",
+        "logic"
+      ],
+      "tags": [
+        "brain-training-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/67e77593-b062-4ced-da00-4f278a40fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd3cf9db-2024-48bc-d590-b82749d8e300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "13346c89fee003f809bf063b8e981c63",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/number-sums?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111796",
+      "slug": "foxy-eco-sort",
+      "title": "Foxy Eco Sort",
+      "description": "Join Foxy and Raccoon on their eco-mission! Sort waste, play match-3 and matching pairs to clean polluted locations. \n\nBut it's not just cleaning! Uncover the conspiracy of cunning Ratty who wants to destroy the forest. Complete story chapters: track garbage trucks, expose arsonists and save your home!\n\nFeatures:\n🌿 Waste sorting - learn to separate waste: glass, plastic, paper and organics.\n🌎 Clean up locations - each cleaned area becomes more beautiful, and the rescued animals rejoice!\n🦝 Complete the story line by uncovering the cunning rat's conspiracies.\n🦊 Funny characters - Foxy the fox will tell you why sorting is important, and the raccoon... well, he's still lazy, but he'll get it!\n😂 Funny dialogues - the characters won't let you get bored, their communication will cheer you up!\n\nReady to save the planet? Then go ahead - Foxy and the raccoon are already waiting for you! ♻️🦝🦊\n\nP.S. The game is made with love for nature and good jokes. Enjoy the game!",
+      "howToPlayText": "1. Sort Waste Correctly\nDrag items to their matching categories: cardboard to cardboard, plastic to plastic, glass to glass, organic to organic.\n\n2. Play \"Match-3\"\nCombine three identical elements to clear the field.\n\n3. Find Pairs\nFlip cards and match eco-themed pairs. Train your memory and help clean the forest!",
+      "gameURL": "https://playgama.com/export/game/foxy-eco-sort?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/foxy-eco-sort",
+      "genres": [
+        "puzzle",
+        "match-3",
+        "kids",
+        "mouse",
+        "popular",
+        "matching",
+        "educational",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "sorting-games",
+        "color-matching-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/26c04c5b-fab4-4af4-0430-2d07ad1e7700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a664f4e1-debb-4c6f-f294-d6cf96dcdc00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "17d9a38984eeaeff25faa0bcd1c2c03b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/foxy-eco-sort?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

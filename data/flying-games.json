@@ -1,0 +1,196 @@
+{
+  "category": "flying",
+  "count": 4,
+  "games": [
+    {
+      "id": "99588",
+      "slug": "dronner-3d",
+      "title": "Dronner 3D",
+      "description": "Dronner 3D - Immerse yourself in dynamic racing in a unique car that can turn into a quadcopter and overcome exciting tracks. ",
+      "howToPlayText": "Dronner 3D - Immerse yourself in dynamic racing in a unique car that can turn into a quadcopter and overcome exciting tracks. \n\nCollect points and battery charges, avoid collisions that are especially dangerous in quadcopter mode, and monitor damage status and battery charge levels. \n\nAs you progress through levels, upgrade your car by increasing battery capacity and repairing damage. At the end of each level you will find a table with statistics where you can evaluate your achievements.\n\nDesktop Controls:\n\n1. Movement on the ground:\n↑ (Up Arrow) or W : Move forward.\n↓ (Down Arrow) or W : Move back.\n← (Left Arrow) or A : Move left.\n→ (Right Arrow) or D : Move right.\n\n2. Switching modes:\nSpacebar: Transform the machine into a quadcopter and back.\n\n3. Air control:\n↑ (Up Arrow) or W : Move forward.\n↓ (Down Arrow) or W : Move back.\n← (Left Arrow) or A : Move left.\n→ (Right Arrow) or D : Move right.\nQ: Move upward.\nE: Move downward.",
+      "gameURL": "https://playgama.com/export/game/dronner-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/dronner-3d",
+      "genres": [
+        "racing",
+        "car",
+        "driving",
+        "flying"
+      ],
+      "tags": [
+        "race-games",
+        "fast-paced-games",
+        "customization-games",
+        "obstacle-games",
+        "vehicles-games",
+        "collecting-games",
+        "unity-games-online",
+        "flying-car",
+        "arcade-car"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/087ab05f-5e35-473a-206d-0282de74b200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8bdd017a-aaa7-4006-a80e-d3dcb4728c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "53d30c40e45a47b7b6129d2be41e80d2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/dronner-3d?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111800",
+      "slug": "tap-tap-swing",
+      "title": "Tap tap Swing",
+      "description": "A simple casual game Touch to fly, hold to hover, and release to fall. In this game, your agility will be tested. Pass through obstacles and avoid crashing. Avoid all obstacles and don't fall to stay alive. Enjoy the beautiful music and complete the levels that challenge your adrenaline.",
+      "howToPlayText": "Touch to fly, hold to hover, and release to fall. In this game, your agility will be tested. Pass through obstacles and avoid crashing. Avoid all obstacles and don't fall to stay alive. Enjoy the beautiful music and complete the levels that challenge your adrenaline.\nDesktop Controls:\nmouse left: fly\nmouse right: fly\nMobile Controls:\nOn-Screen: fly",
+      "gameURL": "https://playgama.com/export/game/tap-tap-swing?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tap-tap-swing",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "mouse",
+        "classic",
+        "flying",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "obstacle-games",
+        "challenging-games",
+        "1-player-games",
+        "timing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/341f3b4b-78fd-40a1-ebb5-5c871d9e8b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/081ff602-799c-4e40-7280-e6d03d695100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6839f2dd89fc7b8783e1bfefa67cf494",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tap-tap-swing?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94842",
+      "slug": "planes-dodge--go",
+      "title": "Planes Dodge & Go",
+      "description": "Join the thrilling action of Planes Dodge & Go, where you navigate intense dogfights, dodging projectiles and opponents. Experience the adrenaline of flying as a fighter pilot in The Great War. Play for free on your phone or computer and see how long you can survive!",
+      "howToPlayText": "Controls:\nMovement – Drag while Right-Clicking\n",
+      "gameURL": "https://playgama.com/export/game/planes-dodge--go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/planes-dodge--go",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "mouse",
+        "survival",
+        "airplane",
+        "flying"
+      ],
+      "tags": [
+        "fighter-jet-games",
+        "avoid-games",
+        "rocket-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/296487e6-6e31-4649-c3dd-3a7cf7333400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4db9e621-883e-4cc9-e23b-624e54d84100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e26ee49ea083463eb3d3802a3757f069",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/planes-dodge--go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "93488",
+      "slug": "air-warfare",
+      "title": "Air Warfare",
+      "description": "Fly into excitement with **Air Warfare**, an endless game where you take charge of a combat plane. Shoot down foes, gather ammo, avoid attacks, and strive for survival. Compete for high scores while enjoying smooth gameplay on both mobile and desktop devices.",
+      "howToPlayText": "Управляйте боевым самолетом, отстреливайтесь от врагов! Нажмите на самолет для перемещения и стрельбы!",
+      "gameURL": "https://playgama.com/export/game/air-warfare?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/air-warfare",
+      "genres": [
+        "arcade",
+        "skill",
+        "shooting",
+        "mouse",
+        "airplane",
+        "flying"
+      ],
+      "tags": [
+        "2d-games",
+        "plane-games",
+        "fast-paced-games",
+        "air-games",
+        "fighter-jet-games",
+        "avoid-games",
+        "endless-games",
+        "highscore-games",
+        "desktop-games",
+        "1-player-games",
+        "aviation-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d0b1a62b-ec47-4e9b-4a60-9d2e5a181d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/87a6e7b4-486d-4272-d4c2-e37ccb4e7500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5885e5d3e8cb40d585b23780344cef17",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/air-warfare?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

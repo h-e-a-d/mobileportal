@@ -1,0 +1,188 @@
+{
+  "category": "ghost",
+  "count": 4,
+  "games": [
+    {
+      "id": "90501",
+      "slug": "abandoned-mansion",
+      "title": "Abandoned Mansion",
+      "description": "Abandoned Mansion is a first-person horror game set in an abandoned mansion, where a distress call leads you to investigate. Upon arrival, you realize it’s too late.\nThe game features item interaction, challenging puzzles, and terrifying monsters.\n\nFeatures:\n\nOptimized 3D graphics and realistic sound effects\nImmersive and thrilling music\nMultiple levels to test your skills\nVariety of enemy types\nBoss fights\nPuzzles to solve\nExploration of the abandoned building\nHidden rooms and items\n\"Abandoned Mansion\" will test your courage and survival skills. Can you unravel the mansion's mystery and face its monstrous inhabitants? Play now to find out.",
+      "howToPlayText": "W, A, S, D - Move\nE - Interact\nR - Reload\nC - Crouch\nTab - Open inventory\nSpace - Jump\nLeft mouse button - Attack/Shoot",
+      "gameURL": "https://playgama.com/export/game/abandoned-mansion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/abandoned-mansion",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "horror",
+        "3d",
+        "survival",
+        "ghost",
+        "escape",
+        "scary"
+      ],
+      "tags": [
+        "mystery-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0a668eab-e730-4568-dcae-5d6fc5136700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2acfc666-db56-4444-3828-6851f4728100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "18e8f99d799b47fa83ae0421f10e2ce0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/abandoned-mansion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112498",
+      "slug": "pulse-of-fear",
+      "title": "Pulse Of Fear",
+      "description": "Trapped in an abandoned place where something unspeakable lives, your survival depends on two things: light and silence.\n\nFuel your flashlight with batteries to shed light on the eerie secrets of the place. Repair generators to restore power and find a way to escape. Search for items: fuses for electrical panels, first aid kits for healing, and keys to locked doors.\n\nLight the way. Fix the system. Start the elevator. Most importantly, stay in the shadows.",
+      "howToPlayText": "Search generators, activate they. Change fuse, Cut wires and more. Hide from monsters - use beds or lockers\nDesktop controls:\nMovement: WASD\nLook: Mouse\nRun: Shift\nAction: E\nFlashlight: F\nPause: Tab\nDrop Item: Q\nInventory: 1,2,3,4,5\n\nMobile Controls:\nMovement: Joystick on Screen\nLook: Touch Zone\nRun button: Press for run\nAction button: Tap for use \nFlashlight button: Activate Flashlight\nPause: Button for pause game\nDrop Button: Drop item\nInventory: Change Items",
+      "gameURL": "https://playgama.com/export/game/pulse-of-fear?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pulse-of-fear",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "horror",
+        "3d",
+        "survival",
+        "ghost",
+        "scary"
+      ],
+      "tags": [
+        "mystery-games",
+        "dark-games",
+        "stealth-games",
+        "challenging-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/289bd0cf-dfb7-41e7-7446-8d10819b0f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8f6b4797-ef73-43e8-4fb8-692934fff600/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pulse-of-fear?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98052",
+      "slug": "same-room-same-day",
+      "title": "Same Room Same Day",
+      "description": "Experience the thrilling psychological horror of \"Same Room Same Day.\" As Rosaline, explore a terrifying building filled with monstrous beings. Face intense challenges, collect crucial supplies, and confront your deepest fears to uncover secrets and seek tranquility in a frightening digital landscape.",
+      "howToPlayText": "Full Gamepad support required \n\nControls: \nMove: WASD\nLook Around: Mouse\nShoot: Left Click\nAim: Right Click\nReload: R\nFlashlight: F\nJump: Space\nInteract: E\nSprint: Shift",
+      "gameURL": "https://playgama.com/export/game/same-room-same-day?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/same-room-same-day",
+      "genres": [
+        "horror",
+        "pve",
+        "survival",
+        "ghost",
+        "scary",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "iphone-games",
+        "mystery-games",
+        "room-games",
+        "combat-games",
+        "controller-compatible-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/475d1bd5-2a0a-46fc-9f53-43aad7cb2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/71b40699-ef3d-4c05-7286-26bdb1997500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0e6200911e3e4dd690c91a04e9fa5f29",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/same-room-same-day?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63951",
+      "slug": "halloween-stickman-2",
+      "title": "Halloween Stickman 2",
+      "description": "Halloween Stickman 2 offers an exhilarating gaming experience where you navigate a mischievous, spooky environment. Play online for free and dive into a Halloween-themed adventure as you outsmart your trickster friend, Stickman, to seek revenge amidst the festive chaos.",
+      "howToPlayText": "Use a computer mouse to control the game.\nIf you have a mobile device, use a stylus or a finger.\nIt is necessary to watch the story animation and choose a way to punish the Stickman. You need to click on the buttons to see all the punishments of the Stickman.",
+      "gameURL": "https://playgama.com/export/game/halloween-stickman-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/halloween-stickman-2",
+      "genres": [
+        "action",
+        "adventure",
+        "funny",
+        "story",
+        "ghost",
+        "point-and-click",
+        "scary",
+        "halloween",
+        "stickman"
+      ],
+      "tags": [
+        "2d-games",
+        "mystery-games",
+        "interactive-games",
+        "detective-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/76fb6b17-fe22-424b-0796-15c8b0f41f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/099a6548-afcf-4975-cd14-b0b91ae66500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "645a8dc8134943ea984e281b1c94716d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/halloween-stickman-2?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

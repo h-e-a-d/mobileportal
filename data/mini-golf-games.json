@@ -1,0 +1,53 @@
+{
+  "category": "mini-golf",
+  "count": 1,
+  "games": [
+    {
+      "id": "110346",
+      "slug": "mini-golf-battle",
+      "title": "Mini Golf Battle",
+      "description": "Mini Golf Battle is a fun and casual mini golf challenge where your goal is simple: hit the ball into the hole with as few shots as possible. The game combines easy controls with tricky levels full of slopes, angles, and obstacles that test your timing and precision.\nEach level is designed to get a little harder, so you’ll need to aim carefully, control your shot power, and plan the best path to sink the ball. It’s a relaxing yet addictive golf experience made for quick play sessions.",
+      "howToPlayText": "Drag/swipe in the direction you want the ball to move.\nPull back and release to adjust the strength of your shot.\nThe longer you drag, the stronger the hit.\nTry to sink the ball into the hole in the fewest strokes possible.\nWatch out for walls, ramps, and barriers that can deflect your ball.\nUse angles to bounce around corners smartly.\n\nFire Power:\nThis bonus gives your ball a flaming speed boost.\nIt’s useful for long straight shots or when you want to quickly cross a large gap.\nBest used when you need maximum distance in a single strike.\n\nWing / Glide Power:\nThis bonus allows your ball to glide smoothly as if it has wings.\nIt reduces friction and gives your ball a longer travel path with better control.\nIdeal for precision shots where you want distance but also don’t want to overshoot too wildly.\n\nSpring / Bounce Power:\nThis bonus acts like a spring-loaded push.\nIt helps your ball bounce forward with extra force, perfect for overcoming obstacles or making tricky jumps.\nBest for courses with barriers, ramps, or platforms where normal shots can’t reach.",
+      "gameURL": "https://playgama.com/export/game/mini-golf-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mini-golf-battle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "ball",
+        "mini-golf",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "casual-games",
+        "obstacle-games",
+        "accuracy-games",
+        "challenging-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/67010539-bef7-4192-57c6-10c614247700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b5b34687-7be7-414a-85ac-ab83295d6500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8c2eacb55c41499788955c7d20ef70d4",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mini-golf-battle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

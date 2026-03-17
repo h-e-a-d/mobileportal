@@ -1,0 +1,2324 @@
+{
+  "category": "survival",
+  "count": 49,
+  "games": [
+    {
+      "id": "98057",
+      "slug": "rise-of-the-dead",
+      "title": "Rise of the Dead",
+      "description": "Dive into the intense universe of Rise of the Dead, a post-apocalyptic city filled with undead. As a brave survivor, your goal is to reclaim territories, eliminate zombies, and rescue others. Enjoy this free online game on your phone or computer, testing your strategy and combat abilities.",
+      "howToPlayText": "Keyboard Controls:  \n    Movement:  Arrow keys (W A S D)  \n    Shoot:  left click \n    Reload:  R  \n    Punch:  E\n    Change weapon: Q\n    Use prop 1:  G\n    Use prop 2: F\n    Zoom: Scrollbar\n\nMobile Controls:  \n    Movement:  Virtual Joystick [Joystick Image]  \n    Actions:  Tap corresponding buttons",
+      "gameURL": "https://playgama.com/export/game/rise-of-the-dead?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rise-of-the-dead",
+      "genres": [
+        "action",
+        "horror",
+        "shooting",
+        "gun",
+        "zombie",
+        "survival",
+        "monster",
+        "scary",
+        "halloween"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cb6ad14f-9b27-4647-0f76-b07cce7a4000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/85480f35-45e8-44a3-e731-ba7b962e5800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "610cdd5c97974db7935a0f9d72d5e946",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rise-of-the-dead?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111797",
+      "slug": "zombie-derby",
+      "title": "Zombie Derby",
+      "description": "Zombie Derby is a wild mix of racing and zombie mayhem from Brinemedia. Jump behind the wheel and plow through hordes of the undead standing in your way. But be careful - your fuel is limited, and once you stop, you’ll become easy prey. Time your nitro boosts wisely, as they might be the only thing that gets you over a hill or across a deadly gap.",
+      "howToPlayText": "Accelerate - W/Arrow up\nShoot gun - Spacebar\nUse nitro - Left Shift/N\nTilt forward/backward - Left/Right arrow or A/D",
+      "gameURL": "https://playgama.com/export/game/zombie-derby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-derby",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "shooting",
+        "car-racing",
+        "zombie",
+        "survival",
+        "driving",
+        "physics",
+        "crazy-games",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "offroad-games",
+        "addictive-games",
+        "accuracy-games",
+        "avoid-games",
+        "obstacles-games",
+        "apocalypse-games",
+        "road-games",
+        "agility-games",
+        "1-player-games",
+        "bloody-games",
+        "traffic-games",
+        "level-games",
+        "wheel-games",
+        "offroad-car",
+        "arcade-car",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/96407488-0601-49a0-f6e1-46b1f7a70d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b913f855-e1f8-44bb-b5ea-72071a295d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "38f66cd40aa5619791f414eac138c699",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "5e421c4a145eeb59cbfa9f9edc5a53c1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-derby?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99616",
+      "slug": "one-man-army-battle-game",
+      "title": "One Man Army: Battle Game",
+      "description": "One Man Army: A casual single player Battle Game that will test your warrior skills and battle reflexes. With challenging levels and intense battles, you must use your tactical skills to survive and defend against arrows, canon, and even dragon flames.",
+      "howToPlayText": "Are you ready for the fun challenge in this defensive battle strategy game? One Man Army: Battle Game puts you in the shoes of an unstoppable warrior defending yourself and testing your reflexes against enemy attacks. With a variety of skills and upgrades at your disposal, you can upgrade your armory and become an unstoppable force.\n\nAs a One Man Army, you must use your battle tactics to defend and survive enemy attacks. The game tests your reflexes and strategic skills as you face wave after wave of enemy soldier's attacks. You must be quick on your feet, using the right tactics to outsmart your opponents and emerge victorious.\n\nWith each battle won you earn points to rank up, upgrade your armory and enhance your battle skills. Armory upgrades include everything from new weapons and armor to protective gear and shields. By climbing up the ranks you claim them all to be a champion battle warrior.\n\nOne Man Army: Battle Game will test your warrior skills and battle reflexes. With challenging levels and intense battles, you must use your tactical skills to survive and defend against arrows, canon, and even dragon flames.\n\nThe game features easy Battle game mechanics and realistic sound effects, immersing you to test your reflexes and battle tactics in this challenging game. You’ll feel like you’re on the front lines of the battlefield action, and defending against enemy attack with every move you make.\n\nOne Man Army: Battle Game is the perfect game for anyone who loves a challenge. Are you ready to rule the battlefield and emerge victorious? Play One Man Army: Battle Game now and find out!",
+      "gameURL": "https://playgama.com/export/game/one-man-army-battle-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/one-man-army-battle-game",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "strategy",
+        "shooting",
+        "survival",
+        "army",
+        "mobile"
+      ],
+      "tags": [
+        "reaction-games",
+        "mission-games",
+        "exciting-games",
+        "military-games",
+        "defense-games",
+        "combat-games",
+        "1-player-games",
+        "soldier-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a4db4bdd-e757-4056-7cd3-6b04f160fb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9a14840d-2684-4ab4-4baf-3dafc62aa100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "67c7c3ac95dddca8837ced8d15273960",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/one-man-army-battle-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63967",
+      "slug": "zombie-space-episode-ii",
+      "title": "Zombie Space Episode II",
+      "description": "NEW ISSUE OF GALACTIC NEWS\n\nZOMBIE APOCALYPSE ON THE RED PLANET...\n- Zombie virus has spread among civilians.\n- Rescuers found survivors among the zombies.\n- The galactic government has urgently gone on vacation.\n\n★★★\nA zombie virus outbreak has occurred on the space station. The first group of mercenaries disappeared. Your task is to find survivors among the zombies and find out the cause of the zombie apocalypse. You have to fight a horde of zombies using various types of weapons. Look for hidden weapons in chests. Upgrade characters and weapons! Use the abilities of the characters in hot battles against zombies. Play with a friend on the same device or solo!\n★★★",
+      "howToPlayText": "The goal of the game is to destroy all zombies and monsters.\nFind new weapons in the boxes.\nUpgrade characters and weapons to defeat strong enemies.\n\nQ (K) - change weapons;\nW, A, S, D (arrows) - move;\nE (M) - apply / activate;\nF (J) - super weapon.\nX, Space (L, KeyPad 0) - shooting;\nMouse - look / shoot;\nFor mobile devices, use touch input.",
+      "gameURL": "https://playgama.com/export/game/zombie-space-episode-ii?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-space-episode-ii",
+      "genres": [
+        "action",
+        "adventure",
+        "two-player",
+        "shooting",
+        "co-op",
+        "zombie",
+        "survival",
+        "scary",
+        "halloween"
+      ],
+      "tags": [
+        "2d-games",
+        "survivors-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "horde-survival-games",
+        "borwser-games",
+        "unity-games-online",
+        "2-player-zombie"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9862abb4-8bba-4d39-2dbc-d8f8c6565800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/062d807f-79fd-4fe1-1141-9ae46a6e4e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "8a118c8dda5a4f19b040cae184b8d512",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-space-episode-ii?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109561",
+      "slug": "frost-land--snow-survival",
+      "title": "Frost Land - Snow Survival",
+      "description": "Frost Land - Snow Survival is a strategic base-building game where you battle the harsh cold to stay alive. You’ll wield a flamethrower to melt snow, uncover hidden resources, and expand your shelter. Every choice matters—manage supplies wisely and decide which frozen zones to explore as you carve out survival in a relentless winter.In the strategic realm of a winter survival game, a devastating catastrophe has plunged the world into an endless winter. Embodying the last surviving hero, you venture forth, armed with a formidable flamethrower. Battle against relentless winter weather, confront fearsome beasts, and forge alliances with fellow survivors you rescue.With immersive exploration, strategic resource management, and a thrilling quest for survival, Frost Land – Snow Survival offers an addictive and adrenaline-pumping gameplay experience that will keep you hooked in the snow game for hours on end.Features🗺️ Epic Exploration: Brace yourself for an immersive winter survival journey through a visually stunning snowy world, where uncovering hidden resources with your badass flamethrower will keep you on the edge of your seat.⚔️ Strategy Resource Mastery: It&#39;s all about strategic thinking and resource management in a base-building game. Carefully decide when and where to melt that icy snow to unveil precious resources. It ensures your winter survival and dominance in this unforgiving realm.🏰 Base-Building Awesomeness: Customize and upgrade your base. Show off your creativity and build a base that strikes fear into the hearts of your rivals.❄️ Weather Challenges and Beast Battles: Brace yourself for intense weather conditions like blizzards and freezing winds that will test your winter survival skills.🎯 Quests and Triumphs: Embark on thrilling quests and conquer objectives that shower you with epic rewards and unlock new adventures. Prove yourself as a true hero of the winter survival game and make your mark in this frozen game.",
+      "howToPlayText": "Desktop Controls:\nW/↑ (Up Arrow): Move forward.\nS/↓ (Down Arrow): Move backward.\nA/← (Left Arrow): Move left.\nD/→ (Right Arrow): Move right.\n\nMobile Controls:\nOn-Screen Joystick: Move in all directions by dragging the joystick.",
+      "gameURL": "https://playgama.com/export/game/frost-land--snow-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/frost-land--snow-survival",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "3d",
+        "cool-games",
+        "survival",
+        "winter"
+      ],
+      "tags": [
+        "quests-games",
+        "addictive-games",
+        "resource-management-games",
+        "snow-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/eb2433b9-4c87-4cb9-0ab4-8a449be2fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/49114084-2b65-40d8-92c1-123e47826400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1cd01141973840358661513468038387",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/frost-land--snow-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111987",
+      "slug": "a-long-way-home",
+      "title": "A Long Way Home",
+      "description": "A Long Way Home is a chilling survival horror game that plunges you into the role of a lost wanderer, desperately trying to find their way back home. Stranded in an eerie, ever-changing landscape, you must navigate through shadowy corridors and odd places while being relentlessly pursued by strange, otherworldly creatures. As reality begins to unravel, you'll encounter haunting visions and unsettling experiences that blur the line between fear and madness. Will you uncover the truth behind your nightmarish journey or succumb to the horrors lurking in the dark? Prepare for a gripping tale of survival, mystery, and terror in A Long Way Home.",
+      "howToPlayText": "You're a lost wanderer.\n\nExplore the haunted world using Arrows or WASD.\n\nUse your mouse to control the camera\n\nFind hidden notes that expand the universe.\n\nCollect all the hidden Foxes.",
+      "gameURL": "https://playgama.com/export/game/a-long-way-home?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/a-long-way-home",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "mouse",
+        "story",
+        "survival"
+      ],
+      "tags": [
+        "dark-games",
+        "survival-horror",
+        "horror-escape"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ca6300da-7ea6-4989-1a0b-3e653fce9400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7eea46e3-fc42-40a1-6d07-52a579e34c00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4ab6683015fe722810f1e7ac2c43416e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/a-long-way-home?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112451",
+      "slug": "echolocation-shooter",
+      "title": "Echolocation Shooter",
+      "description": "Shoot to see in the dark!\n\nEliminate all the neon enemies, in the horroristic level!\n\nThe only way to see in this FPS is to generate soundwave with your weapon.\n\nSurvive endless waves of the wide variety of neon monster enemies, where the only way to see is to shoot.\nUnleash soundwave rifles, laser cannons, and grenades to light up the battlefield, upgrade your gear, and fight deeper into the horroristic horde.\n\nEvery shot reveals the world—every wave pushes your limits.",
+      "howToPlayText": "Desktop:\nMovement: Arrows, A, W, S, D\nJump: Space\nDodge: Shift\n\nInteract with environment: Left-click\n\nGenerate Soundwave: Left-click\nActivate Weapon: Right-click\nShoot: Right-click\n\nChange Weapon: 1, 2, Mouse-scroll\nGrenade: G\n\nMenu: P\n\nMobile:\nButtons",
+      "gameURL": "https://playgama.com/export/game/echolocation-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/echolocation-shooter",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "skill",
+        "3d",
+        "shooting",
+        "pve",
+        "survival",
+        "mobile"
+      ],
+      "tags": [
+        "dark-games",
+        "stealth-games",
+        "neon-games",
+        "challenging-games",
+        "combat-games",
+        "1-player-games",
+        "arcade-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/571b21c0-9783-4c72-f44f-da86a8bc7200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b58263fb-28e5-448c-1aea-2250667f0700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cb83191398e6d54e8466552fc0338051",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/echolocation-shooter?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96846",
+      "slug": "escape-from-squid-island",
+      "title": "Escape From Squid Island",
+      "description": "Dive into this thrilling 3D shooter, \"Escape from Squid Island,\" where you must flee a dangerous island filled with enemies. Enjoy intense battles, varied environments, and an engaging plot on your device. Prepare for an exhilarating experience as you fight for your freedom!",
+      "howToPlayText": "- Use WASD to control your character\n- Rotate the mouse to control the camera\n- Click the left mouse button to shoot\n- Click the right mouse button to aim\n- Press R to recharge",
+      "gameURL": "https://playgama.com/export/game/escape-from-squid-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/escape-from-squid-island",
+      "genres": [
+        "action",
+        "adventure",
+        "3d",
+        "shooting",
+        "story",
+        "survival",
+        "escape",
+        "first-person-shooter",
+        "mobile"
+      ],
+      "tags": [
+        "mission-games",
+        "3rd-person-shooter-games",
+        "exciting-games",
+        "kill-games",
+        "combat-games",
+        "tactical-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0f33f28d-6bc6-4864-8ba6-c14fc0958d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b1268fe5-a5f4-450d-1620-1040b0adae00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f2d280b302c349ea9d46ac1d47b4920a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/escape-from-squid-island?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99581",
+      "slug": "desolate-isle-survival",
+      "title": "Desolate Isle: Survival",
+      "description": "Survive and escape from a mysterious island in this open-world survival adventure game. Gather resources, craft tools, build your base, and explore new areas with unique materials and challenges. Complete quests to unlock new territories and uncover the secrets of the island. Perfect for fans of survival, exploration, and crafting games.",
+      "howToPlayText": "Universal:\nInteraction with objects happens automatically when you get close enough. However, some objects require you to press the button that appears above them to interact.\n\nKeyboard :\nMove - WASD or Left/Right/Up/Down arrow keys  \n\nMobile \nMove and turn - use joystick",
+      "gameURL": "https://playgama.com/export/game/desolate-isle-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/desolate-isle-survival",
+      "genres": [
+        "adventure",
+        "simulation",
+        "survival",
+        "crafting"
+      ],
+      "tags": [
+        "survivors-games",
+        "quests-games",
+        "rescue-games",
+        "building-games",
+        "evolution-games",
+        "resource-management-games",
+        "islands-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/43a7ee48-1303-4446-01fa-bdda7db2b100/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a157724a-02df-415b-2115-4c78ee7f2100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "f1709759da1542b2a14552fba39ac758",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/desolate-isle-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99682",
+      "slug": "war-v-path-of-the-survivor",
+      "title": "War V: Path of the Survivor!",
+      "description": "War Z: Path of the Survivor! - Story-driven first-person shooter. Go through the story, buy weapons, install various modules on them.\n\nA first-person action shooter.\n\nAs a result of the man-made disaster, most of humanity was infected with a dangerous virus... which turns people into zombies\n\nThe survivors were forced to form paramilitary groups...\n\nWho knows, maybe it's up to you to find the antidote to the virus and save humanity...\n\n- The world of the zombie apocalypse.\n- An exciting storyline.\n- Hordes of zombies from the simplest to the mutated.\n- A variety of weapons from the real world.\n- Various weapon modules and a leveling system.",
+      "howToPlayText": "Control:\n- WASD - movement,\n- LSHIFT - switch to running,\n- SPACEBAR - jump.\n- LEFT MOUSE BUTTON - shoot,\n- RIGHT MOUSE BUTTON - aim,\n- T - inspect the weapons.\n- R - reload.",
+      "gameURL": "https://playgama.com/export/game/war-v-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/war-v-path-of-the-survivor",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "shooting",
+        "story",
+        "zombie",
+        "survival",
+        "first-person-shooter",
+        "war",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online",
+        "fps-horror",
+        "single-player-horror",
+        "3d-horror"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/49607e8f-d794-462a-2dde-1776efc17a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/896d9c2c-a01d-4bf5-5991-79b45d3cf200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "42dd892564fc46bf806f5fed4d137dc2",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "6321a13f8d3349398f3aefb5106284ad",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/war-v-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "90501",
+      "slug": "abandoned-mansion",
+      "title": "Abandoned Mansion",
+      "description": "Abandoned Mansion is a first-person horror game set in an abandoned mansion, where a distress call leads you to investigate. Upon arrival, you realize it’s too late.\nThe game features item interaction, challenging puzzles, and terrifying monsters.\n\nFeatures:\n\nOptimized 3D graphics and realistic sound effects\nImmersive and thrilling music\nMultiple levels to test your skills\nVariety of enemy types\nBoss fights\nPuzzles to solve\nExploration of the abandoned building\nHidden rooms and items\n\"Abandoned Mansion\" will test your courage and survival skills. Can you unravel the mansion's mystery and face its monstrous inhabitants? Play now to find out.",
+      "howToPlayText": "W, A, S, D - Move\nE - Interact\nR - Reload\nC - Crouch\nTab - Open inventory\nSpace - Jump\nLeft mouse button - Attack/Shoot",
+      "gameURL": "https://playgama.com/export/game/abandoned-mansion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/abandoned-mansion",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "horror",
+        "3d",
+        "survival",
+        "ghost",
+        "escape",
+        "scary"
+      ],
+      "tags": [
+        "mystery-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0a668eab-e730-4568-dcae-5d6fc5136700/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2acfc666-db56-4444-3828-6851f4728100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "18e8f99d799b47fa83ae0421f10e2ce0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/abandoned-mansion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99438",
+      "slug": "skyblock-3d-survival",
+      "title": "Skyblock 3D: Survival",
+      "description": "Embark on a unique survival adventure on floating islands in a 3D world, where each island offers valuable resources. Explore vibrant landscapes, battle monsters to grow stronger, and trade with villagers for useful items. Build plantations and breed animals to ensure a steady supply of food and resources. The skies are full of islands, each one holding secrets and challenges. Survive, craft, battle, and thrive in this exciting world!",
+      "howToPlayText": "For computer:\n- Move: W, A, S, D\n- Jump: Spacebar\n- Break blocks: Hold down LMB\n- Place blocks: RMB / F\n- Inventory: E\n- Pause: Tab\n- Help: J\n- Drop: Q (Shift+Q Drop full slot)\n\nFor mobile devices:\n- Move: Left Joystick\n- Jump: Arrow icon button\n- Break blocks: Hold down the sword icon button.\n- Stack blocks: Hold down the cross icon button.\n- Inventory: Orange button in the middle of the screen.\n- Pause: Purple button in the upper right corner of the screen",
+      "gameURL": "https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/skyblock-3d-survival",
+      "genres": [
+        "adventure",
+        "3d",
+        "minecraft",
+        "survival",
+        "monster",
+        "crafting"
+      ],
+      "tags": [
+        "sandbox-games",
+        "resource-management-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/068ae819-f79a-4e74-9e57-3921f5dba000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a12cdd35-31c2-4aff-587f-c69635c2f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "967797b5f82241c7ad77e3e35b582adb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/skyblock-3d-survival?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112498",
+      "slug": "pulse-of-fear",
+      "title": "Pulse Of Fear",
+      "description": "Trapped in an abandoned place where something unspeakable lives, your survival depends on two things: light and silence.\n\nFuel your flashlight with batteries to shed light on the eerie secrets of the place. Repair generators to restore power and find a way to escape. Search for items: fuses for electrical panels, first aid kits for healing, and keys to locked doors.\n\nLight the way. Fix the system. Start the elevator. Most importantly, stay in the shadows.",
+      "howToPlayText": "Search generators, activate they. Change fuse, Cut wires and more. Hide from monsters - use beds or lockers\nDesktop controls:\nMovement: WASD\nLook: Mouse\nRun: Shift\nAction: E\nFlashlight: F\nPause: Tab\nDrop Item: Q\nInventory: 1,2,3,4,5\n\nMobile Controls:\nMovement: Joystick on Screen\nLook: Touch Zone\nRun button: Press for run\nAction button: Tap for use \nFlashlight button: Activate Flashlight\nPause: Button for pause game\nDrop Button: Drop item\nInventory: Change Items",
+      "gameURL": "https://playgama.com/export/game/pulse-of-fear?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pulse-of-fear",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "horror",
+        "3d",
+        "survival",
+        "ghost",
+        "scary"
+      ],
+      "tags": [
+        "mystery-games",
+        "dark-games",
+        "stealth-games",
+        "challenging-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/289bd0cf-dfb7-41e7-7446-8d10819b0f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8f6b4797-ef73-43e8-4fb8-692934fff600/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pulse-of-fear?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112129",
+      "slug": "99-nights-in-the-forest-survival-simulator",
+      "title": "99 Nights In The Forest - Survival Simulator",
+      "description": "99 Nights In The Forest - Survival Simulator - Go on outings, get food and resources, fight monsters and find the missing children!\n\nWhat is in the game:\n\n3 locations filled with both peaceful creatures and hostile ones! And also chests and resources!\n\nThe ability to save children by destroying secret bosses!\n\nThe skin merchant's store, where you can buy various upgrades!\n\nThe ability to earn achievements. For each achievement, you will receive DIAMONDS.",
+      "howToPlayText": "Click on \"Hike\" and select a location.\nAttack - click when the \"triangle\" is over the center of the attack bar.\nDefense - hold to stop the heart, release to move it in the other direction.",
+      "gameURL": "https://playgama.com/export/game/99-nights-in-the-forest-survival-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/99-nights-in-the-forest-survival-simulator",
+      "genres": [
+        "action",
+        "adventure",
+        "simulation",
+        "skill",
+        "mouse",
+        "animals",
+        "survival"
+      ],
+      "tags": [
+        "survivors-games",
+        "combat-games",
+        "rescue-games",
+        "1-player-games",
+        "diamonds-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/aa8acab9-6dbc-40eb-136d-504c781c5a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cf769788-30aa-45dd-4d5c-caa85f8c7800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "153ca87a62e395ff99ad84baae714cbe",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/99-nights-in-the-forest-survival-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112264",
+      "slug": "road-madness",
+      "title": "Road Madness",
+      "description": "If you like race cars and guns, you will love this game! You can upgrade and unlock more destructive cars, the further you get. Enjoy epic effects and power ups while hunting the new bosses and get achievements for it!",
+      "howToPlayText": "Shoot enemy cars and upgrade your gear to survive in higher levels. Avoid obstacles and gather power ups from destroyed special enemies. Defeat bosses at the end of levels to progress further",
+      "gameURL": "https://playgama.com/export/game/road-madness?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/road-madness",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "adventure",
+        "car",
+        "shooting",
+        "gun",
+        "pve",
+        "survival"
+      ],
+      "tags": [
+        "race-games",
+        "destruction-games",
+        "obstacle-games",
+        "vehicles-games",
+        "road-games",
+        "demolition-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0b66ae6c-36ca-4b96-19ef-4db77db7f400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0682b25e-92b8-4df9-ea42-9450b9f0f100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "bdbd523a1566ecdff9f46c0bcef1d626",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/road-madness?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112103",
+      "slug": "zombies-vs-special-forces",
+      "title": "Zombies vs special forces",
+      "description": "Zombies vs Special Forces is an online third-person shooter game. \nYou will act as special forces and complete the task of clearing the territory from zombies.\nThe game has three difficulty levels that allow players with different skill levels complete the mission. \nYou have full freedom to walkthrough levels of the game.",
+      "howToPlayText": "- Forward: [W].\n- Back: [S].\n- Step left: [A].\n- Step right: [D].\n- Direction: mouse cursor.\n- Shoot zombies: left mouse button.",
+      "gameURL": "https://playgama.com/export/game/zombies-vs-special-forces?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombies-vs-special-forces",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "shooting",
+        "zombie",
+        "survival",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "destroy-games",
+        "military-games",
+        "apocalypse-games",
+        "1-player-games",
+        "2d-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0269ed67-39d7-4de7-66ff-b0c4755d4d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/903d5245-c700-4519-35a2-ae3388699800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "375b7c6dbb9ab31415285e80379ed5a8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombies-vs-special-forces?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99744",
+      "slug": "noob-saves-the-village",
+      "title": "Noob saves the village",
+      "description": "The village has been attacked by merciless monsters! Become a real hero and defeat dangerous enemies with your fighting skills!",
+      "howToPlayText": "Moving around on the computer using the keyboard, attacking by pressing the left mouse button. \n\nMove around on mobile devices using joysticks and attack by clicking on the corresponding button.",
+      "gameURL": "https://playgama.com/export/game/noob-saves-the-village?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/noob-saves-the-village",
+      "genres": [
+        "action",
+        "adventure",
+        "kids",
+        "popular",
+        "pve",
+        "survival",
+        "rpg",
+        "pixel-art",
+        "mobile"
+      ],
+      "tags": [
+        "games-for-pc",
+        "exciting-games",
+        "noob-games",
+        "combat-games",
+        "rescue-games",
+        "desktop-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/74501387-15e5-43a6-bd75-ad7ad87d5d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a6625653-6cf0-4de5-a695-5d4907fbe500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9cb9b879fa3349eeb7bb2b82c5d7ef7b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/noob-saves-the-village?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109176",
+      "slug": "carvivor-ops",
+      "title": "Carvivor Ops",
+      "description": "Carvivor Ops is a car-based action game that challenges you to survive increasingly intense waves of police within a limited time. ",
+      "howToPlayText": "Get behind the wheel of a weaponized supercar !\nDodge the cops, fire rockets Upgrade your gear, survive endless chases, and become the ultimate escape artist!\n\nDesktop Controls:\n↑ (Up Arrow, W): Move upward.\n↓ (Down Arrow, S): Move downward.\n← (Left Arrow, A): Move left.\n→ (Right Arrow, D): Move right.\n\nMobile Controls:\nControl the car using the buttons on the screen!",
+      "gameURL": "https://playgama.com/export/game/carvivor-ops?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/carvivor-ops",
+      "genres": [
+        "action",
+        "racing",
+        "arcade",
+        "strategy",
+        "car",
+        "shooting",
+        "car-racing",
+        "survival",
+        "driving"
+      ],
+      "tags": [
+        "dodge-games",
+        "vehicles-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/699e1796-0626-4697-8788-96fc5953e600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4713f256-35e0-499c-3180-124a19e0da00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d5be5c2b65a44187aa6b0e742274b379",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/carvivor-ops?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109178",
+      "slug": "trap-craft",
+      "title": "Trap Craft",
+      "description": "The Hacker is ready to fulfill any desire of a Princess, Noob, Pro, Herobrine and the rest.\nHe offers them to play a game: if you protect the portal from zombies, then the wish will come true!\nEach character has its own funny ending! Find out all of them!\n\nFeatures of the game Trap craft. Herobrine and Noob vs Hacker\n\n- 6 adventures: Herobrine, Princess, Noob, Pro, Foxy, Imp!\n- 12 pets - tame all!\n- This is a walkthrough game, not just a mod.\n- The main characters have inventory for items\n- Unique abilities of weapons\n- Different types of monsters: from zombies to Dragons!\n- At the levels you will meet Entity 303\n- Play together with friendly pets, set traps and fight against the hostile zombies of the cube world.\n- Watch video exhibitions - learn the history of Herobrine, Princess, Nubik.\n- The best Trap Crafting adventure game - defeat zombies, survive, craft traps, tame pets in a cube world.\n\nAnd also try our other monster school games!",
+      "howToPlayText": "You need to build a defense of your chosen traps against zombies. By killing zombies, you get coins that you can use to set traps in the way of zombies. Control the hero with the keyboard and mouse.",
+      "gameURL": "https://playgama.com/export/game/trap-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/trap-craft",
+      "genres": [
+        "action",
+        "adventure",
+        "strategy",
+        "mouse",
+        "minecraft",
+        "zombie",
+        "survival",
+        "tower-defense"
+      ],
+      "tags": [
+        "challenging-games",
+        "defense-games",
+        "touchscreen-games",
+        "trap-games",
+        "desktop-games",
+        "horde-survival-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/44ec06ac-beaf-4799-9500-8a19750a1b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0f9ed7d3-94f3-4665-cf40-0b94efeda000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5fe92434d4fd48798906109f6e21b204",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/trap-craft?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63927",
+      "slug": "broomcraft-mystic-evasion",
+      "title": "Broomcraft Mystic Evasion",
+      "description": "Broomcraft Mystic Evasion is an engaging survival game where you fly on a magic broom, fighting waves of enemies. Play online for free, hone your skills, unlock spells, and upgrade brooms. Choose between practice or endless challenge modes. Experience the captivating adventure and see how long you can endure!",
+      "howToPlayText": "PC Controls\nWASD or Arrows = movement\nSpace = broom leap / rush\nZ = choose to take the first spell\nX = choose to take the second spell\nC = choose to take the third spell\nMobile Controls\nJoystick = movement\nRush Button = leap/ rush",
+      "gameURL": "https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/broomcraft-mystic-evasion",
+      "genres": [
+        "io",
+        "action",
+        "adventure",
+        "survival",
+        "magic",
+        "halloween",
+        "megaspel"
+      ],
+      "tags": [
+        "top-down-games",
+        "iphone-games",
+        "survivors-games",
+        "addictive-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "horde-survival-games",
+        "open-world-games",
+        "borwser-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/273ea2a7-f872-4eaf-bf29-02f384ae1a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6bfe3b1b-3a8f-4507-3289-1ab30812fe00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ac9fce3983a24d9dac8bf880b405cfb7",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/broomcraft-mystic-evasion?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "98052",
+      "slug": "same-room-same-day",
+      "title": "Same Room Same Day",
+      "description": "Experience the thrilling psychological horror of \"Same Room Same Day.\" As Rosaline, explore a terrifying building filled with monstrous beings. Face intense challenges, collect crucial supplies, and confront your deepest fears to uncover secrets and seek tranquility in a frightening digital landscape.",
+      "howToPlayText": "Full Gamepad support required \n\nControls: \nMove: WASD\nLook Around: Mouse\nShoot: Left Click\nAim: Right Click\nReload: R\nFlashlight: F\nJump: Space\nInteract: E\nSprint: Shift",
+      "gameURL": "https://playgama.com/export/game/same-room-same-day?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/same-room-same-day",
+      "genres": [
+        "horror",
+        "pve",
+        "survival",
+        "ghost",
+        "scary",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "iphone-games",
+        "mystery-games",
+        "room-games",
+        "combat-games",
+        "controller-compatible-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/475d1bd5-2a0a-46fc-9f53-43aad7cb2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/71b40699-ef3d-4c05-7286-26bdb1997500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0e6200911e3e4dd690c91a04e9fa5f29",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/same-room-same-day?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99522",
+      "slug": "badlands-hero",
+      "title": "Badlands Hero",
+      "description": "Embark on an epic journey in the game \"Badlands Hero\", where danger lurks around every corner and adventure awaits at every step.\n\nAs you play, you will:\n- Complete levels\n- Earn experience points to unlock new characters\n- Collect gold to upgrade your characters and weapons\n- Unlock new types of weapons\n- Defeat bosses",
+      "howToPlayText": "Controls for PC/Keyboard:    \n - Movement: Use the W, A, S, D  keys or left mouse click to move your character .\n     \n\nControls for Mobile Devices/Touchscreen:    \n - Movement: Tap and drag on the screen to move your character.\n     ",
+      "gameURL": "https://playgama.com/export/game/badlands-hero?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/badlands-hero",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "survival"
+      ],
+      "tags": [
+        "1-player-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9769a488-2ac7-47f3-286a-66ef2758a800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e7b60b1d-237e-4c1e-b1d3-de436a3d6d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "dfae7de1907146de8305af7099364f70",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "92d5e2f15ca64e939593bf880a576828",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/badlands-hero?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96931",
+      "slug": "bark--blast",
+      "title": "Bark & Blast",
+      "description": "Crash-land on a post-apocalyptic planet in BARK N BLAST! Help a brave alien dog survive and escape in this thrilling 2D platformer action RPG. Test your aim, strategy, and courage in an epic adventure. Play now and conquer the challenges!",
+      "howToPlayText": "Keyboard \n- Move left: A\n- Move right: D\n- Jump: W\n- Aim and shoot with mouse \n\nMobile \n Move and turn - joystick\n Jump - jump button",
+      "gameURL": "https://playgama.com/export/game/bark--blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bark--blast",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "shooting",
+        "platform",
+        "animals",
+        "survival",
+        "dog",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "android-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5053c756-f7e9-401c-8f1c-f72b6e9c9a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6140870c-0913-46a7-8c9f-85952ab01e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0adf519efb59403abf62f6b14070619a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/bark--blast?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106344",
+      "slug": "bullet-echo",
+      "title": "Bullet Echo",
+      "description": "Lead your team to victory in this unique PvP tactical team shooter! Choose from dozens of different heroes with unique play styles and abilities. Unite with friends, set a strategy, and be the last team standing when the battle ends. Your vision is limited by the beam of a flashlight, but you can hear enemies' steps and shots. Unlock and upgrade new heroes, participate in championships, and fight to unlock new perks, maps, and game modes!\n\nBullet Echo — Game Description\nBullet Echo is a tactical, team-based PvP shooter with a unique top-down perspective, developed by ZeptoLab. The game stands out for its stealth-focused gameplay, fast-paced battles, and emphasis on teamwork.\n\nKey Features\nUnique Tactical Stealth Action:\nYour vision is limited by the beam of a flashlight, but you can hear enemies' steps and shots. This creates suspenseful, strategic encounters where sound and positioning are crucial.\n\nTeam Play and Strategy:\nPlay with friends or match with players worldwide. Unite your team, set a strategy, and be the last team standing. The level of your hero is matched with the highest in your party, making it easy to play with friends of any experience.\n\nDiverse Heroes:\nChoose from dozens of different heroes, each with unique play styles, weapons, and abilities. Unlock and upgrade heroes to boost their power and unlock new perks.\n\nMultiple Game Modes:\n\nBattle Royale: Five teams of three players each compete to be the last team standing on a shrinking map.\n\nTeam vs Team: Two teams of five players face off on exclusive maps.\n\nKing of the Hill: Solo mode with 15 players battling for survival.\n\nAdditional modes and maps are available as you progress.\n\nProgression and Rewards:\nParticipate in championships, accomplish missions, and receive valuable resources. Unlock new heroes, perks, maps, and game modes as you play.\n\nGameplay Overview\nTop-Down Shooter:\nThe game uses a top-down view, giving players an aerial perspective of the battlefield. Stealth, quick reflexes, and tactical movement are essential.\n\nAuto-Shooting:\nHeroes automatically fire when an enemy enters their firing cone, allowing players to focus on movement and positioning.\n\nLooting:\nCollect weapons, ammo, armor, and power-ups during matches to enhance your hero’s abilities.\n\nRevive System:\nTeammates can revive each other during battles, adding another layer of teamwork and strategy.",
+      "howToPlayText": "Main Objectives\nTeam up with friends or play solo to compete in tactical PvP battles.\n\nSurvive and eliminate enemy teams using stealth, strategy, and your hero’s unique abilities.\n\nCollect loot and power-ups to strengthen your hero during each match.\n\nBe the last team or player standing to win the round.\n\nDesktop Controls (if playing via emulator or official desktop version)\nNote: Bullet Echo is primarily a mobile game, but can be played on PC via Android emulators. Controls may vary depending on emulator settings.\n\nW, A, S, D / Arrow Keys: Move your hero.\n\nMouse: Aim your flashlight cone (direction of vision).\n\nLeft Mouse Button: Use hero’s special ability (if mapped).\n\nSpacebar: Interact with objects or revive teammates (if mapped).\n\nEsc: Open game menu or pause.\n\nYou can customize key bindings in most emulators for optimal comfort.\n\nMobile Controls\nVirtual Joystick (Left side): Move your hero around the map.\n\nSwipe / Drag (Right side): Aim your flashlight and field of vision.\n\nAbility Button: Tap to activate your hero’s special ability.\n\nInteract Button: Tap to pick up items, open chests, or revive teammates.\n\nAuto-Shoot: Your hero fires automatically when an enemy enters your cone of vision.\n\nTips for Success\nUse walls and obstacles for cover and to ambush enemies.\n\nListen for enemy footsteps and gunfire to locate opponents in the fog of war.\n\nStick with your team for better chances of survival and to revive each other.\n\nUpgrade and experiment with different heroes to find your best play style.\n\nMaster the controls and tactics to dominate the arena in Bullet Echo!",
+      "gameURL": "https://playgama.com/export/game/bullet-echo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bullet-echo",
+      "genres": [
+        "action",
+        "multiplayer",
+        "shooting",
+        "gun",
+        "pvp",
+        "survival",
+        "battle-royale",
+        "mobile"
+      ],
+      "tags": [
+        "top-down-games",
+        "survivors-games",
+        "fast-paced-games",
+        "tournament-games",
+        "stealth-games",
+        "competitive-games",
+        "heroes-games",
+        "arena-games",
+        "combat-games",
+        "tactical-games",
+        "teams-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/18f1e7bc-3e2e-47ac-db71-c71d27e20600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f90302d8-9196-45ac-2fa0-2d1b1700e200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "a687d4f55fae439aa192968338d802c9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bullet-echo?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99685",
+      "slug": "snake-of-balls",
+      "title": "Snake of Balls",
+      "description": "Chase a tricky snake in this thrilling online game! It speeds up and moves unpredictably. Every mistake you make feeds it. Can you keep up and outsmart the chaos? Play now and test your reflexes!",
+      "howToPlayText": "Hunt the snake, which at first glance seems like easy prey.\nBut, it's not like that!\nThe snake will accelerate and move along a chaotic trajectory, and each of your mistakes will become food for it.",
+      "gameURL": "https://playgama.com/export/game/snake-of-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-of-balls",
+      "genres": [
+        "action",
+        "skill",
+        "multiplayer",
+        "snake",
+        "survival",
+        "classic",
+        "mobile"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ea0c9e87-8771-48fc-26b9-ce318b1e2c00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/93621e1d-6e68-41b2-72e2-795bcf391d00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "50afcab8fc454f2bb387af1c7924e45e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-of-balls?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99610",
+      "slug": "blade-bedlam",
+      "title": "Blade & Bedlam",
+      "description": " A top-down, physics-based, medieval melee fighter! Block projectiles and melee attack with your weapons and try to hit the enemies! Survive for as long as you can by dodging attacks, quickly killing enemies and buying items form the shop between rounds!",
+      "howToPlayText": "\n\n Use the Mouse to swing your weapon and W A S D to move your character.\n Right click or press Shift to dodge roll.\n Buy items to upgrade your knight and survive the waves of chaos.\n Look for special items to assist in smiting your foes.\n Take on the ultimate challenge and defeat all the bosses.\n",
+      "gameURL": "https://playgama.com/export/game/blade-bedlam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/blade-bedlam",
+      "genres": [
+        "action",
+        "adventure",
+        "skill",
+        "multiplayer",
+        "pve",
+        "survival",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "medieval-games",
+        "combat-games",
+        "sword-games",
+        "tactical-games",
+        "horde-survival-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1f70a7e-272b-4b3e-f716-cfa428d62900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/99983057-4b00-489b-7e2c-23d0a6092f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e539d487c8f64c2482ecc8d15dd8bb6a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/blade-bedlam?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99491",
+      "slug": "patagonians",
+      "title": "Patagonians",
+      "description": "Explore horror and mystery in Patagonians! Search for your missing daughter, battle monsters, solve puzzles, and survive deadly traps in eerie caves and mansions. Dare to face the darkness? Play now!",
+      "howToPlayText": "Keyboard \nWASD - move the character, SPACE - jump, SHIFT - run, E - action, LMB - attack, RMB - secondary weapon, TAB - pause.\nSlide down- S or Down arrow key \nMobile \nScreen buttons.",
+      "gameURL": "https://playgama.com/export/game/patagonians?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/patagonians",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "horror",
+        "story",
+        "survival",
+        "point-and-click",
+        "scary",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4f247a9c-0f5e-43a7-97ad-ba46275b7a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3b4e9756-6191-4743-93a8-bd76c0bd0200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "52a00945c0464ace837e21ef61e3f6d8",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/patagonians?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95841",
+      "slug": "furry-kung-fu",
+      "title": "Furry Kung Fu",
+      "description": "Furry Kung Fu is a fun fighting game with cute cartoon graphics. You play as Catsei or his student Kung Fu Cat. You need to hit the opponent with a lot of punches, while dodging all kinds of objects flying at you, such as balls, comets, fire and pots. It's so much fun!\n\nEngage in an epic Kung Fu battle with your opponent. Get coins, unlock player skins and new weapons!\n\nBright and memorable characters will keep you entertained, and simple game controls allow you to focus on battling countless hordes of pigeons, rats, aliens, crocodiles, and other animals. Can you collect weapons in battle and unlock all available maps? Two playable characters to choose from.",
+      "howToPlayText": "Furry Kung Fu is a fun fighting game with cute cartoon graphics. You play as Catsei or his student Kung Fu Cat. You need to hit the opponent with a lot of punches, while dodging all kinds of objects flying at you, such as balls, comets, fire and pots. It's so much fun!\n\nEngage in an epic Kung Fu battle with your opponent. Get coins, unlock player skins and new weapons!\n\nBright and memorable characters will keep you entertained, and simple game controls allow you to focus on battling countless hordes of pigeons, rats, aliens, crocodiles, and other animals. Can you collect weapons in battle and unlock all available maps? Two playable characters to choose from\nКак играть\nControl on the PC: by arrow buttons, on the smartphone - by swipes and taps on the screen.\n\nSwipe: left/right arrow, tap on the screen to the left/right of the player.\nCombo: repeatedly pressing the button in the direction where you want to apply a combo / multiple tap to the left or right of the player.\nSit down: down arrow / swipe down.\nJump: arrow up / swipe up.\nDouble jump (if available for a specific skin): double arrow up / two swipe up\n\nUppercut - squat and jump, arrow down and up / swipe down and up;\nAttack from above - press the down arrow / swipe down while jumping.\n\nThe enemies drop weapons and lives. You can pick them up by tapping/tapping in their direction.\n\nThe enemy on the ball and comet can be shot down. The rat in the window can be turned off briefly by throwing a weapon at it.\nLevels in the Survival game mode are unlocked as you progress through the main Campaign.",
+      "gameURL": "https://playgama.com/export/game/furry-kung-fu?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/furry-kung-fu",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "funny",
+        "animals",
+        "survival",
+        "cats",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "combat-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/11a5a19c-6f2e-4fd6-219e-9281f8b04500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/dc473a20-9221-4a29-e1be-d776c5df7500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "af9ecc18c9744e408422fb83dd464a6b",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "35d53df22ab34dafba121251d2a1c405",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/furry-kung-fu?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94842",
+      "slug": "planes-dodge--go",
+      "title": "Planes Dodge & Go",
+      "description": "Join the thrilling action of Planes Dodge & Go, where you navigate intense dogfights, dodging projectiles and opponents. Experience the adrenaline of flying as a fighter pilot in The Great War. Play for free on your phone or computer and see how long you can survive!",
+      "howToPlayText": "Controls:\nMovement – Drag while Right-Clicking\n",
+      "gameURL": "https://playgama.com/export/game/planes-dodge--go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/planes-dodge--go",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "mouse",
+        "survival",
+        "airplane",
+        "flying"
+      ],
+      "tags": [
+        "fighter-jet-games",
+        "avoid-games",
+        "rocket-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/296487e6-6e31-4649-c3dd-3a7cf7333400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4db9e621-883e-4cc9-e23b-624e54d84100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e26ee49ea083463eb3d3802a3757f069",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/planes-dodge--go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86428",
+      "slug": "fortress-of-the-sinister",
+      "title": "Fortress of the Sinister",
+      "description": "Dive into the thrilling world of *Fortress of the Sinister*, a 3D strategy game filled with tactical gameplay and challenges. Lead a diverse team through intricate fortresses, face enemies in turn-based combat, gather resources, enhance abilities, and uncover secrets in this engaging online adventure for mobile and PC.",
+      "howToPlayText": "Fortress of Sinister is a groundbreaking 3D strategy game that masterfully blends tactical depth with pulse-pounding challenges. Lead your team of powerful characters through four formidable fortresses, each brimming with unique enemies and obstacles. Outwit your foes in dynamic, turn-based battles set on grid-based arenas, and uncover the secrets lurking within the shadows.\n\nGame Objectives\n- Short-term: Win battles with clever tactics and minimal losses.\n- Mid-term: Build an elite team to conquer 10 floors in each fortress.\n- Long-term: Strengthen your characters to face endless challenges in ultimate survival mode.\n\nFeatures\n- Turn-Based Combat: Engage in tactical battles on arenas of varying sizes, from 3x3 skirmishes to epic 7x7 confrontations.\n- Diverse Characters: Recruit unique units like the “Mushroom Priest,” “Stone Golem,” and “Night Hunter,” each with distinct abilities to amplify your strategy.\n- Loot & Progression: Collect treasures, trinkets, and currency after each floor to purchase items and upgrade your team’s skills.\n- Meta-Progression: Unlock new characters and upgrades, ensuring your team is ready for escalating challenges.\n\n\n- Keyboard\nUse the mouse to play the game.\nall movement takes place at the expense of the mouse.\nYou won't need any buttons.\nComplete the training at the beginning of the game to figure out exactly how it works.\n",
+      "gameURL": "https://playgama.com/export/game/fortress-of-the-sinister?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fortress-of-the-sinister",
+      "genres": [
+        "adventure",
+        "strategy",
+        "3d",
+        "pve",
+        "survival",
+        "battleship"
+      ],
+      "tags": [
+        "turnbased-games",
+        "fantasy-games",
+        "desktop-games",
+        "indie-games",
+        "tactical-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f71db7a9-69b4-4c4f-a323-ed82d50f6b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/88101b15-bdd9-49fe-5a37-79bb8962d700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b505d38b9f4d425f8b59d960314a44d3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fortress-of-the-sinister?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86323",
+      "slug": "rift-of-hell--demons-war-44e4-1",
+      "title": "Rift of Hell - Demons War",
+      "description": "Rift of Hell - Demons War is a fast-paced action game where players face off against waves of demons in a hellish setting. Equip powerful weapons and upgrade your abilities while collecting gold to survive intense battles. Play online for free and conquer the darkness!",
+      "howToPlayText": "Rift of Hell - Demons War is a fast-paced action game where players face off against waves of demons in a hellish setting. Equip powerful weapons and upgrade your abilities while collecting gold to survive intense battles. Play online for free and conquer the darkness!",
+      "gameURL": "https://playgama.com/export/game/rift-of-hell--demons-war-44e4-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/rift-of-hell--demons-war-44e4-1",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "3d",
+        "shooting",
+        "popular",
+        "survival",
+        "first-person-shooter",
+        "war"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "fast-paced-games",
+        "kill-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/482e4157-d8ba-486a-922b-7a30d90fad00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/04014821-5da2-41f6-45cb-7d6622562800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d2430bee9dba4f82999f2fe06a334be0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/rift-of-hell--demons-war-44e4-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "924",
+      "slug": "defender-tanks-merge",
+      "title": "Defender: Tanks Merge",
+      "description": "Defender: Tanks Merge is a thrilling online strategy game where you create a powerful army by merging unique tanks with abilities. Face increasing waves of enemies, using auto-merge, bombs, and mines to strengthen your tactics. Play for free on desktop or mobile and enjoy hours of strategic fun!",
+      "howToPlayText": "Controls:\n- Drag tanks together to merge\n- Drag unwanted tanks to the trash can\n- Tap ability buttons to use and select the target area\n- Cancel abilities by tapping any ability button or base area\n- Mines can't be placed near tanks—plan ahead",
+      "gameURL": "https://playgama.com/export/game/defender-tanks-merge?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/defender-tanks-merge",
+      "genres": [
+        "strategy",
+        "cool-games",
+        "pve",
+        "survival",
+        "battleship",
+        "tanks"
+      ],
+      "tags": [
+        "2d-games",
+        "addictive-games",
+        "defense-games",
+        "desktop-games",
+        "1-player-games",
+        "resource-management-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ca031858-c3d3-4d3d-2b0a-589748da6600/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a23d36c1-39c9-40f4-54f8-f1ad5599ae00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "05fe5da514a8484aa68e0fb2a445b297",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/defender-tanks-merge?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99482",
+      "slug": "zombie-horde-build--survive",
+      "title": "Zombie Horde: Build & Survive",
+      "description": "Defend your base from hordes of zombies by shooting them with various weapons and placing turrets, barricades and traps",
+      "howToPlayText": "On Mobile: Drag your finger on the screen — your character moves in the chosen direction\nOn PC: Use WASD or arrow keys to move",
+      "gameURL": "https://playgama.com/export/game/zombie-horde-build--survive?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-horde-build--survive",
+      "genres": [
+        "strategy",
+        "cool-games",
+        "popular",
+        "zombie",
+        "survival",
+        "tower-defense",
+        "halloween",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "trap-games",
+        "horde-survival-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/05514c36-f34a-4deb-33c2-fa9203a0bb00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/09847ebf-8b9a-4d35-0933-27d4dc916900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7742ed0f909e4066a5b8e179e8d57c3c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-horde-build--survive?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86294",
+      "slug": "we-not-survive-d862-1",
+      "title": "We not survive",
+      "description": "We Not Survive is a thrilling tower defense game in a zombie-infested, post-apocalyptic setting. As the sole defender, protect your base from relentless foes by playing online for free. Upgrade weapons and resources, unlock skills, and prepare for intense battles against waves of undead. Are you ready to survive?",
+      "howToPlayText": "The game is controlled by the mouse. You can control the speed of zombie attacks, as well as turn off music, sounds in the game. By clicking on \"?\" you can see explanations for each action icon.",
+      "gameURL": "https://playgama.com/export/game/we-not-survive-d862-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/we-not-survive-d862-1",
+      "genres": [
+        "strategy",
+        "mouse",
+        "zombie",
+        "survival",
+        "tower-defense",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "challenging-games",
+        "defense-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "resource-management-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d6b711bc-71bb-4eb3-5f7a-aa225080c800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8b2becfa-f592-4232-eb18-7fcd22db6900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "348064218cdf433292ff749f46f648af",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/we-not-survive-d862-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111073",
+      "slug": "zombie-monster-survivors",
+      "title": "Zombie Monster Survivors",
+      "description": "In a world ravaged by a zombie virus, you are one of the last survivors. Each playthrough features randomly generated maps and enemies. Collect various weapons and items, upgrade your character's abilities, and survive as long as possible against waves of zombies.",
+      "howToPlayText": "Slide on the screen to control the character's movement, avoid monsters to gain experience and level up to pass levels",
+      "gameURL": "https://playgama.com/export/game/zombie-monster-survivors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/zombie-monster-survivors",
+      "genres": [
+        "arcade",
+        "zombie",
+        "survival",
+        "monster",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "addictive-games",
+        "level-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ecea2ee7-028a-4c0b-f3dd-2606a036ee00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/6d1a1fba-eebb-47a7-20ea-c11816223700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5c2d2dbd59c24400944e3d884754a917",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/zombie-monster-survivors?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99567",
+      "slug": "stalker-2033-the-path-of-the-survivor",
+      "title": "Stalker 2033: The Path of the Survivor",
+      "description": "Stalker 2033: The Path of the Survivor – A 3D action shooter set in a post-apocalyptic world. Battle the undead, explore vast locations, uncover dark secrets, and fight to survive in a mysterious, deadly new reality.",
+      "howToPlayText": "Stalker 2033: The Path of the Survivor  - is an 3D action shooter set in a post-apocalyptic world.. Collect an arsenal of deadly weapons and fight for survival!\n\n\nA huge location populated by a wide variety of inhabitants!\n\nThe quiet life of the middle lane is disrupted by a mysterious catastrophe – an unknown phenomenon turns people into the living dead. The main character finds himself in the epicenter of the tragedy by accident: being away from the city, he learns about the beginning of the apocalypse just two weeks after it began.\n\nNow he has to not only fight for survival in a new, cruel world, but also reveal its secrets. Collecting information bit by bit, he tries to understand the nature of the disaster and its impact on people..\n\nGameplay Features:\n\n• Exploring a post-apocalyptic world \n• Interacting with the few survivors\n• Search for resources and create equipment\n• * Battles with different opponents\n• Thrilling zombie apocalypse storyline\n• Realistic arsenal of weapons\n\nImmerse yourself in the exciting world of the post-apocalypse! Collect an arsenal of deadly weapons and fight for survival!\n\nControl:\n- WASD - movement,\n- LSHIFT - switch to running,\n- SPACE - jump.\n- LEFT MOUSE BUTTON - shoot,\n- RIGHT MOUSE BUTTON - aim,\n- MOUSE WHEEL, Q - change weapons.\n- T - inspect the weapons.\n- R - reload.\n- M - map.",
+      "gameURL": "https://playgama.com/export/game/stalker-2033-the-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/stalker-2033-the-path-of-the-survivor",
+      "genres": [
+        "action",
+        "adventure",
+        "horror",
+        "3d",
+        "shooting",
+        "story",
+        "zombie",
+        "survival",
+        "halloween",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "unity-games-online",
+        "fps-horror",
+        "single-player-horror",
+        "3d-horror"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bd286d70-d90e-43ae-f16f-ec4dd1c22300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8e68462f-6960-4b99-e81e-e3398e60e300/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "2fc848b4b17847fe8710d43b93b8667b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/stalker-2033-the-path-of-the-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "55",
+      "slug": "left-4-die",
+      "title": "Left 4 Die",
+      "description": "Left 4 Die is an intense survival shooter set in a post-apocalyptic environment. Utilize strategy to face endless enemies in this web-based game with stunning graphics and responsive controls. Experience the excitement across various devices as you navigate dangers, wield formidable weapons, and adapt to survive.",
+      "howToPlayText": "WASD - move Left Mouse button - attack R - reload SPACE - jump 1 - 4 - select weapons. Approach the weapons dealer to buy weapons, the armor dealer - to buy armor, the barber - to change your appearance, the commander - to receive a new mission. Complete missions and kill zombies to earn money and experience. The higher your level, the more powerful equipment and higher rewards for missions you can obtain, but you will also face more numerous hordes of zombies chasing you.",
+      "gameURL": "https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/left-4-die",
+      "genres": [
+        "action",
+        "3d",
+        "multiplayer",
+        "shooting",
+        "cool-games",
+        "zombie",
+        "pve",
+        "survival",
+        "wolf",
+        "first-person-shooter"
+      ],
+      "tags": [
+        "first-person-shooter-fps-games",
+        "fast-paced-games",
+        "addictive-games",
+        "arena-games",
+        "webgl-games",
+        "combat-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "building-games",
+        "horde-survival-games",
+        "borwser-games",
+        "virtual-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/65c4ee1c-517f-4e10-c93a-10d04aa4fe00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1fe7362d-e8da-414f-b8fb-9b69c90db100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5cbf6816fc7d4a3c90282ecc9d451ed2",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "b0c3f523da054f49922d56bdaa76bce1",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "ee3e3ad4267947e7a4d42dc2429fd370",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "e9323ad585a4491daf38ea69ac82bf56",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/left-4-die?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95526",
+      "slug": "endless-z-survivor",
+      "title": "ENDLESS Z SURVIVOR",
+      "description": "Fight through endless waves of hungry zombies, unleash your arsenal of weapons, survive!\nEach time you perish, you only get stronger. Kill zombies, get gold, buy new weapons, kill more zombies!!",
+      "howToPlayText": "Keyboard Controls:\n\nMove - WSAD keys\n\nReload - R key\n\nShoot - Left Mouse Button (LMB)\n\nSwitch Weapons - Number Keys 1-2",
+      "gameURL": "https://playgama.com/export/game/endless-z-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/endless-z-survivor",
+      "genres": [
+        "action",
+        "shooting",
+        "gun",
+        "popular",
+        "zombie",
+        "pve",
+        "survival"
+      ],
+      "tags": [
+        "apocalypse-games",
+        "godot-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c1841931-89df-4f6a-984a-940b1cb30500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/1a5dffcd-f993-436a-6f4c-b1bfb4cd0800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "0ae2e08bccef41a1b54bb6a8d07b8ed9",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/endless-z-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63926",
+      "slug": "little-big-fighters",
+      "title": "Little Big Fighters",
+      "description": "Little Big Fighters is an exciting action game set in a lively survival arena where players must showcase their combat skills to rise through the ranks. Accessible via browsers on desktop and mobile, it offers a seamless experience without downloads or registration, focusing on battles and strategic growth.",
+      "howToPlayText": "Left Mouse Button = Move\nClick = Fight a boss\nL = Unlock the mouse",
+      "gameURL": "https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/little-big-fighters",
+      "genres": [
+        "io",
+        "action",
+        "multiplayer",
+        "survival",
+        "battleship",
+        "wrestling"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "arena-games",
+        "combat-games",
+        "desktop-games",
+        "indie-games",
+        "borwser-games",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4c1e92c7-492a-403f-7281-e49555bfe300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b77c5ed4-3ac5-4279-0dfa-25b612d86900/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/little-big-fighters?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "108653",
+      "slug": "wasteland-hunter-puzzle-rpg",
+      "title": "Wasteland Hunter: puzzle RPG",
+      "description": "Wasteland Hunter: puzzle RPG — a unique combination of Tetris puzzle mechanics integrated into a turn-based combat system and RPG strategy set in a post-apocalyptic world.\nWhat makes the game special:\n\nInnovative Combat System: Players use Tetris blocks with equipment (bullets, health packs, shields, grenades) to create devastating combat combinations\nStrategic Depth: Turn-based battles require tactical thinking — players adapt block formations to enemy types and situations\nMeta-Progression: Beyond combat, players rebuild and manage a survivor camp, rescue NPCs, and create unique combat figures from discovered blueprints\nHigh Replayability: Map exploration, escalating difficulty, and diverse equipment ensure long-term engagement",
+      "howToPlayText": "PC Controls\nUse mouse buttons  to play the game.\n\nMobile Controls\nUse in-game buttons to play the game.",
+      "gameURL": "https://playgama.com/export/game/wasteland-hunter-puzzle-rpg?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/wasteland-hunter-puzzle-rpg",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "strategy",
+        "story",
+        "survival",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "turnbased-games",
+        "survivors-games",
+        "action-adventure"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/33517b42-c8a8-4762-8560-5a6528511500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/db60565e-e909-4c63-6cb5-aa336a775900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "1d3f655e58c54d288e2aee5cc73a6581",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/wasteland-hunter-puzzle-rpg?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "63944",
+      "slug": "imposter-3d-playgama",
+      "title": "Imposter 3D",
+      "description": "Imposter 3D offers an exciting arcade adventure where you can choose to be either a \"Killer\" or a \"Hero.\" Develop strategies to win as you face various challenges. Play for free online on multiple devices without registration, making it accessible for all gamers. Enjoy a thrilling, dynamic experience!",
+      "howToPlayText": "-",
+      "gameURL": "https://playgama.com/export/game/imposter-3d-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/imposter-3d-playgama",
+      "genres": [
+        "action",
+        "arcade",
+        "adventure",
+        "skill",
+        "3d",
+        "funny",
+        "multiplayer",
+        "cool-games",
+        "survival"
+      ],
+      "tags": [
+        "interactive-games",
+        "addictive-games",
+        "challenging-games",
+        "desktop-games",
+        "1-player-games",
+        "indie-games",
+        "teams-games",
+        "open-world-games",
+        "pixel-games",
+        "borwser-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7a78709d-3467-4807-600e-27e3e07de400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0312ed6b-03c0-4647-4a92-f9b3debda800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "24c5ab4d8e424c1da41b6d3db878fda3",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/imposter-3d-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96236",
+      "slug": "survivor-tournament",
+      "title": "Survivor Tournament",
+      "description": "Добро пожаловать на Турнир выживших - захватывающее приключение в мире, разрушенном зомби-апокалипсисом! Участвуйте в напряженных битвах на динамичных аренах, вооружая и экипируя своего воина, чтобы противостоять безжалостным испытаниям. Эта игра предлагает захватывающий опыт, в котором вы должны собирать различные предметы и стратегически улучшать своего бойца, превращая его в сильнейшего игрока.\n\nОвладейте искусством слияния и стратегии! Собирайте сбалансированное снаряжение, тщательно комбинируйте предметы и аккуратно используйте свой инвентарь, чтобы оптимизировать силу своего воина. Путешествуйте сквозь хаос, открывая редкие и эпические предметы, каждый из которых открывает новый потенциал и силу.\n\nПрисоединяйтесь к Турниру выживших сегодня и погрузитесь в волнующее путешествие выживания и завоеваний. Сможете ли вы принять вызов и стать абсолютным чемпионом в мире, наводненном нежитью? Ваша судьба ждет вас: приготовьтесь к битве, соберите ресурсы и раскройте истинную силу своего воина! Приключения, стратегия и слава манят вас в этом захватывающем турнире на выживание. Скачайте сейчас и начните свой путь к победе!",
+      "howToPlayText": "Как играть:\nПокупайте предметы, объединяйте одинаковые предметы, чтобы улучшить их характеристики.  Складывайте предметы в инвентарь, собирайте комплекты, чтобы получить дополнительные бонусы харектиристик. Все предметы вашего инвентаря участвуют в битве!  Битва происходит автоматически. \nИ пусть победит сильнейший!",
+      "gameURL": "https://playgama.com/export/game/survivor-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/survivor-tournament",
+      "genres": [
+        "action",
+        "adventure",
+        "zombie",
+        "pve",
+        "pvp",
+        "survival",
+        "merge",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8663ccf4-45d9-4191-fa16-515fb0721b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/79951662-4c5a-43d9-da31-48f18f0a4200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7d984a02a2104132b7d8c65e0a3178a0",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/survivor-tournament?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "95948",
+      "slug": "creepy-playtime",
+      "title": "Creepy playtime",
+      "description": "Enter the unsettling realm of Creepy Playtime, where shadows hide lurking threats. Collect soda cans while avoiding detection in this suspenseful game. A haunting voice taunts your every step. Can you escape the monsters, or will they ensnare you? Play this frightening adventure for free online on PC and mobile.",
+      "howToPlayText": "You woke up backstage, filled with monsters and mysteries! The locals do not like uninvited guests, so its better not to get caught by them. To get out of the backstage, you need to collect soda cans scattered throughout the backstage. But be careful, the monsters behind the scenes are very vigilant! Can you get out? If not, then you will stay there forever!\n\nControls on PC:\nMovement - WASD\nJump - Space\n\nControls on smartphone:\nMovement - Left joystick\nTurns - Right joystick\nJump - Button ",
+      "gameURL": "https://playgama.com/export/game/creepy-playtime?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/creepy-playtime",
+      "genres": [
+        "skill",
+        "horror",
+        "survival",
+        "escape",
+        "scary"
+      ],
+      "tags": [],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/eab5c3eb-6954-4ac8-695d-483bff082500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/250af28f-2131-4bac-891c-9144172cca00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "60f96c01ffbb4e89855ca35ce4c67937",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/creepy-playtime?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110344",
+      "slug": "ball-attack",
+      "title": "Ball Attack",
+      "description": "Blast through endless waves of bouncing balls, dodge incoming obstacles, and upgrade your powerful cannon to survive longer in this intense, fast-paced arcade shooter filled with nonstop action and explosive fun!",
+      "howToPlayText": "Drag to Move: Slide your finger (or mouse) left and right to control the cannon.\nShoot Automatically: Your cannon fires continuously—focus on aiming and dodging!\nDestroy Balls: Each ball has a number—shoot to reduce it to zero and blast it apart.\nDodge Everything: Avoid touching balls or it’s game over!\nCollect Coins: Use coins to upgrade your firepower, speed, and special abilities.\nSurvive Waves: The longer you last, the tougher (and more rewarding) it gets!",
+      "gameURL": "https://playgama.com/export/game/ball-attack?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/ball-attack",
+      "genres": [
+        "action",
+        "arcade",
+        "strategy",
+        "skill",
+        "shooting",
+        "number",
+        "survival",
+        "ball",
+        "classic",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "arcade-shooter"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bf6ce1d4-4a60-4671-fc1f-5ab731a29f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0cb74ef9-c9d6-4e20-7e85-475d00be8b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "33ed242c2c2b45129c4a3d23ae0e9d82",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/ball-attack?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96387",
+      "slug": "mouse-survivor",
+      "title": "Mouse Survivor",
+      "description": "Get ready for the thrilling journey of Mouse Survivor! In this dynamic 2D game, you'll dodge dangerous snakes and tackle explosive obstacles while gathering cheese to explore new areas. Stay agile and quick to thrive in this constantly changing environment, available on both mobile and desktop!",
+      "howToPlayText": "How to play Mouse Survivor?\n\nKeyboard Controls\n\nW  / Arrow Up / Spacebar: Jump\nA / Arrow Left:  Left\nD / Arrow Right:  Right\n\nFor Mobile:Scroll             \n\n🐭 Run, Jump, and Explore Infinitely Divided Worlds with the Brave Mouse!🧀\n\nEmbark on an epic journey with our fearless mouse hero in this exciting 2D endless running game! \n\n🏃 Endless Running Adventure:\nGuide your mouse through a dynamic world full of ever-changing tiles. Watch out for those with lower alpha; One touch can be dangerous! Dodge, jump and slide your way through endless challenges.\n\n\n🐍 Encounter Sneaky Snakes:\nWatch out for crawling snakes! Snakes will try to hinder your progress. Swipe right, left or up to perform daring moves and escape their cunning clutches. Can you outsmart the serpentine enemies?\n\n\n🧀 Cheese Collection and Upgrades:\nMunch on delicious cheeses scattered along the way to increase your cheese count. Acquire new tile types by spending your hard-earned cheeses. Customize your running experience with a variety of tiles, each with its own unique features and challenges!\nGood Luck...\n",
+      "gameURL": "https://playgama.com/export/game/mouse-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/mouse-survivor",
+      "genres": [
+        "arcade",
+        "adventure",
+        "skill",
+        "running",
+        "mouse",
+        "platform",
+        "animals",
+        "survival",
+        "mobile"
+      ],
+      "tags": [
+        "hyper-casual-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a81ebf25-b11e-4d24-f50b-99e7d0f7a800/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8c59d53e-c9c0-4057-28a2-ab8c1dc2ac00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7288b7c62ca04be7adf130d3daed416a",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/mouse-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105508",
+      "slug": "samurai-survivor",
+      "title": "Samurai Survivor",
+      "description": "In the land of ancient Japan, a mysterious portal has opened, unleashing hordes of monstrous creatures into the world. As the last line of defense, a group of brave samurai warriors must stand against the onslaught to protect their homeland. Each warrior possesses unique skills and abilities, handed down through generations, to combat the dark forces. Together, they must fight to close the portal and restore peace to the land.",
+      "howToPlayText": "Survive hundreds of enemies while leveling up and upgrading your skills.\n\n↑ (Up Arrow): Move upward.\n↓ (Down Arrow): Move downward.\n← (Left Arrow): Move left.\n→ (Right Arrow): Move right.\n🖱️(Left Click): Move in all directions by dragging your mouse while pressing left click.\n\n\nMobile Controls:\nMove in all directions by touching the screen.",
+      "gameURL": "https://playgama.com/export/game/samurai-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/samurai-survivor",
+      "genres": [
+        "arcade",
+        "skill",
+        "survival"
+      ],
+      "tags": [
+        "japanese-games",
+        "survivors-games",
+        "fantasy-games",
+        "combat-games",
+        "horde-survival-games",
+        "construct-games-online",
+        "samurai"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e0b73b03-de7d-40b7-6d96-5a1f7462a000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9a170b50-e6a2-4ff8-cfc2-07fc8ec87b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "86949eb3e57d4d978497b81f31a63f07",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/samurai-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112171",
+      "slug": "pocket-zone",
+      "title": "Pocket ZONE",
+      "description": "See the Chernobyl nuclear power plant and realize your innermost dream with the help of the legendary Performer of desires.\nOr maybe you just want to get away from the gray and boring life of megacities and just wander through the deserts of the earth, where a person is again left alone with an aggressive environment that dreams of absorbing him?\n\nFeatures of the game:\n☢ Hardcore real mobile survival system with the best RPG component, inspired by the Fallout and Stalker series.\n☢ Interesting random text events, the outcome of which depends only on your choice and on external factors that directly affect your chances of survival.\n☢ A complex and well-thought-out mining system, and more than a hundred random events in the search and confrontation with the aggressive environment of the anomalous world of the Zone.\n☢ More than 100 different types of weapons, armor, helmets, backpacks and costumes, including legendary and mythical items!",
+      "howToPlayText": "PC control: Left mouse click to interact with game elements. Мouse wheel to scroll lists.\nManagement on a mobile device: Touch to interact with game elements.",
+      "gameURL": "https://playgama.com/export/game/pocket-zone?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pocket-zone",
+      "genres": [
+        "adventure",
+        "strategy",
+        "simulation",
+        "mouse",
+        "story",
+        "survival",
+        "brain",
+        "logic",
+        "difficult",
+        "rpg",
+        "mobile"
+      ],
+      "tags": [
+        "turnbased-games",
+        "2d-games",
+        "survivors-games",
+        "interactive-games",
+        "addictive-games",
+        "apocalypse-games",
+        "visual-games",
+        "1-player-games",
+        "indie-games",
+        "interactive-fiction-games",
+        "resource-management-games",
+        "borwser-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ce5d8288-c14c-48c7-a904-6494a2d45b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9516d347-8f32-4052-8f6f-253075209b00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d38f3234c39b79ee17c30f8198db95fb",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pocket-zone?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111798",
+      "slug": "we-are-in-a-simulation-simulator",
+      "title": "We Are In A Simulation Simulator",
+      "description": "SIMON SAYS , COMPLY OR DIE!\n\nA brain wrecking, monkey see , monkey do game.\nYour only chance of survival is to follow the crowd. Any unwanted action will be punished.",
+      "howToPlayText": "Someone is pulling our strings.\nThe key to survival is copying exactly what the others are doing, and not questioning anything.\n\nW-A-S-D for movement\nC for crouching\nSpace for jumping\nP to pause\n\nAre you ready to obey?",
+      "gameURL": "https://playgama.com/export/game/we-are-in-a-simulation-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/we-are-in-a-simulation-simulator",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "strategy",
+        "simulation",
+        "skill",
+        "survival"
+      ],
+      "tags": [
+        "attention-games",
+        "exciting-games",
+        "stealth-games",
+        "challenging-games",
+        "1-player-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bdfdd81a-df6f-4db3-a67e-f6fc04914b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/357761cf-606e-4168-b652-970c4b996600/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d4890ec2ffaf8bd7148abb2dbb448eef",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/we-are-in-a-simulation-simulator?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111495",
+      "slug": "laser-survivor",
+      "title": "Laser Survivor",
+      "description": "Laser Survivor, a cyberpunk roguelike action-adventure set in a neon-drenched post-apocalypse, the last hope for humanity rests in the hands of five heroes fighting hordes of demons pouring through a dimensional rift. Featuring pixel art visuals, randomized weapons, chiptune soundtracks, and relentless survival gameplay, every run is a test of adaptation and skill.\n\nStory\nThe world has fallen. A dimensional rift has unleashed an unstoppable flood of demons, tearing through what remains of civilization. But from the chaos, five warriors rise. Each wielding unique powers forged for survival in this cyberpunk hellscape. Dropped at random into corrupted maps, they must adapt with whatever weapons and passive abilities they find, carving their path through waves of enemies, unlocking upgrades, and uncovering the truth behind the rift. The fate of Earth depends on them.\n\nHeroes\nBlaze: Fires homing bullets that lock onto the nearest enemy, ensuring no demon can escape.\nNeon: Projects a protective energy shield that damages anything foolish enough to get close.\nHunter: Drops explosives that create deadly zones, controlling the battlefield with traps.\nSlash: Slices enemies apart with razor-sharp horizontal cuts that pierce entire hordes.\nJaxx: A cyber-brute with massive, scaling area damage, crushing everything in his path.\n\n\nFeatures\nCyberpunk Roguelike Gameplay: Every run is unique, with randomized spawn points, weapons, and abilities.\n5 Maps to Conquer: Battle through the Lab, Forest, Crypt, Factory, and Dungeon, each swarming with demon hordes.\n10 Active Weapons & 10 Passive Abilities: Build your arsenal on the fly as you adapt to randomized loadouts.\n8 Missions & 11 Upgrades: Progress through challenging missions, earn permanent upgrades, and unlock new survival tactics.\nCollectibles & Lore: Discover secrets that reveal the origins of the rift and the story behind the invasion.\nRetro Pixel Art: Neon-infused visuals with hand-crafted pixel art and gameplay by the Felicity team.\n80s Chiptune Soundtrack: Pulsating tracker music by Drozerix, driving the action with nostalgic energy.\n\nWhy Play Laser Survivor?\nFast-paced roguelike survival set in a sci-fi cyberpunk apocalypse.\nPlay as five unique heroes, each with distinct base abilities and upgrade paths.\nEndless replayability with randomized runs and evolving builds.\nPerfect for fans of pixel art shooters, bullet-hell roguelikes, and retro-inspired chiptune soundtracks.\n\nLaser Survivor is more than survival. It’s humanity’s last stand in a cyberpunk post-apocalypse. Will you master the chaos, close the rift, and save the world... or be consumed by the demons?",
+      "howToPlayText": "Arrow keys, or WASD for movement of the characters with keyboard, or Mouse. Touch controls on Mobile for movement of the characters.",
+      "gameURL": "https://playgama.com/export/game/laser-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/laser-survivor",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "survival",
+        "maze",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "roguelike-games",
+        "dungeon-games",
+        "pixel-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8051fe80-5a05-412e-fad4-a8eb7bc17a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bac1d9bc-66d2-4c1d-555f-2dd41535b900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b010aebf1f2e4d7db5aa82136754fa91",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/laser-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

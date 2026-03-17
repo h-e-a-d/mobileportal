@@ -1,0 +1,151 @@
+{
+  "category": "airplane",
+  "count": 3,
+  "games": [
+    {
+      "id": "99453",
+      "slug": "airplane-factory--tycoon",
+      "title": "Airplane Factory - Tycoon",
+      "description": "Build and expand your own aviation empire in Airplane Factory - Tycoon ! Start small by producing lightweight planes, and gradually scale up to manufacturing giant airliners and advanced fighter jets. Manage production lines, upgrade your factory facilities, enhance your manager’s skills, and unlock new types of aircraft to boost your profits. Strategically grow your business to become the ultimate aircraft manufacturer! ",
+      "howToPlayText": "Controls on Desktop:    \n- WASD  or Left Mouse Click (LMB) : Move your character around the map.\n\nControls on Mobile Devices:    \n- Swipe : Simply swipe across the screen to move your character in any direction.\n     ",
+      "gameURL": "https://playgama.com/export/game/airplane-factory--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/airplane-factory--tycoon",
+      "genres": [
+        "simulation",
+        "tycoon",
+        "cool-games",
+        "management",
+        "airplane",
+        "construction",
+        "idle",
+        "mobile"
+      ],
+      "tags": [
+        "business-games",
+        "incremental-games",
+        "resource-management-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/061f7caf-19d7-4744-c7d4-4a3151b46f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/60a9a5b3-671b-4ace-a138-408a35fc2a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "ef73a88440cf450db6284b578598df6b",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/airplane-factory--tycoon?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "94842",
+      "slug": "planes-dodge--go",
+      "title": "Planes Dodge & Go",
+      "description": "Join the thrilling action of Planes Dodge & Go, where you navigate intense dogfights, dodging projectiles and opponents. Experience the adrenaline of flying as a fighter pilot in The Great War. Play for free on your phone or computer and see how long you can survive!",
+      "howToPlayText": "Controls:\nMovement – Drag while Right-Clicking\n",
+      "gameURL": "https://playgama.com/export/game/planes-dodge--go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/planes-dodge--go",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "mouse",
+        "survival",
+        "airplane",
+        "flying"
+      ],
+      "tags": [
+        "fighter-jet-games",
+        "avoid-games",
+        "rocket-games",
+        "desktop-games",
+        "borwser-games",
+        "unity-games-online",
+        "fast-paced-action"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/296487e6-6e31-4649-c3dd-3a7cf7333400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4db9e621-883e-4cc9-e23b-624e54d84100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "e26ee49ea083463eb3d3802a3757f069",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/planes-dodge--go?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "93488",
+      "slug": "air-warfare",
+      "title": "Air Warfare",
+      "description": "Fly into excitement with **Air Warfare**, an endless game where you take charge of a combat plane. Shoot down foes, gather ammo, avoid attacks, and strive for survival. Compete for high scores while enjoying smooth gameplay on both mobile and desktop devices.",
+      "howToPlayText": "Управляйте боевым самолетом, отстреливайтесь от врагов! Нажмите на самолет для перемещения и стрельбы!",
+      "gameURL": "https://playgama.com/export/game/air-warfare?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/air-warfare",
+      "genres": [
+        "arcade",
+        "skill",
+        "shooting",
+        "mouse",
+        "airplane",
+        "flying"
+      ],
+      "tags": [
+        "2d-games",
+        "plane-games",
+        "fast-paced-games",
+        "air-games",
+        "fighter-jet-games",
+        "avoid-games",
+        "endless-games",
+        "highscore-games",
+        "desktop-games",
+        "1-player-games",
+        "aviation-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/d0b1a62b-ec47-4e9b-4a60-9d2e5a181d00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/87a6e7b4-486d-4272-d4c2-e37ccb4e7500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5885e5d3e8cb40d585b23780344cef17",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/air-warfare?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

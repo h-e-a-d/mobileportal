@@ -1,0 +1,911 @@
+{
+  "category": "maze",
+  "count": 20,
+  "games": [
+    {
+      "id": "109179",
+      "slug": "soccer-dash",
+      "title": "Soccer Dash",
+      "description": "Soccer Dash is a soccer game in which you swipe a soccer ball through obstacles and soccer players and hit the ball to score a goal.\n\nYou have drag controls, drag to choose the direction of the kick, and release to hit the ball. During the dragging process, the game goes into a slow motion state, so you can take your time to choose the direction of the kick.\n",
+      "howToPlayText": "The goal of the game is to bypass all the traps and score a goal.\nControl - swipe the ball. Change the direction of the kick and release to launch the ball.",
+      "gameURL": "https://playgama.com/export/game/soccer-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/soccer-dash",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "sports",
+        "strategy",
+        "skill",
+        "cool-games",
+        "popular",
+        "maze",
+        "ball"
+      ],
+      "tags": [
+        "goalkeeper-games",
+        "goal-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/7b868c6b-e220-4052-fdd1-edc3cbd90f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/77e59b1c-b7ff-4e6c-0c38-6dfd02ca1a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "953971aed0d44396aeec90243fa0d7e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/soccer-dash?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112131",
+      "slug": "Orbadrone-robot-escape",
+      "title": "OrbaDrone - Robot Escape",
+      "description": "ℹ️About\nYou’re an Orb-shaped drone with the ability to repel and attract objects, awakened in a strange cave-like structure in a post-apocalypse scenario. Discover strange materials with unusual properties and use them to navigate in this dangerous and mysterious place.\n\n🌟Features\n● 50 levels to complete\n● 3 types of difficulties\n● 4 mini-games\n● Customize the drone with skins that have different abilities\n● 2D physics mechanics\n● 2D light effects and environments\n● Control customization to choose your preference",
+      "howToPlayText": "Mobile: Use a joystick to navigate and 2 buttons to control your abilities.\nDesktop: Use the arrow keys to move, use A to attract and S to repel",
+      "gameURL": "https://playgama.com/export/game/Orbadrone-robot-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/Orbadrone-robot-escape",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "strategy",
+        "skill",
+        "platform",
+        "maze",
+        "robot",
+        "mobile"
+      ],
+      "tags": [
+        "minigames",
+        "2d-games",
+        "obstacle-games",
+        "challenging-games",
+        "apocalypse-games",
+        "1-player-games",
+        "indie-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/582099a3-37ab-43f7-4656-cc4dc0ecb200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/86f25293-2b34-4aa5-5262-8d570ad31800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "16d76e2f63bdd10394482a4ca9832ec4",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "Yes",
+      "embed": "<iframe src='https://playgama.com/export/game/Orbadrone-robot-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99712",
+      "slug": "your-obby-labyrinth",
+      "title": "Your Obby Labyrinth",
+      "description": "Dive into fun multiplayer maze adventures! 🌀 Team up, solve puzzles 🧩, unlock doors 🚪, and find secrets 🔑. Customize characters, collect pets 🐶, dodge monsters 👾, and explore colorful worlds! Play, chat, and escape the maze together!",
+      "howToPlayText": "\nThe goal: get to the end.\n\nControl:\nWASD - movement.\nSpace bar - jump.\nTAB - pause.\nE - Interact.\nShift - cursor.\nMouse wheel - zoom in/out.\n\nOn the phone:\nUse the game interface.",
+      "gameURL": "https://playgama.com/export/game/your-obby-labyrinth?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/your-obby-labyrinth",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "skill",
+        "3d",
+        "platform",
+        "cool-games",
+        "popular",
+        "maze",
+        "mobile"
+      ],
+      "tags": [
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e7c16161-33e9-4def-f423-3673ac497e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2d039fef-dce3-4f19-d22b-8e319483ac00/enlarged"
+      ],
+      "videos": [],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/your-obby-labyrinth?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "112130",
+      "slug": "escape-from-the-crypt",
+      "title": "Escape From The Crypt",
+      "description": "Escape from the crypt, one room after another, before the necromancers get you! They move faster than you do, but they won't avoid obstacles: trick them into dead ends!",
+      "howToPlayText": "On PC, use the arrow keys to move your character. Backspace to undo a move, and H to get a hint. On mobile, use the on-screen D-pad and the on-screen buttons!",
+      "gameURL": "https://playgama.com/export/game/escape-from-the-crypt?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/escape-from-the-crypt",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "maze",
+        "escape",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "fantasy-games",
+        "brain-training-games",
+        "obstacle-games",
+        "room-games",
+        "1-player-games",
+        "level-games",
+        "dungeon-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/f7b3a781-0acc-4146-f510-03723eb91300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/70670a99-bbbf-4e05-7f37-1291e61dc700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "67670338ac320a7919232f47aadf72be",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/escape-from-the-crypt?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111034",
+      "slug": "snake-tangle",
+      "title": "Snake Tangle",
+      "description": "Welcome to Snake Tangle, a thrilling and addictive puzzle game that will put your strategic thinking and problem-solving skills to the test!\nIn Tangled Snake, Your mission is to guide a mischievous snake through a tangled mess of obstacles and help it reach its tasty prey.\n\nSnake Tangle features multiple levels of increasing difficulty. Each level presents a new maze layout, with more complex obstacles and narrower paths. As you progress, you'll face additional challenges such as moving barriers, time limits, and limited swipes, adding an extra layer of excitement and urgency to the gameplay.\nSnake Tangle offers an engaging and challenging gameplay experience that will captivate puzzle enthusiasts and snake game lovers alike. So, get ready to twist, turn, and strategize your way through a tangled maze in this thrilling adventure!\n",
+      "howToPlayText": "To successfully navigate through the tangled maze, you'll need to carefully plan each move and consider the snake's current length and positioning.\nThe snake can only move in a straight line until it hits an obstacle or the maze's boundary, forcing you to plan the path ahead and avoid getting trapped.",
+      "gameURL": "https://playgama.com/export/game/snake-tangle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/snake-tangle",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "strategy",
+        "skill",
+        "snake",
+        "maze",
+        "retro",
+        "classic"
+      ],
+      "tags": [
+        "obstacle-games",
+        "exciting-games",
+        "challenging-games",
+        "1-player-games",
+        "timing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0dd2c513-ee7f-4659-b340-d5d9fba69000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/4e83fe3e-fa2d-46f9-55af-16494cd3e200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "133afd6c423047c79acd1d5ff270c1ac",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/snake-tangle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "86486",
+      "slug": "bombaman-3d-a2de-1",
+      "title": "BOMBAMAN 3D",
+      "description": "Dive into an exhilarating 3D journey with BOMBAMAN 3D! Tackle complex mazes, strategically use bombs to clear paths, and defeat fearsome enemies. Discover power-ups, find the secret exit, and face challenging bosses, all while enjoying an engaging solo or multiplayer adventure on your devices.",
+      "howToPlayText": "🕹️ Use W A S D or Arrow keys to move\n\n💣 Press Spacebar to place a bomb\n\n⏲️ The bomb explodes after 3 seconds. Bombs placed side by side trigger each other 🔥\n\n⏳ You have 99 seconds for each level. Collect clocks from boxes to extend this time ⏰\n\n🔧 You can increase the number and range of bombs with various power-ups\n\n👾 You need to hit the boss 3 times with bombs to defeat it",
+      "gameURL": "https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/bombaman-3d-a2de-1",
+      "genres": [
+        "action",
+        "puzzle",
+        "arcade",
+        "adventure",
+        "two-player",
+        "3d",
+        "multiplayer",
+        "maze",
+        "monster"
+      ],
+      "tags": [
+        "iphone-games",
+        "desktop-games",
+        "bomb-games",
+        "borwser-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b429599a-dfcd-4ccf-f857-ad455ddc2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/91a6b52f-693b-4daf-b7e9-ab5b870b0a00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "497ed981a981423ca47a3df5c56ed31d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/bombaman-3d-a2de-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109560",
+      "slug": "the-road-home-granny-escape",
+      "title": "The Road Home: Granny Escape",
+      "description": "The Road Home: Granny Escape is a terrifying 3D horror survival game where your only goal is to escape a haunted house filled with danger, puzzles, and fear. You're not here by accident — Granny and Grandpa brought you here on purpose, and they won’t let you go easily.\n\n🕯 The Story\nYour trip home took a dark turn. While riding a bus through a remote forest, a massive tree crashed down onto the road. You stepped out to investigate… and everything went black.\n\nYou wake up in a locked, eerie house. The windows are boarded up. The doors are sealed. And something is watching you. You soon realize the terrifying truth: you’ve been kidnapped and trapped by an evil Granny and her mad husband.\n\nThis isn’t just a place — it’s a prison designed to break you.\n\n🎯 What You Must Do\n-Explore the dark and haunted house\n-Solve puzzles and unlock secret passages\n-Craft useful items from the resources you find\n-Avoid Granny and Grandpa — they can hear your every move\n-Survive deadly traps and unpredictable chases\n-Make your way to freedom before it’s too late\n\n⚙️ Game Features\n-A chilling 3D horror experience with immersive atmosphere\n-Evil and intelligent enemies who react to sound and movement\n-Multiple escape paths and secret endings\n-A full crafting system: collect, combine, survive\n-Puzzles, keys, locked rooms, and hidden objects\n-A heavy dose of mental horror and psychological tension\n-Every sound matters. Every choice counts.\n\n❗️ Not Just a Game — A Nightmare\nThis isn’t just a scary house — it’s a living nightmare. There’s evil in the walls, and death behind every corner. Will you outsmart your captors, or will fear consume you?\n\nUse your brain, stay quiet, and find your way out… if you still can.\n\nDownload The Road Home: Granny Escape — and see if you have what it takes to survive the fear, escape the madness, and get back home.",
+      "howToPlayText": "WASD — Move\nC — Crouch\nSpace — Jump\n\nThe main goal is to escape from the old people's house. Find useful items and use them to your advantage.",
+      "gameURL": "https://playgama.com/export/game/the-road-home-granny-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/the-road-home-granny-escape",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "horror",
+        "hidden-object",
+        "story",
+        "maze",
+        "escape"
+      ],
+      "tags": [
+        "mystery-games",
+        "house-games",
+        "stealth-games",
+        "1-player-games",
+        "horror-escape"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a7d9a3bb-dc5c-4848-9805-75ba7553d000/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/5a7c4e4b-6936-40f6-b9cc-bb4f11d6b000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "6c55eb4e18294da98f3aa7b6bc31332d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/the-road-home-granny-escape?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "99700",
+      "slug": "fill-the-heart",
+      "title": "FILL THE HEART",
+      "description": "///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////",
+      "howToPlayText": "Desktop Controls:\n↑ (Up Arrow) / W: Move upward.\n↓ (Down Arrow) / S: Move downward.\n← (Left Arrow) / A: Move left.\n→ (Right Arrow) / D: Move right.\nR: Restart.\nQ: To Menu.\nM: Mute.\n\nMobile Controls:\nOn-screen Swipe: Move.",
+      "gameURL": "https://playgama.com/export/game/fill-the-heart?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/fill-the-heart",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "cool-games",
+        "maze",
+        "brain",
+        "logic",
+        "mobile"
+      ],
+      "tags": [
+        "casual-games",
+        "relaxing-games",
+        "sliding-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/266274c8-eb1a-4016-c566-53d5ab4b9b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2a21eb69-84e3-4f7c-7205-8ce9b1e26e00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d722e4ed39484ddb97ddc78caadcea7e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/fill-the-heart?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "97639",
+      "slug": "luna-and-the-magic-maze",
+      "title": "Luna And The Magic Maze",
+      "description": "Join Luna in her enchanting quest through a mystical autumn forest in \"Luna And The Magic Maze.\" Solve mazes, collect magical artifacts, and uncover secrets. Each stage presents fresh challenges, proving that willpower can be as powerful as magic, whether you play on your phone or computer.",
+      "howToPlayText": "Move using WASD or arrow keys.  \nHave a great journey!",
+      "gameURL": "https://playgama.com/export/game/luna-and-the-magic-maze?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/luna-and-the-magic-maze",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "maze",
+        "magic"
+      ],
+      "tags": [
+        "iphone-games",
+        "fantasy-games",
+        "obstacle-games",
+        "brain-out-games",
+        "android-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/0174d0ab-5f1e-4aa8-6841-616af3bb2b00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/db09abf4-eb27-45c0-17e3-c270b10ef800/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "7e6b0ed3417c4369ac6e69313044348c",
+          "type": "gameplay"
+        },
+        {
+          "playgama_id": "71a89535e11f4579a52c9df0cfdc2f6d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/luna-and-the-magic-maze?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "109976",
+      "slug": "red-hide-ball",
+      "title": "Red Hide Ball",
+      "description": "Passionate about brain teasers? Want to challenge your logical skills? Then take a look at Hide Ball a logic puzzle game in which you should hide good balls from dreadful and harmful monsters.\nRed Hide Ball is an amusing logic game that will test your IQ and raise your intellectual abilities to a new level. Plan every step, estimate a possible outcome and build tactical strategies. Solve logical puzzles, pass lots of interesting levels and win the game!\n",
+      "howToPlayText": "A puzzle board is presented with a configuration of balls, blockers, pathways, and monsters.\nYou tap or swipe objects often dragging or tapping using the minimal necessary moves.\nHide “good” balls by positioning them behind safe zones or behind obstacles.\nPredict monster movements or blocked paths so the good ball isn’t captured.\nOnce the good ball is secure or the goal for the level is achieved, you move on to the next puzzle.",
+      "gameURL": "https://playgama.com/export/game/red-hide-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/red-hide-ball",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "maze",
+        "ball",
+        "brain"
+      ],
+      "tags": [
+        "casual-games",
+        "obstacle-games",
+        "challenging-games",
+        "defense-games",
+        "building-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a6f435a1-6f23-41ac-1d45-d82187afc900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a14ee53b-3e08-4088-faae-f009054e3200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "491728c1f2c2444f9bf39c7bf268f73d",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/red-hide-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "106360",
+      "slug": "cargo-path-puzzle",
+      "title": "Cargo Path Puzzle",
+      "description": "Cargo Path Puzzle is a free puzzle-platformer that puts your logic and movement skills to the test. Navigate tricky levels filled with deadly voids, collapsing blocks, trampolines, ice slides, and directional blocks.\nYour goal: collect all the keys to activate the exit portal—then reach it to win.\nEach level has only one correct solution, so plan your moves carefully. One wrong step can trap you or block your progress.\nIf you enjoy clever puzzles, single-solution challenges, and smart platforming, Cargo Path Puzzle is made for you.",
+      "howToPlayText": "Move: Use the arrow keys or WASD to move up, down, left, and right.\nJump: Press Spacebar to jump in the last direction moved, skipping over one tile.\nGoal: Collect all keys to unlock the portal and step on it to finish the level.",
+      "gameURL": "https://playgama.com/export/game/cargo-path-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/cargo-path-puzzle",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "maze",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "avoid-games",
+        "challenging-games",
+        "collecting-games",
+        "timing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8aa22525-1ba1-45a5-5ca5-46794f9b7200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/a376b71c-1784-4977-91f0-9c9e4e83eb00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "3ef9a0ab62654f379d3447510bd4e4e2",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/cargo-path-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "96878",
+      "slug": "sleepwalkers-599f-1",
+      "title": "Sleepwalkers",
+      "description": "Discover a magical world with Sleepwalkers, where colorful characters need your help to find their beds. Navigate challenges and avoid dangers in this free online adventure. Play on any device and unveil the secrets of this captivating fairytale realm.",
+      "howToPlayText": "Keyboard:\n- Use the WASD or arrow keys to move\nMobile:\n- Hold down finger on screen and move it to move sleepwalkers",
+      "gameURL": "https://playgama.com/export/game/sleepwalkers-599f-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/sleepwalkers-599f-1",
+      "genres": [
+        "puzzle",
+        "adventure",
+        "maze",
+        "mobile"
+      ],
+      "tags": [
+        "iphone-games",
+        "android-games",
+        "unity-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c27f790e-4cad-4f39-a5f5-58f913919500/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/73822182-8b60-4278-a212-ea9469ed9700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "4700716627f548f0b933367edc486cd1",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/sleepwalkers-599f-1?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111036",
+      "slug": "prisoners-run",
+      "title": "Prisoners Run",
+      "description": "A brutal prison where guards show no mercy. You play as a powerful inmate who can smash doors, outsmart guards, and free fellow prisoners while fighting your way to escape.",
+      "howToPlayText": "Game Objective: Find the key and reach the exit elevator to advance to the next level. Rescue and escort fellow prisoners to freedom along the way. Desktop Controls: Arrows or WASD. Mobile Controls: virtual Joystick: Drag to move in all directions.",
+      "gameURL": "https://playgama.com/export/game/prisoners-run?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/prisoners-run",
+      "genres": [
+        "action",
+        "puzzle",
+        "adventure",
+        "strategy",
+        "skill",
+        "maze",
+        "escape",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "stealth-games",
+        "challenging-games",
+        "rescue-games",
+        "1-player-games",
+        "timing-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/e181785c-18c8-47d5-53b9-2c65ae6d3900/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/16869638-7011-4f9d-4bbc-c884e1465700/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "cc1458bab15444da93630c60e5ef1d73",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/prisoners-run?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "6261",
+      "slug": "amaze-playgama",
+      "title": "Amaze!",
+      "description": "Get ready to be amazed! In this game, pop and move the ball to paint your way through challenging maze puzzles. Color every square to unlock new levels, but be strategic—AMAZE gets tougher as you progress. Each level is a canvas, and you must fill every square completely to conquer the maze. Don’t miss a spot, or you’ll be stuck forever! Are you ready for an extraordinary paint puzzle adventure? Let’s pop the maze with color and crossy road challenges!",
+      "howToPlayText": "You will have to color the puzzle mazes.\nTo pass the puzzle, fill each square with a color.\nThe game gets harder as you play, color the maze and pass the puzzles!\nEach level is a canvas, color it with marbles!\nColoring the maze seems simple, but you need to choose the right path and strategy to color the maze and fill each square.\n\nIf you don't fill at least one square with marbles, you will be stuck in the maze forever!\n\nGame Objective:\nFill each square with a color to complete the level.\n\nPC Controls:\nYou can use mouse, keyboard arrows or w,a,s,d buttons to control the ball.\n\nControl on mobile device:\nControl the ball with your finger.",
+      "gameURL": "https://playgama.com/export/game/amaze-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/amaze-playgama",
+      "genres": [
+        "puzzle",
+        "cool-games",
+        "maze",
+        "color"
+      ],
+      "tags": [
+        "2d-games",
+        "iphone-games",
+        "creative-games",
+        "brain-training-games",
+        "addictive-games",
+        "painting-games",
+        "mind-games",
+        "desktop-games",
+        "borwser-games",
+        "android-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9f4dd8ee-4c11-456d-c27e-e5499518f300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/91a0d34c-f03d-441a-de34-87c109fb0000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "d05b3dcfec754a9f972c89e6c0424d5f",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/amaze-playgama?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110784",
+      "slug": "path-control",
+      "title": "Path Control",
+      "description": "Pave the ball way into the target in this robust physics based puzzle game.\n\nControl each platform simultaneously and lead the ball into the basket to complete each level.\nWatch out for the ball's bounce and keep in mind that this is a frictionless environment so the ball will keep rolling it might just take an extra second.",
+      "howToPlayText": "Click or tap on the screen to rotate platforms and reach the target.\nThere are many barriers so be careful to clear the level.",
+      "gameURL": "https://playgama.com/export/game/path-control?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/path-control",
+      "genres": [
+        "puzzle",
+        "strategy",
+        "skill",
+        "maze",
+        "mobile"
+      ],
+      "tags": [
+        "obstacle-games",
+        "challenge-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b4843974-3532-42c7-60da-ffcf46757f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b7b3611f-d1a3-474f-4ab9-eae421bac000/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "dbdff745db914f2e9063d1c7d65caf93",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/path-control?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "93226",
+      "slug": "paint-sponges-puzzle",
+      "title": "Paint Sponges Puzzle",
+      "description": "Tap into your creativity with Paint Sponges Puzzle, a captivating online game that requires strategic skills and maze-solving ability. Navigate your colorful sponge across the grid, leaving a vibrant trail. Challenges increase as you advance, providing a fun blend of logic and artistry on both mobile and computer platforms.",
+      "howToPlayText": "The sponge moves with a swipe.\nTo complete the level, you need to paint over all the squares in the maze.\nHave a nice game!",
+      "gameURL": "https://playgama.com/export/game/paint-sponges-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/paint-sponges-puzzle",
+      "genres": [
+        "puzzle",
+        "skill",
+        "maze",
+        "brain",
+        "logic",
+        "color"
+      ],
+      "tags": [
+        "2d-games",
+        "relaxing-games",
+        "brain-training-games",
+        "addictive-games",
+        "desktop-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/40868dc6-ae37-4126-80ba-6bfc0185a300/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/9d7fe238-991a-4cbe-6fd7-f9a12afe9200/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "fb7f830f6da744228a35bddd881d401c",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/paint-sponges-puzzle?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "105531",
+      "slug": "pathfinder",
+      "title": "PathFinder",
+      "description": "PathFinder is an engaging 2D puzzle game where players dig tunnels to guide colored balls to fit into pipes beneath the surface. Each level presents unique challenges, including obstacles like metal blocks and thorns that require strategic thinking to navigate. As you progress through the 30 levels, the puzzles become increasingly complex, demanding careful planning and problem-solving skills. For every casual gamer or a puzzle fan, PathFinder will provide hours of entertaining gameplay.",
+      "howToPlayText": "The game is accessible on various devices, including mobile phones, tablets, and computers, offering intuitive controls—simply touch or click to dig path",
+      "gameURL": "https://playgama.com/export/game/pathfinder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/pathfinder",
+      "genres": [
+        "puzzle",
+        "maze",
+        "brain",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "casual-games",
+        "obstacle-games",
+        "digging-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/3311095f-0371-43c4-bae1-b3feb9e0c200/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/cee61274-08f0-4f76-6a15-ad5bff8fc100/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "26956b88d86241e2923219f546c8b30e",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/pathfinder?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "110039",
+      "slug": "tilt--tumble",
+      "title": "Tilt & Tumble",
+      "description": "Tilt & Tumble challenges players to master fast-paced action without needing extensive tutorials. Control the game using joystick or accelerometer to guide the paddle with precision, keeping the ball in play and scoring points. Enjoy dynamic music, unlock various paddles. Tilt & Tumble delivers an exhilarating gaming experience that keeps you coming back for more.",
+      "howToPlayText": "Use the tilt controls to guide the ball. Tilt your device left or right to make the ball roll in the desired direction.\nAs you roll, you'll encounter obstacles like walls, spikes, and other traps. Be careful and try to avoid them to keep your ball intact.\nAlong the way, you’ll find collectibles such as coins or gems. Make sure to grab them to increase your score.\nYour objective is to reach the finish line as quickly as possible. Each level has a time limit, so you need to be fast and strategic to win.",
+      "gameURL": "https://playgama.com/export/game/tilt--tumble?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tilt--tumble",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "maze",
+        "mobile"
+      ],
+      "tags": [
+        "fast-paced-games",
+        "endless-games",
+        "highscore-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/ff1b30c1-32c7-4ed9-b98a-dfdb00fc3f00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/98a031bd-6af2-4386-9e16-8c770c634500/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "5c97a60916ab42f0b0a1535826aad7fc",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tilt--tumble?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111495",
+      "slug": "laser-survivor",
+      "title": "Laser Survivor",
+      "description": "Laser Survivor, a cyberpunk roguelike action-adventure set in a neon-drenched post-apocalypse, the last hope for humanity rests in the hands of five heroes fighting hordes of demons pouring through a dimensional rift. Featuring pixel art visuals, randomized weapons, chiptune soundtracks, and relentless survival gameplay, every run is a test of adaptation and skill.\n\nStory\nThe world has fallen. A dimensional rift has unleashed an unstoppable flood of demons, tearing through what remains of civilization. But from the chaos, five warriors rise. Each wielding unique powers forged for survival in this cyberpunk hellscape. Dropped at random into corrupted maps, they must adapt with whatever weapons and passive abilities they find, carving their path through waves of enemies, unlocking upgrades, and uncovering the truth behind the rift. The fate of Earth depends on them.\n\nHeroes\nBlaze: Fires homing bullets that lock onto the nearest enemy, ensuring no demon can escape.\nNeon: Projects a protective energy shield that damages anything foolish enough to get close.\nHunter: Drops explosives that create deadly zones, controlling the battlefield with traps.\nSlash: Slices enemies apart with razor-sharp horizontal cuts that pierce entire hordes.\nJaxx: A cyber-brute with massive, scaling area damage, crushing everything in his path.\n\n\nFeatures\nCyberpunk Roguelike Gameplay: Every run is unique, with randomized spawn points, weapons, and abilities.\n5 Maps to Conquer: Battle through the Lab, Forest, Crypt, Factory, and Dungeon, each swarming with demon hordes.\n10 Active Weapons & 10 Passive Abilities: Build your arsenal on the fly as you adapt to randomized loadouts.\n8 Missions & 11 Upgrades: Progress through challenging missions, earn permanent upgrades, and unlock new survival tactics.\nCollectibles & Lore: Discover secrets that reveal the origins of the rift and the story behind the invasion.\nRetro Pixel Art: Neon-infused visuals with hand-crafted pixel art and gameplay by the Felicity team.\n80s Chiptune Soundtrack: Pulsating tracker music by Drozerix, driving the action with nostalgic energy.\n\nWhy Play Laser Survivor?\nFast-paced roguelike survival set in a sci-fi cyberpunk apocalypse.\nPlay as five unique heroes, each with distinct base abilities and upgrade paths.\nEndless replayability with randomized runs and evolving builds.\nPerfect for fans of pixel art shooters, bullet-hell roguelikes, and retro-inspired chiptune soundtracks.\n\nLaser Survivor is more than survival. It’s humanity’s last stand in a cyberpunk post-apocalypse. Will you master the chaos, close the rift, and save the world... or be consumed by the demons?",
+      "howToPlayText": "Arrow keys, or WASD for movement of the characters with keyboard, or Mouse. Touch controls on Mobile for movement of the characters.",
+      "gameURL": "https://playgama.com/export/game/laser-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/laser-survivor",
+      "genres": [
+        "action",
+        "arcade",
+        "skill",
+        "survival",
+        "maze",
+        "mobile"
+      ],
+      "tags": [
+        "survivors-games",
+        "roguelike-games",
+        "dungeon-games",
+        "pixel-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/8051fe80-5a05-412e-fad4-a8eb7bc17a00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bac1d9bc-66d2-4c1d-555f-2dd41535b900/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "b010aebf1f2e4d7db5aa82136754fa91",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/laser-survivor?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    },
+    {
+      "id": "111851",
+      "slug": "tenkyu-ball",
+      "title": "TENKYU BALL",
+      "description": "TENKYU BALL is a 3D casual ball-rolling puzzle game where you must guide a ball through tilting stages to reach the goal. The environment is minimalistic, and the challenge comes from balancing control vs risk. As you tilt the stage more, the ball moves faster, but there’s danger: if you tilt too much, the ball may fall off and you'll fail the level.",
+      "howToPlayText": "Tilt the stage / swipe finger:\nYou swipe (or drag) on your screen to tilt the surface on which the ball rests.\nThe tilt direction determines where the ball rolls.\nControl carefully:\nIf you tilt too much, the ball gains speed and can fall off the edge.\nTilt only as much as needed to navigate turns, avoid gaps, and make tricky maneuvers.\nReach the goal:\nEach stage has a goal point or exit you must reach. Successfully get the ball there without falling off.\nFailure and retry:\nIf the ball falls, the level ends (you lose) and you’ll need to restart that stage.",
+      "gameURL": "https://playgama.com/export/game/tenkyu-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/tenkyu-ball",
+      "genres": [
+        "puzzle",
+        "arcade",
+        "skill",
+        "maze",
+        "ball",
+        "physics"
+      ],
+      "tags": [
+        "rolling-games",
+        "balance-games"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/b010a179-8e0e-4760-2b90-7cfe93104400/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/bf0c74bf-059d-4a55-14d9-786b1c704f00/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "12f18dfbd581bda07346b1039d705230",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/tenkyu-ball?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

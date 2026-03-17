@@ -1,0 +1,56 @@
+{
+  "category": "watermelon",
+  "count": 1,
+  "games": [
+    {
+      "id": "90517",
+      "slug": "watermelon-game",
+      "title": "Watermelon Game",
+      "description": "Join the exciting adventure of the Watermelon Game, where you collect and merge fruits for a thrilling experience! Match similar fruits to evolve them while avoiding overflow. Can you master the game and craft the ultimate watermelon? Try this captivating challenge on your phone or computer!",
+      "howToPlayText": "Use your mouse or touch to move the fruits. Click on the game field to drop the fruit.",
+      "gameURL": "https://playgama.com/export/game/watermelon-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa",
+      "playgamaGameUrl": "https://playgama.com/game/watermelon-game",
+      "genres": [
+        "puzzle",
+        "skill",
+        "funny",
+        "watermelon",
+        "merge",
+        "matching",
+        "mobile"
+      ],
+      "tags": [
+        "2d-games",
+        "fruits-games",
+        "relaxing-games",
+        "addictive-games",
+        "collecting-games",
+        "desktop-games",
+        "1-player-games",
+        "borwser-games",
+        "construct-games-online"
+      ],
+      "images": [
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/2dd9fa04-4a40-4f21-5fec-7e0751253e00/enlarged",
+        "https://playgama.com/cdn-cgi/imagedelivery/LN2S-4p3-GgZvEx3IPaKUA/c0607490-5704-4c45-d81f-24476ee9c400/enlarged"
+      ],
+      "videos": [
+        {
+          "playgama_id": "9ddddf615f3343a1ad2b5b93be95ea06",
+          "type": "gameplay"
+        }
+      ],
+      "mobileReady": [
+        "For Android",
+        "For IOS",
+        "For Desktop"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "inGamePurchases": "No",
+      "embed": "<iframe src='https://playgama.com/export/game/watermelon-game?clid=p_88b901a1-5dc7-4a8c-a5b2-d1c851cf9aaa' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+    }
+  ]
+}

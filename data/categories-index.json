@@ -1,0 +1,1184 @@
+{
+  "version": "1.0.0",
+  "generated": "2025-10-21T14:00:03.901Z",
+  "totalGames": 706,
+  "totalCategories": 168,
+  "categories": [
+    {
+      "slug": "puzzle",
+      "name": "Puzzle",
+      "filename": "puzzle-games.json",
+      "count": 328,
+      "size": 849173
+    },
+    {
+      "slug": "mobile",
+      "name": "Mobile",
+      "filename": "mobile-games.json",
+      "count": 323,
+      "size": 844908
+    },
+    {
+      "slug": "skill",
+      "name": "Skill",
+      "filename": "skill-games.json",
+      "count": 282,
+      "size": 742177
+    },
+    {
+      "slug": "arcade",
+      "name": "Arcade",
+      "filename": "arcade-games.json",
+      "count": 216,
+      "size": 564885
+    },
+    {
+      "slug": "action",
+      "name": "Action",
+      "filename": "action-games.json",
+      "count": 212,
+      "size": 555900
+    },
+    {
+      "slug": "strategy",
+      "name": "Strategy",
+      "filename": "strategy-games.json",
+      "count": 206,
+      "size": 555868
+    },
+    {
+      "slug": "adventure",
+      "name": "Adventure",
+      "filename": "adventure-games.json",
+      "count": 184,
+      "size": 493482
+    },
+    {
+      "slug": "brain",
+      "name": "Brain",
+      "filename": "brain-games.json",
+      "count": 142,
+      "size": 372928
+    },
+    {
+      "slug": "classic",
+      "name": "Classic",
+      "filename": "classic-games.json",
+      "count": 92,
+      "size": 243842
+    },
+    {
+      "slug": "simulation",
+      "name": "Simulation",
+      "filename": "simulation-games.json",
+      "count": 85,
+      "size": 228779
+    },
+    {
+      "slug": "mouse",
+      "name": "Mouse",
+      "filename": "mouse-games.json",
+      "count": 85,
+      "size": 228379
+    },
+    {
+      "slug": "cool-games",
+      "name": "Cool-games",
+      "filename": "cool-games-games.json",
+      "count": 77,
+      "size": 195133
+    },
+    {
+      "slug": "3d",
+      "name": "3d",
+      "filename": "3d-games.json",
+      "count": 76,
+      "size": 205381
+    },
+    {
+      "slug": "popular",
+      "name": "Popular",
+      "filename": "popular-games.json",
+      "count": 74,
+      "size": 190638
+    },
+    {
+      "slug": "logic",
+      "name": "Logic",
+      "filename": "logic-games.json",
+      "count": 74,
+      "size": 192674
+    },
+    {
+      "slug": "funny",
+      "name": "Funny",
+      "filename": "funny-games.json",
+      "count": 63,
+      "size": 166174
+    },
+    {
+      "slug": "platform",
+      "name": "Platform",
+      "filename": "platform-games.json",
+      "count": 62,
+      "size": 159854
+    },
+    {
+      "slug": "matching",
+      "name": "Matching",
+      "filename": "matching-games.json",
+      "count": 54,
+      "size": 139569
+    },
+    {
+      "slug": "multiplayer",
+      "name": "Multiplayer",
+      "filename": "multiplayer-games.json",
+      "count": 53,
+      "size": 150211
+    },
+    {
+      "slug": "kids",
+      "name": "Kids",
+      "filename": "kids-games.json",
+      "count": 49,
+      "size": 128268
+    },
+    {
+      "slug": "survival",
+      "name": "Survival",
+      "filename": "survival-games.json",
+      "count": 49,
+      "size": 132977
+    },
+    {
+      "slug": "animals",
+      "name": "Animals",
+      "filename": "animals-games.json",
+      "count": 47,
+      "size": 120781
+    },
+    {
+      "slug": "shooting",
+      "name": "Shooting",
+      "filename": "shooting-games.json",
+      "count": 46,
+      "size": 122790
+    },
+    {
+      "slug": "color",
+      "name": "Color",
+      "filename": "color-games.json",
+      "count": 42,
+      "size": 106480
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "filename": "physics-games.json",
+      "count": 40,
+      "size": 105737
+    },
+    {
+      "slug": "blocks",
+      "name": "Blocks",
+      "filename": "blocks-games.json",
+      "count": 40,
+      "size": 103210
+    },
+    {
+      "slug": "pve",
+      "name": "Pve",
+      "filename": "pve-games.json",
+      "count": 39,
+      "size": 101147
+    },
+    {
+      "slug": "driving",
+      "name": "Driving",
+      "filename": "driving-games.json",
+      "count": 38,
+      "size": 100943
+    },
+    {
+      "slug": "racing",
+      "name": "Racing",
+      "filename": "racing-games.json",
+      "count": 36,
+      "size": 92043
+    },
+    {
+      "slug": "story",
+      "name": "Story",
+      "filename": "story-games.json",
+      "count": 36,
+      "size": 101744
+    },
+    {
+      "slug": "car",
+      "name": "Car",
+      "filename": "car-games.json",
+      "count": 35,
+      "size": 93834
+    },
+    {
+      "slug": "running",
+      "name": "Running",
+      "filename": "running-games.json",
+      "count": 34,
+      "size": 87712
+    },
+    {
+      "slug": "merge",
+      "name": "Merge",
+      "filename": "merge-games.json",
+      "count": 31,
+      "size": 80376
+    },
+    {
+      "slug": "hidden-object",
+      "name": "Hidden-object",
+      "filename": "hidden-object-games.json",
+      "count": 29,
+      "size": 80317
+    },
+    {
+      "slug": "idle",
+      "name": "Idle",
+      "filename": "idle-games.json",
+      "count": 28,
+      "size": 72986
+    },
+    {
+      "slug": "escape",
+      "name": "Escape",
+      "filename": "escape-games.json",
+      "count": 28,
+      "size": 75328
+    },
+    {
+      "slug": "management",
+      "name": "Management",
+      "filename": "management-games.json",
+      "count": 26,
+      "size": 68088
+    },
+    {
+      "slug": "educational",
+      "name": "Educational",
+      "filename": "educational-games.json",
+      "count": 24,
+      "size": 65075
+    },
+    {
+      "slug": "girls",
+      "name": "Girls",
+      "filename": "girls-games.json",
+      "count": 22,
+      "size": 56467
+    },
+    {
+      "slug": "clicker",
+      "name": "Clicker",
+      "filename": "clicker-games.json",
+      "count": 21,
+      "size": 54540
+    },
+    {
+      "slug": "ball",
+      "name": "Ball",
+      "filename": "ball-games.json",
+      "count": 21,
+      "size": 54640
+    },
+    {
+      "slug": "maze",
+      "name": "Maze",
+      "filename": "maze-games.json",
+      "count": 20,
+      "size": 51377
+    },
+    {
+      "slug": "match-3",
+      "name": "Match-3",
+      "filename": "match-3-games.json",
+      "count": 20,
+      "size": 53458
+    },
+    {
+      "slug": "horror",
+      "name": "Horror",
+      "filename": "horror-games.json",
+      "count": 19,
+      "size": 52207
+    },
+    {
+      "slug": "zombie",
+      "name": "Zombie",
+      "filename": "zombie-games.json",
+      "count": 19,
+      "size": 49934
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "filename": "sports-games.json",
+      "count": 18,
+      "size": 48560
+    },
+    {
+      "slug": "point-and-click",
+      "name": "Point-and-click",
+      "filename": "point-and-click-games.json",
+      "count": 18,
+      "size": 49226
+    },
+    {
+      "slug": "mini",
+      "name": "Mini",
+      "filename": "mini-games.json",
+      "count": 16,
+      "size": 41442
+    },
+    {
+      "slug": "gun",
+      "name": "Gun",
+      "filename": "gun-games.json",
+      "count": 16,
+      "size": 42925
+    },
+    {
+      "slug": "tower-defense",
+      "name": "Tower-defense",
+      "filename": "tower-defense-games.json",
+      "count": 16,
+      "size": 40506
+    },
+    {
+      "slug": "car-racing",
+      "name": "Car-racing",
+      "filename": "car-racing-games.json",
+      "count": 16,
+      "size": 43002
+    },
+    {
+      "slug": "board",
+      "name": "Board",
+      "filename": "board-games.json",
+      "count": 16,
+      "size": 48651
+    },
+    {
+      "slug": "number",
+      "name": "Number",
+      "filename": "number-games.json",
+      "count": 15,
+      "size": 39675
+    },
+    {
+      "slug": "pvp",
+      "name": "Pvp",
+      "filename": "pvp-games.json",
+      "count": 15,
+      "size": 43903
+    },
+    {
+      "slug": "tycoon",
+      "name": "Tycoon",
+      "filename": "tycoon-games.json",
+      "count": 15,
+      "size": 41681
+    },
+    {
+      "slug": "cards",
+      "name": "Cards",
+      "filename": "cards-games.json",
+      "count": 15,
+      "size": 42711
+    },
+    {
+      "slug": "dress-up",
+      "name": "Dress-up",
+      "filename": "dress-up-games.json",
+      "count": 14,
+      "size": 37060
+    },
+    {
+      "slug": "drawing",
+      "name": "Drawing",
+      "filename": "drawing-games.json",
+      "count": 14,
+      "size": 33476
+    },
+    {
+      "slug": "halloween",
+      "name": "Halloween",
+      "filename": "halloween-games.json",
+      "count": 14,
+      "size": 36422
+    },
+    {
+      "slug": "fashion",
+      "name": "Fashion",
+      "filename": "fashion-games.json",
+      "count": 13,
+      "size": 33737
+    },
+    {
+      "slug": "first-person-shooter",
+      "name": "First-person-shooter",
+      "filename": "first-person-shooter-games.json",
+      "count": 13,
+      "size": 34084
+    },
+    {
+      "slug": "stickman",
+      "name": "Stickman",
+      "filename": "stickman-games.json",
+      "count": 13,
+      "size": 32826
+    },
+    {
+      "slug": "obby",
+      "name": "Obby",
+      "filename": "obby-games.json",
+      "count": 13,
+      "size": 34241
+    },
+    {
+      "slug": "rpg",
+      "name": "Rpg",
+      "filename": "rpg-games.json",
+      "count": 12,
+      "size": 31667
+    },
+    {
+      "slug": "magic",
+      "name": "Magic",
+      "filename": "magic-games.json",
+      "count": 12,
+      "size": 29985
+    },
+    {
+      "slug": "monster",
+      "name": "Monster",
+      "filename": "monster-games.json",
+      "count": 11,
+      "size": 25932
+    },
+    {
+      "slug": "scary",
+      "name": "Scary",
+      "filename": "scary-games.json",
+      "count": 11,
+      "size": 28107
+    },
+    {
+      "slug": "two-player",
+      "name": "Two-player",
+      "filename": "two-player-games.json",
+      "count": 11,
+      "size": 32927
+    },
+    {
+      "slug": "crafting",
+      "name": "Crafting",
+      "filename": "crafting-games.json",
+      "count": 11,
+      "size": 31674
+    },
+    {
+      "slug": "app-store",
+      "name": "App-store",
+      "filename": "app-store-games.json",
+      "count": 11,
+      "size": 28918
+    },
+    {
+      "slug": "war",
+      "name": "War",
+      "filename": "war-games.json",
+      "count": 11,
+      "size": 28488
+    },
+    {
+      "slug": "make-up",
+      "name": "Make-up",
+      "filename": "make-up-games.json",
+      "count": 10,
+      "size": 25741
+    },
+    {
+      "slug": "ragdoll",
+      "name": "Ragdoll",
+      "filename": "ragdoll-games.json",
+      "count": 10,
+      "size": 26744
+    },
+    {
+      "slug": "food",
+      "name": "Food",
+      "filename": "food-games.json",
+      "count": 10,
+      "size": 26253
+    },
+    {
+      "slug": "cats",
+      "name": "Cats",
+      "filename": "cats-games.json",
+      "count": 10,
+      "size": 28573
+    },
+    {
+      "slug": "quiz",
+      "name": "Quiz",
+      "filename": "quiz-games.json",
+      "count": 10,
+      "size": 26396
+    },
+    {
+      "slug": "decoration",
+      "name": "Decoration",
+      "filename": "decoration-games.json",
+      "count": 9,
+      "size": 25849
+    },
+    {
+      "slug": "boys",
+      "name": "Boys",
+      "filename": "boys-games.json",
+      "count": 9,
+      "size": 23317
+    },
+    {
+      "slug": "music",
+      "name": "Music",
+      "filename": "music-games.json",
+      "count": 9,
+      "size": 22921
+    },
+    {
+      "slug": "words",
+      "name": "Words",
+      "filename": "words-games.json",
+      "count": 9,
+      "size": 24942
+    },
+    {
+      "slug": "cozy",
+      "name": "Cozy",
+      "filename": "cozy-games.json",
+      "count": 8,
+      "size": 20005
+    },
+    {
+      "slug": "parkour",
+      "name": "Parkour",
+      "filename": "parkour-games.json",
+      "count": 8,
+      "size": 21097
+    },
+    {
+      "slug": "crazy-games",
+      "name": "Crazy-games",
+      "filename": "crazy-games-games.json",
+      "count": 8,
+      "size": 19431
+    },
+    {
+      "slug": "army",
+      "name": "Army",
+      "filename": "army-games.json",
+      "count": 8,
+      "size": 22938
+    },
+    {
+      "slug": "space",
+      "name": "Space",
+      "filename": "space-games.json",
+      "count": 8,
+      "size": 20908
+    },
+    {
+      "slug": "construction",
+      "name": "Construction",
+      "filename": "construction-games.json",
+      "count": 8,
+      "size": 21823
+    },
+    {
+      "slug": "battleship",
+      "name": "Battleship",
+      "filename": "battleship-games.json",
+      "count": 8,
+      "size": 21122
+    },
+    {
+      "slug": "make-over",
+      "name": "Make-over",
+      "filename": "make-over-games.json",
+      "count": 7,
+      "size": 17645
+    },
+    {
+      "slug": "math",
+      "name": "Math",
+      "filename": "math-games.json",
+      "count": 7,
+      "size": 19440
+    },
+    {
+      "slug": "retro",
+      "name": "Retro",
+      "filename": "retro-games.json",
+      "count": 7,
+      "size": 19092
+    },
+    {
+      "slug": "bubble-shooter",
+      "name": "Bubble-shooter",
+      "filename": "bubble-shooter-games.json",
+      "count": 7,
+      "size": 18664
+    },
+    {
+      "slug": "difficult",
+      "name": "Difficult",
+      "filename": "difficult-games.json",
+      "count": 7,
+      "size": 18614
+    },
+    {
+      "slug": "solitaire",
+      "name": "Solitaire",
+      "filename": "solitaire-games.json",
+      "count": 7,
+      "size": 19801
+    },
+    {
+      "slug": "snake",
+      "name": "Snake",
+      "filename": "snake-games.json",
+      "count": 6,
+      "size": 14075
+    },
+    {
+      "slug": "pixel-art",
+      "name": "Pixel-art",
+      "filename": "pixel-art-games.json",
+      "count": 6,
+      "size": 13361
+    },
+    {
+      "slug": "intelligence",
+      "name": "Intelligence",
+      "filename": "intelligence-games.json",
+      "count": 6,
+      "size": 19074
+    },
+    {
+      "slug": "parking",
+      "name": "Parking",
+      "filename": "parking-games.json",
+      "count": 6,
+      "size": 15553
+    },
+    {
+      "slug": "io",
+      "name": "Io",
+      "filename": "io-games.json",
+      "count": 5,
+      "size": 12915
+    },
+    {
+      "slug": "candy-crush",
+      "name": "Candy-crush",
+      "filename": "candy-crush-games.json",
+      "count": 5,
+      "size": 13433
+    },
+    {
+      "slug": "minecraft",
+      "name": "Minecraft",
+      "filename": "minecraft-games.json",
+      "count": 5,
+      "size": 13507
+    },
+    {
+      "slug": "easy",
+      "name": "Easy",
+      "filename": "easy-games.json",
+      "count": 5,
+      "size": 11765
+    },
+    {
+      "slug": "archery",
+      "name": "Archery",
+      "filename": "archery-games.json",
+      "count": 5,
+      "size": 15667
+    },
+    {
+      "slug": "bubble",
+      "name": "Bubble",
+      "filename": "bubble-games.json",
+      "count": 5,
+      "size": 11237
+    },
+    {
+      "slug": "drifting",
+      "name": "Drifting",
+      "filename": "drifting-games.json",
+      "count": 4,
+      "size": 11019
+    },
+    {
+      "slug": "cooking",
+      "name": "Cooking",
+      "filename": "cooking-games.json",
+      "count": 4,
+      "size": 9282
+    },
+    {
+      "slug": "love",
+      "name": "Love",
+      "filename": "love-games.json",
+      "count": 4,
+      "size": 10241
+    },
+    {
+      "slug": "unity",
+      "name": "Unity",
+      "filename": "unity-games.json",
+      "count": 4,
+      "size": 10817
+    },
+    {
+      "slug": "basketball",
+      "name": "Basketball",
+      "filename": "basketball-games.json",
+      "count": 4,
+      "size": 10412
+    },
+    {
+      "slug": "bus",
+      "name": "Bus",
+      "filename": "bus-games.json",
+      "count": 4,
+      "size": 10082
+    },
+    {
+      "slug": "ghost",
+      "name": "Ghost",
+      "filename": "ghost-games.json",
+      "count": 4,
+      "size": 9883
+    },
+    {
+      "slug": "mahjong",
+      "name": "Mahjong",
+      "filename": "mahjong-games.json",
+      "count": 4,
+      "size": 10931
+    },
+    {
+      "slug": "trivia",
+      "name": "Trivia",
+      "filename": "trivia-games.json",
+      "count": 4,
+      "size": 10887
+    },
+    {
+      "slug": "flying",
+      "name": "Flying",
+      "filename": "flying-games.json",
+      "count": 4,
+      "size": 9675
+    },
+    {
+      "slug": "scrabble",
+      "name": "Scrabble",
+      "filename": "scrabble-games.json",
+      "count": 4,
+      "size": 10488
+    },
+    {
+      "slug": "ninja",
+      "name": "Ninja",
+      "filename": "ninja-games.json",
+      "count": 4,
+      "size": 9568
+    },
+    {
+      "slug": "princess-dress-up",
+      "name": "Princess-dress-up",
+      "filename": "princess-dress-up-games.json",
+      "count": 3,
+      "size": 7669
+    },
+    {
+      "slug": "dirt-bike",
+      "name": "Dirt-bike",
+      "filename": "dirt-bike-games.json",
+      "count": 3,
+      "size": 7582
+    },
+    {
+      "slug": "fighting",
+      "name": "Fighting",
+      "filename": "fighting-games.json",
+      "count": 3,
+      "size": 7852
+    },
+    {
+      "slug": "train",
+      "name": "Train",
+      "filename": "train-games.json",
+      "count": 3,
+      "size": 8686
+    },
+    {
+      "slug": "battle-royale",
+      "name": "Battle-royale",
+      "filename": "battle-royale-games.json",
+      "count": 3,
+      "size": 11850
+    },
+    {
+      "slug": "tanks",
+      "name": "Tanks",
+      "filename": "tanks-games.json",
+      "count": 3,
+      "size": 7994
+    },
+    {
+      "slug": "co-op",
+      "name": "Co-op",
+      "filename": "co-op-games.json",
+      "count": 3,
+      "size": 7885
+    },
+    {
+      "slug": "checkers",
+      "name": "Checkers",
+      "filename": "checkers-games.json",
+      "count": 3,
+      "size": 11793
+    },
+    {
+      "slug": "winter",
+      "name": "Winter",
+      "filename": "winter-games.json",
+      "count": 3,
+      "size": 9481
+    },
+    {
+      "slug": "pirates",
+      "name": "Pirates",
+      "filename": "pirates-games.json",
+      "count": 3,
+      "size": 7581
+    },
+    {
+      "slug": "soccer",
+      "name": "Soccer",
+      "filename": "soccer-games.json",
+      "count": 3,
+      "size": 8597
+    },
+    {
+      "slug": "airplane",
+      "name": "Airplane",
+      "filename": "airplane-games.json",
+      "count": 3,
+      "size": 6930
+    },
+    {
+      "slug": "farm",
+      "name": "Farm",
+      "filename": "farm-games.json",
+      "count": 3,
+      "size": 8928
+    },
+    {
+      "slug": "anime",
+      "name": "Anime",
+      "filename": "anime-games.json",
+      "count": 3,
+      "size": 7022
+    },
+    {
+      "slug": "motorbike",
+      "name": "Motorbike",
+      "filename": "motorbike-games.json",
+      "count": 2,
+      "size": 5396
+    },
+    {
+      "slug": "sniper",
+      "name": "Sniper",
+      "filename": "sniper-games.json",
+      "count": 2,
+      "size": 5181
+    },
+    {
+      "slug": "hunting",
+      "name": "Hunting",
+      "filename": "hunting-games.json",
+      "count": 2,
+      "size": 4803
+    },
+    {
+      "slug": "police",
+      "name": "Police",
+      "filename": "police-games.json",
+      "count": 2,
+      "size": 5453
+    },
+    {
+      "slug": "chess",
+      "name": "Chess",
+      "filename": "chess-games.json",
+      "count": 2,
+      "size": 8046
+    },
+    {
+      "slug": "bike",
+      "name": "Bike",
+      "filename": "bike-games.json",
+      "count": 2,
+      "size": 4868
+    },
+    {
+      "slug": "robot",
+      "name": "Robot",
+      "filename": "robot-games.json",
+      "count": 2,
+      "size": 4896
+    },
+    {
+      "slug": "penalty",
+      "name": "Penalty",
+      "filename": "penalty-games.json",
+      "count": 2,
+      "size": 5233
+    },
+    {
+      "slug": "henry-stickmin",
+      "name": "Henry-stickmin",
+      "filename": "henry-stickmin-games.json",
+      "count": 2,
+      "size": 5150
+    },
+    {
+      "slug": "easter",
+      "name": "Easter",
+      "filename": "easter-games.json",
+      "count": 2,
+      "size": 4115
+    },
+    {
+      "slug": "pool",
+      "name": "Pool",
+      "filename": "pool-games.json",
+      "count": 2,
+      "size": 5670
+    },
+    {
+      "slug": "gta",
+      "name": "Gta",
+      "filename": "gta-games.json",
+      "count": 2,
+      "size": 4903
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "filename": "geography-games.json",
+      "count": 2,
+      "size": 6163
+    },
+    {
+      "slug": "hair",
+      "name": "Hair",
+      "filename": "hair-games.json",
+      "count": 2,
+      "size": 4826
+    },
+    {
+      "slug": "sudoku",
+      "name": "Sudoku",
+      "filename": "sudoku-games.json",
+      "count": 2,
+      "size": 6130
+    },
+    {
+      "slug": "shopping",
+      "name": "Shopping",
+      "filename": "shopping-games.json",
+      "count": 2,
+      "size": 5323
+    },
+    {
+      "slug": "princess",
+      "name": "Princess",
+      "filename": "princess-games.json",
+      "count": 2,
+      "size": 4593
+    },
+    {
+      "slug": "wrestling",
+      "name": "Wrestling",
+      "filename": "wrestling-games.json",
+      "count": 2,
+      "size": 4429
+    },
+    {
+      "slug": "pop-it",
+      "name": "Pop-it",
+      "filename": "pop-it-games.json",
+      "count": 2,
+      "size": 4622
+    },
+    {
+      "slug": "papas",
+      "name": "Papas",
+      "filename": "papas-games.json",
+      "count": 1,
+      "size": 2432
+    },
+    {
+      "slug": "restaurant",
+      "name": "Restaurant",
+      "filename": "restaurant-games.json",
+      "count": 1,
+      "size": 2139
+    },
+    {
+      "slug": "nitrome",
+      "name": "Nitrome",
+      "filename": "nitrome-games.json",
+      "count": 1,
+      "size": 2414
+    },
+    {
+      "slug": "boat",
+      "name": "Boat",
+      "filename": "boat-games.json",
+      "count": 1,
+      "size": 2001
+    },
+    {
+      "slug": "world-cup",
+      "name": "World-cup",
+      "filename": "world-cup-games.json",
+      "count": 1,
+      "size": 3664
+    },
+    {
+      "slug": "watermelon",
+      "name": "Watermelon",
+      "filename": "watermelon-games.json",
+      "count": 1,
+      "size": 2309
+    },
+    {
+      "slug": "megaspel",
+      "name": "Megaspel",
+      "filename": "megaspel-games.json",
+      "count": 1,
+      "size": 2640
+    },
+    {
+      "slug": "dog",
+      "name": "Dog",
+      "filename": "dog-games.json",
+      "count": 1,
+      "size": 2164
+    },
+    {
+      "slug": "party",
+      "name": "Party",
+      "filename": "party-games.json",
+      "count": 1,
+      "size": 2428
+    },
+    {
+      "slug": "pizza",
+      "name": "Pizza",
+      "filename": "pizza-games.json",
+      "count": 1,
+      "size": 2259
+    },
+    {
+      "slug": "backgammon",
+      "name": "Backgammon",
+      "filename": "backgammon-games.json",
+      "count": 1,
+      "size": 2177
+    },
+    {
+      "slug": "flash",
+      "name": "Flash",
+      "filename": "flash-games.json",
+      "count": 1,
+      "size": 2352
+    },
+    {
+      "slug": "horse",
+      "name": "Horse",
+      "filename": "horse-games.json",
+      "count": 1,
+      "size": 2494
+    },
+    {
+      "slug": "dragon",
+      "name": "Dragon",
+      "filename": "dragon-games.json",
+      "count": 1,
+      "size": 2206
+    },
+    {
+      "slug": "wolf",
+      "name": "Wolf",
+      "filename": "wolf-games.json",
+      "count": 1,
+      "size": 3192
+    },
+    {
+      "slug": "mini-golf",
+      "name": "Mini-golf",
+      "filename": "mini-golf-games.json",
+      "count": 1,
+      "size": 3429
+    },
+    {
+      "slug": "fishing",
+      "name": "Fishing",
+      "filename": "fishing-games.json",
+      "count": 1,
+      "size": 2574
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas",
+      "filename": "christmas-games.json",
+      "count": 1,
+      "size": 2838
+    },
+    {
+      "slug": "hangman",
+      "name": "Hangman",
+      "filename": "hangman-games.json",
+      "count": 1,
+      "size": 2836
+    },
+    {
+      "slug": "slime",
+      "name": "Slime",
+      "filename": "slime-games.json",
+      "count": 1,
+      "size": 2318
+    }
+  ]
+}
